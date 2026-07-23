@@ -1,0 +1,19 @@
+# Rationale of the Study
+
+As the event industry demands evolve, so does the need for a space that can cater to multiple functions efficiently and seamlessly (Ike et al., 2023). The Calbayog City Convention Center primarily functions as a multi-purpose exhibition center rather than a venue solely dedicated to meetings and conferences. It can accommodate events such as trade fairs, weddings, exhibitions, and cultural performances. However, its current design lacks flexibility, modularity, and modern infrastructure. This limits its ability to efficiently adapt to different events. Event centers are spaces for cultural and social events, and therefore attract a diverse range of people (Ayuba & Agah, 2018). Hence, there is a need for flexibility within the space.
+
+---
+
+Calbayog City is actively pursuing eco-tourism as a key driver of development and sustainability. However, as Roa and Lagamon (2018) noted, there are growing concerns regarding the preservation of Samar’s historical and cultural resources. The study points out that inadequate preservation efforts and a lack of proper restoration measures have endangered valuable cultural artifacts. Adding to this challenge is the limited awareness among locals about their cultural heritage, which further weakens the connection between the community and its identity. Given this context, the integration of culturally responsive design becomes essential. By embedding cultural narratives, values, and practices into interior spaces, design can serve as a powerful tool for cultural preservation and education.
+
+---
+
+Future-proof design is a critical aspect for this study. The evolving nature of event spaces necessitates a design that can adapt to technological advancements, shifting event trends, and changing user demands. By implementing reconfigurable layouts, and adaptable spatial layouts that can accommodate a wide range of event types, the convention center will not only remain functional and competitive for years to come but also ensure long-term sustainability. Additionally, the integration of adaptable ceiling features, such as motorized truss hoists and flexible truss systems, will contribute to an event space that is not only flexible but also forward-thinking and user-friendly.
+
+---
+
+This study is driven by the necessity to enhance the adaptability, cultural relevance, and long-term usability of the Calbayog City Convention Center. Modern exhibition centers now incorporate modular design strategies, customizable spatial configurations, and interactive elements to maximize functionality (Ike et al., 2023). Furthermore, this study recognizes the importance of cultural identity in interior spaces. While the convention center primarily functions as a neutral, rentable venue, subtle cultural integration can enhance its identity without restricting usability. A well-designed space that reflects elements of Calbayog City’s cultural heritage can create a stronger sense of place while remaining versatile for multiple events (Fakharany, 2025).
+
+---
+
+Ultimately, this study aims to develop a series of modular interior typologies and layout standards that respond to the diverse functional demands of the Calbayog City Convention Center, which will improve the Calbayog City Convention Center’s efficiency, adaptability, and cultural relevance. Additionally, the inclusion of adaptable ceiling systems, such as motorized truss hoists and flexible truss systems, will support a wide range of event setups, further enhancing the center’s versatility. By embedding elements of Calbayog City’s cultural heritage, the design will not only improve functionality but also foster a stronger sense of place, connecting the center to its community. Moreover, sustainable design principles will be incorporated to minimize environmental impact, ensuring that the space remains relevant, functional, and efficient for years to come.
