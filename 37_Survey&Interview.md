@@ -145,7 +145,7 @@ Please complete the general information section and rate each statement based on
 # PART 3: FORM B — QUANTITATIVE SURVEY QUESTIONNAIRE FOR EVENT ATTENDEES AND GENERAL PUBLIC
 
 **Target Respondents**: Event-Goers, Local Residents, Community Members, and Visitors ($n = 100 \text{ to } 120$).  
-**Benchmark Adaptation**: Adapted from **An, Kim, & Hur (2021)** (*MICE Venue Experience*) and **Pembegül (2009)** (*Meeting Facility User Perception*).  
+**Theoretical Benchmark**: Synthesized from **An, Kim, & Hur (2021)** (*MICE Venue Experience*) and **Pembegül (2009)** (*Meeting Facility User Perception*).  
 
 ### Instructions:
 Please rate your experience and preferences regarding the interior environment of the Calbayog City Convention Center’s Main Hall using the 5-point Likert scale below:
@@ -283,7 +283,7 @@ Please rate your experience and preferences regarding the interior environment o
 
 ---
 
-### ARCHITECTURAL OBSERVATION CHECKLIST
+### OBSERVATION CHECKLIST
 
 | Observation Category | Specific Spatial Parameters to Record | Field Observations & Notes |
 | :--- | :--- | :--- |
