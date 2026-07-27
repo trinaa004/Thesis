@@ -6,7 +6,7 @@ This study employs an established design synthesis approach (Archer, 1995; Groat
 
 ---
 The quantitative phase establishes spatial efficiency, occupant capacity, empirical user preferences, and physical clearance parameters derived from venue surveys, international ergonomic standards, spatial planning metrics, and local regulatory mandates. 
-1. **Empirical Venue & User Perception Survey**: Distribution of a structured survey questionnaire adapted from benchmark MICE venue studies (An, Kim, & Hur, 2021; Pembegül, 2009) to 60–80 target respondents (event planners and venue attendees) to quantify existing spatial bottlenecks, layout turnaround challenges, and preferences for modular FF&E adaptability.
+1. **Empirical Venue & User Perception Survey**: Distribution of a structured survey questionnaire adapted from benchmark MICE venue studies (An, Kim, & Hur, 2021; Pembegül, 2009) to 115–145 target respondents (comprising a specialized expert sample of 15–25 event planners/operators and a representative public sample of 100–120 venue attendees) to quantify existing spatial bottlenecks, layout turnaround challenges, and preferences for modular FF&E adaptability.
 2. **Dimensional & Envelope Mapping**: Mathematical evaluation of the 840 square meter Main Hall interior footprint, establishing baseline circulation patterns, entrance/egress capacities, and spatial boundary constraints.
 3. **Anthropometric Clearance Calculations**: Rigorous application of static and dynamic anthropometric standards (Panero & Zelnik, 1979; Neufert, 2012) to calculate:
    * *Theater (Plenary) Typology*: Seat pitch (900 mm / 35.4 in), clear seat passage (305 mm / 12 in), and vertical sightline offsets (C-values of 60 mm for staggered layouts and 120 mm for un-staggered layouts).
