@@ -2,21 +2,22 @@
 
 A research design serves as the overarching operational framework that connects research questions to the methodology and analytical strategies executed throughout a study (Creswell & Creswell, 2018; Groat & Wang, 2013). This study adopts an **Applied Design Research & Multi-Phase Spatial Synthesis Framework**, integrating quantitative ergonomic/dimensional modeling with qualitative cultural design abstraction to formulate a site-specific, non-structural interior design framework for the 840 square meter Main Hall of the Calbayog City Convention Center.
 
-Rather than relying on empirical human-subject surveys or post-occupancy interviews, this study employs an established design synthesis approach (Archer, 1995; Groat & Wang, 2013). The research methodology systematically addresses the study's five core objectives through three interconnected operational phases.
+This study employs an established design synthesis approach (Archer, 1995; Groat & Wang, 2013). The research methodology systematically addresses the study's five core objectives through three interconnected operational phases.
 
 ---
-The quantitative phase establishes spatial efficiency, occupant capacity, and physical clearance parameters derived from international ergonomic standards, spatial planning metrics, and local regulatory mandates. 
-1. **Dimensional & Envelope Mapping**: Mathematical evaluation of the 840 square meter Main Hall interior footprint, establishing baseline circulation patterns, entrance/egress capacities, and spatial boundary constraints.
-2. **Anthropometric Clearance Calculations**: Rigorous application of static and dynamic anthropometric standards (Panero & Zelnik, 1979; Neufert, 2012) to calculate:
+The quantitative phase establishes spatial efficiency, occupant capacity, empirical user preferences, and physical clearance parameters derived from venue surveys, international ergonomic standards, spatial planning metrics, and local regulatory mandates. 
+1. **Empirical Venue & User Perception Survey**: Distribution of a structured survey questionnaire adapted from benchmark MICE venue studies (An, Kim, & Hur, 2021; Pembegül, 2009) to 60–80 target respondents (event planners and venue attendees) to quantify existing spatial bottlenecks, layout turnaround challenges, and preferences for modular FF&E adaptability.
+2. **Dimensional & Envelope Mapping**: Mathematical evaluation of the 840 square meter Main Hall interior footprint, establishing baseline circulation patterns, entrance/egress capacities, and spatial boundary constraints.
+3. **Anthropometric Clearance Calculations**: Rigorous application of static and dynamic anthropometric standards (Panero & Zelnik, 1979; Neufert, 2012) to calculate:
    * *Theater (Plenary) Typology*: Seat pitch (900 mm / 35.4 in), clear seat passage (305 mm / 12 in), and vertical sightline offsets (C-values of 60 mm for staggered layouts and 120 mm for un-staggered layouts).
    * *Classroom (Lecture) Typology*: Writing desk surface height (740–760 mm), chair clearance depth (450–500 mm), and service corridor clearance (400–450 mm).
    * *Banquet (Social/Dining) Typology*: 10-person round table circular footprints (3200–3500 mm) and table-to-table service lane clearances (1620–1800 mm).
    * *Exhibition Typology*: Bi-directional multi-lane pedestrian circulation corridors in shoulder-width multiples (750–900 mm single-file, 1500–1800 mm two-person passing, 2400 mm crowd capacity).
-3. **Universal Accessibility Compliance**: Integration of Batas Pambansa Bilang 344 (BP 344) and ADA Standards for Accessible Design (2010), verifying wheelchair clear paths (1200 mm), turning radii (1500 mm), and integrated wheelchair assembly seating stalls (760 mm x 1220 mm).
+4. **Universal Accessibility Compliance**: Integration of Batas Pambansa Bilang 344 (BP 344) and ADA Standards for Accessible Design (2010), verifying wheelchair clear paths (1200 mm), turning radii (1500 mm), and integrated wheelchair assembly seating stalls (760 mm x 1220 mm).
 
 ---
 The qualitative phase investigates how regional Samar heritage can be woven into interior surface treatments to cultivate a distinct sense of place without hindering layout reconfigurability. Drawing on established indigenous pattern abstraction methodologies (Wagas, 2016; Baradas, 1968; Del Monte, 2021), this phase comprises:
-1. **Heritage & Material Vocabulary Analysis**: Documentation of traditional Samar *banig* (mat) weaving practices, *tikog* grass textures, regional Waray geometric motifs, and   (Garado et al., 2026; Del Monte et al., 2022).
+1. **Heritage & Material Vocabulary Analysis**: Documentation of traditional Samar *banig* (mat) weaving practices, *tikog* grass textures, regional Waray geometric motifs, and and Calbayog’s cascading waterfall imagery—abstracting these elements into a non-structural interior pattern matrix (Garado et al., 2026; Del Monte et al., 2022).
 2. **Systematic Pattern Language Abstraction**: Abstracting traditional motif geometries into a digital pattern matrix, converting cultural symbols into reproducible surface datasets for permanent and semi-permanent application across wall panels, floor finishes, and acoustic ceiling overlays.
 3. **Non-Structural Surface Application**: Defining material and spatial parameters for integrating abstracted motifs into acoustic wall panels and floor zoning boundaries while maintaining smooth, reconfigurable floor transitions.
 
