@@ -1,6 +1,6 @@
 # RESEARCH INSTRUMENTS: CALBAYOG CITY CONVENTION CENTER INTERIOR DESIGN FRAMEWORK
 
-**Study Title**: Formulating a Site-Specific Non-Structural Interior Design Framework for the Calbayog City Convention Center’s 840 Square Meter Main Hall  
+
 **Principal Investigator**: [Researcher Name]  
 **Degree Program**: Bachelor of Science in Interior Design / Master of Science in Interior Design  
 **Institutional Affiliation**: [College / University Name]  
