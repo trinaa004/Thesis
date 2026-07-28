@@ -17,7 +17,7 @@ This study aims to develop a site-specific interior design framework consisting 
 
 * Evaluate the existing layout configurations, user circulation, and material conditions of the Calbayog City Convention Center's interior spaces. 
 * Formulate modular furniture layouts and interior zoning strategies that maximize spatial capacity and configuration speed. 
-* Synthesize culturally-responsive design elements, inspired by the traditions of Calbayog and the Samar region, into the space's permanent and semi-permanent interior surfaces. 
+* Synthesize culturally-responsive design elements—integrating traditional Samar banig weaving heritage and Calbayog's natural waterfall motifs—into the space's permanent and semi-permanent interior surfaces. 
 * Propose an adaptable overhead system, combining modular acoustic ceiling finishes with a flexible track and rigging framework, to facilitate quick transformations in mood, lighting, and interior draping. 
 * Apply future-proof interior specifications regarding smart technologies, acoustics, and sustainable materials to maintain long-term relevance. 
 

@@ -83,7 +83,7 @@ Please complete the general information section and rate each statement based on
 | Statement | 1 (SD) | 2 (D) | 3 (N) | 4 (A) | 5 (SA) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | B1. The current 840 sqm Main Hall interior footprint lacks spatial flexibility, making it difficult to execute rapid layout turnarounds between different event formats. | [ ] | [ ] | [ ] | [ ] | [ ] |
-| B2. Heavy, static furniture and rigid room boundaries significantly increase setup and teardown turnaround time for event organizers. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| B2. Setting up custom event layouts from scratch in the open hall takes a lot of time and labor for organizers. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | B3. Existing loading access, service aisles, and staff circulation corridors within the hall experience bottlenecks during event setup. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | B4. The current venue lacks adaptable spatial dividers to split the 840 sqm hall into smaller concurrent meeting zones. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | B5. Uncontrolled acoustic reverberation and echo within the hall impair sound clarity during speech-heavy conventions or musical performances. | [ ] | [ ] | [ ] | [ ] | [ ] |
@@ -96,7 +96,7 @@ Please complete the general information section and rate each statement based on
 | Statement | 1 (SD) | 2 (D) | 3 (N) | 4 (A) | 5 (SA) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | C1. Implementing demountable, mobile acoustic wall partitions would greatly enhance operational versatility for multi-scale events. | [ ] | [ ] | [ ] | [ ] | [ ] |
-| C2. Utilizing lightweight, stackable, and modular furniture (FF&E) will significantly reduce labor costs and setup turnaround times. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| C2. Establishing standardized interior zoning templates and flexible spatial pathways significantly accelerates layout turnaround speed for event planners. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | C3. Reconfigurable modular staging platforms that adjust in height and layout would improve visual sightlines for diverse performance formats. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | C4. Establishing pre-calculated anthropometric aisle clearances (e.g., 1620–1800 mm service lanes) improves server and staff mobility during banquet setups. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | C5. Standardized modular furniture clusters (e.g., 10-person round banquet sets, modular exhibition booths) simplify space planning for venue operators. | [ ] | [ ] | [ ] | [ ] | [ ] |
@@ -257,7 +257,7 @@ Please rate your experience and preferences regarding the interior environment o
 
 #### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1)
 1. What are the primary spatial and physical challenges you encounter when setting up or tearing down events in the 840 sqm Main Hall of the Calbayog City Convention Center?
-2. How long does a typical venue setup take for your events, and what specific furniture or interior limitations cause turnaround delays?
+2. How much time do you spend setting up events in the main hall, and what setup challenges slow you down?
 3. How do current acoustic reverberation and ambient lighting conditions affect event execution?
 
 #### Module 2: Spatial Modularity & Furniture Flexibility (SPOP Q2 & Q5)
