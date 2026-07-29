@@ -1,7 +1,7 @@
 Data Analysis
 The collected quantitative, qualitative, and architectural data will be analyzed using specialized analytical techniques:
 Quantitative Data Analysis
-Survey data will be encoded, cleaned, and analyzed using statistical software (MS Excel / SPSS). Descriptive statistics will be computed, including:
+Survey data will be encoded, cleaned, and analyzed using Microsoft Excel. Descriptive statistics will be computed, including:
 Frequencies and Percentages: To summarize respondent demographics, event frequency, and categorical preferences.
 Weighted Means and Standard Deviations: To interpret Likert-scale evaluations regarding spatial challenges, modular flexibility, ceiling track utility, and cultural material preferences.
 
