@@ -1,14 +1,14 @@
 # Chapter 1: Research Framework
 
 ## Statement of the Problem
-This study aims to investigate how the integration of modular, culturally-responsive, and future-proof interior design strategies can improve the flexibility, spatial efficiency, and cultural identity of the Calbayog City Convention Center’s interior. In doing so, this study seeks to answer the following key questions:
+This study aims to formulate a site-specific interior design framework for the Calbayog City Convention Center that harmonizes spatial modularity, local Samar heritage, and future-proof adaptability. 
+Specifically, the study focuses on the following sub-problems:
 
-1. What are the current spatial and operational challenges within the Calbayog City Convention Center’s interior envelope that hinder user experience and layout efficiency? 
-2. How can modular interior zoning and flexible FF&E (Furniture, Fixtures, and Equipment) configurations be applied to accommodate diverse event formats seamlessly? 
-3. In what ways can localized Samar heritage motifs and cultural elements be woven into interior surface treatments to cultivate a distinct sense of place without restricting space versatility? 
-4. How can the overhead ceiling plane be utilized to integrate adjustable spatial mechanisms and localized ambient controls for event setup efficiency? 
-5. What programmatic parameters are needed to establish an adaptable array of interior configurations while leaving room for user customization? 
-6. What interior material and technological specifications can future-proof the space against evolving functional demands? 
+1. What are the current spatial, operational, and acoustic challenges within the Main Hall of the Calbayog City Convention Center that hinder venue efficiency and attendee experience? 
+2. How can modular interior zoning, reconfigurable FF&E (Furniture, Fixtures, and Equipment), and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility compliance (BP 344/ADA)? 
+3. In what ways can localized Samar heritage motifs and cultural elements be woven into interior surface treatments to cultivate a distinct sense of place without restricting space versatility?  
+4. How can the overhead ceiling plane be utilized to integrate adaptable spatial mechanisms and ambient controls to enhance event setup efficiency and atmospheric versatility? 
+5. What interior material and technological specifications regarding smart technologies, acoustics, and sustainable materials can future-proof the space to maintain long-term relevance? 
 
 ---
 
@@ -40,8 +40,8 @@ The results of the study will benefit the following:
 The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the main interior hall of the Calbayog City Convention Center. Specifically, the study includes: 
 
 * Designing a standardized menu of repeatable interior layout templates (e.g., Plenary, Exhibition, and Banquet configurations) optimized for the specific square footage of the venue. 
-* Formulating ergonomic furniture density arrangements and mobile spatial dividers to maximize spatial efficiency and minimize setup/teardown turnaround times for event planners. 
-* Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns (such as Samat or Lara weaves) into permanent and semi-permanent interior surface planes (walls, floors, and ceiling finishes) to establish a distinct regional identity. 
+* Formulating ergonomic furniture density arrangements and loose FF&E layout clusters to maximize spatial efficiency and minimize setup/teardown turnaround times for event planners. 
+* Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns into upgraded perimeter acoustic drapery and ceiling acoustic overlays to establish a distinct regional identity. 
 * Proposing a non-structural overhead ceiling interface that layers modular acoustic finish tiles with an adjustable, conceptual interior track-and-rigging framework to facilitate dynamic alterations in ambient lighting and decorative drapery. 
 
 The spatial application of this framework is strictly limited to the interior envelope of the Main Convention Hall, encompassing a total floor area of 840 square meters. 

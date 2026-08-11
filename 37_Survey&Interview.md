@@ -109,11 +109,11 @@
 
 ---
 
-### SECTION C: MODULAR ZONING & FLEXIBLE FF&E PREFERENCES (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
-*Assesses preferences for demountable spatial dividers, stackable/reconfigurable seating modules, and convertible staging.* / *Pag-timbang san mga pinalabi ha mobile dividers ug reconfigurable seating.*
+### SECTION C: FLEXIBLE FF&E LAYOUT TYPOLOGIES & TURNAROUND EFFICIENCY (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
+*Assesses preferences for modular seating, standardized banquet/classroom clusters, and setup turnaround speed.* / *Pag-timbang san mga pinalabi ha reconfigurable seating ug kaabtik san setup.*
 
-**C1. Implementing demountable, mobile acoustic wall partitions would greatly enhance operational versatility for multi-scale events.**  
-*Waraynon: An pag-instalar san demountable, mobile acoustic wall partitions kay dako nga bulig para ha pamatadong ug kaabtik san lugar sa iba-iba nga okasyon.*
+**C1. Utilizing standardized, lightweight modular FF&E layouts (Plenary, Classroom, Banquet, Exhibition) significantly accelerates venue turnaround speed for multi-scale events.**  
+*Waraynon: An pag-gamit san standardized, lightweight modular FF&E layouts kay nagpapadali san turnaround ug pag-preparar san lugar sa iba-iba nga okasyon.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -181,8 +181,8 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D4. Utilizing locally inspired Waray geometric patterns as subtle floor zoning boundaries helps guide attendee flow during trade fairs and exhibitions.**  
-*Waraynon: An pag-gamit san mga Waray geometric patterns ha mga boundaries san sahig kay nakakabulig paggiya san agi-an san mga tawo ha exhibitions.*
+**D4. Abstracting Waray geometric patterns into upgraded perimeter acoustic drapery enhances regional civic identity while mitigating sound reflections across the perimeter glass walls.**  
+*Waraynon: An pag-upod san mga Waray geometric patterns ha acoustic curtains ha kuta nga salamin kay nagpapakilala san kultura ug nakakabawas san anino o echo san tunog.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -381,11 +381,11 @@
 
 ---
 
-### SECTION C: MODULAR ZONING & INTERIOR COMFORT PREFERENCES (SPOP Q2) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
-*Assesses preferences for comfortable seating layouts, clear aisle pathways, and adaptable spatial partitions.* / *Pagtimbang san mga layout ug ka-komportable san lingkuran ug agi-an.*
+### SECTION C: FLEXIBLE FF&E LAYOUTS & INTERIOR COMFORT PREFERENCES (SPOP Q2) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
+*Assesses preferences for comfortable seating layouts, clear aisle pathways, and layout flexibility.* / *Pagtimbang san mga layout ug ka-komportable san lingkuran ug agi-an.*
 
-**C1. Flexible room dividers that create smaller, intimate meeting spaces would enhance comfort during smaller community gatherings.**  
-*Waraynon: An mga mobile room dividers nga naghihimo san mas gudti nga lugar kay nakakahatag san ka-komportable ha mga gudti nga okasyon.*
+**C1. Reconfigurable furniture layouts tailored to specific event sizes enhance personal comfort and spatial flow for attendees.**  
+*Waraynon: An mga reconfigurable furniture layouts nga sakto ha ka-dako san okasyon kay nakakahatag san ka-komportable ha mga matambong.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -408,8 +408,8 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**C4. Clear visual signage and intuitive floor layout boundaries make wayfinding and emergency exit navigation easier.**  
-*Waraynon: An mga klares nga signage ug giya ha sahig kay nagpapadali san pagtultol san agi-an ug emergency exit.*
+**C4. Clear visual signage and intuitive aisle layouts make wayfinding and emergency exit navigation easier.**  
+*Waraynon: An mga klaro nga signage ug sakto nga agi-an kay nagpapadali san pagtultol san agi-an ug emergency exit.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -453,8 +453,8 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D4. Subtle Waray geometric motifs integrated into floor finishes help guide pedestrian movement during public exhibitions.**  
-*Waraynon: An mga Waray geometric motifs ha sahig kay nakakabulig paggiya san agi-an san mga tawo ha exhibitions.*
+**D4. Upgraded perimeter acoustic curtains featuring Waray geometric motifs create a welcoming cultural ambiance while controlling room echo.**  
+*Waraynon: An pag-gamit san bag-o nga acoustic curtains ha kuta nga may disenyo san Waray kay naghahatag san kultural nga ambyante ug nakakabawas san echo.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -579,8 +579,8 @@
    *Waraynon: Paunan-o nakaka-apekto an lanog (echo) ug suga ha yana nga pamalakad san mga okasyon?*
 
 #### Module 2: Spatial Modularity & Furniture Flexibility (SPOP Q2 & Q5) / KAABTIK SAN MUEBLES UG LUGAR
-4. **What types of modular furniture (FF&E), mobile partitions, or convertible staging systems would most dramatically improve your setup speed and spatial efficiency?**  
-   *Waraynon: Ano nga klase san mga bag-o nga muebles (FF&E), mobile partitions, o staging systems an nakakapadali san pag-preparar ug pagpaabtik san lugar?*
+4. **What types of modular furniture (FF&E), stackable seating modules, or convertible staging systems would most dramatically improve your setup speed and spatial efficiency?**  
+   *Waraynon: Ano nga klase san mga bag-o nga muebles (FF&E), stackable seating, o staging systems an nakakapadali san pag-preparar ug pagpaabtik san lugar?*
 5. **How would having standardized layout templates (e.g., Plenary, Classroom, Banquet, Exhibition) change your space planning workflow?**  
    *Waraynon: Paunan-o makakabulig an pagkamayda san ma-klares nga layout templates (Plenary, Classroom, Banquet, Exhibition) ha imo pagplano san lugar?*
 6. **What anthropometric clearance issues (e.g., aisle widths, server passage, seat spacing) do you frequently observe during large banquets or exhibitions?**  
@@ -593,8 +593,8 @@
    *Waraynon: Sa ano nga pamaagi makakabulig an motorized truss hoists para ha kaluwasan ug pagpapadako san lugar ha sahig ha mga dako nga okasyon?*
 
 #### Module 4: Cultural Heritage Expression & Sense of Place (SPOP Q3 & Q6) / DISENYO TIKANG HA KULTURA SAN SAMAR
-9. **How do you feel about integrating traditional Samar Basey *banig* mat weaving patterns, *tikog* grass textures, and Calbayog waterfall imagery into permanent wall, floor, and ceiling finishes?**  
-   *Waraynon: Ano an imo hunahuna ha pag-upod san mga disenyo tikang ha banig Basey, tikog, ug busay san Calbayog ha mga kuta, sahig, ug ceiling san venue?*
+9. **How do you feel about integrating traditional Samar Basey *banig* mat weaving patterns, *tikog* grass textures, and Calbayog waterfall imagery into upgraded perimeter acoustic drapery and ceiling acoustic baffles?**  
+   *Waraynon: Ano an imo hunahuna ha pag-upod san mga disenyo tikang ha banig Basey, tikog, ug busay san Calbayog ha mga acoustic curtains ug ceiling baffles san venue?*
 10. **How can we balance strong cultural expression with high spatial reconfigurability so that permanent motifs do not restrict room versatility?**  
    *Waraynon: Paunan-o naton mababalanse an pagpapakita san kultura ug an kaabtik san lugar para an mga pormante nga disenyo diri maka-singa ha pagbalyo san ayos san lugar?*
 11. **What long-term future-proof interior features or sustainable materials do you believe are essential for keeping the Calbayog City Convention Center competitive over the next 10 to 15 years?**  
@@ -615,12 +615,11 @@
 | Observation Category | Specific Spatial Parameters to Record | Field Observations & Notes |
 | :--- | :--- | :--- |
 | **1. Physical Envelope & Spatial Boundaries** | • Clear floor-to-ceiling height.<br>• Column grid locations & structural clearances.<br>• Entrance, exit, and emergency egress door clear widths. | |
-| **2. FF&E Inventory & Storage Logistics** | • Existing chair & table types, weight, stackability.<br>• Storage room accessibility & loading door clearances.<br>• Setup/teardown turnaround physical movement paths. | |
+| **2. FF&E Inventory & Storage Logistics** | • Storage room accessibility & loading door clearances.<br>• Setup/teardown turnaround physical movement paths. | |
 | **3. Pedestrian & Service Circulation** | • Main entrance foyer to hall circulation flow.<br>• Primary central aisle width vs cross-aisle width.<br>• Back-of-house catering service lanes to banquet tables. | |
-| **4. Universal Accessibility Compliance (BP 344 / ADA)** | • Ramp slope & handrail accessibility.<br>• Walkway clear widths (minimum 1200 mm verification).<br>• Presence/absence of dedicated wheelchair seating stalls. | |
-| **5. Overhead Ceiling Plane & Utility Infrastructure** | • Existing ceiling grid height & material finishes.<br>• Rigging points, truss hooks, lighting track availability.<br>• Exposed ductwork, piping, or cable clutter visibility. | |
-| **6. Acoustic & Visual Environmental Quality** | • Audible reverberation/echo during speech test.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
-| **7. Cultural Interior Material Presence** | • Existing wall, floor, or ceiling decorative finishes.<br>• Presence of regional Samar/Waray cultural motifs.<br>• Material durability, wear-and-tear, and surface condition. | |
+| **4. Overhead Ceiling Plane & Utility Infrastructure** | • Existing ceiling grid height & material finishes.<br>• Rigging points, truss hooks, lighting track availability.<br>• Exposed ductwork, piping, or cable clutter visibility. | |
+| **5. Acoustic & Visual Environmental Quality** | • Perceived speech intelligibility and audible reverberation/flutter echo off hard surfaces during speaking or active hall use.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
+| **6. Cultural Interior Material Presence** | • Existing wall, floor, or ceiling decorative finishes.<br>• Presence of regional Samar/Waray cultural motifs.<br>• Material durability, wear-and-tear, and surface condition. | |
 
 ---
 

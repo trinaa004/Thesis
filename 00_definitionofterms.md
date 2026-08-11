@@ -5,7 +5,7 @@ The following table provides concise operational definitions for key terms utili
 | Term | Definition |
 | :--- | :--- |
 | **Anthropometric Clearances** | Standardized spatial dimensions and reach zones derived from human body measurements (Panero & Zelnik, 1979; Neufert, 2012), applied to calculate minimum aisle widths, seating pitch, and service lanes in the 840 sqm Main Hall. |
-| **Basey *Banig* Weaving Motif** | Traditional hand-woven reed mat patterns originating from Basey, Samar (Wagas, 2016), abstracted into non-structural acoustic wall panel finishes and floor zoning boundaries. |
+| **Basey *Banig* Weaving Motif** | Traditional hand-woven reed mat patterns originating from Basey, Samar (Wagas, 2016), abstracted into upgraded perimeter acoustic drapery and ceiling acoustic overlays. |
 | **Calbayog Waterfall Imagery** | Visual and spatial interior design elements inspired by the natural hydro-geographic landscape of Calbayog City (Roa & Lagamon, 2018), incorporated into cascading ceiling acoustic baffles. |
 | **Culturally Responsive Interior Design** | An architectural approach that integrates local heritage, traditional crafts, and spatial traditions into interior surfaces (Krstić et al., 2024; Fakharany, 2025) to foster identity and place attachment. |
 | **Event Attendees (General Public)** | Participants and visitors ($n = 100–120$) surveyed to evaluate public user experience, spatial comfort, circulation, sightlines, acoustics, wayfinding, and cultural ambiance. |
@@ -14,7 +14,7 @@ The following table provides concise operational definitions for key terms utili
 | **Future-Proof Design** | Strategic planning of built environments (DesignHorizons, 2024) to ensure long-term functionality, environmental resilience, and technological adaptability over a 10- to 15-year lifecycle. |
 | **Interior Envelope** | The physical 840 square meter interior volume of the Calbayog City Convention Center Main Hall enclosed by internal walls, floor surfaces, and ceiling plane (Etteh, 2016). |
 | **MICE Industry** | Acronym for Meetings, Incentives, Conferences, and Exhibitions (Wee et al., 2022), representing the commercial and civic event sectors accommodated by the venue. |
-| **Modular Interior Zoning** | A design methodology utilizing demountable wall dividers and mobile furniture clusters (Barr, 2023; Ike et al., 2023) to divide or combine hall spaces for multi-scale events. |
+| **Flexible FF&E Layout Typologies** | A design methodology utilizing standardized, reconfigurable furniture clusters (Barr, 2023; Ike et al., 2023) to rapidly adapt the Main Hall for multi-scale events without structural alterations. |
 | **Non-Structural Interior Overlay** | An interior design strategy applying surface finishes, FF&E, and suspended ceiling systems without modifying primary load-bearing structural columns or building shells (Groat & Wang, 2013). |
 | **Overhead Ceiling Track and Rigging Interface** | A suspended overhead grid system equipped with rigging channels and motorized hoists (Phantos, 2025; Cairoli, 2020) supporting flexible lighting, audio, and decorative draping. |
 | **Setup and Teardown Turnaround Time** | The operational duration required by venue staff to transition the Main Hall between consecutive event bookings (An, Kim, & Hur, 2021). |
