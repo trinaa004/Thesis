@@ -615,10 +615,10 @@
 | Observation Category | Specific Spatial Parameters to Record | Field Observations & Notes |
 | :--- | :--- | :--- |
 | **1. Physical Envelope & Spatial Boundaries** | • Clear floor-to-ceiling height.<br>• Column grid locations & structural clearances.<br>• Entrance, exit, and emergency egress door clear widths. | |
-| **2. FF&E Inventory & Storage Logistics** | • Storage room accessibility & loading door clearances.<br>• Setup/teardown turnaround physical movement paths. | |
+| **2. FF&E Inventory & Loading Staging Logistics** | • Loading entrance/egress door clear widths & vehicle access.<br>• Outsourced FF&E unloading, staging, and floor distribution paths. | |
 | **3. Pedestrian & Service Circulation** | • Main entrance foyer to hall circulation flow.<br>• Primary central aisle width vs cross-aisle width.<br>• Back-of-house catering service lanes to banquet tables. | |
 | **4. Overhead Ceiling Plane & Utility Infrastructure** | • Existing ceiling grid height & material finishes.<br>• Rigging points, truss hooks, lighting track availability.<br>• Exposed ductwork, piping, or cable clutter visibility. | |
-| **5. Acoustic & Visual Environmental Quality** | • Perceived speech intelligibility and audible reverberation/flutter echo off hard surfaces during speaking or active hall use.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
+| **5. Acoustic & Visual Environmental Quality** | • Perceived speech intelligibility and audible reverberation off ceramic tile flooring and glass perimeters.<br>• Physical condition, fabric wear, dust accumulation, and cleanliness of old existing perimeter drapery.<br>• Physical condition, sagging, and surface wear of existing fabric ceiling baffles.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
 | **6. Cultural Interior Material Presence** | • Existing wall, floor, or ceiling decorative finishes.<br>• Presence of regional Samar/Waray cultural motifs.<br>• Material durability, wear-and-tear, and surface condition. | |
 
 ---

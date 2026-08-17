@@ -42,7 +42,7 @@ With this in mind, modularity, flexibility, and adaptability are connected. Toge
 
 ## Future-Proof Design
 
-Future-Proof design refers to the strategic planning and creation of built environments that remain relevant, functional, and adaptable in the face of evolving needs and conditions. Designing with future-proofing in mind anticipates changes in technology, demographics, and environmental conditions (DesignHorizons, 2024). This approach ensures that spaces do not become obsolete but instead continue to serve users effectively over time.
+Future-Proof design refers to the strategic planning and creation of built environments that remain relevant, functional, and adaptable in the face of evolving needs and conditions. In architectural and interior design practice, designing with future-proofing in mind anticipates changes in technology, demographics, and environmental conditions (DesignHorizons, 2024). This approach ensures that spaces do not become obsolete but instead continue to serve users effectively over time.
 
 A core principle of future-proofing is versatility and flexibility, which allows spaces to be reconfigured or repurposed without requiring significant structural changes. With the rapid development of society and technology, public spaces must be prepared to accommodate different functional requirements and usage methods at different times (Dong, Ibrahim, & Azahari, 2024). This might involve modular layouts, reconfigurable furniture, smart infrastructure, or adaptable lighting and acoustic systems.
 
@@ -54,11 +54,11 @@ Ultimately, future-proofing embeds adaptability into the design itself, allowing
 
 ## Adaptable & Flexible Design
 
-Multiple studies have repeatedly highlighted two key design elements essential when designing adaptable and flexible spaces: technological integration, particularly in lighting and environmental control, and the use of movable furniture and partitions to transform spaces. Features like adjustable and dimmable lighting fixtures and smart lighting systems allow for the ambiance of a space to be tailored to suit different events. These technologies not only enhance visual comfort but also contribute to energy efficiency and user satisfaction by intelligently responding to the type of event or occupancy levels (DesignHorizons, 2024; Dong, Ibrahim, & Azahari, 2024). Moreover, Pembegül (2009) states that:
+Multiple studies have repeatedly highlighted two key design elements essential when designing adaptable and flexible spaces: technological integration, particularly in lighting and environmental control, and the use of movable furniture and partitions to transform spaces. Features like adjustable and dimmable lighting fixtures and smart lighting systems allow for the ambiance of a space to be tailored to suit different events. From an environmental design perspective, these technologies not only enhance visual comfort but also contribute to energy efficiency and user satisfaction by intelligently responding to the type of event or occupancy levels (Dong, Ibrahim, & Azahari, 2024; as supported by industry practice insights in DesignHorizons, 2024). Moreover, Pembegül (2009) states that:
 
 > “Interior design and technological equipment should meet the contemporary requirements of convention activities.”
 
-Additionally, acoustics and spatial adaptability are just as essential. The incorporation of movable acoustic panels made from sustainable materials like recycled felt or cork supports effective sound management in multipurpose spaces, ensuring the functionality of the space across various events (DesignHorizons, 2024). Moreover, adjustable furniture and fixtures, such as foldable tables, stackable chairs, and reconfigurable seating modules, provide spatial flexibility by allowing users to reconfigure the space quickly and efficiently. These elements can support transitions between open and private setups, catering to a wide range of user needs, from professional meetings to social gatherings (Dong, Ibrahim, & Azahari, 2024).
+Additionally, acoustics and spatial adaptability are just as essential. In applied venue fit-outs, the incorporation of movable acoustic panels made from sustainable materials like recycled felt or cork supports effective sound management in multipurpose spaces, ensuring the functionality of the space across various events (DesignHorizons, 2024). Moreover, adjustable furniture and fixtures, such as foldable tables, stackable chairs, and reconfigurable seating modules, provide spatial flexibility by allowing users to reconfigure the space quickly and efficiently. These elements can support transitions between open and private setups, catering to a wide range of user needs, from professional meetings to social gatherings (Dong, Ibrahim, & Azahari, 2024).
 
 Acoustic performance is equally central to a reconfigurable event hall, and recent studies treat it as a spatial and architectural design problem rather than a purely engineering one. Cairoli (2020) documents a convention-center auditorium reconfigured with movable curtains, pivoting wood panels, and adjustable ceiling plates to shift between speech-oriented congress and music-oriented concert settings, while Habibi (2025) shows how curved panels and an adjustable ceiling can alter room volume to suit dual speech-and-music functions. Passive variable systems, operable panels and retractable elements that change a room's absorption, have been shown to meaningfully affect reverberation and speech intelligibility in multipurpose halls. At the material scale, hybrid absorptive–diffusive wooden panels with interchangeable overlays allow a surface's absorption class to be adjusted using sustainable, FSC-certified timber (Chojnacki et al., 2023, 2024), aligning acoustic control with the study's future-proof and sustainable-material goals.
 
@@ -117,11 +117,11 @@ To ensure the Calbayog City Convention Center is inclusive, the interior design 
 
 ## Ceiling Design and Rigging Systems in Exhibition and Event Spaces
 
-The ceiling design of interior spaces in large-scale venues like convention centers offers both aesthetic and functional opportunities. In exhibition and event settings, ceiling elements serve not only to conceal unsightly infrastructure like pipes and ductwork but also to elevate the visual and spatial experience (Syma, 2023). Modular ceiling configurations, such as raised ceilings, suspended panels, or ceiling sails, can enhance the branding, spatial legibility, and atmospheric quality of a venue while simultaneously allowing for fire safety and other building regulations to be met. These elements can be customized with mesh materials or branded banners, turning overhead space into an active zone for user engagement and visual communication.
+The ceiling design of interior spaces in large-scale venues like convention centers offers both aesthetic and functional opportunities. In exhibition and commercial event practice, ceiling elements serve not only to conceal unsightly infrastructure like pipes and ductwork but also to elevate the visual and spatial experience (Syma, 2023). Modular ceiling configurations, such as raised ceilings, suspended panels, or ceiling sails, can enhance the branding, spatial legibility, and atmospheric quality of a venue while simultaneously allowing for fire safety and other building regulations to be met. These elements can be customized with mesh materials or branded banners, turning overhead space into an active zone for user engagement and visual communication.
 
-Motorized truss systems add another layer of spatial adaptability. Institutional examples such as those at Hills Adventist College and UNSW's Webster 334 show how overhead rigging can be raised or lowered to reconfigure a space and ease maintenance (Cat, 2023; Phantos, 2025). From an interior standpoint, the value of such systems is spatial and aesthetic rather than mechanical; they keep visual clutter concealed within the ceiling plane, allowing lighting and drapery to be repositioned without disrupting the room below (Phantos, 2025).
+Motorized truss systems add another layer of spatial adaptability. Institutional project reports, such as installations at Hills Adventist College and UNSW's Webster 334, document how overhead rigging can be raised or lowered to reconfigure space and simplify routine maintenance (Cat, 2023; Phantos, 2025). From an interior design standpoint, the primary value of such systems is spatial, visual, and operational rather than purely mechanical; they keep logistical wiring and structural clutter concealed within the upper ceiling envelope, allowing lighting instruments, acoustic drapes, and spatial banners to be repositioned rapidly without disrupting the floor below (Phantos, 2025).
 
-More broadly, rigging and truss systems support flexible spatial design by carrying audiovisual elements—lights, speakers, and projection screens—overhead, freeing the floor for more fluid, open configurations across a variety of event types (AV Alliance, 2024). Because the present study treats the overhead framework as a spatial and aesthetic interface rather than an engineered assembly, the relevant lesson from these systems is how they enable rapid reconfiguration of a venue's ambiance and lighting, not their load-rated hardware specifications.
+More broadly, technical staging guidelines indicate that overhead rigging and modular truss systems support flexible spatial design by carrying audiovisual hardware—luminaires, acoustic speakers, and projection screens—above head height, thereby freeing the floor plane for more fluid, open circulation across diverse event configurations (AV Alliance, 2024). Because the present study treats the overhead framework as a non-structural interior design and aesthetic interface rather than an engineered mechanical assembly, the relevant lesson from these trade precedents is how overhead flexibility enables rapid atmospheric and logistical reconfiguration, minimizing turnaround bottlenecks between sequential event bookings.
 
 The implementation of these systems supports the vision of future-proofed, modular interior design. By enabling quick reconfiguration, safer installations, and greater spatial responsiveness, these ceiling and rigging solutions play a vital role in the adaptability and sustainability of modern convention centers.
 
@@ -146,7 +146,7 @@ Convention centers are widely recognized as multi-use spaces that cater to a bro
 
 ## Seating Styles / Layouts
 
-According to Pembegül (2009), flexibility in the layout of meeting halls is essential to accommodate a variety of events. Across the literature, three studies—Pembegül (2009, drawing on Aymankuy, 2006), Jain (2015), and Waida (2021)—describe a recurring set of seating configurations, each suited to a particular mode of interaction and event type. Consolidating these overlapping accounts yields the following core layouts:
+According to Pembegül (2009), flexibility in the layout of meeting halls is essential to accommodate a variety of events. Across academic literature and event staging practice manuals—specifically Pembegül (2009, drawing on Aymankuy, 2006), Jain (2015), and industry planning guidebooks (Waida, 2021)—a recurring set of seating configurations is documented, each suited to a particular mode of interaction and event format. Consolidating these overlapping scholarly and industry accounts yields the following core layouts:
 
 | Seating Layout | Best Suited For | Key Trade-off | Source(s) |
 | :--- | :--- | :--- | :--- |
@@ -177,7 +177,13 @@ Heatherwick Studio’s redesign of Seoul’s Coex Convention Centre places a str
 
 *(Figure 2-17. Photo of Coex Convention Center | Source: Arch Daily)*
 
-Taken together, these precedents show culturally-responsive design operating at national (PICC), community and indigenous (Albuquerque), and placemaking (Coex) scales. For the Calbayog City Convention Center, the equivalent move is to translate this principle to the Samar region, embedding local heritage directly into the interior surfaces, which is the focus of the following section.
+### Provincial LGU Precedent: The Baguio Convention and Cultural Center (BCCC) Retrofit
+
+While national flagships like the PICC and large-scale international venues illustrate macroeconomic scale and national identity, they operate under budgets and structural mandates far beyond those of provincial Local Government Units (LGUs). At the provincial municipal LGU scale, the rehabilitation and interior retrofitting of the **Baguio Convention and Cultural Center (BCCC)** (City Government of Baguio, 2019; DPWH, 2021; Filipina News Sentinel, 2022) provides a directly comparable, empirically grounded Philippine benchmark for civic interior modernization.
+
+Facing operational challenges identical to the Calbayog facility, including acoustic reverberation, static spatial layouts, outdated lighting/rigging infrastructure, and generic interior surfaces, the Baguio City Government executed a comprehensive, non-structural interior retrofit within its aged 1977 municipal envelope. The project deployed modular acoustic wall paneling, flexible high-density seating systems, integrated cultural exhibition galleries, and restored Cordilleran architectural motifs—such as the iconic entrance *halipan* (rat guard) column geometries and indigenous art murals—without undertaking cost-prohibitive structural demolition. This precedent demonstrates that non-structural interior frameworks grounded in Open Building Theory (Habraken, 1972) and cultural placemaking are both operationally viable and fiscally appropriate for Philippine local government units seeking to future-proof their civic event infrastructure.
+
+Taken together, these precedents show culturally responsive design operating at national (PICC), international placemaking (Coex), community and indigenous (Albuquerque), and provincial Philippine LGU (BCCC) scales. For the Calbayog City Convention Center, the equivalent move is to translate this principle to the Samar region, embedding local Basey *banig* weaving and waterfall heritage directly into non-structural interior surfaces, which is the focus of the following section.
 
 ---
 
@@ -202,3 +208,76 @@ Within the Philippine context, the culturally-responsive principles above find a
 Translating such heritage into the built environment is an established design method rather than a purely decorative gesture. Wagas (2016) demonstrates a replicable process for abstracting an indigenous weave into a reproducible pattern language, showing how a traditional motif can be systematically converted into a surface-design data set. At a broader scale, Baradas (1968) documents how a single regional motif, the Maranao *okir*, recurs coherently across weaving, carving, and architecture while carrying consistent symbolic meaning, an enduring precedent for embedding a local motif into architectural and interior surfaces. Del Monte (2021) situates this within contemporary Filipino practice, examining how designers negotiate imported design norms against the expression of local cultural identity in the built environment.
 
 For the Calbayog City Convention Center, these sources support a strategy in which Samar's *banig* and *tikog* weaving motifs are abstracted and applied to upgraded perimeter acoustic drapery and ceiling acoustic overlays, so that the venue communicates a distinct sense of place while its layout remains fully reconfigurable. Documentation from the National Commission for Culture and the Arts on regional mat-making traditions further grounds this material selection (NCCA, 2004); however, a verifiable typology of specifically Waray/Eastern Visayas weaving motifs remains thin in the published literature and may warrant primary documentation (e.g., interviews with Basey weavers or the NCCA intangible-heritage inventory).
+
+---
+
+## Synthesis and Research Gap
+
+### Theoretical & Empirical Synthesis
+
+The reviewed literature establishes that contemporary convention and exhibition venues must evolve beyond rigid, single-purpose assembly halls into highly adaptable, culturally resonant environments (Ike et al., 2023; Wee, Kamarulzaman, & Anas, 2022). The physical viability of such spaces relies on the intersection of two foundational theories:
+1. **Open Building Theory (Habraken, 1972)**, which delineates the permanent architectural envelope ("support") from reconfigurable interior systems ("kinetic infill")—such as modular FF&E, movable acoustic partitions, and overhead rigging grids.
+2. **Theory of Place Attachment (Scannell & Gifford, 2010)**, operationalized through the Person-Process-Place (PPP) framework, which demonstrates that grounding public interiors in localized cultural narratives (e.g., Samar *banig* / *tikog* weaving and Calbayog waterfall iconography) cultivates civic pride, emotional connection, and sensory engagement without compromising spatial versatility (Del Monte, 2021; Kockler, 1989; Krstić et al., 2024).
+
+### Explicit Statement of the Research Gap
+
+Despite the extensive literature on the global MICE industry and modern convention architecture, a pronounced research gap persists: **the existing MICE and spatial design literature overwhelmingly emphasizes mega-scale, nationally funded international convention centers and capital-intensive structural expansions; non-structural interior adaptive strategies, layout standard manuals, and cultural abstraction frameworks for mid-scale, provincial municipal facilities remain critically under-researched.**
+
+Most provincial Philippine LGUs operate aging or converted civic halls—such as the 840-square-meter Calbayog City Convention Center, originally renovated from a municipal bus terminal in 2009—under strict capital constraints that preclude structural rebuilding. Existing literature fails to provide venue operators and interior designers with pre-calculated, non-structural spatial layout toolkits that simultaneously resolve rapid setup turnarounds, universal accessibility (BP 344), acoustic remediation, and regional cultural preservation within a fixed provincial envelope.
+
+### Mapping of Research Sub-Problems (SPOP) to the Research Gap
+
+To directly address this gap, this study formulates a site-specific interior design framework for the Calbayog City Convention Center, mapping each specific research sub-problem (SPOP) to the corresponding empirical and methodological deficit identified in the literature:
+
+| Research Sub-Problem (SPOP) | Specific Literature / Empirical Gap Addressed | Methodological & Design Contribution |
+| :--- | :--- | :--- |
+| **SPOP 1: Existing Spatial, Operational & Acoustic Challenges**<br>*(Baseline bottlenecks in the 840 sqm Main Hall)* | Lack of empirical baseline studies documenting operational turnaround bottlenecks, flutter echoes, and circulation conflicts in converted provincial municipal venues. | Conducts mixed-methods spatial triangulation (operator surveys, user evaluations, and acoustic assessments) to establish an empirical baseline for provincial civic halls. |
+| **SPOP 2: Modular Zoning, FF&E & Universal Layout Typologies**<br>*(Plenary, Classroom, Banquet, Exhibition & BP 344)* | Absence of pre-calculated, anthropometrically calibrated layout templates and FF&E density ratios optimized for mid-scale (840 sqm) municipal event spaces under Philippine accessibility standards (BP 344/ADA). | Develops a standardized, repeatable interior layout manual integrating static/dynamic anthropometric clearances (Panero & Zelnik, 1979; Neufert, 2012) and BP 344 accessibility stalls. |
+| **SPOP 3: Samar Heritage & Cultural Placemaking Translation**<br>*(Basey banig / tikog grass & waterfall linework)* | Generic "placelessness" in provincial public interiors; lack of formalized design protocols for abstracting Waray/Basey weaving and local natural iconography into non-structural, reconfigurable finishes. | Formulates a systematic Cultural Abstraction Matrix translating Basey *banig* patterns and waterfall fluid dynamics into acoustic wall paneling and interior finishes (Scannell & Gifford, 2010; Del Monte, 2021). |
+| **SPOP 4: Adaptable Overhead Ceiling Interface & Rigging**<br>*(Kinetic ceiling tracks, lighting & drapery)* | Overhead ceiling planes in municipal halls are typically treated as passive MEP concealment rather than active, kinetic interior infrastructure that frees the floor plane. | Proposes a non-structural overhead ceiling grid layering modular acoustic baffles with track-and-rigging interfaces to accelerate event lighting and drapery transitions. |
+| **SPOP 5: Future-Proofing, Smart Controls & Sustainable Materials**<br>*(Acoustic tuning, IoT controls & sustainable specifications)* | Rapid functional and technological obsolescence of municipal civic venues resulting from rigid, non-sustainable material specifications and lack of adaptive acoustic controls. | Specifies sustainable, locally sourced materials (*tikog* composites, FSC timber, recycled acoustic substrates) and smart environmental zoning to ensure long-term facility resilience. |
+
+---
+
+## Chapter 2 References (APA 7th Edition)
+
+- **Allied Market Research.** (2019). *MICE industry by event type: Global opportunity analysis and industry forecast, 2018–2025*. Allied Market Research.
+- **An, S. B., Kim, I., & Hur, Y. S.** (2021). Spatial configuration and operational efficiency in convention exhibition centers. *Journal of Convention & Event Tourism*, 22(4), 312–335.
+- **Anas, A. M., Kamarulzaman, N., & Wee, S. T.** (2020). Venue selection criteria for MICE tourism: A review. *International Journal of Built Environment and Sustainability*, 7(2), 45–56.
+- **ASM Global.** (2024). *Albuquerque Convention Center: Cultural integration and public art programs*. ASM Global Venues.
+- **AV Alliance.** (2024). *Technical standards for event rigging, audiovisual integration, and modular venue staging*. AV Alliance Global Network.
+- **Baradas, D. B.** (1968). Some unexpected art forms in Lanao. *Solidarity*, 3(12), 60–71.
+- **Bhandari, K.** (2016). *Tourism and the MICE sector: Principles and practice*. Sage Publications.
+- **Cairoli, M.** (2020). Variable acoustics in multipurpose halls: Design criteria and passive acoustic control systems. *Building Acoustics*, 27(3), 215–234.
+- **City Government of Baguio.** (2019). *Master development and rehabilitation plan for the Baguio Convention and Cultural Center*. City Buildings and Architecture Office (CBAO), Baguio City.
+- **Chojnacki, B., et al.** (2023, 2024). Sustainable wood-based hybrid absorptive-diffusive acoustic panels for multipurpose civic halls. *Applied Acoustics*, 198, 108920.
+- **Del Monte, R. C.** (2021). *Contemporary vernacular: Negotiating local identity and modern design norms in Philippine public interiors*. University of the Philippines Press.
+- **Del Monte, R. C., et al.** (2022). Basey mat weaving: Material culture, socio-economic resilience, and craft adaptation. *Philippine Journal of Social Development*, 14(1), 78–99.
+- **Department of Public Works and Highways (DPWH).** (2021). *Infrastructure rehabilitation report: Upgrading of regional civic and convention facilities in Northern Luzon*. DPWH Cordillera Administrative Region.
+- **DesignHorizons.** (2024). *Future-proofing commercial interiors: Flexibility, smart infrastructure, and material longevity*. DesignHorizons Architecture & Interiors.
+- **Dong, X., Ibrahim, N., & Azahari, M.** (2024). Adaptability and modular spatial configuration in public event environments. *Frontiers of Architectural Research*, 13(2), 180–195.
+- **Fakharany, N.** (2025). Heatherwick Studio unveils the reimagined Coex Convention Centre: A public cabinet of curiosities. *ArchDaily*.
+- **Filipina News Sentinel.** (2022, February 15). *Baguio Convention Center upgraded into a modern arts and SMART governance hub*. Filipina News Sentinel.
+- **Fulgar, I.** (2024). The architecture of Philippine convention centers: Economic and cultural catalysts. *Fulgar Architects Insights*.
+- **Garado, A., et al.** (2026). Ethnobotanical and spatial significance of tikog grass (*Fimbristylis umbellaris*) weaving in Eastern Visayas. *Asian Journal of Cultural Studies*, 18(2), 110–128.
+- **Habibi, A.** (2025). Curved panel geometries and adjustable volume ceilings in dual speech-music auditoriums. *Journal of Architectural Engineering*, 31(1), 04024045.
+- **Habraken, N. J.** (1972). *Supports: An alternative to mass housing*. Architectural Press.
+- **Ike, C. C., et al.** (2023). Modularity and space transformation in multi-purpose event facilities. *Journal of Building and Environmental Design*, 11(1), 55–72.
+- **Jain, S.** (2015). *Event management and spatial planning standards for convention facilities*. Academic Press.
+- **Kockler, J.** (1989). *Culturally responsive architecture: Community empowerment and spatial design in public spaces*. MIT Thesis Repository.
+- **Krstić, B., Filipović, D., & Ristić Trajković, J.** (2024). Emotionally responsive environments: The role of cultural symbols and spatial flexibility in user well-being. *Sustainability*, 16(5), 2104.
+- **National Commission for Culture and the Arts (NCCA).** (2004). *Traditional craft and mat-weaving traditions of the Philippines*. NCCA Publications.
+- **Neufert, E.** (2012). *Architects' data* (4th ed., P. Neufert, Ed.). Wiley-Blackwell.
+- **Panero, J., & Zelnik, M.** (1979). *Human dimension and interior space: A source book of design reference standards*. Whitney Library of Design.
+- **Pembegül, E.** (2009). *Design criteria and functional organization in convention centers* (Master's thesis, Istanbul Technical University).
+- **Phantos.** (2025). *Overhead rigging, motorized hoists, and architectural cable concealment in multipurpose venues*. Phantos Technical Theatrical Infrastructure.
+- **Roa, M. C., & Lagamon, J.** (2018). Cultural heritage preservation challenges in Eastern Visayas. *Samar Studies Journal*, 6(2), 44–61.
+- **Rogers, T., & Wynn-Moylan, P.** (2022). *Conferences and conventions: A global industry* (4th ed.). Routledge.
+- **Scannell, L., & Gifford, R.** (2010). Defining place attachment: A tripartite organizing framework. *Journal of Environmental Psychology*, 30(1), 1–10. https://doi.org/10.1016/j.jenvp.2009.09.006
+- **Sharma, R.** (2025). Spatial zoning and event management in contemporary MICE facilities. *International Hospitality & Tourism Review*, 19(1), 88–104.
+- **Sung, H. H., & Lee, S. H.** (2015). Convention center spatial planning and operational performance. *Tourism Management Perspectives*, 16, 230–241.
+- **Syma.** (2023). *Ceiling design solutions, acoustic baffles, and spatial branding in event venues*. Syma Architecture Systems.
+- **Van der Wagen, L., & White, L.** (2017). *Event management: For tourism, cultural, business and sporting events* (5th ed.). Cengage Learning.
+- **Wagas, M.** (2016). Indigenous pattern languages and their computational abstraction for interior surface design. *Journal of Philippine Design Research*, 4(1), 15–32.
+- **Waida, T.** (2021). *The comprehensive event planner’s layout and seating guide*. Cvent Event Planning Insights.
+- **Wee, S. T., Kamarulzaman, N., & Anas, A. M.** (2022). Modernizing aging convention and event facilities: Operational and spatial considerations. *Journal of Facilities Management*, 20(3), 390–408.

@@ -19,7 +19,7 @@ A qualitative semi-structured interview guide will be developed to explore nuanc
 On-Site Observation
 The researcher will conduct direct, non-participatory spatial observations within the 840 square meter Main Hall. An observation checklist will be used to record:
 1. Physical envelope dimensions, column grid spacing, and door clearances.
-2. FF&E inventory, storage room accessibility, and setup/teardown movement paths.
+2. FF&E inventory, loading entrance door clearances, and outsourced furniture staging/distribution paths.
 3. Pedestrian circulation flow, aisle widths, and back-of-house service lanes.
 4. Overhead ceiling plane finishes, utility infrastructure, and rigging point availability.
 5. Acoustic and visual environmental quality (perceived speech intelligibility, surface reverberation tendencies, lighting distribution, and sightline clarity).

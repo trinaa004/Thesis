@@ -28,7 +28,7 @@
 ### Problem Statement Synthesis:
 The Calbayog City Convention Center serves as the primary municipal hub for MICE (Meetings, Incentives, Conferences, and Exhibitions) events, cultural tourism, and civic assemblies in Calbayog City. However, the venue currently operates within a rigid, static 840 sqm interior envelope characterized by:
 1. **Prolonged Setup & Teardown Bottlenecks**: Lack of modular spatial templates and standardized FF&E causing lengthy, labor-intensive turnaround delays.
-2. **Acoustic & Environmental Deficiencies**: High reverberation off hard perimeter surfaces and lack of integrated non-structural acoustic baffling.
+2. **Acoustic & Material Deficiencies**: Sound reflection off ceramic tile floors and glass walls, compounded by old existing drapery and worn ceiling baffles needing non-structural upgrading.
 3. **Placelessness & Lack of Cultural Identity**: Generic corporate aesthetic devoid of Calbayog and Samar's rich indigenous material culture (*banig* weaving, *tikog* grass, and waterfall natural heritage).
 
 ---
@@ -177,7 +177,7 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 ### Respondent Sampling Matrix ($N = 115 \text{ to } 145$):
 | Respondent Group | Target Sample ($n$) | Sampling Technique | Selection Criteria & Focus |
 | :--- | :--- | :--- | :--- |
-| **Group 1: Event Planners, Coordinators & Venue Operators** | **$n = 15–25$** | **Purposive Expert Sampling** (Etikan et al., 2016; Palinkas et al., 2015) | $\ge 18$ yrs old; $\ge 1$ event organized in venue within 5 yrs. Focus: Setup turnaround bottlenecks, FF&E mobility, storage access, ceiling rigging needs. |
+| **Group 1: Event Planners, Coordinators & Venue Operators** | **$n = 15–25$** | **Purposive Expert Sampling** (Etikan et al., 2016; Palinkas et al., 2015) | $\ge 18$ yrs old; $\ge 1$ event organized in venue within 5 yrs. Focus: Setup turnaround bottlenecks, FF&E mobility, loading ingress/egress access, ceiling rigging needs. |
 | **Group 2: Event Attendees & General Community Members** | **$n = 100–120$** | **Purposive Quota Sampling** (Slovin's Formula @ 95% CI, $e=0.08–0.09$; Cochran, 1977; Israel, 1992) | $\ge 18$ yrs old; $\ge 1$ event attended in venue within 5 yrs. Focus: Spatial comfort, sightlines, acoustics, wayfinding, cultural resonance. |
 | **Qualitative Key Informants** | **$n = 8–12$** | **Purposive Sub-sampling** (Thematic Saturation; Braun & Clarke, 2006; Guest et al., 2006) | In-depth 20–30 min semi-structured interviews exploring operational workflows, FF&E adaptability, and cultural expression. |
 | **TOTAL SAMPLE SIZE ($N$)** | **$N = 115–145$** | **Mixed Sampling Strategy** | Statistically robust and operationally grounded cross-section. |
@@ -194,7 +194,7 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 3. **Qualitative Semi-Structured Interview Guide** ([37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md#L564-L603)):
    * 11 targeted questions across 4 modules (Setup Bottlenecks, Modularity, Ceiling Plane, Cultural Expression).
 4. **Architectural On-Site Spatial Observation Checklist** ([37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md#L606-L624)):
-   * 6 structured categories: Physical Envelope, FF&E Inventory/Storage, Circulation Flow, Overhead Plane/Utilities, Perceptual Acoustic/Visual Quality, Cultural Presence.
+   * 6 structured categories: Physical Envelope, FF&E Inventory & Loading Staging Logistics, Circulation Flow, Overhead Plane/Utilities, Perceptual Acoustic/Visual Quality, Cultural Presence.
    * Strictly non-engineering, observational spatial assessment.
 
 ---

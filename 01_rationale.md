@@ -12,7 +12,11 @@ Future-proof design forms another critical pillar of this study. The evolving na
 
 ---
 
-This study is driven by the necessity to elevate the operational adaptability, regional identity, and long-term usability of the Calbayog City Convention Center. Contemporary event venues increasingly incorporate modular interior zoning and customizable spatial configurations to maximize functional efficiency (Ike et al., 2023). Crucially, while the convention center must remain a versatile, rentable space, integrating localized Samar Basey banig motifs alongside fluid, cascading references to Calbayog as the "City of Waterfalls" into permanent and semi-permanent surface treatments establishes a distinctive sense of place without hindering layout flexibility (Fakharany, 2025).
+While flagship convention centers like the Philippine International Convention Center (PICC) illustrate the macroeconomic value of the MICE industry, provincial venues operate under distinct spatial, budgetary, and infrastructural constraints. The successful rehabilitation and interior retrofitting of the Baguio Convention and Cultural Center (BCCC) demonstrates that aging municipal facilities can achieve world-class MICE functionality, universal accessibility, and acoustic excellence through targeted, non-structural interior interventions (City Government of Baguio, 2019; DPWH, 2021). By adopting a similar interior-focused framework, the 840 square meter Calbayog City Convention Center can overcome its rigid spatial configuration and turnaround bottlenecks, transitioning from an underutilized municipal hall into an adaptable, culturally resonant civic landmark for Western Samar.
+
+---
+
+This study is driven by the necessity to elevate the spatial modularity, regional identity, and long-term usability of the Calbayog City Convention Center. Contemporary event venues increasingly incorporate modular interior zoning and customizable spatial configurations to maximize functional efficiency (Ike et al., 2023). Crucially, while the convention center must remain a versatile, rentable space, integrating localized Samar Basey banig motifs alongside fluid, cascading references to Calbayog as the "City of Waterfalls" into permanent and semi-permanent surface treatments establishes a distinctive sense of place without hindering layout flexibility (Fakharany, 2025).
 
 ---
 

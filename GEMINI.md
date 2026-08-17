@@ -16,6 +16,7 @@ This document serves as the master context index, project ruleset, and reference
 | **[02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md)** | Statement of the Problem (SPOP Q1–Q6), Research Objectives, Significance of the Study, and Scope & Limitations. |
 | **[20_RRL.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md)** | Review of Related Literature (RRL), theoretical framework, ergonomic standards, cultural design references, and citation database. |
 | **[21_theoretical_conceptual.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/21_theoretical_conceptual.md)** | Theoretical Background & Conceptual Framework synthesizing Open Building Theory (Habraken, 1972) and Theory of Place Attachment (Scannell & Gifford, 2010). |
+| **[22_LGU_Precedent_Baguio_Retrofit.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/22_LGU_Precedent_Baguio_Retrofit.md)** | Philippine Provincial LGU Facility Retrofit Precedent: Detailed case analysis of the Baguio Convention & Cultural Center modernization, cultural integration, and methodological justification. |
 | **[30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md)** | Applied Design Research & Multi-Phase Spatial Synthesis methodology (Phase 1: Ergonomic/Quantitative; Phase 2: Cultural Abstraction; Phase 3: Spatial Synthesis). |
 | **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Locale description of Calbayog City Convention Center (Brgy. Capoocan, 840 sqm Main Hall, 500 occupant capacity, former bus station history). |
 | **[32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md)** | Respondent profiles, inclusion criteria, Purposive Expert Sampling ($n = 15–25$), Purposive Quota Sampling ($n = 100–120$), Slovin's formula, and qualitative sample ($n = 8–12$). |
@@ -23,6 +24,7 @@ This document serves as the master context index, project ruleset, and reference
 | **[34_Data Collection.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/34_Data%20Collection.md)** | Field survey distribution and data collection protocols. |
 | **[35_Data Analysis.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/35_Data%20Analysis.md)** | Descriptive statistics (weighted means), Braun & Clarke (2006) thematic analysis, and spatial triangulation procedures. |
 | **[37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md)** | Complete text of research survey forms, questionnaire items, and qualitative interview scripts. |
+| **[Consultation/nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/nutshell.md)** | Master Executive Summary, 30-Second Elevator Pitch, 3 Design Pillars, Scope Boundary Matrix, and Defense Quick Reference. |
 
 ---
 
