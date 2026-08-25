@@ -18,6 +18,12 @@ To ensure data validity, a methodological triangulation approach will be used. E
 
 This synthesized dataset will directly inform the dimensional parameters, layout typologies, ceiling track mechanisms, and surface material specifications for the final non-structural interior design framework.
 
+Phase 4: Framework Validation & Simulation Analysis
+Data generated during the Phase 4 validation process will be analyzed using three specialized methods:
+1. Spatial Clearance & Regulatory Compliance Verification: Digital 2D/3D CAD models of the four layout typologies will be audited using a binary compliance matrix (Pass/Fail) against mandatory accessibility thresholds (BP 344 1200 mm paths and 1500 mm turning radiuses) and anthropometric clearance standards (Panero & Zelnik, 1979; Neufert, 2012).
+2. Logistical Turnaround Comparative Modeling: Time-and-motion transition sequences from the simulated modular workflows will be tabulated and compared against baseline venue setup durations to calculate percentage reductions in turnaround hours.
+3. Expert Evaluation Rubric Analysis: Quantitative ratings from the expert practitioner panel ($n = 3 \text{ to } 5$) will be analyzed using weighted means and standard deviations across the five evaluation criteria (Spatial Feasibility, BP 344 Compliance, Acoustic/Ceiling Operability, Cultural Resonance, and Manual Usability) to substantiate design validity and operational feasibility.
+
 Ethical Considerations
 This study will adhere strictly to ethical research standards:
 

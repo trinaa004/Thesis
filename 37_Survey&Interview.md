@@ -64,7 +64,7 @@
 
 ---
 
-### SECTION B: EXISTING SPATIAL & OPERATIONAL CHALLENGES (SPOP Q1) / MGA KULANG UG PROBLEMA HA LUGAR
+### SECTION B: EXISTING SPATIAL & OPERATIONAL CHALLENGES (SPOP Q1.1) / MGA KULANG UG PROBLEMA HA LUGAR
 *Evaluates current interior envelope limitations, setup turnaround delays, circulation bottlenecks, and physical constraints.* / *Pagtimbang san mga problema ha interior ug pag-turnaround san lugar.*
 
 **B1. The current 840 sqm Main Hall interior footprint lacks spatial flexibility, making it difficult to execute rapid layout turnarounds between different event formats.**  
@@ -109,7 +109,7 @@
 
 ---
 
-### SECTION C: FLEXIBLE FF&E LAYOUT TYPOLOGIES & TURNAROUND EFFICIENCY (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
+### SECTION C: FLEXIBLE FF&E LAYOUT TYPOLOGIES & TURNAROUND EFFICIENCY (SPOP Q1) / KAABTIK SAN MUEBLES UG LUGAR
 *Assesses preferences for modular seating, standardized banquet/classroom clusters, and setup turnaround speed.* / *Pag-timbang san mga pinalabi ha reconfigurable seating ug kaabtik san setup.*
 
 **C1. Utilizing standardized, lightweight modular FF&E layouts (Plenary, Classroom, Banquet, Exhibition) significantly accelerates venue turnaround speed for multi-scale events.**  
@@ -154,7 +154,7 @@
 
 ---
 
-### SECTION D: LOCALIZED SAMAR CULTURAL MATERIAL INTEGRATION (SPOP Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
+### SECTION D: LOCALIZED SAMAR CULTURAL MATERIAL INTEGRATION (SPOP Q2) / DISENYO TIKANG HA KULTURA SAN SAMAR
 *Gathers feedback on incorporating Samar Basey banig weaving patterns, tikog grass textures, Waray geometric motifs, and Calbayog waterfall imagery.* / *Pagtimbang san disenyo tikang ha banig Basey, tikog, ug busay san Calbayog.*
 
 **D1. Abstracting traditional Samar Basey *banig* weaving patterns into acoustic wall panel finishes creates a compelling cultural identity for event planners.**  
@@ -199,7 +199,7 @@
 
 ---
 
-### SECTION E: OVERHEAD CEILING PLANE & RIGGING ADAPTABILITY (SPOP Q4) / DISENYO UG TRACKS HA CEILING
+### SECTION E: OVERHEAD CEILING PLANE & RIGGING ADAPTABILITY (SPOP Q3.1) / DISENYO UG TRACKS HA CEILING
 *Measures perceived importance of flexible ceiling track systems, motorized truss hoists, acoustic drapes, and adjustable ambient lighting.* / *Pagtimbang san ceiling track systems, suga, ug sound trusses.*
 
 **E1. Installing an overhead ceiling track-and-rigging framework would simplify hanging decorative drapes, banners, and temporary spatial dividers.**  
@@ -244,7 +244,7 @@
 
 ---
 
-### SECTION F: PROGRAMMATIC PARAMETERS & FUTURE-PROOF SPECIFICATIONS (SPOP Q5 & Q6) / DESIGN MANUAL UG MGA MATERYALES
+### SECTION F: PROGRAMMATIC PARAMETERS & FUTURE-PROOF SPECIFICATIONS (SPOP Q3) / DESIGN MANUAL UG MGA MATERYALES
 *Evaluates modular layout typologies (Plenary, Classroom, Banquet, Exhibition), smart technologies, universal accessibility, and material durability.* / *Pagtimbang san layout typologies ug durabilidad san materyales.*
 
 **F1. A standardized manual of repeatable layout typologies (Plenary, Classroom, Banquet, Exhibition) accelerates event planning approval workflows.**  
@@ -336,7 +336,7 @@
 
 ---
 
-### SECTION B: EXISTING SPATIAL & COMFORT CHALLENGES (SPOP Q1) / MGA KULANG UG PROBLEMA HA LUGAR
+### SECTION B: EXISTING SPATIAL & COMFORT CHALLENGES (SPOP Q1.1) / MGA KULANG UG PROBLEMA HA LUGAR
 *Evaluates current interior envelope limitations, circulation bottlenecks, acoustic reverberation, and visual sightlines.* / *Pagtimbang san mga problema ha interior, agi-an, ug acoustics.*
 
 **B1. The main hall frequently feels overcrowded or poorly laid out during major civic or cultural events.**  
@@ -381,7 +381,7 @@
 
 ---
 
-### SECTION C: FLEXIBLE FF&E LAYOUTS & INTERIOR COMFORT PREFERENCES (SPOP Q2) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
+### SECTION C: FLEXIBLE FF&E LAYOUTS & INTERIOR COMFORT PREFERENCES (SPOP Q1) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
 *Assesses preferences for comfortable seating layouts, clear aisle pathways, and layout flexibility.* / *Pagtimbang san mga layout ug ka-komportable san lingkuran ug agi-an.*
 
 **C1. Reconfigurable furniture layouts tailored to specific event sizes enhance personal comfort and spatial flow for attendees.**  
@@ -426,7 +426,7 @@
 
 ---
 
-### SECTION D: LOCALIZED SAMAR CULTURAL INTEGRATION & SENSE OF PLACE (SPOP Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
+### SECTION D: LOCALIZED SAMAR CULTURAL INTEGRATION & SENSE OF PLACE (SPOP Q2) / DISENYO TIKANG HA KULTURA SAN SAMAR
 *Evaluates community pride, cultural resonance, and aesthetic identity from incorporating Basey banig, tikog grass, and Calbayog waterfall motifs.* / *Pagtimbang san kultura, banig Basey, tikog, ug busay san Calbayog.*
 
 **D1. Incorporating Samar Basey *banig* weaving patterns into interior wall panels instills regional pride and a distinct sense of place.**  
@@ -471,7 +471,7 @@
 
 ---
 
-### SECTION E: ACOUSTIC COMFORT & AMBIENT LIGHTING EXPERIENCE (SPOP Q4) / ACOUSTIC DUNGOG UG SUGA
+### SECTION E: ACOUSTIC COMFORT & AMBIENT LIGHTING EXPERIENCE (SPOP Q3.1) / ACOUSTIC DUNGOG UG SUGA
 *Measures attendee satisfaction with speech clarity, acoustic comfort, and ambient lighting quality.* / *Pagtimbang san dungog, katin-aw san boses, ug suga.*
 
 **E1. Overhead acoustic ceiling panels and sound drapes make listening to presentations more enjoyable by reducing harsh room echo.**  
@@ -516,7 +516,7 @@
 
 ---
 
-### SECTION F: UNIVERSAL ACCESSIBILITY & CIVIC VENUE PRIDE (SPOP Q5 & Q6) / ACCESSIBILITY UG BUGAL SAN LUGAR
+### SECTION F: UNIVERSAL ACCESSIBILITY & CIVIC VENUE PRIDE (SPOP Q3) / ACCESSIBILITY UG BUGAL SAN LUGAR
 *Evaluates universal wheelchair access (BP 344 / ADA), material cleanliness, and civic pride in venue infrastructure.* / *Pagtimbang san accessibility ha may kapansanan ug pagpanami san lugar.*
 
 **F1. Dedicated, wide wheelchair pathways (minimum 1200 mm) and integrated seating areas ensure that the venue is inclusive for persons with disabilities (PWDs) and senior citizens.**  
@@ -570,7 +570,7 @@
 
 ### INTERVIEW GUIDE QUESTIONS / MGA PAKIANA SA INTERVIEW
 
-#### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1) / MGA KULANG UG PROBLEMA HA LUGAR
+#### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1.1) / MGA KULANG UG PROBLEMA HA LUGAR
 1. **What are the primary spatial and physical challenges you encounter when setting up or tearing down events in the 840 sqm Main Hall of the Calbayog City Convention Center?**  
    *Waraynon: Ano an mga panguna nga problema ha lugar ug pasilidad nga imo naaagihan samtang nag-preparar o nag-hihipos san mga gamit ha 840 sqm nga Main Hall san Calbayog City Convention Center?*
 2. **How much time do you spend setting up events in the main hall, and what setup challenges slow you down?**  
@@ -578,7 +578,7 @@
 3. **How do current acoustic reverberation and ambient lighting conditions affect event execution?**  
    *Waraynon: Paunan-o nakaka-apekto an lanog (echo) ug suga ha yana nga pamalakad san mga okasyon?*
 
-#### Module 2: Spatial Modularity & Furniture Flexibility (SPOP Q2 & Q5) / KAABTIK SAN MUEBLES UG LUGAR
+#### Module 2: Spatial Modularity & Furniture Flexibility (SPOP Q1) / KAABTIK SAN MUEBLES UG LUGAR
 4. **What types of modular furniture (FF&E), stackable seating modules, or convertible staging systems would most dramatically improve your setup speed and spatial efficiency?**  
    *Waraynon: Ano nga klase san mga bag-o nga muebles (FF&E), stackable seating, o staging systems an nakakapadali san pag-preparar ug pagpaabtik san lugar?*
 5. **How would having standardized layout templates (e.g., Plenary, Classroom, Banquet, Exhibition) change your space planning workflow?**  
@@ -586,13 +586,13 @@
 6. **What anthropometric clearance issues (e.g., aisle widths, server passage, seat spacing) do you frequently observe during large banquets or exhibitions?**  
    *Waraynon: Ano nga mga problema ha agi-an, ha distansya san lingkuran, ug ha agi-an san waiters an imo agsub nga nakikita ha mga dako nga banquets o exhibitions?*
 
-#### Module 3: Overhead Ceiling Track & Rigging Systems (SPOP Q4) / DISENYO UG TRACKS HA CEILING
+#### Module 3: Overhead Ceiling Track & Rigging Systems (SPOP Q3.1) / DISENYO UG TRACKS HA CEILING
 7. **How could an adjustable overhead ceiling track and rigging system benefit your lighting, sound, or decorative drapery setups?**  
    *Waraynon: Paunan-o makakabulig an adjustable ceiling track and rigging system ha pag-bitay san mga suga, sound, ug dekorasyon?*
 8. **In what ways would motorized overhead truss hoists improve safety and floor space utilization during major events?**  
    *Waraynon: Sa ano nga pamaagi makakabulig an motorized truss hoists para ha kaluwasan ug pagpapadako san lugar ha sahig ha mga dako nga okasyon?*
 
-#### Module 4: Cultural Heritage Expression & Sense of Place (SPOP Q3 & Q6) / DISENYO TIKANG HA KULTURA SAN SAMAR
+#### Module 4: Cultural Heritage Expression & Sense of Place (SPOP Q2 & Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
 9. **How do you feel about integrating traditional Samar Basey *banig* mat weaving patterns, *tikog* grass textures, and Calbayog waterfall imagery into upgraded perimeter acoustic drapery and ceiling acoustic baffles?**  
    *Waraynon: Ano an imo hunahuna ha pag-upod san mga disenyo tikang ha banig Basey, tikog, ug busay san Calbayog ha mga acoustic curtains ug ceiling baffles san venue?*
 10. **How can we balance strong cultural expression with high spatial reconfigurability so that permanent motifs do not restrict room versatility?**  
@@ -623,6 +623,135 @@
 
 ---
 
+# PART 6: FORM E — EXPERT PRACTITIONER DESIGN VALIDATION RUBRIC (PHASE 4)
+
+**Project Title**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
+**Target Evaluators**: Licensed Interior Designers (IDr), Registered Architects (UAP/PIA), and Professional Venue / MICE Event Managers ($n = 3 \text{ to } 5$).
+
+---
+
+### EVALUATOR PROFILE / IMPORMASYON SAN EKSPERTO
+
+* **Evaluator Name (Optional)**: __________________________________________________
+* **Professional Designation / Title**: 
+  - [ ] Licensed Interior Designer (IDr)
+  - [ ] Registered and Licensed Architect (RLA)
+  - [ ] Professional Venue Administrator / Facility Operations Manager
+  - [ ] Professional MICE Event Planner / Technical Director
+* **PRC License Number (if applicable)**: ____________________
+* **Years of Professional Practice**: 
+  - [ ] Less than 5 years
+  - [ ] 5 to 10 years
+  - [ ] 11 to 20 years
+  - [ ] More than 20 years
+* **Primary Specialization**: __________________________________________________
+
+---
+
+### EVALUATION INSTRUCTIONS & SCORING SYSTEM
+
+Please evaluate the proposed **Site-Specific Interior Design Framework, 2D/3D Modular Layout Manual, and Material Specifications** for the 840 square meter Main Hall of the Calbayog City Convention Center. Rate each parameter using the 5-point Likert scale below:
+
+| Rating | Verbal Interpretation | Mean Score Range | Qualitative Description |
+| :---: | :--- | :---: | :--- |
+| **5** | **Strongly Agree (SA)** | 4.21 – 5.00 | **Highly Valid & Feasible**: Exceptional design execution; fully meets standard. |
+| **4** | **Agree (A)** | 3.41 – 4.20 | **Valid & Feasible**: Sound execution; meets standard with minor refinements. |
+| **3** | **Neutral / Moderate (N)** | 2.61 – 3.40 | **Moderately Valid**: Acceptable but requires notable adjustments. |
+| **2** | **Disagree (D)** | 1.81 – 2.60 | **Minimally Valid**: Inadequate execution; requires major design revision. |
+| **1** | **Strongly Disagree (SD)** | 1.00 – 1.80 | **Invalid & Infeasible**: Fails to meet professional or regulatory standards. |
+
+---
+
+### VALIDATION MATRIX
+
+#### CRITERION A: SPATIAL FEASIBILITY, MODULARITY & CAPACITY OPTIMIZATION (SPOP Q1 & Q3)
+*Evaluates the viability of the non-structural interior layout typologies within the 840 sqm Main Hall envelope.*
+
+| Item Code | Evaluation Parameter | 1<br>(SD) | 2<br>(D) | 3<br>(N) | 4<br>(A) | 5<br>(SA) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| **A1** | The interior layout typologies (Plenary, Classroom, Banquet, Exhibition) fit within the 840 sqm envelope without causing physical overcrowding. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **A2** | The spatial zoning maintains clear separation between primary seating zones, pedestrian aisles, and back-of-house service routes. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **A3** | The proposed mobile furniture (FF&E), stackable chairs, and folding tables support fast physical reconfiguration and efficient storage. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **A4** | The designated loading access and internal staging lanes facilitate unobstructed furniture movement during rapid event turnarounds. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **A5** | The framework strictly respects the non-structural scope boundary without requiring structural alterations to columns or external walls. | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+---
+
+#### CRITERION B: ERGONOMIC STANDARDS & BP 344 UNIVERSAL ACCESSIBILITY (SPOP Q1 & Q3)
+*Evaluates compliance with anthropometric clearances (Panero & Zelnik, 1979; Neufert, 2012) and Batas Pambansa Bilang 344.*
+
+| Item Code | Evaluation Parameter | 1<br>(SD) | 2<br>(D) | 3<br>(N) | 4<br>(A) | 5<br>(SA) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| **B1** | Seating modules and row spacing (e.g., 900 mm plenary seat pitch; 450–500 mm classroom depth) provide adequate physical occupant comfort. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **B2** | Table-to-table service lanes (1620–1800 mm in banquet layouts) accommodate bidirectional server movement and seated chair push-back. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **B3** | Main pedestrian thoroughfares and secondary aisles strictly maintain continuous clear widths ($\ge 1200\text{ mm}$) compliant with BP 344. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **B4** | Dedicated wheelchair assembly stalls ($760 \times 1220\text{ mm}$) and $1500\text{ mm}$ turning circles are seamlessly integrated into seating clusters. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **B5** | Vertical sightline offsets ($60\text{ mm}$ staggered / $120\text{ mm}$ unstaggered C-values) ensure unobstructed viewing angles to the stage. | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+---
+
+#### CRITERION C: ACOUSTIC REMEDIATION & OVERHEAD RIGGING OPERABILITY (SPOP Q1.1 & Q3.1)
+*Evaluates the functional integration of variable acoustic wall panels and overhead ceiling track infrastructure.*
+
+| Item Code | Evaluation Parameter | 1<br>(SD) | 2<br>(D) | 3<br>(N) | 4<br>(A) | 5<br>(SA) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| **C1** | The non-structural acoustic wall paneling and perimeter drapery effectively address flutter echoes and speech intelligibility in the hall. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **C2** | The overhead ceiling track and rigging grid efficiently organizes lighting, sound, and drapery hoists without cluttering the floor plane. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **C3** | The sculpted ceiling acoustic baffles effectively conceal mechanical ductwork/utilities while maintaining required vertical headroom. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **C4** | The proposed overhead track system allows flexible spatial subdivision and rapid atmospheric lighting transitions across diverse event scales. | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+---
+
+#### CRITERION D: CULTURAL RESONANCE & SAMAR HERITAGE TRANSLATION (SPOP Q2)
+*Evaluates the abstraction of Basey banig weaving, tikog grass, and Calbayog waterfall topographies into interior finishes.*
+
+| Item Code | Evaluation Parameter | 1<br>(SD) | 2<br>(D) | 3<br>(N) | 4<br>(A) | 5<br>(SA) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| **D1** | The translation of Basey *banig* weaving patterns (Samat and Lara weaves) into laser-cut wall panels demonstrates authentic cultural resonance. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **D2** | The incorporation of natural *tikog* grass textures into acoustic finishes provides tactile warmth and reinforces local identity (*genius loci*). | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **D3** | The fluid geometries derived from Calbayog waterfall topographies (Tarangban, Bangon, Mapaso) are effectively integrated into ceiling baffles. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **D4** | Cultural motifs are balanced with contemporary functional finishes, avoiding aesthetic clutter while maintaining high spatial adaptability. | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+---
+
+#### CRITERION E: LAYOUT MANUAL CLARITY, USABILITY & REPLICABILITY (SPOP Q3 & Q5)
+*Evaluates the practical utility of the layout guide for venue operators, event organizers, and LGU facility staff.*
+
+| Item Code | Evaluation Parameter | 1<br>(SD) | 2<br>(D) | 3<br>(N) | 4<br>(A) | 5<br>(SA) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| **E1** | The 2D/3D layout diagrams, dimension callouts, and zoning legends are clear, legible, and easy for venue staff to interpret. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **E2** | The step-by-step reconfiguration guidelines and staging sequences provide actionable instructions that accelerate setup and teardown times. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **E3** | The specified FF&E materials and modular track systems demonstrate long-term durability, low maintenance, and future-proof adaptability. | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **E4** | The interior design framework serves as a practical, replicable model for other mid-scale provincial Philippine LGU convention facilities. | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+---
+
+### OVERALL EVALUATION SUMMARY & QUALITATIVE FEEDBACK
+
+#### 1. Overall Evaluator Rating Summary
+* **Total Composite Mean ($\bar{x}$)**: ________ / 5.00
+* **Overall Assessment**:
+  - [ ] **Highly Valid & Approved without Revision** (Composite Mean: 4.21 – 5.00)
+  - [ ] **Valid & Approved with Minor Revisions** (Composite Mean: 3.41 – 4.20)
+  - [ ] **Substantially Valid but Requires Major Revision** (Composite Mean: 2.61 – 3.40)
+  - [ ] **Not Approved / Infeasible** (Composite Mean: 1.00 – 2.60)
+
+#### 2. Specific Technical Recommendations & Professional Comments:
+*(Please provide recommendations on spatial clearances, material specifications, acoustic panel placement, or manual clarity)*
+
+____________________________________________________________________________________________________  
+____________________________________________________________________________________________________  
+____________________________________________________________________________________________________  
+____________________________________________________________________________________________________  
+____________________________________________________________________________________________________  
+
+---
+
+**Evaluator Signature**: ___________________________________  
+**Date Evaluated**: ___________________________________  
+
+---
+
 ## Instrument Validation References
 
 * An, J., Kim, H., & Hur, D. (2021). Keeping the competitive edge of a convention and exhibition center in MICE environment: Identification of event attributes for long-run success. *Sustainability*, 13(9), 5030. https://doi.org/10.3390/su13095030
@@ -631,3 +760,4 @@
 * Neufert, E., & Neufert, P. (2012). *Architects' data* (4th ed.). Wiley-Blackwell.
 * Panero, J., & Zelnik, M. (1979). *Human dimension & interior space: A source book of design reference standards*. Whitney Library of Design.
 * Pembegül, M. (2009). *Design parameters in convention centers and meeting facilities* [Master's thesis, Izmir Institute of Technology].
+

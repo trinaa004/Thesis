@@ -11,7 +11,7 @@ This document serves as the master context index, project ruleset, and reference
 | **[00_title.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_title.md)** | Official Working Title, alternative dual-naming title variations, keyword breakdown, defense script, and title page layout. |
 | **[00_abstract.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_abstract.md)** | Comprehensive Abstract and Structural Abstract Breakdown table for panel defense. |
 | **[00_introduction.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_introduction.md)** | Introduction to MICE industry, shift toward experiential/localized civic venues, and overall study background. |
-| **[00_definitionofterms.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_definitionofterms.md)** | Operational definitions for 18 core technical terms (anthropometrics, FF&E, banig, tikog, open building theory, etc.) and complete reference list. |
+| **[00_definitionofterms.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_definitionofterms.md)** | Operational definitions for 19 core technical terms (spatial modularity, anthropometrics, FF&E, banig, tikog, open building theory, etc.) and complete reference list. |
 | **[01_rationale.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/01_rationale.md)** | Detailed rationale justifying spatial flexibility, Samar cultural preservation, Calbayog eco-tourism identity, and future-proofing. |
 | **[02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md)** | Statement of the Problem (SPOP Q1–Q6), Research Objectives, Significance of the Study, and Scope & Limitations. |
 | **[20_RRL.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md)** | Review of Related Literature (RRL), theoretical framework, ergonomic standards, cultural design references, and citation database. |
@@ -25,6 +25,9 @@ This document serves as the master context index, project ruleset, and reference
 | **[35_Data Analysis.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/35_Data%20Analysis.md)** | Descriptive statistics (weighted means), Braun & Clarke (2006) thematic analysis, and spatial triangulation procedures. |
 | **[37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md)** | Complete text of research survey forms, questionnaire items, and qualitative interview scripts. |
 | **[Consultation/nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/nutshell.md)** | Master Executive Summary, 30-Second Elevator Pitch, 3 Design Pillars, Scope Boundary Matrix, and Defense Quick Reference. |
+| **[Consultation/rrl_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/rrl_nutshell.md)** | Chapter 2 (Literature Review) In a Nutshell: Theoretical synthesis, spatial modularity, anthropometrics, cultural precedents, and research gap mapping. |
+| **[Consultation/methodology_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/methodology_nutshell.md)** | Chapter 3 (Research Methodology) In a Nutshell: 4-phase design synthesis flow, sampling matrix, instruments, RA 10173 data collection, and 3-tier validation protocol. |
+| **[Consultation/paper_assessment_and_presentation_outline.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/paper_assessment_and_presentation_outline.md)** | Comprehensive 7-Part Consultation & Presentation Walkthrough with verbatim speaking scripts and adviser audit checklist. |
 
 ---
 

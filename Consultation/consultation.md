@@ -45,22 +45,22 @@ The Calbayog City Convention Center serves as the primary municipal hub for MICE
 This study aims to formulate a site-specific interior design framework for the Calbayog City Convention Center that harmonizes spatial modularity, local Samar heritage, and future-proof adaptability. 
 Specifically, the study focuses on the following sub-problems:
 
-1. What are the current spatial, operational, and acoustic challenges within the Main Hall of the Calbayog City Convention Center that hinder venue efficiency and attendee experience? 
-2. How can modular interior zoning, reconfigurable FF&E (Furniture, Fixtures, and Equipment), and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility compliance (BP 344/ADA)? 
-3. In what ways can localized Samar heritage motifs and cultural elements be woven into interior surface treatments to cultivate a distinct sense of place without restricting space versatility?  
-4. How can the overhead ceiling plane be utilized to integrate adaptable spatial mechanisms and ambient controls to enhance event setup efficiency and atmospheric versatility? 
-5. What interior material and technological specifications regarding smart technologies, acoustics, and sustainable materials can future-proof the space to maintain long-term relevance? 
+1. How can modular interior zoning, reconfigurable FF&E (Furniture, Fixtures, and Equipment), and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility compliance (BP 344/ADA)? 
+   1.1. What are the current spatial, operational, and acoustic challenges within the Main Hall of the Calbayog City Convention Center that hinder venue efficiency and attendee experience? 
+2. In what ways can localized Samar heritage motifs and cultural elements be woven into interior surface treatments to cultivate a distinct sense of place without restricting space versatility?  
+3. What interior material and technological specifications regarding smart technologies, acoustics, and sustainable materials can future-proof the space to maintain long-term relevance? 
+   3.1. How can the overhead ceiling plane be utilized to integrate adaptable spatial mechanisms and ambient controls to enhance event setup efficiency and atmospheric versatility? 
 
 ---
 
 ## Research Objectives
 This study aims to develop a site-specific interior design framework consisting of modular interior typologies and layout standards that adapt to the diverse event demands of the Calbayog City Convention Center, which integrates modular, culturally-responsive, and future-proof design principles, to enhance spatial efficiency, user experience, and long-term functionality for both event planners and users of the space. Specifically, it seeks to:
 
-* Evaluate the existing layout configurations, user circulation, and material conditions of the Calbayog City Convention Center's interior spaces. 
-* Formulate modular furniture layouts and interior zoning strategies that maximize spatial capacity and configuration speed. 
-* Synthesize culturally-responsive design elements—integrating traditional Samar banig weaving heritage and Calbayog's natural waterfall motifs—into the space's permanent and semi-permanent interior surfaces. 
-* Propose an adaptable overhead system, combining modular acoustic ceiling finishes with a flexible track and rigging framework, to facilitate quick transformations in mood, lighting, and interior draping. 
-* Apply future-proof interior specifications regarding smart technologies, acoustics, and sustainable materials to maintain long-term relevance. 
+1. Formulate modular furniture layouts and interior zoning strategies that maximize spatial capacity and configuration speed. 
+   1.1. Evaluate the existing layout configurations, user circulation, and material conditions of the Calbayog City Convention Center's interior spaces. 
+2. Synthesize culturally-responsive design elements—integrating traditional Samar banig weaving heritage and Calbayog's natural waterfall motifs—into the space's permanent and semi-permanent interior surfaces. 
+3. Apply future-proof interior specifications regarding smart technologies, acoustics, and sustainable materials to maintain long-term relevance. 
+   3.1. Propose an adaptable overhead system, combining modular acoustic ceiling finishes with a flexible track and rigging framework, to facilitate quick transformations in mood, lighting, and interior draping. 
 
 ---
 
