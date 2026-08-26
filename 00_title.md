@@ -25,9 +25,9 @@
 | Title Phrase | Scope & Academic Function | SPOP / Thesis Alignment |
 | :--- | :--- | :--- |
 | **"An Interior Design Framework for the Calbayog City Convention Center"** | Identifies the primary research output (site-specific design manual) and the specific 840 sqm Main Hall venue in Calbayog City, Samar. | Scope & Limitations, Chapter 3 Locale |
-| **"Harmonizing Spatial Modularity"** | Encompasses modular furniture (FF&E), mobile spatial dividers, and flexible layout typologies (Plenary, Classroom, Banquet, Exhibition). | SPOP Q2 & Q5 |
+| **"Harmonizing Spatial Modularity"** | Encompasses modular furniture (FF&E), mobile spatial dividers, and flexible layout typologies (Plenary, Classroom, Banquet, Exhibition). | SPOP Q1 & Q2 |
 | **"Samar-Calbayog Cultural Heritage"** | **Dual Cultural Synthesis**: Unites regional Samar heritage (Basey *banig* mat weaving patterns, *tikog* grass textures, Waray motifs) with local Calbayog municipal identity (cascading waterfall imagery & civic pride). | SPOP Q3, Chapter 1 Rationale |
-| **"and Future-Proof Event Adaptability"** | Captures overhead ceiling track/rigging infrastructure, acoustic control, smart lighting, universal accessibility (BP 344 / ADA), and long-term material durability. | SPOP Q4 & Q6 |
+| **"and Future-Proof Event Adaptability"** | Captures overhead ceiling track/rigging infrastructure, acoustic control, smart lighting, universal accessibility (BP 344 / ADA), and long-term material durability. | SPOP Q2 & Q4 |
 
 ---
 

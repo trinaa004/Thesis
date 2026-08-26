@@ -54,12 +54,12 @@ To evaluate operational setup workflows, turnaround bottlenecks, FF&E reconfigur
 
 | Instrument Section & Evaluation Dimension | Statement of Problem Mapping | No. of Items ($k$) | Section Mean ($\mu$) | Section Cronbach's Alpha ($\alpha$) | Internal Consistency Interpretation |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **Section B: Existing Spatial & Operational Bottlenecks** | SPOP Q1 | 5 | 3.84 / 5.0 | **$\alpha = 0.9060$** | **Excellent Reliability** |
+| **Section B: Baseline IEQ & Operational Bottlenecks** | SPOP Q1 (Q1.2) | 5 | 3.84 / 5.0 | **$\alpha = 0.9060$** | **Excellent Reliability** |
 | **Section C: Flexible FF&E & Turnaround Efficiency** | SPOP Q2 | 5 | 4.58 / 5.0 | **$\alpha = -0.0459$** | **High-Consensus Subscale** *(Ceiling effect / near-zero variance artifact)* |
 | **Section D: Localized Samar Cultural Integration** | SPOP Q3 | 5 | 4.70 / 5.0 | **$\alpha = 0.6132$** | **Moderate / Acceptable Subscale** |
 | **Section E: Overhead Ceiling Rigging & Lighting Adaptability** | SPOP Q4 | 5 | 4.56 / 5.0 | **$\alpha = 0.9153$** | **Excellent Reliability** |
-| **Section F: Programmatic Parameters & Future-Proof Specs** | SPOP Q5 & Q6 | 5 | 4.68 / 5.0 | **$\alpha = 0.7486$** | **Acceptable / Good Reliability** |
-| **OVERALL COMPOSITE FORM A INSTRUMENT** | **SPOP Q1–Q6** | **25** | **4.47 / 5.0** | **$\mathbf{\alpha = 0.9402}$** | **EXCELLENT COMPOSITE RELIABILITY** |
+| **Section F: Programmatic Parameters & Future-Proof Specs** | SPOP Q2 & Q4 | 5 | 4.68 / 5.0 | **$\alpha = 0.7486$** | **Acceptable / Good Reliability** |
+| **OVERALL COMPOSITE FORM A INSTRUMENT** | **SPOP Q1–Q4** | **25** | **4.47 / 5.0** | **$\mathbf{\alpha = 0.9402}$** | **EXCELLENT COMPOSITE RELIABILITY** |
 
 ---
 
@@ -121,7 +121,7 @@ To evaluate operational setup workflows, turnaround bottlenecks, FF&E reconfigur
 
 ---
 
-### Section F: Programmatic Parameters & Future-Proof Specifications (SPOP Q5 & Q6)
+### Section F: Programmatic Parameters & Future-Proof Specifications (SPOP Q2 & Q4)
 *Evaluates standardized layout manual, BP 344/ADA compliance, low-VOC materials, and lifecycle.*
 
 | Item Code | Survey Prompt Summary | Item Mean ($\mu$) | Item Variance ($\sigma^2$) | Response Distribution Summary |

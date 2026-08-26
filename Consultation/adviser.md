@@ -66,15 +66,14 @@ This guide prepares the researcher for rigorous academic interrogation during th
 
 # CATEGORY 2: STATEMENT OF THE PROBLEM (SPOP) & OBJECTIVES ALIGNMENT
 
-### Q4. "Walk me through how your Statement of the Problem (SPOP Q1–Q5) directly drives your final design deliverables."
+### Q4. "Walk me through how your Statement of the Problem (SPOP Q1–Q4) directly drives your final design deliverables."
 * **Underlying Academic Concern**: The adviser is evaluating construct alignment—verifying that every single sub-problem in Chapter 1 has a corresponding objective, methodological tool, and design deliverable.
 * **Recommended Verbal Response / Defense Script**:
-  > *"There is a direct 1-to-1 mapping across my research framework:
-  > * SPOP Q1 (Existing spatial, circulation, and acoustic bottlenecks) drives Objective 1 and is evaluated via Survey Section B, Interview Module 1, and On-Site Observation.
-  > * SPOP Q2 (Modular zoning, FF&E layout typologies, and turnaround speed) drives Objective 2 and generates the standardized Layout Manual (Plenary, Classroom, Banquet, Exhibition).
-  > * SPOP Q3 (Samar cultural heritage integration) drives Objective 3 and generates the digital pattern matrices abstracting Basey banig weaving, tikog grass, and Calbayog waterfall motifs.
-  > * SPOP Q4 (Overhead ceiling plane & track/rigging adaptability) drives Objective 4 and generates the non-structural ceiling grid and lighting/drapery rigging interface.
-  > * SPOP Q5 (Future-proof materials, acoustics, and universal accessibility) drives Objective 5, establishing BP 344/ADA clearance standards and sustainable material specifications."*
+  > *"There is a direct 1-to-1 mapping across my 4-pillar research framework:
+  > * SPOP Q1 (Baseline IEQ satisfaction & operator setup bottlenecks) drives Objective 1 and is evaluated via Survey Section B, Interview Module 1, and On-Site Observation.
+  > * SPOP Q2 (Modular zoning, FF&E layout typologies, and universal accessibility BP 344) drives Objective 2 and generates the standardized Layout Manual (Plenary, Classroom, Banquet, Exhibition).
+  > * SPOP Q3 (Samar cultural heritage integration & placemaking) drives Objective 3 and generates the digital pattern matrices abstracting Basey banig weaving, tikog grass, and Calbayog waterfall motifs.
+  > * SPOP Q4 (Future-proof materials, acoustic wall assemblies, and overhead track/rigging interface) drives Objective 4 and generates the non-structural ceiling grid and high-performance material specifications."*
 * **Key Evidence & Literature to Cite**:
   * [02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md#L3-L24).
   * Creswell, J. W., & Creswell, J. D. (2018). *Research Design*.
@@ -181,7 +180,7 @@ This guide prepares the researcher for rigorous academic interrogation during th
 * **Recommended Verbal Response / Defense Script**:
   > *"I have established a 3-step instrument validation protocol:
   > 1. Content & Construct Validity: All survey dimensions and facility attributes were directly synthesized from established benchmark MICE facility literature, specifically An, Kim, & Hur (2021) and Pembegül (2009).
-  > 2. Expert Faculty Review: The draft instruments are undergoing content review by interior design thesis faculty to verify alignment with SPOP Q1–Q5.
+  > 2. Expert Faculty Review: The draft instruments are undergoing content review by interior design thesis faculty to verify alignment with SPOP Q1–Q4.
   > 3. Pilot Testing & Reliability (Phase 2): Prior to field distribution, a pilot test will be administered to 20 non-sample participants (10 expert planners and 10 attendees) to assess item readability, clarity, and compute internal consistency reliability via Cronbach’s alpha ($\alpha \ge 0.70$ threshold)."*
 * **Key Evidence & Literature to Cite**:
   * An et al. (2021); Pembegül (2009); Creswell & Creswell (2018).

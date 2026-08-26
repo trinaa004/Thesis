@@ -104,11 +104,10 @@ All modular layouts within the 840 sqm footprint are mathematically grounded in 
 
 | Sub-Problem | Gap Addressed | Study Contribution |
 | :--- | :--- | :--- |
-| **SPOP 1: Baseline Diagnostics** | Lack of empirical data on turnaround bottlenecks and acoustic flutter in converted provincial halls. | Mixed-methods spatial triangulation (operator surveys, attendee evaluations, acoustic analysis). |
+| **SPOP 1: Baseline IEQ & Diagnostics** | Lack of empirical data on attendee IEQ satisfaction (lighting, acoustics, thermal) and operator turnaround bottlenecks in converted provincial halls. | Mixed-methods spatial triangulation (operator surveys, attendee evaluations, spatial observation). |
 | **SPOP 2: Modular Layouts & FF&E** | Absence of pre-calculated layout toolkits adhering to BP 344 accessibility for 840 sqm envelopes. | Anthropometrically validated layout catalog (Plenary, Classroom, Banquet, Exhibition). |
-| **SPOP 3: Cultural Translation** | Generic placelessness and lack of formalized Waray/Samar motif abstraction protocols. | Systematic Cultural Abstraction Matrix (Basey *banig* & waterfall geometry translated into interior surfaces). |
-| **SPOP 4: Overhead Infrastructure** | Passive MEP ceiling concealment that ignores overhead rigging utility. | Non-structural ceiling grid integrating acoustic baffles, modular track lighting, and drapery hoists. |
-| **SPOP 5: Future-Proof Specifications** | Rapid material and technological obsolescence in municipal public interiors. | Sustainable material matrix (*tikog* composites, recycled acoustic substrate, IoT smart environmental controls). |
+| **SPOP 3: Cultural Translation & Placemaking** | Generic placelessness and lack of formalized Waray/Samar motif abstraction protocols. | Systematic Cultural Abstraction Matrix (Basey *banig*, *tikog* textures, & waterfall geometry translated into interior surfaces). |
+| **SPOP 4: Future-Proofing & Overhead Tracks** | Passive MEP ceilings and rapid material/technological obsolescence in municipal civic spaces. | Non-structural ceiling track grid, sustainable local material matrix (*tikog* composites, FSC timber), and high-performance acoustic overlays. |
 
 ---
 

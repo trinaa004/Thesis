@@ -2,24 +2,27 @@
 
 ## Statement of the Problem
 This study aims to formulate a site-specific interior design framework for the Calbayog City Convention Center that harmonizes spatial modularity, local Samar heritage, and future-proof adaptability. 
-Specifically, the study focuses on the following sub-problems:
 
-1. How can modular interior zoning, reconfigurable FF&E (Furniture, Fixtures, and Equipment), and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility compliance (BP 344/ADA)? 
-   1.1. What are the current spatial, operational, and acoustic challenges within the Main Hall of the Calbayog City Convention Center that hinder venue efficiency and attendee experience? 
-2. In what ways can localized Samar heritage motifs and cultural elements be woven into interior surface treatments to cultivate a distinct sense of place without restricting space versatility?  
-3. What interior material and technological specifications regarding smart technologies, acoustics, and sustainable materials can future-proof the space to maintain long-term relevance? 
-   3.1. How can the overhead ceiling plane be utilized to integrate adaptable spatial mechanisms and ambient controls to enhance event setup efficiency and atmospheric versatility? 
+Specifically, the study addresses the following research questions:
+
+1. What is the current baseline condition of the Calbayog City Convention Center's Main Hall & Foyer in terms of indoor environmental quality (IEQ) and spatial usage efficiency?
+   1.1. What is the level of attendee satisfaction regarding existing interior lighting, acoustics, and thermal comfort?
+   1.2. What setup turnaround delays and spatial layout challenges do event planners and venue operators encounter within the 840 sqm interior envelope?
+2. How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility?
+3. In what ways can localized Samar heritage and Calbayog natural motifs be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
+4. What interior material specifications, acoustic overlays, and overhead ceiling track systems can future-proof the facility for multi-scale event adaptability?
 
 ---
 
 ## Research Objectives
-This study aims to develop a site-specific interior design framework consisting of modular interior typologies and layout standards that adapt to the diverse event demands of the Calbayog City Convention Center, which integrates modular, culturally-responsive, and future-proof design principles, to enhance spatial efficiency, user experience, and long-term functionality for both event planners and users of the space. Specifically, it seeks to:
+This study aims to develop a site-specific interior design framework consisting of modular interior typologies and layout standards that adapt to the diverse event demands of the Calbayog City Convention Center, integrating modular, culturally-responsive, and future-proof design principles to enhance spatial efficiency, user experience, and long-term functionality for both event planners and users of the space. Specifically, it seeks to:
 
-1. Formulate modular furniture layouts and interior zoning strategies that maximize spatial capacity and configuration speed. 
-   1.1. Evaluate the existing layout configurations, user circulation, and material conditions of the Calbayog City Convention Center's interior spaces. 
-2. Synthesize culturally-responsive design elements—integrating traditional Samar banig weaving heritage and Calbayog's natural waterfall motifs—into the space's permanent and semi-permanent interior surfaces. 
-3. Apply future-proof interior specifications regarding smart technologies, acoustics, and sustainable materials to maintain long-term relevance. 
-   3.1. Propose an adaptable overhead system, combining modular acoustic ceiling finishes with a flexible track and rigging framework, to facilitate quick transformations in mood, lighting, and interior draping. 
+1. To evaluate the baseline indoor environmental quality (IEQ) and spatial operational conditions of the Calbayog City Convention Center's Main Hall & Foyer.
+   1.1. Measure attendee satisfaction with the existing interior lighting, acoustic performance, and thermal comfort.
+   1.2. Identify physical layout bottlenecks and setup turnaround delays experienced by event planners and venue operators during live operations.
+2. To formulate standardized modular layout typologies (Plenary, Classroom, Banquet, Exhibition) and reconfigurable FF&E arrangements that optimize spatial capacity, accelerate turnaround speed, and ensure universal accessibility.
+3. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, and Calbayog waterfall fluid forms—to establish a localized civic identity and place attachment.
+4. To propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
 
 ---
 

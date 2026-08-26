@@ -186,7 +186,7 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 
 ### Research Instruments Overview:
 1. **Form A — Quantitative Survey for Planners & Operators** ([37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md#L14-L290)):
-   * 6 Sections mapped to SPOP Q1–Q5 (Demographics, Existing Bottlenecks, FF&E Modularity, Cultural Integration, Ceiling Rigging, Future-Proofing).
+   * 6 Sections mapped to SPOP Q1–Q4 (Demographics, Existing Baseline Bottlenecks & IEQ, FF&E Modularity, Cultural Integration, Ceiling Rigging, Future-Proofing).
    * 5-point Likert scale (1 = Strongly Disagree to 5 = Strongly Agree) with Waraynon translations.
 2. **Form B — Quantitative Survey for Event Attendees** ([37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md#L293-L562)):
    * 6 Sections capturing attendee spatial perception, comfort, circulation, acoustics, and civic pride.
@@ -216,9 +216,9 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 *Use this table during your consultation meeting to systematically guide the discussion, record adviser feedback, and obtain formal sign-off:*
 
 | Agenda Item | Topic & Research Context | Key Talking Points to Present | Adviser Feedback / Recommendations | Sign-Off / Status |
-| :--- | :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- | :--- |
 | **1. Scope & Professional Boundary** | Non-structural interior overlay vs. building envelope | Clarify that load-bearing columns, exterior facades, civil works, MEP engineering, and formal acoustic ratings are strictly excluded as out-of-scope. | | [ ] Approved<br>[ ] Revisions Needed |
-| **2. Problem Statement & Objectives** | Alignment of SPOP Q1–Q5 with 5 Research Objectives | Present the direct 1-to-1 mapping between SPOP questions and Chapter 1 research objectives. | | [ ] Approved<br>[ ] Revisions Needed |
+| **2. Problem Statement & Objectives** | Alignment of SPOP Q1–Q4 with 4 Research Objectives | Present the direct 1-to-1 mapping between SPOP questions and Chapter 1 research objectives. | | [ ] Approved<br>[ ] Revisions Needed |
 | **3. Theoretical Synthesis** | Open Building (Habraken) + Place Attachment (Scannell & Gifford) | Explain how Habraken addresses planner logistics (Infill) while Scannell & Gifford addresses attendee cultural experience (Place). | | [ ] Approved<br>[ ] Revisions Needed |
 | **4. Sampling Feasibility & Size** | $N = 115–145$ ($15–25$ planners + $100–120$ attendees) | Defend Purposive Expert Sampling for localized planners and Slovin's formula quota sampling for general attendees. | | [ ] Approved<br>[ ] Revisions Needed |
 | **5. Instrument Design & Validation** | Survey Forms A & B, Interview Guide, Observation Checklist | Highlight bilingual English/Waray translation, validation references (An et al., 2021; Pembegül, 2009), and 20-expert pilot testing plan. | | [ ] Approved<br>[ ] Revisions Needed |

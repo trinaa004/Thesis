@@ -45,24 +45,27 @@
 # PART 2: CHAPTER 1 — STATEMENT OF THE PROBLEM & OBJECTIVES
 
 ### Core Facts & References to Present:
-* **Direct Alignment**: SPOP and Research Objectives are compressed into **3 Main Questions + 2 Sub-questions** directly mirroring the 3 title pillars ([02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md#L4-L24)).
+* **Direct Alignment**: SPOP and Research Objectives are structured into **4 Cohesive Pillars** directly driving the design framework ([02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md#L3-L24)).
 
 ```
-├── Main Q1: Spatial Modularity & Layout Typologies (Plenary, Classroom, Banquet, Exhibition)
-│   └── Sub-Q 1.1: Baseline Spatial & Acoustic Challenges (Setup delays, echo, tile reflections)
-├── Main Q2: Local Samar Cultural Heritage (Basey banig weaves, tikog grass, Calbayog waterfalls)
-└── Main Q3: Future-Proof Specifications (Smart lighting, sustainability, BP 344 / ADA)
-    └── Sub-Q 3.1: Overhead Ceiling Plane & Track-Rigging Interface
+├── Main Q1: Baseline IEQ & Spatial Operational Assessment (Lighting, Acoustics, Thermal, Turnaround Delays)
+│   ├── Sub-Q 1.1: Attendee/Stakeholder Satisfaction (Lighting, Acoustics, Thermal Comfort)
+│   └── Sub-Q 1.2: Event Planner & Operator Bottlenecks (Setup/Teardown Turnaround Friction)
+├── Main Q2: Spatial Modularity & Layout Typologies (Plenary, Classroom, Banquet, Exhibition, BP 344)
+├── Main Q3: Local Samar Cultural Heritage (Basey banig weaves, tikog grass, Calbayog waterfalls)
+└── Main Q4: Future-Proof Materials & Overhead Ceiling Track System
 ```
 
 > **(Say to Adviser / Panel):**  
-> *"In Chapter 1, our Statement of the Problem and Research Objectives are directly aligned with our title.  
+> *"In Chapter 1, our Statement of the Problem and Research Objectives follow a rigorous 4-pillar research trajectory:  
 > 
-> Main Question 1 establishes Spatial Modularity—developing four standardized layout typologies (Plenary, Classroom, Banquet, and Exhibition), supported by Sub-Question 1.1 which audits baseline turnaround bottlenecks and acoustic challenges.  
+> Main Question 1 establishes the Empirical Baseline Assessment—evaluating attendee satisfaction with Indoor Environmental Quality (lighting, acoustics, and thermal comfort) and identifying live operational turnaround bottlenecks experienced by venue operators.  
 > 
-> Main Question 2 investigates Local Samar Heritage—abstracting Basey banig weaving, tikog grass textures, and Calbayog waterfall linework into acoustic surface treatments.  
+> Main Question 2 formulates Spatial Modularity—developing four standardized layout typologies (Plenary, Classroom, Banquet, and Exhibition) adhering strictly to BP 344 and ADA universal accessibility standards.  
 > 
-> Main Question 3 formulates Future-Proof Specifications—incorporating sustainable materials, BP 344 universal accessibility, and smart lighting controls, supported by Sub-Question 3.1 which optimizes the overhead ceiling track interface."*
+> Main Question 3 synthesizes Local Samar Heritage—abstracting Basey banig weaving, tikog grass textures, and Calbayog waterfall fluid forms into acoustic surface treatments to cultivate place attachment.  
+> 
+> Main Question 4 establishes Technical Future-Proofing—specifying sustainable acoustic materials and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility."*
 
 ---
 
@@ -185,7 +188,7 @@ Active Logistics (Event Planners)                  Passive Experience (Event Att
 | Chapter / Section | Evaluation Item | Status | Verified File Link |
 | :--- | :--- | :---: | :--- |
 | **Title & Disciplinary Scope** | Aligned with BS Interior Design scope (RA 10350); non-structural boundary strictly enforced. | `[  ]` | [00_title.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_title.md) |
-| **Chapter 1: SPOP & Objectives** | 3 Main Questions + 2 Sub-questions structured to mirror the 3 Title Pillars. | `[  ]` | [02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md) |
+| **Chapter 1: SPOP & Objectives** | 4-Pillar Structure (Baseline Assessment, Modularity, Cultural Identity, Future-Proofing). | `[  ]` | [02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md) |
 | **Chapter 2: Theoretical Framework**| Synthesis of Open Building (Habraken) & Place Attachment (Scannell & Gifford). | `[  ]` | [21_theoretical_conceptual.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/21_theoretical_conceptual.md) |
 | **Chapter 2: Literature & Precedent**| Comprehensive literature review and Baguio Convention Center (BCCC) case study. | `[  ]` | [20_RRL.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md) |
 | **Chapter 3: Sampling & Instruments**| Defensible sample ($N=115–145$), bilingual survey forms, and interview protocol. | `[  ]` | [32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md), [37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md) |

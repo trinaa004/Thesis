@@ -83,7 +83,7 @@ All participants must:
 
 ## 5. Research Instruments (The Triangulation Triad)
 
-Data is gathered through three complementary instruments directly mapped to the Statement of the Problem (SPOP Q1–Q5):
+Data is gathered through three complementary instruments directly mapped to the Statement of the Problem (SPOP Q1–Q4):
 
 ```
                                 [ METHODOLOGICAL TRIANGULATION ]
@@ -100,11 +100,11 @@ Data is gathered through three complementary instruments directly mapped to the 
 
 ### Questionnaire Structure (Mapped to SPOP)
 * **Section A**: Demographic & Event Profile
-* **Section B**: Existing Spatial & Operational Challenges *(SPOP 1)*
+* **Section B**: Baseline Indoor Environmental Quality (IEQ) & Spatial Operational Challenges *(SPOP 1)*
 * **Section C**: Flexible FF&E Layout Typologies & Turnaround Efficiency *(SPOP 2)*
-* **Section D**: Localized Samar Cultural Integration *(SPOP 3)*
+* **Section D**: Localized Samar Cultural Integration & Placemaking *(SPOP 3)*
 * **Section E**: Overhead Ceiling Plane & Rigging Adaptability *(SPOP 4)*
-* **Section F**: Programmatic Parameters & Future-Proof Specifications *(SPOP 5)*
+* **Section F**: Programmatic Parameters, Universal Accessibility & Future-Proof Specifications *(SPOP 2 & 4)*
 
 ---
 

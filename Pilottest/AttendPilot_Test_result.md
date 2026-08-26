@@ -52,12 +52,12 @@ To ensure empirical data integrity and structural clarity prior to full field sa
 
 | Instrument Section & Evaluation Dimension | Statement of Problem Mapping | No. of Items ($k$) | Section Mean ($\mu$) | Section Cronbach's Alpha ($\alpha$) | Internal Consistency Interpretation |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **Section B: Existing Spatial & Operational Challenges** | SPOP Q1 | 5 | 3.48 / 5.0 | **$\alpha = 0.8807$** | **Good Reliability** |
+| **Section B: Baseline IEQ & Operational Challenges** | SPOP Q1 (Q1.1) | 5 | 3.48 / 5.0 | **$\alpha = 0.8807$** | **Good Reliability** |
 | **Section C: Flexible FF&E & Interior Comfort** | SPOP Q2 | 5 | 4.16 / 5.0 | **$\alpha = 0.6027$** | **Moderate / Acceptable Subscale** *(High agreement low-variance subscale)* |
 | **Section D: Localized Samar Cultural Integration** | SPOP Q3 | 5 | 4.10 / 5.0 | **$\alpha = 0.9425$** | **Excellent Reliability** |
-| **Section E: Overhead Ceiling Rigging & Lighting Adaptability** | SPOP Q4 | 5 | 4.32 / 5.0 | **$\alpha = 0.8135$** | **Good Reliability** |
-| **Section F: Future-Proof & Universal Accessibility Specs** | SPOP Q5 & Q6 | 5 | 4.38 / 5.0 | **$\alpha = 0.8885$** | **Good Reliability** |
-| **OVERALL COMPOSITE INSTRUMENT** | **SPOP Q1–Q6** | **25** | **4.09 / 5.0** | **$\mathbf{\alpha = 0.9469}$** | **EXCELLENT COMPOSITE RELIABILITY** |
+| **Section E: Overhead Ceiling Rigging & Lighting Adaptability** | SPOP Q4 (Q1.1 & Q4) | 5 | 4.32 / 5.0 | **$\alpha = 0.8135$** | **Good Reliability** |
+| **Section F: Future-Proof & Universal Accessibility Specs** | SPOP Q2 & Q4 | 5 | 4.38 / 5.0 | **$\alpha = 0.8885$** | **Good Reliability** |
+| **OVERALL COMPOSITE INSTRUMENT** | **SPOP Q1–Q4** | **25** | **4.09 / 5.0** | **$\mathbf{\alpha = 0.9469}$** | **EXCELLENT COMPOSITE RELIABILITY** |
 
 ---
 
@@ -119,7 +119,7 @@ To ensure empirical data integrity and structural clarity prior to full field sa
 
 ---
 
-### Section F: Future-Proof Specifications & Universal Accessibility (SPOP Q5 & Q6)
+### Section F: Future-Proof Specifications & Universal Accessibility (SPOP Q2 & Q4)
 *Measures expectations for PWD accessibility (BP 344/ADA), durability, and civic pride.*
 
 | Item Code | Survey Prompt Summary | Item Mean ($\mu$) | Item Variance ($\sigma^2$) | Response Distribution Summary |

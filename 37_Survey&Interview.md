@@ -64,7 +64,7 @@
 
 ---
 
-### SECTION B: EXISTING SPATIAL & OPERATIONAL CHALLENGES (SPOP Q1.1) / MGA KULANG UG PROBLEMA HA LUGAR
+### SECTION B: EXISTING SPATIAL & OPERATIONAL CHALLENGES (SPOP Q1.1 & Q1.2) / MGA KULANG UG PROBLEMA HA LUGAR
 *Evaluates current interior envelope limitations, setup turnaround delays, circulation bottlenecks, and physical constraints.* / *Pagtimbang san mga problema ha interior ug pag-turnaround san lugar.*
 
 **B1. The current 840 sqm Main Hall interior footprint lacks spatial flexibility, making it difficult to execute rapid layout turnarounds between different event formats.**  
@@ -109,7 +109,7 @@
 
 ---
 
-### SECTION C: FLEXIBLE FF&E LAYOUT TYPOLOGIES & TURNAROUND EFFICIENCY (SPOP Q1) / KAABTIK SAN MUEBLES UG LUGAR
+### SECTION C: FLEXIBLE FF&E LAYOUT TYPOLOGIES & TURNAROUND EFFICIENCY (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
 *Assesses preferences for modular seating, standardized banquet/classroom clusters, and setup turnaround speed.* / *Pag-timbang san mga pinalabi ha reconfigurable seating ug kaabtik san setup.*
 
 **C1. Utilizing standardized, lightweight modular FF&E layouts (Plenary, Classroom, Banquet, Exhibition) significantly accelerates venue turnaround speed for multi-scale events.**  
@@ -154,7 +154,7 @@
 
 ---
 
-### SECTION D: LOCALIZED SAMAR CULTURAL MATERIAL INTEGRATION (SPOP Q2) / DISENYO TIKANG HA KULTURA SAN SAMAR
+### SECTION D: LOCALIZED SAMAR CULTURAL MATERIAL INTEGRATION (SPOP Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
 *Gathers feedback on incorporating Samar Basey banig weaving patterns, tikog grass textures, Waray geometric motifs, and Calbayog waterfall imagery.* / *Pagtimbang san disenyo tikang ha banig Basey, tikog, ug busay san Calbayog.*
 
 **D1. Abstracting traditional Samar Basey *banig* weaving patterns into acoustic wall panel finishes creates a compelling cultural identity for event planners.**  
@@ -199,7 +199,7 @@
 
 ---
 
-### SECTION E: OVERHEAD CEILING PLANE & RIGGING ADAPTABILITY (SPOP Q3.1) / DISENYO UG TRACKS HA CEILING
+### SECTION E: OVERHEAD CEILING PLANE & RIGGING ADAPTABILITY (SPOP Q4) / DISENYO UG TRACKS HA CEILING
 *Measures perceived importance of flexible ceiling track systems, motorized truss hoists, acoustic drapes, and adjustable ambient lighting.* / *Pagtimbang san ceiling track systems, suga, ug sound trusses.*
 
 **E1. Installing an overhead ceiling track-and-rigging framework would simplify hanging decorative drapes, banners, and temporary spatial dividers.**  
@@ -244,7 +244,7 @@
 
 ---
 
-### SECTION F: PROGRAMMATIC PARAMETERS & FUTURE-PROOF SPECIFICATIONS (SPOP Q3) / DESIGN MANUAL UG MGA MATERYALES
+### SECTION F: PROGRAMMATIC PARAMETERS & FUTURE-PROOF SPECIFICATIONS (SPOP Q2 & Q4) / DESIGN MANUAL UG MGA MATERYALES
 *Evaluates modular layout typologies (Plenary, Classroom, Banquet, Exhibition), smart technologies, universal accessibility, and material durability.* / *Pagtimbang san layout typologies ug durabilidad san materyales.*
 
 **F1. A standardized manual of repeatable layout typologies (Plenary, Classroom, Banquet, Exhibition) accelerates event planning approval workflows.**  
@@ -381,7 +381,7 @@
 
 ---
 
-### SECTION C: FLEXIBLE FF&E LAYOUTS & INTERIOR COMFORT PREFERENCES (SPOP Q1) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
+### SECTION C: FLEXIBLE FF&E LAYOUTS & INTERIOR COMFORT PREFERENCES (SPOP Q2) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
 *Assesses preferences for comfortable seating layouts, clear aisle pathways, and layout flexibility.* / *Pagtimbang san mga layout ug ka-komportable san lingkuran ug agi-an.*
 
 **C1. Reconfigurable furniture layouts tailored to specific event sizes enhance personal comfort and spatial flow for attendees.**  
@@ -426,7 +426,7 @@
 
 ---
 
-### SECTION D: LOCALIZED SAMAR CULTURAL INTEGRATION & SENSE OF PLACE (SPOP Q2) / DISENYO TIKANG HA KULTURA SAN SAMAR
+### SECTION D: LOCALIZED SAMAR CULTURAL INTEGRATION & SENSE OF PLACE (SPOP Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
 *Evaluates community pride, cultural resonance, and aesthetic identity from incorporating Basey banig, tikog grass, and Calbayog waterfall motifs.* / *Pagtimbang san kultura, banig Basey, tikog, ug busay san Calbayog.*
 
 **D1. Incorporating Samar Basey *banig* weaving patterns into interior wall panels instills regional pride and a distinct sense of place.**  
@@ -471,7 +471,7 @@
 
 ---
 
-### SECTION E: ACOUSTIC COMFORT & AMBIENT LIGHTING EXPERIENCE (SPOP Q3.1) / ACOUSTIC DUNGOG UG SUGA
+### SECTION E: ACOUSTIC COMFORT & AMBIENT LIGHTING EXPERIENCE (SPOP Q1.1 & Q4) / ACOUSTIC DUNGOG UG SUGA
 *Measures attendee satisfaction with speech clarity, acoustic comfort, and ambient lighting quality.* / *Pagtimbang san dungog, katin-aw san boses, ug suga.*
 
 **E1. Overhead acoustic ceiling panels and sound drapes make listening to presentations more enjoyable by reducing harsh room echo.**  
@@ -516,7 +516,7 @@
 
 ---
 
-### SECTION F: UNIVERSAL ACCESSIBILITY & CIVIC VENUE PRIDE (SPOP Q3) / ACCESSIBILITY UG BUGAL SAN LUGAR
+### SECTION F: UNIVERSAL ACCESSIBILITY & CIVIC VENUE PRIDE (SPOP Q2 & Q4) / ACCESSIBILITY UG BUGAL SAN LUGAR
 *Evaluates universal wheelchair access (BP 344 / ADA), material cleanliness, and civic pride in venue infrastructure.* / *Pagtimbang san accessibility ha may kapansanan ug pagpanami san lugar.*
 
 **F1. Dedicated, wide wheelchair pathways (minimum 1200 mm) and integrated seating areas ensure that the venue is inclusive for persons with disabilities (PWDs) and senior citizens.**  
@@ -570,7 +570,7 @@
 
 ### INTERVIEW GUIDE QUESTIONS / MGA PAKIANA SA INTERVIEW
 
-#### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1.1) / MGA KULANG UG PROBLEMA HA LUGAR
+#### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1.1 & Q1.2) / MGA KULANG UG PROBLEMA HA LUGAR
 1. **What are the primary spatial and physical challenges you encounter when setting up or tearing down events in the 840 sqm Main Hall of the Calbayog City Convention Center?**  
    *Waraynon: Ano an mga panguna nga problema ha lugar ug pasilidad nga imo naaagihan samtang nag-preparar o nag-hihipos san mga gamit ha 840 sqm nga Main Hall san Calbayog City Convention Center?*
 2. **How much time do you spend setting up events in the main hall, and what setup challenges slow you down?**  
@@ -578,7 +578,7 @@
 3. **How do current acoustic reverberation and ambient lighting conditions affect event execution?**  
    *Waraynon: Paunan-o nakaka-apekto an lanog (echo) ug suga ha yana nga pamalakad san mga okasyon?*
 
-#### Module 2: Spatial Modularity & Furniture Flexibility (SPOP Q1) / KAABTIK SAN MUEBLES UG LUGAR
+#### Module 2: Spatial Modularity & Furniture Flexibility (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
 4. **What types of modular furniture (FF&E), stackable seating modules, or convertible staging systems would most dramatically improve your setup speed and spatial efficiency?**  
    *Waraynon: Ano nga klase san mga bag-o nga muebles (FF&E), stackable seating, o staging systems an nakakapadali san pag-preparar ug pagpaabtik san lugar?*
 5. **How would having standardized layout templates (e.g., Plenary, Classroom, Banquet, Exhibition) change your space planning workflow?**  
@@ -586,13 +586,13 @@
 6. **What anthropometric clearance issues (e.g., aisle widths, server passage, seat spacing) do you frequently observe during large banquets or exhibitions?**  
    *Waraynon: Ano nga mga problema ha agi-an, ha distansya san lingkuran, ug ha agi-an san waiters an imo agsub nga nakikita ha mga dako nga banquets o exhibitions?*
 
-#### Module 3: Overhead Ceiling Track & Rigging Systems (SPOP Q3.1) / DISENYO UG TRACKS HA CEILING
+#### Module 3: Overhead Ceiling Track & Rigging Systems (SPOP Q4) / DISENYO UG TRACKS HA CEILING
 7. **How could an adjustable overhead ceiling track and rigging system benefit your lighting, sound, or decorative drapery setups?**  
    *Waraynon: Paunan-o makakabulig an adjustable ceiling track and rigging system ha pag-bitay san mga suga, sound, ug dekorasyon?*
 8. **In what ways would motorized overhead truss hoists improve safety and floor space utilization during major events?**  
    *Waraynon: Sa ano nga pamaagi makakabulig an motorized truss hoists para ha kaluwasan ug pagpapadako san lugar ha sahig ha mga dako nga okasyon?*
 
-#### Module 4: Cultural Heritage Expression & Sense of Place (SPOP Q2 & Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
+#### Module 4: Cultural Heritage Expression & Future-Proof Specifications (SPOP Q3 & Q4) / DISENYO TIKANG HA KULTURA SAN SAMAR
 9. **How do you feel about integrating traditional Samar Basey *banig* mat weaving patterns, *tikog* grass textures, and Calbayog waterfall imagery into upgraded perimeter acoustic drapery and ceiling acoustic baffles?**  
    *Waraynon: Ano an imo hunahuna ha pag-upod san mga disenyo tikang ha banig Basey, tikog, ug busay san Calbayog ha mga acoustic curtains ug ceiling baffles san venue?*
 10. **How can we balance strong cultural expression with high spatial reconfigurability so that permanent motifs do not restrict room versatility?**  
