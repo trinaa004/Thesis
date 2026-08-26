@@ -1,4 +1,4 @@
-# LITERATURE JUSTIFICATION & EMPIRICAL LOCATION MAP FOR HUMAN PARTICIPANT INVOLVEMENT
+ LITERATURE JUSTIFICATION & EMPIRICAL LOCATION MAP FOR HUMAN PARTICIPANT INVOLVEMENT
 
 **Study Title:** An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability  
 **Master Document Reference:** [20_RRL.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md)  

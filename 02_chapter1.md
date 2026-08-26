@@ -1,4 +1,4 @@
-# Chapter 1: Research Framework
+ Chapter 1: Research Framework
 
 ## Statement of the Problem
 This study aims to formulate a site-specific interior design framework for the Calbayog City Convention Center that harmonizes spatial modularity, local Samar heritage, and future-proof adaptability. 
@@ -40,14 +40,14 @@ The results of the study will benefit the following:
 ## Scope and Limitations of the Study
 
 ### Scope of the Study
-The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the main interior hall of the Calbayog City Convention Center. Specifically, the study includes: 
+The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the primary interior envelope (Main Hall and Foyer) of the Calbayog City Convention Center. Specifically, the study includes: 
 
 * Designing a standardized menu of repeatable interior layout templates (e.g., Plenary, Exhibition, and Banquet configurations) optimized for the specific square footage of the venue. 
 * Formulating ergonomic furniture density arrangements and loose FF&E layout clusters to maximize spatial efficiency and minimize setup/teardown turnaround times for event planners. 
 * Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns into upgraded perimeter acoustic drapery and ceiling acoustic overlays to establish a distinct regional identity. 
 * Proposing a non-structural overhead ceiling interface that layers modular acoustic finish tiles with an adjustable, conceptual interior track-and-rigging framework to facilitate dynamic alterations in ambient lighting and decorative drapery. 
 
-The spatial application of this framework is strictly limited to the interior envelope of the Main Convention Hall, encompassing a total floor area of 840 square meters. 
+The spatial application of this framework is strictly limited to the 840-square-meter interior envelope of the facility, comprising the 711-square-meter Main Convention Hall and the 129-square-meter Foyer / pre-function area. 
 
 ### Limitations of the Study
 To protect the professional boundaries of this study and maintain a focused research scope, the study establishes the following explicit limitations: 

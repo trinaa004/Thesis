@@ -1,4 +1,4 @@
-# Undergraduate Thesis Progress Report
+ Undergraduate Thesis Progress Report
 
 ---
 
@@ -7,7 +7,7 @@
 * **Official Working Title**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*
 * **Degree Program**: Bachelor of Science in Interior Design (BSID)
 * **Project Scope & Focus**:  
-  This study focuses on developing an evidence-based, non-structural interior design framework and reconfigurable layout manual for the 840-square-meter Main Hall & Foyer of the Calbayog City Convention Center in Brgy. Capoocan, Calbayog City, Samar. The project directly investigates and resolves existing spatial turnaround bottlenecks, baseline Indoor Environmental Quality (IEQ: lighting, acoustics, thermal comfort), localized cultural placemaking (*Basey banig* weaves, *tikog* grass textures, and Calbayog waterfall motifs), and technical future-proofing (standardized modular layout typologies for Plenary, Classroom, Banquet, and Exhibition formats; BP 344 universal accessibility; high-durability sustainable materials; and an overhead ceiling track-and-rigging interface).
+  This study focuses on developing an evidence-based, non-structural interior design framework and reconfigurable layout manual for the 840-square-meter interior envelope (711 sqm Main Hall and 129 sqm Foyer) of the Calbayog City Convention Center in Brgy. Capoocan, Calbayog City, Samar. The project directly investigates and resolves existing spatial turnaround bottlenecks, baseline Indoor Environmental Quality (IEQ: lighting, acoustics, thermal comfort), localized cultural placemaking (*Basey banig* weaves, *tikog* grass textures, and Calbayog waterfall motifs), and technical future-proofing (standardized modular layout typologies for Plenary, Classroom, Banquet, and Exhibition formats; BP 344 universal accessibility; high-durability sustainable materials; and an overhead ceiling track-and-rigging interface).
 
 ---
 
@@ -15,7 +15,7 @@
 
 #### A. Theoretical Frameworks (Primary Sources)
 * **Habraken, N. J. (1972).** *Supports: An Alternative to Mass Housing*. Architectural Press.  
-  *(Establishes Open Building Theory: delineating the fixed 2009 architectural envelope as the 'Support' and the 840 sqm reconfigurable interior layout as the adaptable 'Infill').*
+  *(Establishes Open Building Theory: delineating the fixed 2009 architectural envelope as the 'Support' and the 840 sqm reconfigurable interior layout [711 sqm Main Hall + 129 sqm Foyer] as the adaptable 'Infill').*
 * **Scannell, L., & Gifford, R. (2010).** Defining place attachment: A tripartite organizing framework. *Journal of Environmental Psychology*, 30(1), 1–10. https://doi.org/10.1016/j.jenvp.2009.09.006  
   *(Provides the Person-Process-Place [PPP] model grounding localized cultural identity and place attachment into interior surfaces).*
 
@@ -72,7 +72,7 @@
 1. **Submit and Secure Final Institutional Ethics Clearance**: Obtain formal sign-off from the Research Ethics Committee (USC-REC).
 2. **Issue LGU Transmittal Letters**: Transmit formal letters to the Calbayog City LGU and the **Facility Administrator** for authorized on-site field data gathering and facility inspection.
 3. **Roll Out Main Field Survey**: Distribute printed and secure Google Forms survey questionnaires to target respondent samples ($n = 15–25$ event planners/operators and $n = 100–120$ event attendees).
-4. **Conduct On-Site Spatial Audit & Mapping**: Perform physical spatial observation, anthropometric clearance verification, column grid documentation, and overhead plane inspection within the 840 sqm Main Hall.
+4. **Conduct On-Site Spatial Audit & Mapping**: Perform physical spatial observation, anthropometric clearance verification, column grid documentation, and overhead plane inspection within the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer).
 5. **Execute Qualitative Key Informant Interviews**: Conduct 20–30 minute semi-structured audio-recorded interviews with $8–12$ venue operators, event planners, and local cultural artisans.
 6. **Commence Data Processing & Thematic Coding**: Begin descriptive statistical tabulation (weighted means, standard deviations) and qualitative thematic analysis following Braun & Clarke's (2006) 6-phase framework.
 

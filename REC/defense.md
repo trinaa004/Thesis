@@ -1,8 +1,8 @@
-# THESIS ORAL DEFENSE CHEAT SHEET & STRATEGIC Q&A GUIDE
+ THESIS ORAL DEFENSE CHEAT SHEET & STRATEGIC Q&A GUIDE
 
 **Study Title:** An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Samar-Calbayog Cultural Heritage, and Future-Proof Event Adaptability  
 **Target Output:** Site-Specific Non-Structural Interior Design Framework & Layout Manual  
-**Scope Footprint:** 840 sqm Main Hall, Calbayog City Convention Center, Calbayog City, Samar  
+**Scope Footprint:** 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer), Calbayog City Convention Center, Calbayog City, Samar  
 
 ---
 
@@ -16,7 +16,7 @@
 > 
 > **I structured my study around these four specific layers because an interior space is a 3-dimensional envelope bounded by three physical planes—the Floor, Wall, and Ceiling—plus the Material Specification layer that coats them.**
 > 
-> **Each layer directly solves a specific operational problem in the 840 square meter Main Hall:**
+> **Each layer directly solves a specific operational problem in the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Foyer):**
 > 1. **The Floor Plane** solves **Logistical & Turnaround Efficiency** through reconfigurable FF&E layouts and ergonomic/BP 344 clearances.
 > 2. **The Wall/Glass Perimeter Plane** solves **Cultural Identity & Acoustic Reflection** by replacing old curtains with upgraded acoustic drapery featuring Samar Basey *banig* & Waray motifs.
 > 3. **The Ceiling Plane** solves **Volumetric & Spatial Versatility** by using an overhead track-and-rigging grid for lighting, sound, and cascading acoustic baffles without cluttering the floor plane.
@@ -95,7 +95,7 @@
 > 
 > **It refers to a designated 760 mm x 1220 mm clear floor footprint reserved within a temporary furniture layout—such as rows of loose chairs in a Plenary setup or tables in a Classroom setup—so a wheelchair user can park comfortably alongside general attendees, with an adjacent companion seat and direct aisle access for safe egress.**
 > 
-> **Because the 840 square meter Main Hall is a flexible open shell, venue operators arrange loose furniture per event format. My interior design framework provides pre-calculated layout templates that automatically integrate these 760 mm x 1220 mm spaces into the temporary seating plans, ensuring full BP 344 and ADA regulatory compliance whenever the hall is configured."**
+> **Because the 711 square meter Main Hall is a flexible open shell supported by the 129 sqm Foyer, venue operators arrange loose furniture per event format. My interior design framework provides pre-calculated layout templates that automatically integrate these 760 mm x 1220 mm spaces into the temporary seating plans, ensuring full BP 344 and ADA regulatory compliance whenever the hall is configured."**
 
 ### Accessibility Metric Matrix (Flexible Main Hall Context):
 | Accessibility Metric | Spatial Meaning in an Open / Flexible Hall | Standard Specification (BP 344 / ADA 2010) |
@@ -181,8 +181,8 @@ $$n = \frac{N}{1 + N(e)^2}$$
 > 
 > **I derived the 500 to 1,000 estimated population figure based on two operational and physical parameters:**
 > 
-> **1. Venue Capacity Anchor:** The 840 square meter Main Hall of the Calbayog City Convention Center has a maximum single-event capacity of **500 occupants** (for assembly/plenary layouts).
-> **2. Target Inclusion Filter (5-Year Recall Window):** Because the study filters respondents to adults (18+) who have attended or organized an event inside the Main Hall within the past five years (2021–2026), 500 to 1,000 is a conservative estimate of the *accessible target population of active, recurring venue visitors* in Calbayog City across civic, corporate, trade, and social event formats.
+> **1. Venue Capacity Anchor:** The 711 square meter Main Hall of the Calbayog City Convention Center has a maximum single-event capacity of **500 occupants** (for assembly/plenary layouts), supported by the 129 sqm Foyer for pre-function flow.
+> **2. Target Inclusion Filter (5-Year Recall Window):** Because the study filters respondents to adults (18+) who have attended or organized an event inside the Main Hall or Foyer within the past five years (2021–2026), 500 to 1,000 is a conservative estimate of the *accessible target population of active, recurring venue visitors* in Calbayog City across civic, corporate, trade, and social event formats.
 > 
 > **3. Mathematical Plateau (The 'Safety Net' Argument):** Mathematically, Slovin’s formula reaches a stability plateau around 100 to 120 respondents. Even if the population estimate were assumed to be much larger—such as $N = 5,000$ or even $10,000$—Slovin’s formula at $e = 0.09$ yields $n = 120.4 \approx 121$ respondents. Therefore, our sample size of **100 to 120 public respondents** mathematically guarantees a 95% confidence level and 8%–9% margin of error regardless of minor population size variations."**
 
@@ -227,7 +227,7 @@ $$n = \frac{N}{1 + N(e)^2}$$
 > 
 > **1. Survey Instrument Data Filtering (Section A Control):** In Section A (Demographic & Profile) of both survey forms, we explicitly capture the exact event format(s) each respondent organized or attended (Conferences, Trade Fairs, Social Galas/Weddings, Civic Assemblies). This allows us to cross-tabulate and disaggregate responses during data analysis to isolate perception differences between event types.
 > 
-> **2. Validation of the Core Thesis Rationale (Open Building Theory):** The panelist’s observation actually validates our central research problem. A municipal convention center is an inherently multi-functional MICE facility. The fact that weddings (Banquet typology) and conferences (Plenary/Classroom typologies) demand different spatial, acoustic, lighting, and circulation setups within the *exact same 840 square meter interior footprint* is precisely why a rigid, static interior fails. Applying **Open Building Theory (Habraken, 1972)** allows our framework to provide 4 standardized, reconfigurable layout typologies to seamlessly serve both event types.
+> **2. Validation of the Core Thesis Rationale (Open Building Theory):** The panelist’s observation actually validates our central research problem. A municipal convention center is an inherently multi-functional MICE facility. The fact that weddings (Banquet typology) and conferences (Plenary/Classroom typologies) demand different spatial, acoustic, lighting, and circulation setups within the *exact same 840 square meter interior envelope (711 sqm Main Hall + 129 sqm Foyer)* is precisely why a rigid, static interior fails. Applying **Open Building Theory (Habraken, 1972)** allows our framework to provide 4 standardized, reconfigurable layout typologies to seamlessly serve both event types.
 > 
 > **3. Methodological Triangulation:** We do not rely on public attendee memory alone. Attendee feedback is triangulated with **expert event planners and venue operators ($n = 15–25$)** who manage multiple event setups, as well as **objective on-site architectural spatial observations** anchored in anthropometric standards (Neufert & Neufert, 2012; BP 344/ADA aisle and seating clearances).
 > 
@@ -283,7 +283,7 @@ $$n = \frac{N}{1 + N(e)^2}$$
 > **2. Standardized Modular Furniture Clusters (Item C5):** This refers to grouping furniture into pre-calculated, repeatable layout blocks—such as a 10-person round banquet cluster (1.8m table + 10 chairs + 3.2m to 3.5m operational footprint) or 3m × 3m modular exhibition booths. Standardizing these clusters simplifies space planning so venue operators can calculate hall capacity instantly, guarantee BP 344 aisle clearances (1620–1800 mm service lanes), and eliminate setup delays."**
 
 ### Survey Items C3 & C5 Technical Breakdown Matrix:
-| Survey Item | Core Interior Design Concept | Spatial & Operational Impact in 840 sqm Main Hall |
+| Survey Item | Core Interior Design Concept | Spatial & Operational Impact in 840 sqm Interior Envelope (711m² Hall + 129m² Foyer) |
 | :--- | :--- | :--- |
 | **Item C3** *(Modular Staging)* | Portable stage deck modules (telescoping height: 300–900 mm; flexible End, Runway, Center, or Riser shapes). | Solves sightline obstructions (C-value); adapts hall to diverse performance formats without permanent structural stages. |
 | **Item C5** *(Furniture Clusters)* | Pre-calculated layout blocks (10-person round banquet set footprints, 3m × 3m trade booths, classroom rows). | Accelerates setup/teardown turnaround; guarantees standard service lanes (1.8m) & wheelchair clearances (1.2m). |

@@ -1,4 +1,4 @@
-# Research Respondents and Sampling Method
+ Research Respondents and Sampling Method
 
 ## 1. Research Respondents
 
@@ -12,7 +12,7 @@ The second respondent group comprises general community members, local residents
 
 To guarantee data validity and operational relevance, all participants recruited for this study must satisfy explicit inclusion criteria. Specifically, respondents must:
 1. Be at least 18 years of age at the time of data collection.
-2. Have organized, managed, facilitated, or attended at least one event inside the Main Hall of the Calbayog City Convention Center within the past five years.
+2. Have organized, managed, facilitated, or attended at least one event inside the Calbayog City Convention Center (Main Hall or Foyer) within the past five years.
 3. Possess familiarity with the venue's interior space or the regional cultural context of Samar.
 
 ## 3. Sampling Method and Sample Size Determination

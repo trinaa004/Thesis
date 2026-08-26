@@ -1,4 +1,4 @@
-# PREDICTED THESIS ADVISER QUESTIONS & DEFENSE PREPARATION GUIDE
+ PREDICTED THESIS ADVISER QUESTIONS & DEFENSE PREPARATION GUIDE
 
 **Thesis Title**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 **Principal Investigator**: [Researcher Name]  
@@ -34,7 +34,7 @@ This guide prepares the researcher for rigorous academic interrogation during th
 ### Q1. "Why is this an Interior Design thesis rather than an Architectural renovation or Civil Engineering project?"
 * **Underlying Academic Concern**: The adviser is testing whether you understand the professional and legal boundaries of Interior Design under Republic Act No. 10350 (Philippine Interior Design Act of 2012), ensuring you do not propose unfeasible structural changes.
 * **Recommended Verbal Response / Defense Script**:
-  > *"My study is strictly a non-structural interior overlay. Following Habraken’s Open Building Theory (1972), I treat the existing 840 square meter building shell as the fixed 'Support,' and isolate my intervention purely within the adaptable 'Infill.' Rather than altering load-bearing columns, exterior facades, or roof trusses, my design operates entirely on interior space planning, reconfigurable FF&E, non-structural overhead ceiling track/rigging interfaces, tactile acoustic surface overlays, and anthropometric circulation zoning. This keeps the research strictly within the professional domain of Interior Design while delivering immediate operational flexibility for the venue."*
+  > *"My study is strictly a non-structural interior overlay. Following Habraken’s Open Building Theory (1972), I treat the existing 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer) as the fixed 'Support,' and isolate my intervention purely within the adaptable 'Infill.' Rather than altering load-bearing columns, exterior facades, or roof trusses, my design operates entirely on interior space planning, reconfigurable FF&E, non-structural overhead ceiling track/rigging interfaces, tactile acoustic surface overlays, and anthropometric circulation zoning. This keeps the research strictly within the professional domain of Interior Design while delivering immediate operational flexibility for the venue."*
 * **Key Evidence & Literature to Cite**:
   * Republic Act No. 10350 (Philippine Interior Design Act of 2012).
   * Habraken, N. J. (1972). *Supports: An Alternative to Mass Housing*.
@@ -45,7 +45,7 @@ This guide prepares the researcher for rigorous academic interrogation during th
 ### Q2. "The convention center was originally a municipal bus terminal renovated in 2009. Are you proposing any structural modifications to its existing columns or trusses?"
 * **Underlying Academic Concern**: The adviser is probing physical site feasibility and checking if your design will accidentally require costly civil or structural retrofits.
 * **Recommended Verbal Response / Defense Script**:
-  > *"No structural alterations will be made. The 2009 renovation converted the municipal bus station into an open 840 sqm hall with fixed column grids and roof framing. In my architectural site observation and spatial mapping protocol (Phase 1), these existing structural elements are documented as fixed spatial boundary constraints. My framework designs around these columns by establishing pre-calculated aisle widths, clear sightline corridors (C-values of 60 mm and 120 mm), and modular furniture zones that optimize the interior without touching the load-bearing framework."*
+  > *"No structural alterations will be made. The 2009 renovation converted the municipal bus station into an open 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer) with fixed column grids and roof framing. In my architectural site observation and spatial mapping protocol (Phase 1), these existing structural elements are documented as fixed spatial boundary constraints. My framework designs around these columns by establishing pre-calculated aisle widths, clear sightline corridors (C-values of 60 mm and 120 mm), and modular furniture zones that optimize the interior without touching the load-bearing framework."*
 * **Key Evidence & Literature to Cite**:
   * [31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md).
   * Groat, L., & Wang, D. (2013). *Architectural Research Methods*.
@@ -83,7 +83,7 @@ This guide prepares the researcher for rigorous academic interrogation during th
 ### Q5. "What is the exact tangible final output of your thesis? Is it just a set of 3D renderings, or something more comprehensive?"
 * **Underlying Academic Concern**: Ensuring the thesis produces a comprehensive, publication-grade academic framework and spatial manual, not merely decorative illustrations.
 * **Recommended Verbal Response / Defense Script**:
-  > *"The primary output is a comprehensive, site-specific Interior Design Framework and Reconfigurable Layout Manual. This includes: (1) anthropometrically validated floor plans and spatial clearance schedules for 4 standardized typologies, (2) a Standardized Modular FF&E Specification & Layout Guide, (3) a digital pattern matrix and material schedule for laser-cut cultural acoustic wall panels and drapery, (4) a non-structural overhead ceiling track/rigging layout plan, and (5) a Universal Accessibility (BP 344 / ADA) compliance routing guide for the 840 sqm Main Hall."*
+  > *"The primary output is a comprehensive, site-specific Interior Design Framework and Reconfigurable Layout Manual. This includes: (1) anthropometrically validated floor plans and spatial clearance schedules for 4 standardized typologies, (2) a Standardized Modular FF&E Specification & Layout Guide, (3) a digital pattern matrix and material schedule for laser-cut cultural acoustic wall panels and drapery, (4) a non-structural overhead ceiling track/rigging layout plan, and (5) a Universal Accessibility (BP 344 / ADA) compliance routing guide for the 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer)."*
 * **Key Evidence & Literature to Cite**:
   * Archer, B. (1995). *The Nature of Research in Design*.
   * [30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md#L25-L29).
@@ -203,7 +203,7 @@ This guide prepares the researcher for rigorous academic interrogation during th
 
 # CATEGORY 6: ACOUSTIC & ENVIRONMENTAL CONTROLS (SCOPE DISCIPLINE)
 
-### Q15. "The Main Hall is an 840 sqm volume with perimeter glass and high ceilings. How can you address acoustic reverberation without doing acoustic engineering calculations?"
+### Q15. "The interior envelope is 840 sqm (711 sqm Main Hall + 129 sqm Foyer) with perimeter glass and high ceilings. How can you address acoustic reverberation without doing acoustic engineering calculations?"
 * **Underlying Academic Concern**: The adviser is testing your scope discipline—ensuring you do not claim to do engineering calculations while still addressing interior acoustic challenges.
 * **Recommended Verbal Response / Defense Script**:
   > *"My thesis explicitly treats acoustics as a spatial, surface, and material interior design interface, not an audio engineering calculation. As established in recent multipurpose hall literature (Cairoli, 2020; Habibi, 2025; Chojnacki et al., 2023), reverberation in assembly halls can be effectively managed through passive surface interventions. My framework specifies: (1) hybrid absorptive-diffusive wooden wall panels with FSC timber and tikog textures, (2) suspended ceiling acoustic baffles with waterfall fluid geometries to disrupt vertical flutter echoes, and (3) heavy-weave perimeter acoustic drapery with Waray motifs to cover reflective perimeter glass during speech events. These are non-structural material specifications, fully within the scope of interior design."*
@@ -225,12 +225,12 @@ This guide prepares the researcher for rigorous academic interrogation during th
 
 # CATEGORY 7: SPATIAL FEASIBILITY, FF&E LOGISTICS, & ACCESSIBILITY
 
-### Q17. "Can the 840 square meter footprint realistically accommodate up to 500 occupants across different layout typologies?"
+### Q17. "Can the 711 square meter Main Hall footprint realistically accommodate up to 500 occupants across different layout typologies, supported by the 129 sqm Foyer?"
 * **Underlying Academic Concern**: The adviser wants to check your spatial planning mathematics and density formulas.
 * **Recommended Verbal Response / Defense Script**:
   > *"Yes, based on global anthropometric standards (Panero & Zelnik, 1979; Neufert, 2012):
-  > * Plenary (Theater Assembly): At 0.85 to 1.0 sqm per occupant (including standard 900 mm seat pitch and 305 mm clear passage), 500 attendees require 425 to 500 sqm of net seating area, which comfortably fits inside the 840 sqm hall with generous 1800–2400 mm main circulation corridors.
-  > * Banquet (Dining/Social): At 1.5 to 1.8 sqm per person for 10-person round tables (3200–3500 mm footprint + 1620–1800 mm service lanes), the hall comfortably accommodates 350 to 400 occupants (35 to 40 round tables).
+  > * Plenary (Theater Assembly): At 0.85 to 1.0 sqm per occupant (including standard 900 mm seat pitch and 305 mm clear passage), 500 attendees require 425 to 500 sqm of net seating area, which comfortably fits inside the 711 sqm Main Hall with generous 1800–2400 mm main circulation corridors while the 129 sqm Foyer manages ingress/egress and registration queues.
+  > * Banquet (Dining/Social): At 1.5 to 1.8 sqm per person for 10-person round tables (3200–3500 mm footprint + 1620–1800 mm service lanes), the Main Hall comfortably accommodates 350 to 400 occupants (35 to 40 round tables).
   > * Classroom (Lecture): At 1.8 to 2.0 sqm per person, capacity is optimized for 250 to 300 occupants.
   > * Exhibition: Accommodates 25 to 30 standard 3x3m modular booths with 1500–2400 mm pedestrian aisles."*
 * **Key Evidence & Literature to Cite**:
@@ -294,14 +294,14 @@ This guide prepares the researcher for rigorous academic interrogation during th
 
 | Question Topic | Key Defense Anchor | Primary Reference to Cite |
 | :--- | :--- | :--- |
-| **Why Interior Design?** | Non-structural Infill vs. fixed Support (immutable 840 sqm shell) | Habraken (1972); RA 10350; [02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md) |
+| **Why Interior Design?** | Non-structural Infill vs. fixed Support (immutable 840 sqm shell: 711m² Hall + 129m² Foyer) | Habraken (1972); RA 10350; [02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md) |
 | **Theoretical Dualism** | Planners = Logistics (Habraken) / Attendees = Cultural Place Attachment | Habraken (1972); Scannell & Gifford (2010) |
 | **Basey vs. Calbayog** | Regional Samar weaving identity + Calbayog City of Waterfalls | Wagas (2016); Roa & Lagamon (2018) |
 | **Planner Sample ($n=15–25$)** | Small localized expert population = Purposive Expert Sampling | An et al. (2021); Pembegül (2009); Etikan et al. (2016) |
 | **Attendee Sample ($n=100–120$)** | Slovin's Formula ($N=500–1,000+$, 95% CI, $e=0.08–0.09$) | Cochran (1977); Israel (1992); Roa & Lagamon (2018) |
 | **Qualitative Sample ($n=8–12$)** | Thematic Saturation in specialized workflows | Braun & Clarke (2006); Guest et al. (2006) |
 | **Acoustic Boundary** | Spatial/material surface overlay (timber panels/baffles), no MEP/calculations | Cairoli (2020); Chojnacki et al. (2023) |
-| **Plenary 500 Capacity** | 0.85–1.0 sqm/person fits in 840 sqm with 1800–2400 mm aisles | Panero & Zelnik (1979); Neufert (2012) |
+| **Plenary 500 Capacity** | 0.85–1.0 sqm/person fits in 711 sqm Main Hall with 1800–2400 mm aisles + 129 sqm Foyer | Panero & Zelnik (1979); Neufert (2012) |
 | **Outsourced FF&E Logistics** | Standardized rental specs + 1200–1800 mm loading staging paths (no storage room) | An et al. (2021); Pembegül (2009) |
 | **Accessibility** | 1200 mm clear paths, 1500 mm turning, 760x1220 mm stalls | BP 344 (1983); ADA (2010) |
 | **Ethics & Privacy** | Alphanumeric coding, AES-256 encryption, 1-yr retention, shredding | RA 10173; USC-REC Guidelines |

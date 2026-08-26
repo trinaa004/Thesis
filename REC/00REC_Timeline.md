@@ -1,6 +1,6 @@
-# Research Project Timeline & Gantt Chart
+ Research Project Timeline & Gantt Chart
 
-**Study Title:** Non-Structural Interior Design Framework & Reconfigurable FF&E Typologies for the 840 sqm Main Hall of the Calbayog City Convention Center  
+**Study Title:** Non-Structural Interior Design Framework & Reconfigurable FF&E Typologies for the 840 sqm Interior Envelope (711 sqm Main Hall & 129 sqm Foyer) of the Calbayog City Convention Center  
 **Target Duration:** August 2026 – December 2026  
 **Key Target Milestone:** Oral Thesis Defense (Mid-November 2026)  
 
@@ -60,7 +60,7 @@ gantt
 **Timeframe:** Late August – Early September 2026 (August 24 – September 12, 2026)  
 **Primary Alignment:** [30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md), [31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md), [32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md), [34_Data Collection.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/34_Data%20Collection.md)
 
-* **Architectural Envelope & On-Site Observation (Aug 24 – Sept 5):** Conduct field observations during both active event setups and non-event periods in the 840 sqm Main Hall. Document baseline egress capacities, circulation bottlenecks, and structural entry points.
+* **Architectural Envelope & On-Site Observation (Aug 24 – Sept 5):** Conduct field observations during both active event setups and non-event periods in the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer). Document baseline egress capacities, circulation bottlenecks, and structural entry points.
 * **Structured Survey Distribution (Aug 24 – Sept 12):** Administer structured surveys to 115–145 total respondents, comprising:
   * Specialized Expert Sample (15–25 event planners/operators)
   * Representative Public Sample (100–120 venue attendees)

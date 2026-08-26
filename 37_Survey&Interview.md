@@ -1,4 +1,4 @@
-# RESEARCH INSTRUMENTS: CALBAYOG CITY CONVENTION CENTER INTERIOR DESIGN FRAMEWORK
+ RESEARCH INSTRUMENTS: CALBAYOG CITY CONVENTION CENTER INTERIOR DESIGN FRAMEWORK
 
 
 **Principal Investigator**: [Researcher Name]  
@@ -14,9 +14,9 @@
 # PART 2: FORM A — QUANTITATIVE SURVEY QUESTIONNAIRE FOR EVENT PLANNERS, COORDINATORS, AND VENUE OPERATORS / PAKIANA PARA HA MGA EVENT PLANNER UG OPERATOR
 
 
-### Instructions / Mga Pamaagi:
-**English:** Please complete the general information section and rate each statement based on your professional experience in organizing, facilitating, or operating events within the Main Hall of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
-**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
+#### Instructions / Mga Pamaagi:
+**English:** Please complete the general information section and rate each statement based on your professional experience in organizing, facilitating, or operating events within the Main Hall and Foyer of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
+**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall ug Foyer san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
 
 * **1** = Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
 * **2** = Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
@@ -67,8 +67,8 @@
 ### SECTION B: EXISTING SPATIAL & OPERATIONAL CHALLENGES (SPOP Q1.1 & Q1.2) / MGA KULANG UG PROBLEMA HA LUGAR
 *Evaluates current interior envelope limitations, setup turnaround delays, circulation bottlenecks, and physical constraints.* / *Pagtimbang san mga problema ha interior ug pag-turnaround san lugar.*
 
-**B1. The current 840 sqm Main Hall interior footprint lacks spatial flexibility, making it difficult to execute rapid layout turnarounds between different event formats.**  
-*Waraynon: An yana nga 840 sqm nga Main Hall kay kulang ha kagawasan o kaabtik san lugar, sanglit makure ug ma-iha an pagbalyo san ayos an mga muebles para ha iba-iba nga okasyon.*
+**B1. The current 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer) lacks spatial flexibility, making it difficult to execute rapid layout turnarounds between different event formats.**  
+*Waraynon: An yana nga 840 sqm nga interior (711 sqm Main Hall ug 129 sqm Foyer) kay kulang ha kagawasan o kaabtik san lugar, sanglit makure ug ma-iha an pagbalyo san ayos an mga muebles para ha iba-iba nga okasyon.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -91,8 +91,8 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**B4. The current venue lacks adaptable spatial dividers to split the 840 sqm hall into smaller concurrent meeting zones.**  
-*Waraynon: An venue yana kay kulang ha mga mobile o adaptable spatial dividers para matunga an 840 sqm nga hall ha mas gudti nga meeting zones.*
+**B4. The current venue lacks adaptable spatial dividers to split the 711 sqm Main Hall into smaller concurrent meeting and pre-function zones.**  
+*Waraynon: An venue yana kay kulang ha mga mobile o adaptable spatial dividers para matunga an 711 sqm nga hall ug 129 sqm nga foyer ha mas gudti nga meeting ug pre-function zones.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -294,8 +294,8 @@
 
 
 ### Instructions / Mga Pamaagi:
-**English:** Please complete the general information section and rate each statement based on your personal experience as an event attendee or visitor within the Main Hall of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
-**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
+**English:** Please complete the general information section and rate each statement based on your personal experience as an event attendee or visitor within the Main Hall and Foyer of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
+**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall ug Foyer san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
 
 * **1** = Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
 * **2** = Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
@@ -571,8 +571,8 @@
 ### INTERVIEW GUIDE QUESTIONS / MGA PAKIANA SA INTERVIEW
 
 #### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1.1 & Q1.2) / MGA KULANG UG PROBLEMA HA LUGAR
-1. **What are the primary spatial and physical challenges you encounter when setting up or tearing down events in the 840 sqm Main Hall of the Calbayog City Convention Center?**  
-   *Waraynon: Ano an mga panguna nga problema ha lugar ug pasilidad nga imo naaagihan samtang nag-preparar o nag-hihipos san mga gamit ha 840 sqm nga Main Hall san Calbayog City Convention Center?*
+1. **What are the primary spatial and physical challenges you encounter when setting up or tearing down events in the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer) of the Calbayog City Convention Center?**  
+   *Waraynon: Ano an mga panguna nga problema ha lugar ug pasilidad nga imo naaagihan samtang nag-preparar o nag-hihipos san mga gamit ha 840 sqm nga interior (711 sqm Main Hall ug 129 sqm Foyer) san Calbayog City Convention Center?*
 2. **How much time do you spend setting up events in the main hall, and what setup challenges slow you down?**  
    *Waraynon: Ka-iha an imo gin-gagamit nga oras ha pag-preparar san okasyon ha main hall, ug ano nga mga problema an nagpapaiha ha iyo?*
 3. **How do current acoustic reverberation and ambient lighting conditions affect event execution?**  
@@ -605,7 +605,7 @@
 
 # PART 5: ARCHITECTURAL ON-SITE SPATIAL OBSERVATION PROTOCOL & CHECKLIST
 
-**Locale**: Calbayog City Convention Center — Main Hall (840 sqm interior footprint).  
+**Locale**: Calbayog City Convention Center — 840 sqm Interior Envelope (711 sqm Main Hall + 129 sqm Foyer).  
 **Objective**: To document physical envelope dimensions, circulation bottlenecks, utility placements, and current acoustic/lighting conditions during active event setups and non-event periods.  
 
 ---

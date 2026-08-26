@@ -1,6 +1,6 @@
-# Gap Analysis & Constructive Critique
+ Gap Analysis & Constructive Critique
 
-**Paper:** *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability* — BS Interior Design thesis proposal, 840 sqm Main Hall, Brgy. Capoocan, Calbayog City, Samar.
+**Paper:** *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability* — BS Interior Design thesis proposal, 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer), Brgy. Capoocan, Calbayog City, Samar.
 
 **Documents reviewed:** 21 files (Chapters 1–3, both survey instruments, interview protocol, observation checklist, both pilot certificates, REC Form F29, consultation brief, defense sheet)
 **Findings:** 33 — 9 critical, 14 substantive, 10 consistency
@@ -204,7 +204,7 @@ The rationale states that the Main Hall "currently lacks spatial flexibility, mo
 
 **File:** `31_Research environment.md`
 
-The research environment chapter is two paragraphs. The reader learns the floor area (840 sqm), capacity (500), barangay, and that it was a bus station renovated in 2009.
+The research environment chapter is two paragraphs. The reader learns the floor area (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer), capacity (500), barangay, and that it was a bus station renovated in 2009.
 
 **Missing:** floor plan, ceiling height, column grid, structural bay spacing, door and egress widths, wall and floor materials, existing lighting, existing drapery, storage locations, service access.
 

@@ -1,4 +1,4 @@
-# CHAPTER 3: RESEARCH METHODOLOGY — IN A NUTSHELL
+ CHAPTER 3: RESEARCH METHODOLOGY — IN A NUTSHELL
 
 This document serves as the master executive summary, structural synthesis, and defense reference guide for **Chapter 3: Research Methodology** for the Bachelor of Science in Interior Design Thesis on the **Calbayog City Convention Center**.
 
@@ -18,7 +18,7 @@ This study adopts an **Applied Design Research & Multi-Phase Spatial Synthesis F
 [ PHASE 1: QUANTITATIVE ]                                       [ PHASE 2: QUALITATIVE ]
 Ergonomic & Spatial Modeling                                    Cultural Abstraction & Motifs
   ├─ Survey Data ($N = 115–145$)                                  ├─ Samar Basey Banig Weaving
-  ├─ 840 sqm Footprint Mapping                                    ├─ Tikog Grass Fiber Textures
+  ├─ 840 sqm Footprint Mapping (711m² + 129m²)                    ├─ Tikog Grass Fiber Textures
   ├─ Anthropometrics (Neufert; Panero & Zelnik)                   ├─ Waterfall Fluid Topography
   └─ BP 344 & ADA Accessibility Rules                             └─ Surface Motif Data Matrix
     │                                                                               │
@@ -44,7 +44,7 @@ Ergonomic & Spatial Modeling                                    Cultural Abstrac
 
 | Research Phase | Focus & Methodological Scope | Primary Output / Deliverable |
 | :--- | :--- | :--- |
-| **Phase 1: Quantitative Ergonomic & Dimensional Modeling** | • Venue & attendee structured perception surveys ($N = 115–145$).<br>• Mathematical mapping of the 840 sqm Main Hall envelope.<br>• Calculation of static/dynamic anthropometric clearances.<br>• BP 344 & ADA universal accessibility clearance integration. | Anthropometrically validated dimensional envelope, seating pitch standards, and corridor clearance rulesets. |
+| **Phase 1: Quantitative Ergonomic & Dimensional Modeling** | • Venue & attendee structured perception surveys ($N = 115–145$).<br>• Mathematical mapping of the 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer).<br>• Calculation of static/dynamic anthropometric clearances.<br>• BP 344 & ADA universal accessibility clearance integration. | Anthropometrically validated dimensional envelope, seating pitch standards, and corridor clearance rulesets. |
 | **Phase 2: Qualitative Cultural Abstraction & Pattern Language** | • Documentation of Basey *banig* (Samat/Lara weaves) and *tikog* grass (*Fimbristylis umbellaris*).<br>• Abstraction of Calbayog waterfall geometries.<br>• Computational surface pattern translation (*Wagas, 2016; Del Monte, 2021*). | Replicable Cultural Pattern Matrix for laser-cut acoustic wall panels, drapery, and ambient ceiling baffles. |
 | **Phase 3: Spatial Synthesis & Framework Formulation** | • Integration of Phase 1 dimensional rules and Phase 2 cultural overlays.<br>• Design of kinetic overhead ceiling tracks and rigging interfaces.<br>• Formulation of standardized modular FF&E layouts and zoning. | Comprehensive Interior Design Framework & Practical Layout Standard Manual. |
 | **Phase 4: Framework Validation & Simulation Verification** | • **Tier 1**: CAD 2D/3D accessibility & sightline simulation (BP 344 Pass/Fail compliance).<br>• **Tier 2**: Time-and-motion turnaround comparative workflow modeling. | Empirically and computationally validated operational interior design framework. |
@@ -53,10 +53,10 @@ Ergonomic & Spatial Modeling                                    Cultural Abstrac
 
 ## 3. Research Environment & Locale Context
 
-* **Venue**: Calbayog City Convention Center (Main Convention Hall)
+* **Venue**: Calbayog City Convention Center (Main Convention Hall & Foyer)
 * **Location**: Barangay Capoocan, Calbayog City, Samar, Philippines
-* **Spatial Footprint**: **840 square meters**
-* **Maximum Occupancy**: Up to 500 occupants
+* **Spatial Footprint**: **840 square meters (711 sqm Main Hall + 129 sqm Foyer)**
+* **Maximum Occupancy**: Up to 500 occupants (Main Hall plenary assembly)
 * **Historical Context**: Originally established as a municipal bus terminal, renovated on December 14, 2009 into a convention center.
 * **Current Operational Challenges**: Rigid interior envelope, long setup/teardown durations, acoustic reverberation/flutter echoes, and absence of localized cultural identity.
 
@@ -67,7 +67,7 @@ Ergonomic & Spatial Modeling                                    Cultural Abstrac
 ### A. Inclusion Criteria
 All participants must:
 1. Be at least 18 years old.
-2. Have organized, operated, or attended at least one event in the Main Hall within the last 5 years.
+2. Have organized, operated, or attended at least one event in the Calbayog City Convention Center (Main Hall or Foyer) within the last 5 years.
 3. Possess familiarity with the venue or Samar’s regional cultural context.
 
 ### B. Sampling Matrix Breakdown
@@ -93,9 +93,9 @@ Data is gathered through three complementary instruments directly mapped to the 
    [ SURVEY QUESTIONNAIRES ]         [ IN-DEPTH INTERVIEWS ]           [ ON-SITE OBSERVATION ]
      (Quantitative Data)               (Qualitative Themes)              (Physical Spatial Audit)
    • Form A: Planners (5-pt Likert)  • Form C: 20-30 min audio-recorded  • Form D: 840 sqm mapping
-   • Form B: Attendees (5-pt Likert)   semi-structured interviews with   • Column grid, clearances,
-   • Evaluates bottlenecks, FF&E,      key venue operators & planners      sightlines & acoustic checks
-     lighting & cultural finishes
+   • Form B: Attendees (5-pt Likert)   semi-structured interviews with     (711m² Hall + 129m² Foyer)
+   • Evaluates bottlenecks, FF&E,      key venue operators & planners    • Column grid, clearances,
+     lighting & cultural finishes                                          sightlines & acoustic checks
 ```
 
 ### Questionnaire Structure (Mapped to SPOP)

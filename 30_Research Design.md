@@ -1,6 +1,6 @@
-# Research Design
+ Research Design
 
-A research design serves as the overarching operational framework that connects research questions to the methodology and analytical strategies executed throughout a study (Creswell & Creswell, 2018; Groat & Wang, 2013). This study adopts an **Applied Design Research & Multi-Phase Spatial Synthesis Framework**, integrating quantitative ergonomic/dimensional modeling with qualitative cultural design abstraction to formulate and validate a site-specific, non-structural interior design framework for the 840 square meter Main Hall of the Calbayog City Convention Center.
+A research design serves as the overarching operational framework that connects research questions to the methodology and analytical strategies executed throughout a study (Creswell & Creswell, 2018; Groat & Wang, 2013). This study adopts an **Applied Design Research & Multi-Phase Spatial Synthesis Framework**, integrating quantitative ergonomic/dimensional modeling with qualitative cultural design abstraction to formulate and validate a site-specific, non-structural interior design framework for the 840 square meter interior envelope (comprising the 711 square meter Main Hall and 129 square meter Foyer) of the Calbayog City Convention Center.
 
 This study employs an established design synthesis approach (Archer, 1995; Groat & Wang, 2013). The research methodology systematically addresses the study's research objectives through **four interconnected operational phases**.
 
@@ -11,7 +11,7 @@ This study employs an established design synthesis approach (Archer, 1995; Groat
 The quantitative phase establishes spatial efficiency, occupant capacity, empirical user preferences, and physical clearance parameters derived from venue surveys, international ergonomic standards, spatial planning metrics, and local regulatory mandates. 
 
 1. **Empirical Venue & User Perception Survey**: Distribution of a researcher-developed structured survey questionnaire synthesized from benchmark MICE venue studies (An, Kim, & Hur, 2021; Pembegül, 2009) to 115–145 target respondents (comprising a specialized expert sample of 15–25 event planners/operators and a representative public sample of 100–120 venue attendees) to quantify existing spatial bottlenecks, layout turnaround challenges, and preferences for modular FF&E adaptability.
-2. **Dimensional & Envelope Mapping**: Mathematical evaluation of the 840 square meter Main Hall interior footprint, establishing baseline circulation patterns, entrance/egress capacities, and spatial boundary constraints.
+2. **Dimensional & Envelope Mapping**: Mathematical evaluation of the 840 square meter interior footprint (711 sqm Main Hall and 129 sqm Foyer), establishing baseline circulation patterns, entrance/egress capacities, and spatial boundary constraints.
 3. **Anthropometric Clearance Calculations**: Rigorous application of static and dynamic anthropometric standards (Panero & Zelnik, 1979; Neufert, 2012) to calculate:
    * *Theater (Plenary) Typology*: Seat pitch (900 mm / 35.4 in), clear seat passage (305 mm / 12 in), and vertical sightline offsets (C-values of 60 mm for staggered layouts and 120 mm for un-staggered layouts).
    * *Classroom (Lecture) Typology*: Writing desk surface height (740–760 mm), chair clearance depth (450–500 mm), and service corridor clearance (400–450 mm).
@@ -46,7 +46,7 @@ The synthesis phase combines the quantitative spatial parameters from Phase 1 an
 To ensure that the synthesized interior design framework and layout manual achieve their operational, ergonomic, and aesthetic objectives, this study executes a two-tier digital simulation and workflow modeling protocol:
 
 1. **Digital Spatial & Accessibility Simulation (CAD Desk Verification)**:
-   * Digital 2D & 3D modeling and spatial simulation of all four layout typologies (Plenary, Classroom, Banquet, Exhibition) inside the 840 square meter architectural shell using Computer-Aided Design (CAD) software.
+   * Digital 2D & 3D modeling and spatial simulation of all four layout typologies (Plenary, Classroom, Banquet, Exhibition) inside the 711 square meter Main Hall and the adjoining 129 square meter Foyer using Computer-Aided Design (CAD) software.
    * Geometric verification of continuous 1200 mm wheelchair travel paths and 1500 mm turning radiuses in strict compliance with Batas Pambansa Bilang 344 (BP 344) and ADA Standards (2010).
    * Vertical sightline offset simulation verifying C-value clearances (60 mm staggered, 120 mm un-staggered) from the rear and side seating boundaries toward the presentation stage.
 

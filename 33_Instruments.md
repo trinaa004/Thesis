@@ -1,4 +1,4 @@
-Research Instruments
+esearch Instruments
 To gather comprehensive data for this study, data collection will utilize three complementary research instruments: a researcher-developed survey questionnaire (synthesized from benchmark literature), a semi-structured interview guide, and an on-site spatial observation checklist. 
 
 To ensure complete participant comprehension across diverse demographic backgrounds in Calbayog City and Samar, research instruments will feature contextualized phrasing in English, supported by bilingual (Waray/Filipino) translations and on-site assistance as needed.
@@ -17,7 +17,7 @@ Section F: Programmatic Parameters & Future-Proof Specifications (SPOP Q2 & Q4):
 Semi-Structured Interviews
 A qualitative semi-structured interview guide will be developed to explore nuanced insights from key event planners and venue operators. The open-ended questions will focus on specific operational workflows, physical challenges encountered during event setup and teardown, desired acoustic and lighting controls, and cultural expression in public venues.
 On-Site Observation
-The researcher will conduct direct, non-participatory spatial observations within the 840 square meter Main Hall. An observation checklist will be used to record:
+The researcher will conduct direct, non-participatory spatial observations within the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Foyer). An observation checklist will be used to record:
 1. Physical envelope dimensions, column grid spacing, and door clearances.
 2. FF&E inventory, loading entrance door clearances, and outsourced furniture staging/distribution paths.
 3. Pedestrian circulation flow, aisle widths, and back-of-house service lanes.

@@ -1,13 +1,13 @@
-# THESIS IN A NUTSHELL: MASTER EXECUTIVE SUMMARY & DEFENSE QUICK REFERENCE
+ THESIS IN A NUTSHELL: MASTER EXECUTIVE SUMMARY & DEFENSE QUICK REFERENCE
 
 **Official Working Title:**  
 *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*
 
 **Degree Program:** Bachelor of Science in Interior Design  
-**Research Locale:** Calbayog City Convention Center (Main Convention Hall)  
+**Research Locale:** Calbayog City Convention Center (Main Convention Hall & Foyer)  
 **Location:** Brgy. Capoocan, Calbayog City, Samar, Philippines  
-**Spatial Envelope:** 840 square meters (Single-volume rectilinear hall)  
-**Maximum Occupancy:** Up to 500 occupants (1.68 sqm/person assembly density)  
+**Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Foyer)  
+**Maximum Occupancy:** Up to 500 occupants (1.42 sqm/person assembly density in Main Hall)  
 **Facility Background:** Renovated on December 14, 2009 (originally a municipal bus terminal)  
 **Nature of Intervention:** Strictly Non-Structural Interior Design Overlay & Layout Manual  
 
@@ -15,7 +15,7 @@
 
 ## 1. The 30-Second Elevator Pitch
 
-> *"This study develops a **site-specific, non-structural interior design framework and layout manual** for the **840-square-meter Main Hall of the Calbayog City Convention Center** in Samar.*
+> *"This study develops a **site-specific, non-structural interior design framework and layout manual** for the **840-square-meter interior envelope (711 sqm Main Hall + 129 sqm Foyer) of the Calbayog City Convention Center** in Samar.
 > 
 > *By harmonizing **spatial modularity (reconfigurable FF&E)**, **Samar-Calbayog cultural heritage (Basey banig weaving and waterfall motifs)**, and **a flexible overhead ceiling interface**, the study transforms an aging, converted municipal hall into an adaptable, high-efficiency civic venue that accelerates event turnaround times, controls acoustics, and complies with universal accessibility (BP 344)—**all within the venue's existing structural shell without requiring building demolition or structural alteration.**"*
 
@@ -79,7 +79,7 @@
 
 3. **Future-Proofing & Overhead Ceiling Interface**:
    - Utilizing the upper ceiling volume for **lightweight suspended track rails** carrying modular ambient luminaires, acoustic drapes, and spatial dividers.
-   - Frees up the 840 sqm floor plane, eliminating floor cable hazards and cutting setup/teardown turnaround times in half.
+   - Frees up the 840 sqm interior floor plane, eliminating floor cable hazards and cutting setup/teardown turnaround times in half.
 
 ---
 
@@ -94,8 +94,8 @@
 ├──────────────────────────────────────┼──────────────────────────────────────┤
 │ • FIXED SUPPORT:                     │ • PERSON-PROCESS-PLACE (PPP) MODEL:  │
 │   The permanent 840 sqm concrete     │   Cognitive, affective, and behavior │
-│   structural shell, trusses, and     │   bonding between event-goers and    │
-│   exterior envelope (untouched).     │   the physical venue.                │
+│   structural shell (711 sqm Main     │   bonding between event-goers and    │
+│   Hall + 129 sqm Foyer, untouched).  │   the physical venue.                │
 │                                      │                                      │
 │ • KINETIC INFILL:                    │ • CULTURAL RESONANCE:                │
 │   The reconfigurable interior        │   Tactile and visual integration of  │
@@ -114,7 +114,27 @@
 | Architectural & Engineering Domain (What is EXCLUDED) | Interior Design Scope (What You PROPOSE) |
 | :--- | :--- |
 | **Civil & Structural Engineering**<br>• Modifying load-bearing concrete columns.<br>• Altering structural roof trusses.<br>• Heavy structural load calculations. | **Non-Structural Interior Overlay**<br>• Loose, reconfigurable FF&E arrangements.<br>• Demountable spatial partitions.<br>• Surface finishes and acoustic claddings. |
-| **Commercial Mechanical / Rigging Systems**<br>• High-voltage motorized rigging circuits.<br>• Structural crane/hoist mechanical engineering.<br>• HVAC duct* **Phase 4 (Framework Validation & Simulation Verification)**:
+| **Commercial Mechanical / Rigging Systems**<br>• High-voltage motorized rigging circuits.<br>• Structural crane/hoist mechanical engineering.<br>• HVAC duct rerouting or central plant engineering. | **Kinetic Ceiling & Lighting Interface**<br>• Suspended track profiles carrying lightweight drapes.<br>• Spatial zoning of ambient/accent lighting.<br>• Non-structural acoustic ceiling baffles. |
+| **Acoustic Engineering Ratings & Noise Isolation**<br>• STC/NRC mathematical lab testing.<br>• Exterior facade sound transmission loss.<br>• Heavy masonry isolation walls. | **Tactile Acoustic Surface Overlays**<br>• Wall-mounted *tikog* composite panels.<br>• Fabric wall drapery and ceiling clouds.<br>• Direct spatial echo and flutter remediation. |
+
+---
+
+## 6. Four-Phase Multi-Phase Spatial Synthesis Flow
+
+* **Phase 1 (Quantitative Ergonomic & Dimensional Modeling)**:
+  - Demographic and operational surveys ($N = 115–145$).
+  - Mathematical mapping of the 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer).
+  - Anthropometric calculations: seat pitch ($900\text{ mm}$), aisle widths ($1200\text{–}2400\text{ mm}$), service lanes ($1620\text{–}1800\text{ mm}$), sightline C-values ($60\text{ mm}$ and $120\text{ mm}$).
+  - BP 344 / ADA universal accessibility verification ($1200\text{ mm}$ paths, $1500\text{ mm}$ turning circles, $760\text{ mm} \times 1220\text{ mm}$ wheelchair stalls).
+* **Phase 2 (Qualitative Cultural Abstraction & Pattern Language)**:
+  - Semi-structured key informant interviews ($n = 8–12$).
+  - Systematic abstraction of Basey *banig* weaving patterns, *tikog* grass textures, and Calbayog waterfall fluid forms.
+  - Cultural Abstraction Matrix mapping regional heritage into reproducible acoustic surface panels.
+* **Phase 3 (Spatial Synthesis & Framework Formulation)**:
+  - Standardized Menu of 4 Reconfigurable Layout Typologies: Plenary (Theater), Classroom (Lecture), Banquet (Social/Dining), and Exhibition (Trade Show).
+  - Non-structural overhead ceiling grid and lighting/drapery track interface.
+  - Sustainable material specification matrix (low-VOC, FSC timber, *tikog* bio-composites).
+* **Phase 4 (Framework Validation & Simulation Verification)**:
   - **Digital Spatial Clearance Simulation**: 2D/3D CAD modeling verifying continuous 1200 mm wheelchair paths, 1500 mm turning radiuses (BP 344), and sightline C-values.
   - **Turnaround Workflow Modeling**: Time-and-motion comparative simulation of transition sequences vs. baseline setup times.
 
@@ -123,7 +143,7 @@
 ## 7. The Tangible Deliverable
 
 The final output is an **Applied Interior Design Framework & Practical Layout Manual** featuring:
-1. **Pre-Calculated Layout Templates**: Plenary, Classroom, Banquet, and Exhibition layouts scaled to the 840 sqm hall with exact chair counts and aisle dimensions.
+1. **Pre-Calculated Layout Templates**: Plenary, Classroom, Banquet, and Exhibition layouts scaled to the 711 sqm Main Hall with exact chair counts and aisle dimensions (coordinated with the 129 sqm Foyer).
 2. **Anthropometric Clearance Standards**: Compliance sheets for universal accessibility (wheelchair turning radiuses, ramp slopes, sightline C-values).
 3. **Material Specification Matrix**: Sustainable *tikog* composite acoustic panel details, FSC-certified timber trims, and recycled felt acoustic overlays.
 4. **Overhead Kinetic Guide**: Track layout diagrams for rapid drapery and ambient lighting transitions.
@@ -139,7 +159,8 @@ To ensure the design manual does not remain an unverified conceptual proposal, P
 │                  PHASE 4: TWO-TIER VALIDATION SYSTEM                        │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ 1. DIGITAL 2D/3D SPATIAL SIMULATION (CAD Desk Verification)                 │
-│    • Digital simulation in AutoCAD/SketchUp inside the 840 sqm shell.       │
+│    • Digital simulation in AutoCAD/SketchUp inside the 840 sqm envelope     │
+│      (711 sqm Main Hall + 129 sqm Foyer).                                   │
 │    • Audits continuous 1200 mm wheelchair travel paths & 1500 mm turning    │
 │      radiuses under Batas Pambansa Bilang 344 (BP 344) and ADA 2010.        │
 │    • Simulates vertical sightline offsets (C-values: 60 mm staggered /      │
@@ -195,7 +216,7 @@ The Turnaround Workflow Model is not arbitrary—it applies established **Spatia
 │ • Time savings tabulated in comparative matrix showing 81% reduction (~1.2 hrs total).  │
 │ • Verified against BP 344 egress clearances and physical spatial standards.             │
 └─────────────────────────────────────────────────────────────────────────────────────────┘
-```�───────────────────────────────────────────────────────────────┐
+```�───────────────────────────────────────────────────────────────┐
 │                      THE 3-STEP WORKFLOW MODELING EXECUTION                             │
 ├─────────────────────────────────────────────────────────────────────────────────────────┤
 │ STEP 1: THE BASELINE FIELD AUDIT (Old Unguided Method)                                  │
@@ -239,7 +260,7 @@ If the panel asks: *"How did you validate that your design actually speeds up tu
 **Defense Script**:
 > *"We utilized a **Spatial Time-and-Motion Staging Analysis** based on **Pembegül (2009)** and **Panero & Zelnik (1979)**. 
 > 
-> By capturing baseline setup durations from our Calbayog survey and interviews, we mapped the logistical transport distance inside the 840 sqm hall. Moving 500 loose chairs by hand requires 250 trips totaling 15,000 meters of walking. By integrating 10-unit wheeled dollies, pre-calculated floor grid templates, and suspended ceiling track drapery, the proposed framework reduces physical travel distance by 80% and slashes turnaround time from **over 6.5 hours down to approximately 1.2 hours**—all while maintaining full BP 344 accessibility compliance."*
+> By capturing baseline setup durations from our Calbayog survey and interviews, we mapped the logistical transport distance inside the 711 sqm Main Hall and 129 sqm Foyer. Moving 500 loose chairs by hand requires 250 trips totaling 15,000 meters of walking. By integrating 10-unit wheeled dollies, pre-calculated floor grid templates, and suspended ceiling track drapery, the proposed framework reduces physical travel distance by 80% and slashes turnaround time from **over 6.5 hours down to approximately 1.2 hours**—all while maintaining full BP 344 accessibility compliance."*
 
 ---
 
@@ -257,7 +278,7 @@ If the panel asks: *"How did you validate that your design actually speeds up tu
 | **[21_theoretical_conceptual.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/21_theoretical_conceptual.md)** | Theoretical & Conceptual Framework (Habraken & Scannell/Gifford). |
 | **[22_LGU_Precedent_Baguio_Retrofit.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/22_LGU_Precedent_Baguio_Retrofit.md)** | Baguio Convention and Cultural Center (BCCC) Retrofit Case Analysis. |
 | **[30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md)** | Applied Design Research & 4-Phase Spatial Synthesis and Validation methodology. |
-| **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Calbayog City Convention Center site profile (840 sqm, Brgy. Capoocan). |
+| **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Calbayog City Convention Center site profile (840 sqm [711 sqm Main Hall + 129 sqm Foyer], Brgy. Capoocan). |
 | **[32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md)** | Purposive sampling matrix ($N = 115–145$ respondents). |
 | **[33_Instruments.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/33_Instruments.md)** | Research instruments and interview guide structures (SPOP Q1–Q3.1 mapping). |
 | **[34_Data Collection.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/34_Data%20Collection.md)** | Field data collection protocols and ethical procedures. |

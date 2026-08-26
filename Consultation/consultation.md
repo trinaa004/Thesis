@@ -1,4 +1,4 @@
-# THESIS ADVISER CONSULTATION BRIEF & COMPREHENSIVE OVERVIEW
+ THESIS ADVISER CONSULTATION BRIEF & COMPREHENSIVE OVERVIEW
 
 **Title**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 **Principal Investigator**: [Researcher Name]  
@@ -15,10 +15,10 @@
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                                   CORE THESIS IDENTITY                                 │
 ├───────────────────────────────┬────────────────────────────────────────────────────────┤
-│ Research Locale & Venue       │ Calbayog City Convention Center (Main Convention Hall) │
+│ Research Locale & Venue       │ Calbayog City Convention Center (Main Hall & Foyer)    │
 │ Location                      │ Brgy. Capoocan, Calbayog City, Samar, Philippines      │
-│ Spatial Footprint             │ 840 square meters (Single-volume interior envelope)   │
-│ Maximum Venue Capacity        │ Up to 500 occupants                                    │
+│ Spatial Footprint             │ 840 sqm interior envelope (711m² Main Hall + 129m² Foyer)│
+│ Maximum Venue Capacity        │ Up to 500 occupants (Main Hall Plenary Assembly)       │
 │ Facility History              │ Renovated Dec 14, 2009 (originally a municipal station)│
 │ Nature of Design Intervention │ Non-Structural Interior Overlay & Layout Framework     │
 │ Primary Beneficiaries         │ Event Planners, Event-Goers, LGU, Local Community      │
@@ -26,7 +26,7 @@
 ```
 
 ### Problem Statement Synthesis:
-The Calbayog City Convention Center serves as the primary municipal hub for MICE (Meetings, Incentives, Conferences, and Exhibitions) events, cultural tourism, and civic assemblies in Calbayog City. However, the venue currently operates within a rigid, static 840 sqm interior envelope characterized by:
+The Calbayog City Convention Center serves as the primary municipal hub for MICE (Meetings, Incentives, Conferences, and Exhibitions) events, cultural tourism, and civic assemblies in Calbayog City. However, the venue currently operates within a rigid, static 840 sqm interior envelope (comprising the 711 sqm Main Hall and 129 sqm Foyer) characterized by:
 1. **Prolonged Setup & Teardown Bottlenecks**: Lack of modular spatial templates and standardized FF&E causing lengthy, labor-intensive turnaround delays.
 2. **Acoustic & Material Deficiencies**: Sound reflection off ceramic tile floors and glass walls, compounded by old existing drapery and worn ceiling baffles needing non-structural upgrading.
 3. **Placelessness & Lack of Cultural Identity**: Generic corporate aesthetic devoid of Calbayog and Samar's rich indigenous material culture (*banig* weaving, *tikog* grass, and waterfall natural heritage).
@@ -85,7 +85,7 @@ The scope of this study is strictly confined to the development of a non-structu
 * Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns into upgraded perimeter acoustic drapery and ceiling acoustic overlays to establish a distinct regional identity. 
 * Proposing a non-structural overhead ceiling interface that layers modular acoustic finish tiles with an adjustable, conceptual interior track-and-rigging framework to facilitate dynamic alterations in ambient lighting and decorative drapery. 
 
-The spatial application of this framework is strictly limited to the interior envelope of the Main Convention Hall, encompassing a total floor area of 840 square meters. 
+The spatial application of this framework is strictly limited to the 840-square-meter interior envelope of the venue, comprising the 711-square-meter Main Convention Hall and the adjoining 129-square-meter Foyer / pre-function area. 
 
 ### Limitations of the Study
 To protect the professional boundaries of this study and maintain a focused research scope, the study establishes the following explicit limitations: 
@@ -108,6 +108,7 @@ To protect the professional boundaries of this study and maintain a focused rese
 Open Building Theory (Habraken, 1972)             Theory of Place Attachment (Scannell & Gifford, 2010)
   └─ Fixed Support: Architectural Envelope           └─ Person-Process-Place (PPP) Model
   └─ Kinetic Infill: 840 sqm Interior Overlay        └─ Tactile & Visual Cultural Resonance
+     (711 sqm Main Hall + 129 sqm Foyer)
         │                                                               │
         ▼                                                               ▼
 Active Logistics (Event Planners)                  Passive Experience (Event-Goers)
@@ -121,7 +122,7 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 ```
 
 ### Theoretical Synthesis:
-1. **Open Building Theory (Habraken, 1972)**: Decouples the immutable architectural building shell ("Support") from the interior fit-out ("Infill"). In this thesis, the 840 sqm Main Hall envelope is treated as the fixed Support, while the kinetic interior overlay—comprising modular furniture typologies, loose partitions, acoustic treatments, and ceiling track systems—functions as the adaptable Infill. This resolves operational turnaround friction without altering civil/structural components.
+1. **Open Building Theory (Habraken, 1972)**: Decouples the immutable architectural building shell ("Support") from the interior fit-out ("Infill"). In this thesis, the 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer) is treated as the fixed Support, while the kinetic interior overlay—comprising modular furniture typologies, loose partitions, acoustic treatments, and ceiling track systems—functions as the adaptable Infill. This resolves operational turnaround friction without altering civil/structural components.
 2. **Theory of Place Attachment (Scannell & Gifford, 2010)**: Employs the Person-Process-Place (PPP) framework to ensure the large multipurpose space avoids becoming a generic, placeless "black box." Local Samar weaving (*banig* and *tikog*) and Calbayog waterfall iconography are abstracted into tactile and visual interior surfaces, fostering emotional bonding and regional pride.
 
 ---
@@ -165,7 +166,7 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 │ & ERGONOMIC MODELING    │ CULTURAL ABSTRACTION         │ & DESIGN FRAMEWORK MANUAL     │
 ├─────────────────────────┼──────────────────────────────┼───────────────────────────────┤
 │ • 840 sqm Envelope      │ • Basey Banig Weave Matrices │ • Reconfigurable FF&E Layouts │
-│   Dimensional Mapping   │ • Tikog Texture Datasets     │   (Plenary, Class, Banq, Expo)│
+│   (711m² Hall + 129m²)  │ • Tikog Texture Datasets     │   (Plenary, Class, Banq, Expo)│
 │ • User Survey (N=115-145│ • Waterfall Ceiling Baffles  │ • Overhead Track & Rigging    │
 │ • Panero/Neufert Specs  │ • Qualitative Interviews     │ • Future-Proof Specifications │
 │ • BP 344 / ADA Audits   │   (n=8-12 saturation)        │   (Low-VOC, FSC-timber, smart)│

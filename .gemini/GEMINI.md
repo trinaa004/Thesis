@@ -1,4 +1,4 @@
-# Workspace Rules
+ Workspace Rules
 
 ## Rationale Planning & Editing Rule
 

@@ -1,4 +1,4 @@
-# CHAPTER 2: LITERATURE REVIEW
+ CHAPTER 2: LITERATURE REVIEW
 
 Bhandari (2016) defines a convention center as any property utilized for an event concerning a conference, meeting center, or any similar facility; this includes administrative offices, exposition halls, auditoriums, and facilities for preparing and serving food. Sung & Lee (2015), on the other hand, defines a convention center as a sizable building that is designed to hold conventions, exhibitions, trade shows, as well as other events.
 
@@ -66,14 +66,14 @@ Acoustic performance is equally central to a reconfigurable event hall, and rece
 
 ## Anthropometric and Ergonomic Standards
 
-To develop a highly adaptable, culturally responsive, and operationally efficient interior design framework for the Calbayog City Convention Center’s 840 sqm Main Hall, the spatial layouts must be grounded in human scale, physiological capabilities, and regulatory compliance. These standards dictate the limits of physical comfort, universal accessibility, and egress safety within the interior envelope.
+To develop a highly adaptable, culturally responsive, and operationally efficient interior design framework for the Calbayog City Convention Center’s 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer), the spatial layouts must be grounded in human scale, physiological capabilities, and regulatory compliance. These standards dictate the limits of physical comfort, universal accessibility, and egress safety within the interior envelope.
 
 In public assembly interiors, human body dimensions govern the design of furniture, fixtures, and equipment (FF&E), along with the spatial clearances surrounding them. Anthropometry is broadly categorized into two fields of study, both of which are critical to the execution of flexible interior layouts:
 
 * **Static (Structural) Anthropometry**: The measurement of the human body at rest in standardized, stationary positions. These metrics dictate the dimensions of individual seating modules, table heights, and structural sightlines.
 * **Dynamic (Functional) Anthropometry**: The measurement of the body in motion, describing the spatial envelopes required for physical activities, reach zones, and movement patterns. These metrics dictate the clearance corridors between seating rows, the walking paths of service staff, and the physical force required to rearrange modular interior systems.
 
-The 840 sqm Main Hall of the Calbayog City Convention Center must morph seamlessly between diverse layout configurations. To make these reconfigurations viable, the physical layout templates must integrate the anthropometric clearances established by Panero and Zelnik (1979) and Neufert (2012).
+The 711 sqm Main Hall and 129 sqm Foyer of the Calbayog City Convention Center must morph seamlessly between diverse layout configurations and pre-function staging. To make these reconfigurations viable, the physical layout templates must integrate the anthropometric clearances established by Panero and Zelnik (1979) and Neufert (2012).
 
 ### A. Theater (Plenary) Layout Typology
 
@@ -94,7 +94,7 @@ The 840 sqm Main Hall of the Calbayog City Convention Center must morph seamless
 
 ### D. Exhibition Layout Typology
 
-* **Pedestrian Grid Corridors**: To allow natural, non-congested foot traffic within the 840 sqm Main Hall during commercial setups, the circulation aisles between booth modules must be designed in multiples of the human shoulder-width profile.
+* **Pedestrian Grid Corridors**: To allow natural, non-congested foot traffic within the 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer) during commercial setups, the circulation aisles between booth modules must be designed in multiples of the human shoulder-width profile.
 * **Pedestrian Clearance Multiples**:
   * *Single file passage*: Minimum clear path of 750 mm to 900 mm (29.5 in to 35.4 in) based on maximum body breadth.
   * *Two-person bi-directional passing*: Minimum path of 1500 mm to 1800 mm (59.0 in to 70.8 in).
@@ -223,7 +223,7 @@ The reviewed literature establishes that contemporary convention and exhibition 
 
 Despite the extensive literature on the global MICE industry and modern convention architecture, a pronounced research gap persists: **the existing MICE and spatial design literature overwhelmingly emphasizes mega-scale, nationally funded international convention centers and capital-intensive structural expansions; non-structural interior adaptive strategies, layout standard manuals, and cultural abstraction frameworks for mid-scale, provincial municipal facilities remain critically under-researched.**
 
-Most provincial Philippine LGUs operate aging or converted civic halls—such as the 840-square-meter Calbayog City Convention Center, originally renovated from a municipal bus terminal in 2009—under strict capital constraints that preclude structural rebuilding. Existing literature fails to provide venue operators and interior designers with pre-calculated, non-structural spatial layout toolkits that simultaneously resolve rapid setup turnarounds, universal accessibility (BP 344), acoustic remediation, and regional cultural preservation within a fixed provincial envelope.
+Most provincial Philippine LGUs operate aging or converted civic halls—such as the 840-square-meter Calbayog City Convention Center (comprising a 711 sqm Main Hall and 129 sqm Foyer), originally renovated from a municipal bus terminal in 2009—under strict capital constraints that preclude structural rebuilding. Existing literature fails to provide venue operators and interior designers with pre-calculated, non-structural spatial layout toolkits that simultaneously resolve rapid setup turnarounds, universal accessibility (BP 344), acoustic remediation, and regional cultural preservation within a fixed provincial envelope.
 
 ### Mapping of Research Sub-Problems (SPOP) to the Research Gap
 
@@ -231,8 +231,8 @@ To directly address this gap, this study formulates a site-specific interior des
 
 | Research Sub-Problem (SPOP) | Specific Literature / Empirical Gap Addressed | Methodological & Design Contribution |
 | :--- | :--- | :--- |
-| **SPOP 1: Baseline IEQ & Spatial Operational Challenges**<br>*(Baseline IEQ satisfaction & operator bottlenecks in 840 sqm hall)* | Lack of empirical baseline studies documenting indoor environmental quality satisfaction (lighting, acoustics, thermal comfort), operational turnaround delays, and circulation friction in converted provincial municipal venues. | Conducts mixed-methods spatial triangulation (operator surveys, attendee IEQ evaluations, and spatial observation) to establish an empirical environmental and operational baseline for provincial civic halls. |
-| **SPOP 2: Modular Zoning, FF&E & Universal Layout Typologies**<br>*(Plenary, Classroom, Banquet, Exhibition & BP 344)* | Absence of pre-calculated, anthropometrically calibrated layout templates and FF&E density ratios optimized for mid-scale (840 sqm) municipal event spaces under Philippine accessibility standards (BP 344/ADA). | Develops a standardized, repeatable interior layout manual integrating static/dynamic anthropometric clearances (Panero & Zelnik, 1979; Neufert, 2012) and BP 344 accessibility stalls. |
+| **SPOP 1: Baseline IEQ & Spatial Operational Challenges**<br>*(Baseline IEQ satisfaction & operator bottlenecks in 840 sqm envelope: 711 sqm Main Hall & 129 sqm Foyer)* | Lack of empirical baseline studies documenting indoor environmental quality satisfaction (lighting, acoustics, thermal comfort), operational turnaround delays, and circulation friction in converted provincial municipal venues. | Conducts mixed-methods spatial triangulation (operator surveys, attendee IEQ evaluations, and spatial observation) to establish an empirical environmental and operational baseline for provincial civic halls. |
+| **SPOP 2: Modular Zoning, FF&E & Universal Layout Typologies**<br>*(Plenary, Classroom, Banquet, Exhibition & BP 344 in 711 sqm hall + 129 sqm foyer)* | Absence of pre-calculated, anthropometrically calibrated layout templates and FF&E density ratios optimized for mid-scale (840 sqm) municipal event spaces under Philippine accessibility standards (BP 344/ADA). | Develops a standardized, repeatable interior layout manual integrating static/dynamic anthropometric clearances (Panero & Zelnik, 1979; Neufert, 2012) and BP 344 accessibility stalls. |
 | **SPOP 3: Samar Heritage & Cultural Placemaking Translation**<br>*(Basey banig / tikog grass & waterfall linework)* | Generic "placelessness" in provincial public interiors; lack of formalized design protocols for abstracting Waray/Basey weaving and local natural iconography into non-structural, reconfigurable finishes. | Formulates a systematic Cultural Abstraction Matrix translating Basey *banig* patterns, *tikog* textures, and waterfall fluid dynamics into acoustic wall paneling and interior finishes (Scannell & Gifford, 2010; Del Monte, 2021). |
 | **SPOP 4: Technical Future-Proofing, Acoustic Assemblies & Ceiling Tracks**<br>*(Acoustic overlays, kinetic tracks & material specs)* | Rapid functional obsolescence of municipal civic venues due to rigid specifications, passive ceiling planes, and lack of kinetic overhead infrastructure or sustainable acoustic assemblies. | Proposes a non-structural overhead ceiling track grid, sustainable local material specifications (*tikog* composites, FSC timber), and high-performance acoustic overlays to ensure multi-scale event versatility. |
 

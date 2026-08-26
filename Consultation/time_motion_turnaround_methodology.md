@@ -1,8 +1,8 @@
-# Time-and-Motion Field Observation & Mathematical Turnaround Modeling Guide
+ Time-and-Motion Field Observation & Mathematical Turnaround Modeling Guide
 
 **Thesis Working Title**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 **Degree Program**: Bachelor of Science in Interior Design  
-**Research Locale**: Calbayog City Convention Center (840 sqm Main Hall), Brgy. Capoocan, Calbayog City, Samar  
+**Research Locale**: Calbayog City Convention Center (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer), Brgy. Capoocan, Calbayog City, Samar  
 
 ---
 
@@ -11,7 +11,7 @@
 A major operational bottleneck of the Calbayog City Convention Center is its **prolonged setup and teardown turnaround duration** between consecutive event bookings. Because the venue operates without on-site furniture storage, organizers outsource third-party rental Furniture, Fixtures, and Equipment (FF&E). Ingress, floor staging, and spatial layout alignments are executed ad-hoc with manual trial-and-error measurement, leading to excessive labor hours, cluttered pathways, and lost rental revenue.
 
 This document serves as the **master reference and operational manual** for:
-1. **Executing non-participatory time-and-motion field observations** during live event setups at the 840 sqm Main Hall.
+1. **Executing non-participatory time-and-motion field observations** during live event setups across the 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer).
 2. **Applying standard mathematical formulations** to quantify turnaround reduction ($\Delta T\%$) and labor-hour savings ($\Delta MH\%$) achieved by the proposed Interior Design Framework and Layout Manual.
 3. **Defending the academic validity and peer-reviewed literature grounding** of this methodology during oral thesis consultations and panel defense.
 
@@ -70,7 +70,7 @@ flowchart TD
 ### A. Pre-Observation Preparation & Field Toolkit
 Before observing an active event setup in the Calbayog City Convention Center:
 1. **Institutional Authorization**: Secure permission from venue administration to conduct non-participatory observations.
-2. **Scaled Base Plan**: Bring a 1:100 scaled floor plan of the 840 sqm Main Hall on a clipboard or digital tablet.
+2. **Scaled Base Plan**: Bring a 1:100 scaled floor plan of the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer) on a clipboard or digital tablet.
 3. **Digital Timestamp / Stopwatch**: Use a multi-lap digital timer to record exact start, transition, and completion timestamps.
 4. **Measuring Tools**: Laser distance measurer or rolling measuring wheel to record truck-to-drop-zone transit distances.
 5. **Observation Log Sheets**: Print physical copies of the standardized log sheet in Section 4.
@@ -89,7 +89,7 @@ Before observing an active event setup in the Calbayog City Convention Center:
 | Stage | Logistical Phase | What to Observe & Document | Specific Metrics to Log |
 | :--- | :--- | :--- | :--- |
 | **Stage 1** | **Ingress & Unloading** | Delivery truck arrival at loading entrance; manual unloading of loose chairs, tables, trusses, stage platforms, and decor. | • Unloading start/end time ($t_1$)<br>• Number of unloading crew ($L_1$)<br>• Truck-to-door transit distance |
-| **Stage 2** | **Primary Floor Staging** | Transporting bulk furniture stacks from entrance to intermediate floor holding areas across the 840 sqm space. | • Staging locations & aisle clutter<br>• Transit paths & obstacles<br>• Staging duration ($t_2$) & crew ($L_2$) |
+| **Stage 2** | **Primary Floor Staging** | Transporting bulk furniture stacks from entrance/foyer to intermediate floor holding areas across the 711 sqm space. | • Staging locations & aisle clutter<br>• Transit paths & obstacles<br>• Staging duration ($t_2$) & crew ($L_2$) |
 | **Stage 3** | **Layout Unfolding & Alignment** | Unfolding tables/chairs and aligning rows/columns. Note ad-hoc measurement practices (eyeballing gaps, pacing footsteps, tape measuring). | • Alignment duration ($t_3$)<br>• Crew size ($L_3$)<br>• Frequency of re-measuring / row shifting |
 | **Stage 4** | **Linens & Tabletop Dressing** | Fitting table linens, chair covers, sashes, centerpieces, podium dressings, and banquet place settings. | • Dressing duration ($t_4$)<br>• Handling crew ($L_4$) |
 | **Stage 5** | **AV, Lighting & Floor Cabling** | Rigging lights, placing PA speakers, erecting stage backdrops, routing power snakes across the floor, and applying gaffer tape. | • Cabling duration ($t_5$)<br>• Tripping hazards & aisle tape crossings |
@@ -106,7 +106,7 @@ CALBAYOG CITY CONVENTION CENTER: SETUP TIME-AND-MOTION OBSERVATION LOG
 Observation ID: OBS-____       Date: _______________      Event Typology: [ ] Plenary  [ ] Banquet
 Target Occupancy: ____ Pax     Start Time: _________      [ ] Classroom  [ ] Exhibition  [ ] Hybrid
 Outsourced Supplier: _______________________________      Total FF&E Count: ____ Chairs, ____ Tables
-Observer: __________________________________________      Starting Condition: 840 sqm Bare Concrete Shell
+Observer: __________________________________________      Starting Condition: 840 sqm Interior Envelope (711m² Hall + 129m² Foyer)
 ========================================================================================================
 
 | Stage / Logistical Task       | Start Time | End Time | Elapsed (Mins) | Crew Size (L) | Man-Hours (MH) | Handling Dist (m) | Observed Friction, Bottlenecks & Re-work | Photo Ref |
@@ -193,7 +193,7 @@ $$\eta = \frac{\text{Event Capacity (Occupants)}}{\text{Total Setup Labor-Hours 
 ## 7. Manuscript Integration: Phrasing for Chapters 3 & 4
 
 ### Chapter 3 (Research Methodology — Phase 5)
-> *"To evaluate the operational efficiency of the existing 840-square-meter Main Hall and substantiate layout optimization, a non-participatory field observation and time-and-motion workflow modeling protocol is implemented, grounded in the environmental observation methods of Zeisel (2006), the architectural simulation framework of Groat and Wang (2013), and the international work study standards of the International Labour Office (ILO / Kanawaty, 1992). Baseline setup workflows are observed across distinct event typologies (Plenary, Banquet, Classroom, Exhibition), tracking elemental task durations, active crew sizes, handling transit paths, and spatial bottlenecks in accordance with MICE facility operational benchmarks (Lawson, 2000; An, Kim, & Hur, 2021). The resulting empirical baseline is mathematically compared against the proposed standardized modular layout manual using comparative method modeling (Barnes, 1980; Tompkins et al., 2010) to quantify setup turnaround and labor-hour reductions."*
+> *"To evaluate the operational efficiency of the existing 840-square-meter interior envelope (711 sqm Main Hall and 129 sqm Foyer) and substantiate layout optimization, a non-participatory field observation and time-and-motion workflow modeling protocol is implemented, grounded in the environmental observation methods of Zeisel (2006), the architectural simulation framework of Groat and Wang (2013), and the international work study standards of the International Labour Office (ILO / Kanawaty, 1992). Baseline setup workflows are observed across distinct event typologies (Plenary, Banquet, Classroom, Exhibition), tracking elemental task durations, active crew sizes, handling transit paths, and spatial bottlenecks in accordance with MICE facility operational benchmarks (Lawson, 2000; An, Kim, & Hur, 2021). The resulting empirical baseline is mathematically compared against the proposed standardized modular layout manual using comparative method modeling (Barnes, 1980; Tompkins et al., 2010) to quantify setup turnaround and labor-hour reductions."*
 
 ### Chapter 4 (Results & Discussion — Framework Validation)
 > *"Validation of the interior framework's operational viability is executed through a two-tier simulation protocol (Groat & Wang, 2013). Tier 1 performs CAD desk verification of spatial clearances against BP 344 and ADA (2010) standards. Tier 2 applies comparative workflow modeling (ILO, 1992; Tompkins et al., 2010), demonstrating that the integration of standardized modular layout templates, pre-zoned staging buffers, and overhead ceiling rigging yields an empirical turnaround time reduction of $\Delta T = 50.0\%$ and a labor resource savings of $\Delta MH = 63.7\%$ relative to observed baseline operations."*

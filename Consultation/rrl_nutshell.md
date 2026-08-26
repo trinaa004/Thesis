@@ -1,4 +1,4 @@
-# CHAPTER 2: REVIEW OF RELATED LITERATURE (RRL) — IN A NUTSHELL
+ CHAPTER 2: REVIEW OF RELATED LITERATURE (RRL) — IN A NUTSHELL
 
 This document serves as a high-yield executive summary and consultation reference guide for **Chapter 2: Review of Related Literature (RRL)** of the Bachelor of Science in Interior Design Thesis for the **Calbayog City Convention Center**.
 
@@ -6,7 +6,7 @@ This document serves as a high-yield executive summary and consultation referenc
 
 ## 1. Executive Summary & Thesis Architecture
 
-The Literature Review establishes why the **Calbayog City Convention Center (840 sqm Main Hall, Brgy. Capoocan)** must transition from a static, generic municipal hall into an agile, culturally rooted, future-proof civic venue. It bridges two fundamental design domains:
+The Literature Review establishes why the **Calbayog City Convention Center (840 sqm interior envelope [711 sqm Main Hall + 129 sqm Foyer], Brgy. Capoocan)** must transition from a static, generic municipal hall into an agile, culturally rooted, future-proof civic venue. It bridges two fundamental design domains:
 
 1. **Logistical & Spatial Agility (Active Operator Demands)**: Enabling rapid turnover between diverse MICE events (Plenary, Classroom, Banquet, Exhibition) using non-structural modular infill and ceiling track grids.
 2. **Cultural Resonance & Spatial Memory (Passive User Demands)**: Eradicating placelessness by translating Samar Basey *banig* (*tikog* grass) weaving traditions and Calbayog waterfall topographies into acoustic surfaces and ambient lighting.
@@ -17,9 +17,10 @@ The Literature Review establishes why the **Calbayog City Convention Center (840
           ┌────────────────────────────────┴────────────────────────────────┐
           ▼                                                                 ▼
 Open Building Theory (Habraken, 1972)             Theory of Place Attachment (Scannell & Gifford, 2010)
-  ├─ Fixed Support: 840 sqm Concrete Envelope       ├─ Person: Waray community & visiting delegates
-  └─ Kinetic Infill: Reconfigurable Interior        ├─ Process: Cognitive/Affective cultural bonding
-          │                                         └─ Place: Samar banig textures & waterfall baffles
+  ├─ Fixed Support: 840 sqm Structural Shell        ├─ Person: Waray community & visiting delegates
+  │  (711 sqm Main Hall + 129 sqm Foyer)            ├─ Process: Cognitive/Affective cultural bonding
+  └─ Kinetic Infill: Reconfigurable Interior        └─ Place: Samar banig textures & waterfall baffles
+          │                                                                 │
           ▼                                                                 ▼
 Operational Agility & Rapid Turnover                              Civic Pride, Identity & Acoustic Comfort
           │                                                                 │
@@ -37,7 +38,7 @@ Operational Agility & Rapid Turnover                              Civic Pride, I
 * **Core Premise**: Separates the building into distinct levels of permanence:
   * **Support (Fixed Base Building)**: Immovable structural shell, columns, perimeter walls, and roof structure.
   * **Infill (Fit-out / Interior Overlay)**: Kinetic, adaptable interior, modular FF&E, suspended track systems, and acoustic drapery.
-* **Application to Calbayog**: The existing 840 sqm hall remains structurally untouched (preserving municipal capital), while the interior infill is treated as a flexible overlay that can be rearranged in under 60–90 minutes.
+* **Application to Calbayog**: The existing 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer) remains structurally untouched (preserving municipal capital), while the interior infill is treated as a flexible overlay that can be rearranged in under 60–90 minutes.
 
 ### B. Theory of Place Attachment (Scannell & Gifford, 2010)
 * **Core Premise**: Explains human bonding to physical environments through the **Person-Process-Place (PPP)** Tripartite Model:
@@ -60,7 +61,7 @@ Operational Agility & Rapid Turnover                              Civic Pride, I
 
 ## 4. Anthropometric & Ergonomic Standards (Panero & Zelnik, 1979; Neufert, 2012)
 
-All modular layouts within the 840 sqm footprint are mathematically grounded in static (structural body size) and dynamic (reach and movement envelopes) anthropometry:
+All modular layouts within the 711 sqm Main Hall and 129 sqm Foyer are mathematically grounded in static (structural body size) and dynamic (reach and movement envelopes) anthropometry:
 
 | Typology | Primary Metrics & Clearances | Functional Rationale |
 | :--- | :--- | :--- |
@@ -98,14 +99,14 @@ All modular layouts within the 840 sqm footprint are mathematically grounded in 
 ## 7. The Explicit Research Gap & SPOP Alignment
 
 ### The Gap
-> **Existing literature overwhelmingly focuses on capital-intensive, mega-scale international convention centers. There is an empirical deficit in non-structural interior design frameworks, pre-calculated layout manuals, and cultural abstraction protocols specifically tailored for mid-scale (840 sqm) provincial municipal LGU venues operating under fiscal constraints.**
+> **Existing literature overwhelmingly focuses on capital-intensive, mega-scale international convention centers. There is an empirical deficit in non-structural interior design frameworks, pre-calculated layout manuals, and cultural abstraction protocols specifically tailored for mid-scale (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer) provincial municipal LGU venues operating under fiscal constraints.**
 
 ### SPOP Alignment Matrix
 
 | Sub-Problem | Gap Addressed | Study Contribution |
 | :--- | :--- | :--- |
 | **SPOP 1: Baseline IEQ & Diagnostics** | Lack of empirical data on attendee IEQ satisfaction (lighting, acoustics, thermal) and operator turnaround bottlenecks in converted provincial halls. | Mixed-methods spatial triangulation (operator surveys, attendee evaluations, spatial observation). |
-| **SPOP 2: Modular Layouts & FF&E** | Absence of pre-calculated layout toolkits adhering to BP 344 accessibility for 840 sqm envelopes. | Anthropometrically validated layout catalog (Plenary, Classroom, Banquet, Exhibition). |
+| **SPOP 2: Modular Layouts & FF&E** | Absence of pre-calculated layout toolkits adhering to BP 344 accessibility for 840 sqm envelopes (711 sqm Main Hall & 129 sqm Foyer). | Anthropometrically validated layout catalog (Plenary, Classroom, Banquet, Exhibition). |
 | **SPOP 3: Cultural Translation & Placemaking** | Generic placelessness and lack of formalized Waray/Samar motif abstraction protocols. | Systematic Cultural Abstraction Matrix (Basey *banig*, *tikog* textures, & waterfall geometry translated into interior surfaces). |
 | **SPOP 4: Future-Proofing & Overhead Tracks** | Passive MEP ceilings and rapid material/technological obsolescence in municipal civic spaces. | Non-structural ceiling track grid, sustainable local material matrix (*tikog* composites, FSC timber), and high-performance acoustic overlays. |
 
@@ -115,4 +116,4 @@ All modular layouts within the 840 sqm footprint are mathematically grounded in 
 
 * **On Purpose**: *"Our RRL proves that modernization for provincial convention centers does not require structural demolition; it requires interior intelligence."*
 * **On Theory**: *"We pair **Habraken’s Open Building Theory** for operational efficiency with **Scannell & Gifford’s Theory of Place Attachment** for cultural resonance."*
-* **On Practicality**: *"Every layout proposed is backed by Panero & Zelnik’s anthropometrics and BP 344 accessibility laws, ensuring that the 840 sqm Main Hall can transition between major MICE formats safely and rapidly."*
+* **On Practicality**: *"Every layout proposed is backed by Panero & Zelnik’s anthropometrics and BP 344 accessibility laws, ensuring that the 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer) can transition between major MICE formats safely and rapidly."*

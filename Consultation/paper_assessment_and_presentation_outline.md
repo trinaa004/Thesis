@@ -1,9 +1,9 @@
-# THESIS ASSESSMENT & PRESENTATION OUTLINE GUIDE
+ THESIS ASSESSMENT & PRESENTATION OUTLINE GUIDE
 ## A Comprehensive Consultation & Defense Walkthrough for Researcher & Adviser
 
 **Study Title**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 **Degree Program**: Bachelor of Science in Interior Design  
-**Research Locale**: Calbayog City Convention Center (840 sqm Main Hall, Brgy. Capoocan, Calbayog City, Samar)  
+**Research Locale**: Calbayog City Convention Center (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer, Brgy. Capoocan, Calbayog City, Samar)  
 
 ---
 
@@ -31,12 +31,12 @@
 
 ### Core Facts & References to Present:
 * **Working Title**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability* ([00_title.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_title.md)).
-* **Site Context**: 840 sqm single-volume Main Hall, 500-occupant capacity, renovated on Dec 14, 2009 from a bus terminal ([31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)).
+* **Site Context**: 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer), 500-occupant capacity, renovated on Dec 14, 2009 from a bus terminal ([31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)).
 * **Existing Finishes (Site Visit Observations)**: Ceramic tile flooring, perimeter glass walls with old, worn acoustic drapery, and aged fabric ceiling baffles needing non-structural upgrading.
 * **Professional Scope Boundary (RA 10350)**: Strictly non-structural interior overlay (reconfigurable FF&E, suspended ceiling track interface, acoustic surface claddings). Zero alterations to load-bearing columns, trusses, or exterior facades ([Consultation/nutshell.md#L112-L119](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/nutshell.md#L112-L119)).
 
 > **(Say to Adviser / Panel):**  
-> *"Good morning, Ma’am/Sir. Today I am presenting our thesis proposal for the Calbayog City Convention Center’s 840 square meter Main Hall. Our title is anchored on three clear pillars: Spatial Modularity, Local Samar Heritage, and Future-Proof Adaptability.  
+> *"Good morning, Ma’am/Sir. Today I am presenting our thesis proposal for the Calbayog City Convention Center’s 840 square meter interior envelope, comprising the 711 square meter Main Hall and 129 square meter Foyer. Our title is anchored on three clear pillars: Spatial Modularity, Local Samar Heritage, and Future-Proof Adaptability.  
 > 
 > As an Interior Design study under RA 10350, our project maintains a strict non-structural scope boundary. Following Habraken’s Open Building principles, we treat the 2009 building shell, columns, and roof trusses as the fixed 'Support,' while our design intervention focuses 100% on the adaptable 'Infill'—reconfigurable modular furniture, non-structural ceiling track systems, and localized acoustic surface upgrades."*
 
@@ -82,8 +82,9 @@
         ┌───────────────────────────────┴───────────────────────────────┐
         ▼                                                               ▼
 Open Building Theory (Habraken, 1972)             Theory of Place Attachment (Scannell & Gifford, 2010)
-  └─ Fixed Support: 840 sqm Base Envelope           └─ Person-Process-Place (PPP) Model
-  └─ Kinetic Infill: Modular Interior Overlay       └─ Tactile & Cultural Samar Resonance
+  └─ Fixed Support: 840 sqm Base Shell              └─ Person-Process-Place (PPP) Model
+     (711 sqm Main Hall + 129 sqm Foyer)            └─ Tactile & Cultural Samar Resonance
+  └─ Kinetic Infill: Modular Interior Overlay
         │                                                               │
         ▼                                                               ▼
 Active Logistics (Event Planners)                  Passive Experience (Event Attendees)
@@ -193,4 +194,4 @@ Active Logistics (Event Planners)                  Passive Experience (Event Att
 | **Chapter 2: Literature & Precedent**| Comprehensive literature review and Baguio Convention Center (BCCC) case study. | `[  ]` | [20_RRL.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md) |
 | **Chapter 3: Sampling & Instruments**| Defensible sample ($N=115–145$), bilingual survey forms, and interview protocol. | `[  ]` | [32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md), [37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md) |
 | **Chapter 3: Phase 4 Validation** | 3-tier validation: CAD desk check, turnaround workflow modeling, expert rubric ($n=3–5$). | `[  ]` | [30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md) |
-| **Deliverable: Layout Manual** | Concrete, scaled 840 sqm layout plates, BP 344 compliance, and sustainable *tikog* FF&E. | `[  ]` | [Consultation/nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/nutshell.md) |
+| **Deliverable: Layout Manual** | Concrete, scaled 840 sqm layout plates (711 sqm Main Hall + 129 sqm Foyer), BP 344 compliance, and sustainable *tikog* FF&E. | `[  ]` | [Consultation/nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/nutshell.md) |

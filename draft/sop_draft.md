@@ -1,7 +1,7 @@
-# SPOP & Research Objectives Restructuring Draft: Interior Environmental Quality (IEQ) & Baseline Assessment
+ SPOP & Research Objectives Restructuring Draft: Interior Environmental Quality (IEQ) & Baseline Assessment
 
 **Target Document**: `02_chapter1.md`  
-**Reference Locale**: Calbayog City Convention Center (840 sqm Main Hall)  
+**Reference Locale**: Calbayog City Convention Center (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer)  
 **Degree Program**: Bachelor of Science in Interior Design  
 
 ---
@@ -11,7 +11,7 @@
 ### What the Advisor Suggested:
 1. **Create a Dedicated Main Question for the Interior Environment**: Introduce a primary Statement of the Problem (SPOP) question that investigates the **existing interior environmental conditions** (evaluating user/attendee satisfaction in terms of lighting, acoustics, and thermal comfort).
 2. **Move the Existing Spatial/Operational Question as a Sub-Question**: Reposition the existing challenge question (*"What are the current spatial, operational, and acoustic challenges..."*) under this new baseline evaluation umbrella.
-3. **Primary Objective Alignment**: The overarching objective of this first question is to **empirically measure and evaluate the baseline interior environmental and spatial conditions** of the 840 sqm Main Hall.
+3. **Primary Objective Alignment**: The overarching objective of this first question is to **empirically measure and evaluate the baseline interior environmental and spatial conditions** of the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer).
 
 ---
 
@@ -72,13 +72,13 @@ flowchart TD
      * *1.1.1. Lighting (ambient illuminance, visual clarity, and glare control);*
      * *1.1.2. Acoustics (speech intelligibility, reverberation, and sound dispersion); and*
      * *1.1.3. Thermal comfort (air movement distribution and perceived temperature satisfaction)?*
-   * **1.2.** What are the existing spatial, operational, and layout turnaround challenges encountered by event planners and venue operators within the 840 square meter interior envelope?
+   * **1.2.** What are the existing spatial, operational, and layout turnaround challenges encountered by event planners and venue operators within the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Foyer)?
 2. **How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility compliance (BP 344/ADA)?**
 3. **In what ways can localized Samar heritage motifs and cultural elements be woven into interior surface treatments to cultivate a distinct sense of place without restricting space versatility?**
 4. **What interior material, acoustic overlay, and overhead ceiling track specifications can future-proof the facility for multi-scale event adaptability?**
 
 #### Corresponding Research Objectives:
-1. **To evaluate the baseline interior environmental quality (IEQ) and spatial operational conditions of the Calbayog City Convention Center's Main Hall.**
+1. **To evaluate the baseline interior environmental quality (IEQ) and spatial operational conditions of the Calbayog City Convention Center's Main Hall & Foyer.**
    * **1.1.** Measure attendee and stakeholder satisfaction with the existing interior lighting, acoustic performance, and thermal comfort.
    * **1.2.** Identify the primary spatial bottlenecks, circulation constraints, and setup turnaround delays experienced during live venue operations.
 2. **To formulate standardized modular layout typologies (Plenary, Classroom, Banquet, Exhibition) and flexible FF&E arrangements that maximize spatial efficiency and accelerate turnaround speed.**
@@ -96,7 +96,7 @@ flowchart TD
      * *1.1.1. Lighting and visual comfort;*
      * *1.1.2. Acoustic clarity and noise control; and*
      * *1.1.3. Thermal comfort and indoor ventilation?*
-   * **1.2.** What are the existing spatial layout, circulation, and operational turnaround bottlenecks within the 840 sqm Main Hall?
+   * **1.2.** What are the existing spatial layout, circulation, and operational turnaround bottlenecks within the 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer)?
 2. **How can modular spatial layouts (Plenary, Classroom, Banquet, Exhibition) and flexible FF&E typologies be developed to optimize configuration speed and BP 344 accessibility?**
 3. **How can traditional Samar Basey banig weaving and Calbayog eco-tourism motifs be abstracted into interior finishes to create place attachment?**
 4. **What future-proof material, acoustic, and overhead utility specifications are required to maintain long-term functional adaptability?**

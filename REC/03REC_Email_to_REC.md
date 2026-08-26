@@ -1,4 +1,4 @@
-# MASTER EMAIL SUBMISSION TEMPLATE FOR RESEARCH ETHICS CLEARANCE
+ MASTER EMAIL SUBMISSION TEMPLATE FOR RESEARCH ETHICS CLEARANCE
 
 **TO:** **RUBY S. SUAZO, Ph.D.**  
 *Chair, Review Panel 2 (Engineering, Architecture, Fine Arts, Psychology, SoAn, Social Sciences)*  
@@ -17,7 +17,7 @@ Warm greetings!
 
 I am writing to formally submit my application for initial Research Ethics Review and Clearance for my undergraduate thesis entitled **"An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability."**
 
-This study formulates a site-specific, non-structural interior design framework for the 840 square meter Main Hall of the Calbayog City Convention Center. Grounded in modular spatial theory, universal accessibility mandates (BP 344 / ADA), and culturally responsive design frameworks, the research evaluates operational layout turnaround efficiency, acoustic reverberation mitigation, and regional Samar cultural identity.
+This study formulates a site-specific, non-structural interior design framework for the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Foyer) of the Calbayog City Convention Center. Grounded in modular spatial theory, universal accessibility mandates (BP 344 / ADA), and culturally responsive design frameworks, the research evaluates operational layout turnaround efficiency, acoustic reverberation mitigation, and regional Samar cultural identity.
 
 Attached to this email is the complete Research Ethics clearance package for your official review and evaluation:
 
