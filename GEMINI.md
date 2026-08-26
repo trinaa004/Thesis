@@ -28,6 +28,7 @@ This document serves as the master context index, project ruleset, and reference
 | **[Consultation/rrl_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/rrl_nutshell.md)** | Chapter 2 (Literature Review) In a Nutshell: Theoretical synthesis, spatial modularity, anthropometrics, cultural precedents, and research gap mapping. |
 | **[Consultation/methodology_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/methodology_nutshell.md)** | Chapter 3 (Research Methodology) In a Nutshell: 4-phase design synthesis flow, sampling matrix, instruments, RA 10173 data collection, and 3-tier validation protocol. |
 | **[Consultation/paper_assessment_and_presentation_outline.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/paper_assessment_and_presentation_outline.md)** | Comprehensive 7-Part Consultation & Presentation Walkthrough with verbatim speaking scripts and adviser audit checklist. |
+| **[Consultation/time_motion_turnaround_methodology.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/time_motion_turnaround_methodology.md)** | Field Observation Protocol, Time-and-Motion Logging Sheet, Mathematical Turnaround Reduction Formulas, and Academic Literature Justification (Zeisel, Groat & Wang, Lawson, ILO, Tompkins). |
 
 ---
 

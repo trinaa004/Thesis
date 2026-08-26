@@ -32,11 +32,10 @@ Ergonomic & Spatial Modeling                                    Cultural Abstrac
                           ├─ Flexible FF&E Operational Zoning & Material Matrix
                                             │
                                             ▼
-                        [ PHASE 4: MULTI-TIER VALIDATION ]
-                        Simulation & Expert Practitioner Verification
+                        [ PHASE 4: TWO-TIER VALIDATION ]
+                        Simulation & Verification
                           ├─ CAD Desk Verification (BP 344 Pass/Fail Compliance)
-                          ├─ Logistical Turnaround Modeling (Time-and-Motion Optimization)
-                          └─ 5-Point Expert Rubric Evaluation ($n = 3–5$ Licensed Architects/IDs)
+                          └─ Logistical Turnaround Modeling (Time-and-Motion Optimization)
 ```
 
 ---
@@ -48,7 +47,7 @@ Ergonomic & Spatial Modeling                                    Cultural Abstrac
 | **Phase 1: Quantitative Ergonomic & Dimensional Modeling** | • Venue & attendee structured perception surveys ($N = 115–145$).<br>• Mathematical mapping of the 840 sqm Main Hall envelope.<br>• Calculation of static/dynamic anthropometric clearances.<br>• BP 344 & ADA universal accessibility clearance integration. | Anthropometrically validated dimensional envelope, seating pitch standards, and corridor clearance rulesets. |
 | **Phase 2: Qualitative Cultural Abstraction & Pattern Language** | • Documentation of Basey *banig* (Samat/Lara weaves) and *tikog* grass (*Fimbristylis umbellaris*).<br>• Abstraction of Calbayog waterfall geometries.<br>• Computational surface pattern translation (*Wagas, 2016; Del Monte, 2021*). | Replicable Cultural Pattern Matrix for laser-cut acoustic wall panels, drapery, and ambient ceiling baffles. |
 | **Phase 3: Spatial Synthesis & Framework Formulation** | • Integration of Phase 1 dimensional rules and Phase 2 cultural overlays.<br>• Design of kinetic overhead ceiling tracks and rigging interfaces.<br>• Formulation of standardized modular FF&E layouts and zoning. | Comprehensive Interior Design Framework & Practical Layout Standard Manual. |
-| **Phase 4: Framework Validation & Simulation Verification** | • **Tier 1**: CAD 2D/3D accessibility & sightline simulation (BP 344 Pass/Fail compliance).<br>• **Tier 2**: Time-and-motion turnaround comparative workflow modeling.<br>• **Tier 3**: Expert evaluation rubric administered to 3–5 licensed practitioners. | Empirically and professionally validated operational interior design framework. |
+| **Phase 4: Framework Validation & Simulation Verification** | • **Tier 1**: CAD 2D/3D accessibility & sightline simulation (BP 344 Pass/Fail compliance).<br>• **Tier 2**: Time-and-motion turnaround comparative workflow modeling. | Empirically and computationally validated operational interior design framework. |
 
 ---
 
@@ -78,7 +77,6 @@ All participants must:
 | **Group 1: Event Planners, Coordinators & Venue Operators** | **$15–25$ respondents** | **Purposive Expert Sampling** | Highly specialized, small local population; expert knowledge required (*An et al., 2021; Pembegül, 2009; Etikan et al., 2016*). | Turnaround bottlenecks, FF&E reconfigurability, loading staging, overhead rigging needs. |
 | **Group 2: General Public & Event Attendees** | **$100–120$ respondents** | **Purposive Quota Sampling** | Slovin’s formula ($N = 500–1000+$, 95% Conf., $e = 0.08–0.09$) ensuring cross-sectional representation (*Cochran, 1977; Israel, 1992*). | Spatial comfort, seating pitch, sightlines, acoustics, wayfinding, cultural ambiance. |
 | **Qualitative Key Informants** | **$8–12$ participants** | **Purposive Sub-sampling** | Optimal sample size for thematic saturation in operational workflows (*Braun & Clarke, 2006; Guest et al., 2006*). | In-depth setup pain points, lighting control preferences, cultural identity narratives. |
-| **Phase 4 Validation Panel** | **$3–5$ experts** | **Purposive Expert Panel** | Professional peer audit by Licensed Interior Designers, Registered Architects, and Venue Managers. | 5-point Likert validation rubric across spatial, acoustic, cultural, and usability criteria. |
 | **TOTAL SAMPLE ($N$)** | **$115–145$ respondents** | **Mixed Sampling Strategy** | Ensures high statistical validity and qualitative operational depth. | Comprehensive operational & experiential baseline. |
 
 ---
@@ -148,12 +146,11 @@ Analyzed through a rigorous **6-step thematic protocol**:
 * **Validation Protocols**:
   * *Spatial Compliance Matrix*: Binary Pass/Fail audit for continuous 1200 mm wheelchair aisles and 1500 mm turning radiuses in CAD models.
   * *Time-and-Motion Modeling*: Mathematical comparison of baseline setup hours vs. standardized modular manual workflows to quantify turnaround reduction.
-  * *Expert Rubric Analysis*: Weighted mean evaluation by 3–5 licensed practitioners across Spatial Feasibility, BP 344 Compliance, Acoustic Operability, Cultural Authenticity, and Layout Manual Usability.
 
 ---
 
 ## 8. Master Defense Soundbites (Methodology Quick Reference)
 
-* **On Research Design**: *"Our study uses an Applied Design Research methodology—we do not simply propose an aesthetic redesign; we execute a multi-phase synthesis linking empirical user data to CAD simulation and expert validation."*
+* **On Research Design**: *"Our study uses an Applied Design Research methodology—we do not simply propose an aesthetic redesign; we execute a multi-phase synthesis linking empirical user data to CAD simulation and operational workflow modeling."*
 * **On Sampling Rigor**: *"We separate our sample into two distinct groups: Purposive Expert Sampling ($n = 15–25$) for logistical and setup realities, and Purposive Quota Sampling ($n = 100–120$) via Slovin's formula for public attendee comfort and cultural perception."*
-* **On Validation**: *"We validate the interior framework through a three-tier protocol: CAD desk verification against BP 344 accessibility, time-and-motion turnaround modeling, and a 5-point evaluation rubric scored by licensed interior designers, architects, and venue managers."*
+* **On Validation**: *"We validate the interior framework through a two-tier protocol: CAD desk verification against BP 344 accessibility standards, and time-and-motion turnaround comparative modeling to prove operational setup efficiency."*

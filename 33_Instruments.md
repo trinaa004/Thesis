@@ -25,6 +25,3 @@ The researcher will conduct direct, non-participatory spatial observations withi
 5. Acoustic and visual environmental quality (perceived speech intelligibility, surface reverberation tendencies, lighting distribution, and sightline clarity).
 6. Presence or absence of localized cultural identity elements and surface material condition.
 
-Expert Practitioner Design Validation Rubric (Phase 4)
-To evaluate the operational validity, regulatory compliance, and practical utility of the synthesized interior design framework and layout manual, a structured 5-point Likert validation rubric (Form E) will be administered to a purposive panel of 3 to 5 expert practitioners (Licensed Interior Designers, Registered Architects, and Professional Venue Managers). The rubric assesses five core criteria: (a) Spatial Feasibility & Capacity Optimization, (b) Ergonomic & BP 344 Universal Accessibility Compliance, (c) Acoustic Remediation & Overhead Rigging Operability, (d) Cultural Resonance & Samar Heritage Translation, and (e) Layout Manual Clarity, Usability, and Replicability.
-

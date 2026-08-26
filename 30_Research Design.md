@@ -43,10 +43,10 @@ The synthesis phase combines the quantitative spatial parameters from Phase 1 an
 
 ## Phase 4: Framework Validation & Simulation Verification
 
-To ensure that the synthesized interior design framework and layout manual achieve their operational, ergonomic, and aesthetic objectives, this study executes a three-tier validation protocol:
+To ensure that the synthesized interior design framework and layout manual achieve their operational, ergonomic, and aesthetic objectives, this study executes a two-tier digital simulation and workflow modeling protocol:
 
 1. **Digital Spatial & Accessibility Simulation (CAD Desk Verification)**:
-   * Digital 2D/3D modeling and spatial simulation of all four layout typologies (Plenary, Classroom, Banquet, Exhibition) inside the 840 square meter architectural shell using Computer-Aided Design (CAD) software.
+   * Digital 2D & 3D modeling and spatial simulation of all four layout typologies (Plenary, Classroom, Banquet, Exhibition) inside the 840 square meter architectural shell using Computer-Aided Design (CAD) software.
    * Geometric verification of continuous 1200 mm wheelchair travel paths and 1500 mm turning radiuses in strict compliance with Batas Pambansa Bilang 344 (BP 344) and ADA Standards (2010).
    * Vertical sightline offset simulation verifying C-value clearances (60 mm staggered, 120 mm un-staggered) from the rear and side seating boundaries toward the presentation stage.
 
@@ -54,11 +54,3 @@ To ensure that the synthesized interior design framework and layout manual achie
    * Step-by-step comparative workflow simulation mapping the transition sequence between sequential event formats (e.g., Plenary to Banquet).
    * Compares the baseline unstandardized setup process against the standardized modular layout manual, tracking handling distances, equipment staging zones, and crew deployment requirements to substantiate turnaround time optimization.
 
-3. **Expert Practitioner Evaluation & Rubric Validation ($n = 3 \text{ to } 5$)**:
-   * Submission of the drafted Interior Design Framework, 2D/3D layout manual, and material specifications to a purposive panel of 3 to 5 expert practitioners (comprising Licensed Interior Designers, Registered Architects, and Professional Venue/Event Managers).
-   * Evaluation of the framework using a structured 5-point Likert validation rubric assessing five core criteria:
-     * *Criterion A: Spatial Feasibility & Capacity Optimization*
-     * *Criterion B: Ergonomic & BP 344 Universal Accessibility Compliance*
-     * *Criterion C: Acoustic Remediation & Overhead Ceiling Operability*
-     * *Criterion D: Cultural Resonance & Authenticity of Samar-Calbayog Motif Translation*
-     * *Criterion E: Clarity, Usability, and Replicability of the Practical Layout Manual*
