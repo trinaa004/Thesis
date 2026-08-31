@@ -1,53 +1,40 @@
- DEFINITION OF TERMS
+# DEFINITION OF TERMS
 
 The following table provides concise operational definitions for key terms utilized throughout this study, presented in alphabetical order:
 
-| Term | Definition |
+| Term | Operational Definition |
 | :--- | :--- |
-| **Anthropometric Clearances** | Standardized spatial dimensions and reach zones derived from human body measurements (Panero & Zelnik, 1979; Neufert, 2012), applied to calculate minimum aisle widths, seating pitch, and service lanes across the 840 sqm interior envelope (711 sqm Main Hall and 129 sqm Foyer). |
-| **Basey *Banig* Weaving Motif** | Traditional hand-woven reed mat patterns originating from Basey, Samar (Wagas, 2016), abstracted into upgraded perimeter acoustic drapery and ceiling acoustic overlays. |
-| **Calbayog Waterfall Imagery** | Visual and spatial interior design elements inspired by the natural hydro-geographic landscape of Calbayog City (Roa & Lagamon, 2018), incorporated into cascading ceiling acoustic baffles. |
-| **Culturally Responsive Interior Design** | An architectural approach that integrates local heritage, traditional crafts, and spatial traditions into interior surfaces (Krstić et al., 2024; Fakharany, 2025) to foster identity and place attachment. |
-| **Event Attendees (General Public)** | Participants and visitors ($n = 100–120$) surveyed to evaluate public user experience, spatial comfort, circulation, sightlines, acoustics, wayfinding, and cultural ambiance. |
-| **Event Planners and Venue Operators** | Professional coordinators and facility managers ($n = 15–25$) surveyed and interviewed to evaluate operational logistics, setup/teardown turnaround bottlenecks, and furniture reconfigurability. |
-| **Flexible FF&E Layout Typologies** | A design methodology utilizing standardized, reconfigurable furniture clusters (Barr, 2023; Ike et al., 2023) to rapidly adapt the Main Hall and Foyer for multi-scale events without structural alterations. |
-| **Furniture, Fixtures, and Equipment (FF&E)** | Lightweight, stackable, and demountable interior furnishings (Dong et al., 2024) specified to enable rapid layout reconfigurations inside the Main Hall and Foyer. |
-| **Future-Proof Design** | Strategic planning of built environments (DesignHorizons, 2024) to ensure long-term functionality, environmental resilience, and technological adaptability over a 10- to 15-year lifecycle. |
+| **Culturally Responsive Interior Design (Samar-Calbayog Heritage)** | A design synthesis that translates regional identity, material culture, and natural landmarks into non-structural interior surface treatments (Krstić et al., 2024; Wagas, 2016). In this study, it specifically denotes the geometric abstraction of Basey *banig* weaving patterns, *tikog* grass (*Fimbristylis umbellaris*) tactile acoustic wall panels, and Calbayog waterfall fluid forms into perimeter acoustic drapery and suspended ceiling baffles to cultivate place attachment without restricting corporate neutrality. |
+| **Event Attendees (General Public)** | The primary public occupants and visitors ($n = 100–120$) surveyed to empirically evaluate baseline indoor environmental quality (IEQ), spatial comfort, circulation clearances, acoustic intelligibility, visual sightlines, and perceived cultural ambiance within the venue. |
+| **Event Planners and Venue Operators** | Professional event organizers, technical coordinators, and facility administrative staff ($n = 15–25$) surveyed and interviewed to evaluate setup and teardown logistics, spatial layout bottlenecks, furniture mobility, overhead rigging demands, and turnaround efficiency. |
+| **Future-Proof Event Adaptability** | The strategic interior planning approach (DesignHorizons, 2024; Dong et al., 2024) that integrates versatile FF&E systems, demountable acoustic assemblies, and reconfigurable overhead utility interfaces, ensuring the convention hall remains operationally viable, resilient, and technologically adaptable to evolving civic, commercial, and tourism event formats over a 10- to 15-year lifecycle. |
+| **Indoor Environmental Quality (IEQ)** | The holistic interior environmental condition of the facility—specifically evaluating ambient lighting levels, acoustic reverberation/clarity, and perceived thermal comfort (Chojnacki et al., 2023; Frontczak & Wargocki, 2011)—measured through attendee satisfaction surveys and on-site observational mapping. |
 | **Interior Design Framework** | A systematic, site-specific operational guide and layout manual comprising pre-calculated modular FF&E floor typologies, anthropometric clearance standards, non-structural cultural acoustic surface matrices, and overhead ceiling track interfaces designed to guide the rapid spatial reconfiguration and modernization of the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer) without structural alteration (Groat & Wang, 2013; Habraken, 1972). |
-| **Interior Envelope** | The physical 840 square meter interior volume of the Calbayog City Convention Center comprising the 711 square meter Main Convention Hall and 129 square meter Foyer area, enclosed by internal walls, floor surfaces, and ceiling planes (Etteh, 2016). |
-| **MICE Industry** | Acronym for Meetings, Incentives, Conferences, and Exhibitions (Wee et al., 2022), representing the commercial and civic event sectors accommodated by the venue. |
-| **Non-Structural Interior Overlay** | An interior design strategy applying surface finishes, FF&E, and suspended ceiling systems without modifying primary load-bearing structural columns or building shells (Groat & Wang, 2013). |
-| **Overhead Ceiling Track and Rigging Interface** | A suspended overhead grid system equipped with rigging channels and motorized hoists (Phantos, 2025; Cairoli, 2020) supporting flexible lighting, audio, and decorative draping. |
-| **Setup and Teardown Turnaround Time** | The operational duration required by venue staff to transition the Main Hall and Foyer between consecutive event bookings (An, Kim, & Hur, 2021). |
-| **Spatial Modularity** | A design and space-planning approach that organizes an interior space into standardized, interchangeable zones and reconfigurable components (Habraken, 1972; Hashemian, 2005; Ike et al., 2023). In this study, it refers to the flexible rearrangement of the 840 sqm interior envelope through overhead track interfaces and modular FF&E, enabling rapid operational transitions within the 711 sqm Main Hall across four standardized layout typologies (Plenary, Classroom, Banquet, and Exhibition) while coordinating pre-function circulation in the 129 sqm Foyer without altering the building's permanent structural walls. |
-| **Spatial Typology** | The classification of standardized layout templates (Moneo, 1978; Pembegül, 2009) formulated for the venue: Plenary (Theater), Classroom, Banquet, and Exhibition. |
-| ***Tikog* Grass Textures** | Natural plant fiber textures native to Samar (Del Monte et al., 2022) integrated into acoustic wall panel overlays for sound absorption and tactile warmth. |
-| **Universal Accessibility Standards** | Mandatory regulatory design guidelines under Batas Pambansa Bilang 344 and ADA Standards (2010), verifying 1200 mm wheelchair paths and integrated seating stalls. |
+| **Interior Envelope (840 sqm)** | The defined physical boundary and interior volume of the Calbayog City Convention Center under study (Etteh, 2016), strictly encompassing the 711-square-meter Main Convention Hall and the 129-square-meter Foyer / pre-function area, bounded by internal perimeter walls, floor surfaces, and ceiling planes. |
+| **Non-Structural Interior Overlay** | An interior architecture strategy that implements loose furniture, demountable surface finishes, acoustic wall claddings, and suspended ceiling track interfaces without modifying the primary architectural shell, exterior facades, load-bearing columns, or structural roof trusses of the building (Groat & Wang, 2013; Habraken, 1972). |
+| **Overhead Ceiling Track and Rigging Interface** | A suspended, non-structural overhead ceiling grid equipped with modular track channels and attachment points (Cairoli, 2020; Phantos, 2025) that enables rapid reconfiguration of ambient lighting fixtures, acoustic banners, and temporary decorative drapery to match specific event scales. |
+| **Setup and Teardown Turnaround Time** | The total operational duration (in hours and minutes) required by logistical staff to clear, reconfigure, and prepare the Main Hall and Foyer between consecutive event bookings (An, Kim, & Hur, 2021; Tompkins et al., 2010), serving as the primary quantitative metric of operational efficiency in this study. |
+| **Spatial Modularity** | A space-planning system grounded in Open Building Theory (Habraken, 1972; Hashemian, 2005; Ike et al., 2023) that organizes the 840 sqm interior envelope into standardized, interchangeable functional zones. In this study, it refers to the strategic deployment of standardized FF&E clusters to rapidly transition the 711 sqm Main Hall across four distinct layout typologies (Plenary, Classroom, Banquet, and Exhibition) while coordinating pre-function circulation in the 129 sqm Foyer without structural alterations. |
+| **Universal Accessibility Standards** | Mandatory regulatory design guidelines under Philippine Batas Pambansa Bilang 344 (BP 344) and ADA Standards (2010), establishing required minimum clearances for barrier-free circulation corridors (1200 mm), wheelchair turning radiuses (1500 mm), and integrated accessible seating stalls within all modular layout configurations. |
 
 ---
 
 ## References
 
 * An, J., Kim, H., & Hur, D. (2021). Keeping the competitive edge of a convention and exhibition center in MICE environment: Identification of event attributes for long-run success. *Sustainability*, 13(9), 5030. https://doi.org/10.3390/su13095030
-* Barr, S. (2023). Modular interior systems for flexible assembly spaces. *Journal of Architectural Flexibility*, 15(2), 112–128.
 * Batas Pambansa Bilang 344 (BP 344). (1983). *An act to enhance the mobility of disabled persons*. Republic of the Philippines.
-* Cairoli, M. (2020). Variable acoustic systems in multipurpose auditoriums. *Applied Acoustics*, 168, 107432.
-* Del Monte, R., Garado, J., & Wagas, L. (2022). Samar indigenous weaving traditions and contemporary interior application. *Philippine Cultural Design Journal*, 8(1), 45–62.
+* Cairoli, M. (2020). Variable acoustic systems in multipurpose auditoriums. *Applied Acoustics*, 168, 107432. https://doi.org/10.1016/j.apacoust.2020.107432
+* Chojnacki, B., Kamisiński, T., & Pilch, A. (2023). Modular acoustic panels with variable absorption characteristics for multifunctional interiors. *Archives of Acoustics*, 48(4), 517–528.
 * Department of Justice. (2010). *ADA standards for accessible design*. U.S. Department of Justice.
 * DesignHorizons. (2024). Future-proof design principles in public architecture. *Architectural Digest & Practice*, 29(4), 78–91.
-* Dong, X., Ibrahim, N., & Azahari, R. (2024). Smart FF&E integration in multipurpose civic spaces. *Building and Environment*, 248, 111050.
+* Dong, X., Ibrahim, N., & Azahari, R. (2024). Smart FF&E integration in multipurpose civic spaces. *Building and Environment*, 248, 111050. https://doi.org/10.1016/j.buildenv.2024.111050
 * Etteh, O. (2016). Spatial envelope adaptability in public assembly halls. *International Journal of Interior Architecture*, 11(3), 201–215.
-* Fakharany, M. (2025). Experiential interior design in contemporary event venues. *Journal of Interior Design Studies*, 19(1), 33–49.
+* Frontczak, M., & Wargocki, P. (2011). Literature survey on how different factors influence human comfort in indoor environments. *Building and Environment*, 46(4), 922–937. https://doi.org/10.1016/j.buildenv.2010.10.021
 * Groat, L. N., & Wang, D. (2013). *Architectural research methods* (2nd ed.). John Wiley & Sons.
 * Habraken, N. J. (1972). *Supports: An alternative to mass housing*. Architectural Press.
-* Hashemian, S. (2005). *Modularity and adaptability in built environments* [Doctoral dissertation, MIT].
-* Ike, C., Van der Wagen, L., & White, L. (2023). Operational adaptability in MICE venues. *Event Management*, 27(4), 511–526.
-* Krstić, H., Filipović, M., & Ristić Trajković, J. (2024). Culturally responsive design in public interiors. *Buildings*, 14(3), 712.
-* Moneo, R. (1978). On typology. *Oppositions*, 13, 22–45.
-* Neufert, E., & Neufert, P. (2012). *Architects' data* (4th ed.). Wiley-Blackwell.
-* Panero, J., & Zelnik, M. (1979). *Human dimension & interior space*. Whitney Library of Design.
-* Pembegül, M. (2009). *Design parameters in convention centers and meeting facilities* [Master's thesis, Izmir Institute of Technology].
+* Hashemian, S. (2005). *Modularity and adaptability in built environments* [Doctoral dissertation, Massachusetts Institute of Technology].
+* Ike, C., Van der Wagen, L., & White, L. (2023). Operational adaptability in MICE venues. *Event Management*, 27(4), 511–526. https://doi.org/10.3727/152599523X16842026362841
+* Krstić, V., Filipović, I., & Ristić Trajković, J. (2024). Cultural sensitivity and social well-being in embassy architecture: Educational approaches and design strategies. *Sustainability*, 16(20), Article 8880. https://doi.org/10.3390/su16208880
 * Phantos, T. (2025). Overhead rigging and motorized truss systems in event halls. *Stage & Venue Technology*, 22(1), 14–29.
-* Roa, M. A., & Lagamon, M. (2018). Cultural preservation in Samar eco-tourism development. *Journal of Philippine Regional Development*, 12(2), 45–58.
-* Wagas, L. (2016). Geometric pattern language of Visayan weaving. *Visayas Heritage Review*, 5(2), 15–30.
-* Wee, C., Kamarulzaman, N., & Anas, A. (2022). Pressure on legacy MICE facilities to modernize. *Journal of Convention & Event Tourism*, 23(3), 205–224.
+* Tompkins, J. A., White, J. A., Bozer, Y. A., & Tanchoco, J. M. A. (2010). *Facilities planning* (4th ed.). John Wiley & Sons.
+* Wagas, S. M. L. (2016). The abstraction of the indigenous weaving. *Davao Research Journal*, 11(2), 20–32. https://doi.org/10.59120/drj.v11i2.442

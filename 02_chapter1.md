@@ -9,8 +9,8 @@ Specifically, the study addresses the following research questions:
    1.1. What is the level of attendee satisfaction regarding existing interior lighting, acoustics, and thermal comfort?
    1.2. What setup turnaround delays and spatial layout challenges do event planners and venue operators encounter within the 840 sqm interior envelope?
 2. How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility?
-3. In what ways can localized Samar heritage and Calbayog natural motifs be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
-4. What interior material specifications, acoustic overlays, and overhead ceiling track systems can future-proof the facility for multi-scale event adaptability?
+3. What interior material specifications, acoustic overlays, and overhead ceiling track systems can future-proof the facility for multi-scale event adaptability?
+   3.1. In what ways can localized Samar heritage and Calbayog natural motifs be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
 
 ---
 
@@ -21,8 +21,8 @@ This study aims to develop a site-specific interior design framework consisting 
    1.1. Measure attendee satisfaction with the existing interior lighting, acoustic performance, and thermal comfort.
    1.2. Identify physical layout bottlenecks and setup turnaround delays experienced by event planners and venue operators during live operations.
 2. To formulate standardized modular layout typologies (Plenary, Classroom, Banquet, Exhibition) and reconfigurable FF&E arrangements that optimize spatial capacity, accelerate turnaround speed, and ensure universal accessibility.
-3. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, and Calbayog waterfall fluid forms—to establish a localized civic identity and place attachment.
-4. To propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
+3. To propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
+   3.1. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, and Calbayog waterfall fluid forms—to establish a localized civic identity and place attachment.
 
 ---
 
