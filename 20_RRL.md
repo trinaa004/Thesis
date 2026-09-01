@@ -161,6 +161,45 @@ According to Pembegül (2009), flexibility in the layout of meeting halls is ess
 
 ---
 
+## Operational Turnaround, Spatial Logistics, and Layout Conversion in Multi-Use Venues
+
+While seating typologies and static anthropometric clearances establish the baseline dimensional requirements of event spaces, the operational viability of a multipurpose hall depends on its **turnaround performance**—the speed, logistical labor, and spatial ease with which an interior envelope can be transformed between consecutive event bookings (Lawson, 2000; Lee & Lee, 2017). In multipurpose municipal facilities, room turnaround time serves as a primary indicator of interior layout efficiency and revenue generation capability.
+
+### A. The Turnaround Bottleneck in Municipal Civic Halls
+Fred Lawson (2000), the foundational international authority on convention and exhibition facility architecture, identifies room changeover duration as the single most critical operational constraint in multi-use halls. Lawson argues that turnaround delays are primarily spatial and architectural: they stem from inadequate service corridors (recommending unobstructed 1200 mm to 1800 mm transport lanes), poor egress planning, lack of dedicated furniture staging buffers, and manual ad-hoc layout alignment. When spatial dimensions and furniture configurations are unstandardized, event setup crews resort to trial-and-error measurement, resulting in extended labor hours, aisle congestion, and physical fatigue.
+
+Empirical research in event venue planning confirms these operational challenges. Ayuba and Agah (2018), in their assessment of event facilities, observe that although venues require multi-functional flexibility, over 80% lack specialized flexible interior features—such as standardized movable partitions, modular furniture arrangements, and designated staging zones—leading to severe operational friction during spatial conversions. Furthermore, Lee and Lee (2017) along with An, Kim, and Hur (2021) and Pembegül (2009) establish that event planners and organizers prioritize rapid configuration speed, loading ease, and modular furniture adaptability as decisive factors in facility selection.
+
+### B. Facilities Layout, Material Handling, and Spatial Friction
+From a facilities planning perspective, Tompkins, White, Bozer, and Tanchoco (2010) and Muther (1973) demonstrate that unstandardized room arrangements generate excessive *transit tortuosity*—disorganized, zig-zag travel paths that multiply the physical material handling workload ($W_{\text{motion}}$) of logistical personnel. Tompkins et al. (2010) establish that establishing designated perimeter staging zones, direct linear transit paths, and standardized furniture clusters directly reduces material handling time and eliminates spatial collisions during high-pressure room turnovers.
+
+### C. Time-and-Motion Observation and Comparative Simulation in Environmental Design
+In architectural and interior design research, measuring spatial efficiency through direct observation and simulation is an established empirical method. Zeisel (2006) codifies *physical trace mapping and direct spatial observation* as fundamental environmental design inquiry tools, demonstrating that observing human movement patterns and object manipulation reveals how physical layouts either facilitate or impede human tasks. 
+
+Building on this, Groat and Wang (2013) establish the *simulation and modeling research strategy* in architecture and interior design. They validate that researchers can document baseline empirical parameters (such as elapsed setup durations and labor expenditure under unstandardized conditions) and construct comparative simulation models to test and substantiate that proposed interior layout standards achieve measurable spatial optimizations prior to physical implementation. Combining work study standards (International Labour Office [ILO] / Kanawaty, 1992; Barnes, 1980) with architectural space planning allows interior designers to scientifically quantify turnaround reduction ($\Delta T\%$) and labor-hour savings ($\Delta MH\%$), bridging physical interior design with operational venue performance.
+
+---
+
+## Related Empirical Studies on Venue Flexibility and Operational Performance
+
+To bridge theoretical spatial principles with operational venue realities, recent empirical studies in convention architecture and facilities planning have investigated the physical parameters governing layout flexibility, organizer decision-making, and turnaround efficiency:
+
+### A. Architectural and Spatial Strategies for Venue Flexibility (Ike et al., 2023)
+In an empirical investigation of contemporary event infrastructure, Ike, Barnaby, Agu, and Igwegbe (2023) examined architectural and spatial strategies utilized to optimize multi-functional flexibility in international conference and exhibition centers. Their research demonstrates that venue adaptability is achieved through three primary spatial mechanisms:
+1. **Kinetic Spatial Segmentation**: Deploying demountable, high-performance acoustic movable partition systems to rapidly subdivide large assembly halls into independent acoustic zones for simultaneous breakout sessions or parallel exhibitions without permanent wall construction.
+2. **Integrated Overhead Infrastructure**: Utilizing ceiling-suspended rigging and utility grids to carry audiovisual hardware, dynamic luminaires, and power distribution, thereby clearing the floor plane of cable hazards and maximizing usable square footage for flexible seating typologies.
+3. **Dynamic Circulation Channels**: Standardizing pedestrian circulation corridors to prevent bottlenecks during high-density transitions between plenary assemblies and exhibition booths.
+
+While Ike et al. (2023) analyzed macro-scale international facilities, their findings directly inform the spatial framework of this study. The present research translates these architectural principles into a non-structural interior overlay—combining modular FF&E clusters and an adaptable overhead track system calibrated specifically for an 840 sqm municipal envelope (711 sqm Main Hall and 129 sqm Foyer).
+
+### B. Empirical Assessment of Flexible Features in Event Centres (Ayuba & Agah, 2018)
+In an empirical evaluation of multipurpose event venues, Ayuba and Agah (2018) assessed the physical features utilized to achieve spatial flexibility across civic and commercial event halls. Their field findings revealed a critical operational deficiency: although all surveyed facilities operated as multi-use spaces in concept, **over 80% lacked specialized flexible interior features**—such as standardized movable partitions, modular furniture arrangements, and pre-calculated staging zones. Consequently, operators experienced severe operational friction, excessive changeover labor, and damaged finishes during ad-hoc layout conversions. Ayuba and Agah concluded that achieving genuine multi-functionality requires purpose-designed modular furniture systems and clear spatial layout guides rather than open, unconfigured floor plans alone.
+
+### C. Organizer Priorities and Logistical Selection Criteria (Lee & Lee, 2017)
+From an operational perspective, Lee and Lee (2017) conducted an exploratory empirical study identifying the core facility attributes that event and exhibition organizers prioritize when selecting convention venues. Their findings established that logistical and physical capabilities—specifically **hall configuration flexibility, loading and setup efficiency, and rapid changeover capability**—rank among the highest determinants of venue viability, surpassing superficial decorative treatments. Their study validates that optimizing internal layout logistics and turnaround workflows directly enhances a facility's competitiveness and long-term usability.
+
+---
+
 ## Cultural Identity
 
 Convention centers are not just used for events; they can also become a platform for expressing cultural identity and fostering community pride. Several case studies highlight how architecture and programming can integrate and celebrate local culture.
@@ -215,7 +254,7 @@ For the Calbayog City Convention Center, these sources support a strategy in whi
 
 ### Theoretical & Empirical Synthesis
 
-The reviewed literature establishes that contemporary convention and exhibition venues must evolve beyond rigid, single-purpose assembly halls into highly adaptable, culturally resonant environments (Ike et al., 2023; Wee, Kamarulzaman, & Anas, 2022). The physical viability of such spaces relies on the intersection of two foundational theories:
+The reviewed literature establishes that contemporary convention and exhibition venues must evolve beyond rigid, single-purpose assembly halls into highly adaptable, culturally resonant environments (Ike et al., 2023; Ayuba & Agah, 2018; Lee & Lee, 2017). The physical viability of such spaces relies on the intersection of two foundational theories:
 1. **Open Building Theory (Habraken, 1972)**, which delineates the permanent architectural envelope ("support") from reconfigurable interior systems ("kinetic infill")—such as modular FF&E, movable acoustic partitions, and overhead rigging grids.
 2. **Theory of Place Attachment (Scannell & Gifford, 2010)**, operationalized through the Person-Process-Place (PPP) framework, which demonstrates that grounding public interiors in localized cultural narratives (e.g., Samar *banig* / *tikog* weaving and Calbayog waterfall iconography) cultivates civic pride, emotional connection, and sensory engagement without compromising spatial versatility (Del Monte, 2021; Kockler, 1989; Krstić et al., 2024).
 
@@ -245,7 +284,9 @@ To directly address this gap, this study formulates a site-specific interior des
 - **Anas, A. M., Kamarulzaman, N., & Wee, S. T.** (2020). Venue selection criteria for MICE tourism: A review. *International Journal of Built Environment and Sustainability*, 7(2), 45–56.
 - **ASM Global.** (2024). *Albuquerque Convention Center: Cultural integration and public art programs*. ASM Global Venues.
 - **AV Alliance.** (2024). *Technical standards for event rigging, audiovisual integration, and modular venue staging*. AV Alliance Global Network.
+- **Ayuba, P., & Agah, F. A.** (2018). Assessment of flexible features in the design of event centres in Minna, Niger state Nigeria. *Nigerian Journal of Technology*, 37(3), 587–599.
 - **Baradas, D. B.** (1968). Some unexpected art forms in Lanao. *Solidarity*, 3(12), 60–71.
+- **Barnes, R. M.** (1980). *Motion and time study: Design and measurement of work* (7th ed.). John Wiley & Sons.
 - **Bhandari, K.** (2016). *Tourism and the MICE sector: Principles and practice*. Sage Publications.
 - **Cairoli, M.** (2020). Variable acoustics in multipurpose halls: Design criteria and passive acoustic control systems. *Building Acoustics*, 27(3), 215–234.
 - **City Government of Baguio.** (2019). *Master development and rehabilitation plan for the Baguio Convention and Cultural Center*. City Buildings and Architecture Office (CBAO), Baguio City.
@@ -259,12 +300,17 @@ To directly address this gap, this study formulates a site-specific interior des
 - **Filipina News Sentinel.** (2022, February 15). *Baguio Convention Center upgraded into a modern arts and SMART governance hub*. Filipina News Sentinel.
 - **Fulgar, I.** (2024). The architecture of Philippine convention centers: Economic and cultural catalysts. *Fulgar Architects Insights*.
 - **Garado, A., et al.** (2026). Ethnobotanical and spatial significance of tikog grass (*Fimbristylis umbellaris*) weaving in Eastern Visayas. *Asian Journal of Cultural Studies*, 18(2), 110–128.
+- **Groat, L. N., & Wang, D.** (2013). *Architectural research methods* (2nd ed.). John Wiley & Sons.
 - **Habibi, A.** (2025). Curved panel geometries and adjustable volume ceilings in dual speech-music auditoriums. *Journal of Architectural Engineering*, 31(1), 04024045.
 - **Habraken, N. J.** (1972). *Supports: An alternative to mass housing*. Architectural Press.
-- **Ike, C. C., et al.** (2023). Modularity and space transformation in multi-purpose event facilities. *Journal of Building and Environmental Design*, 11(1), 55–72.
+- **Ike, C. O., Barnaby, P., Agu, J., & Igwegbe, A.** (2023). Exploring the use of architectural strategies to enhance flexibility in international conference and exhibition centers. *International Journal of Research Publication*, 11, 23–27. https://doi.org/10.13140/RG.2.2.14878.72004
 - **Jain, S.** (2015). *Event management and spatial planning standards for convention facilities*. Academic Press.
+- **Kanawaty, G. (Ed.).** (1992). *Introduction to work study* (4th ed.). International Labour Office (ILO).
 - **Kockler, J.** (1989). *Culturally responsive architecture: Community empowerment and spatial design in public spaces*. MIT Thesis Repository.
 - **Krstić, B., Filipović, D., & Ristić Trajković, J.** (2024). Emotionally responsive environments: The role of cultural symbols and spatial flexibility in user well-being. *Sustainability*, 16(5), 2104.
+- **Lawson, F.** (2000). *Congress, convention and exhibition facilities: Planning, design and management*. Architectural Press / Elsevier.
+- **Lee, H., & Lee, J.-S.** (2017). An exploratory study of factors that exhibition organizers look for when selecting convention and exhibition centers. *Journal of Travel & Tourism Marketing*, 34(8), 1089–1102. https://doi.org/10.1080/10548408.2016.1276508
+- **Muther, R.** (1973). *Systematic layout planning (SLP)* (2nd ed.). Cahners Books.
 - **National Commission for Culture and the Arts (NCCA).** (2004). *Traditional craft and mat-weaving traditions of the Philippines*. NCCA Publications.
 - **Neufert, E.** (2012). *Architects' data* (4th ed., P. Neufert, Ed.). Wiley-Blackwell.
 - **Panero, J., & Zelnik, M.** (1979). *Human dimension and interior space: A source book of design reference standards*. Whitney Library of Design.
@@ -276,7 +322,8 @@ To directly address this gap, this study formulates a site-specific interior des
 - **Sharma, R.** (2025). Spatial zoning and event management in contemporary MICE facilities. *International Hospitality & Tourism Review*, 19(1), 88–104.
 - **Sung, H. H., & Lee, S. H.** (2015). Convention center spatial planning and operational performance. *Tourism Management Perspectives*, 16, 230–241.
 - **Syma.** (2023). *Ceiling design solutions, acoustic baffles, and spatial branding in event venues*. Syma Architecture Systems.
+- **Tompkins, J. A., White, J. A., Bozer, Y. A., & Tanchoco, J. M. A.** (2010). *Facilities planning* (4th ed.). John Wiley & Sons.
 - **Van der Wagen, L., & White, L.** (2017). *Event management: For tourism, cultural, business and sporting events* (5th ed.). Cengage Learning.
 - **Wagas, M.** (2016). Indigenous pattern languages and their computational abstraction for interior surface design. *Journal of Philippine Design Research*, 4(1), 15–32.
 - **Waida, T.** (2021). *The comprehensive event planner’s layout and seating guide*. Cvent Event Planning Insights.
-- **Wee, S. T., Kamarulzaman, N., & Anas, A. M.** (2022). Modernizing aging convention and event facilities: Operational and spatial considerations. *Journal of Facilities Management*, 20(3), 390–408.
+- **Zeisel, J.** (2006). *Inquiry by design: Environment/behavior/neuroscience in architecture, interiors, landscape, and planning*. W. W. Norton & Company.

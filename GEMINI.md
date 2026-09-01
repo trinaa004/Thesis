@@ -49,7 +49,7 @@ This document serves as the master context index, project ruleset, and reference
   - Poor acoustic control and lack of flexible acoustic isolation/baffling.
   - Generic aesthetic envelope lacking localized cultural identity and sense of place.
 - **Core Design Strategy**:
-  - Non-structural interior overlay comprising modular layout typologies, flexible FF&E, mobile space dividers, overhead track/rigging systems, and localized surface pattern matrices.
+  - Non-structural interior overlay comprising modular layout typologies, flexible FF&E, mobile space dividers, overhead track/rigging systems, and localized surface pattern treatments.
 
 ---
 

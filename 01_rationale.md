@@ -4,6 +4,10 @@ As the event industry demands evolve, so does the need for spaces that can cater
 
 ---
 
+Beyond spatial layout rigidity, the venue's existing indoor environmental quality (IEQ) presents critical operational and experiential deficiencies. As Frontczak and Wargocki (2011) and Chojnacki et al. (2023) emphasize, indoor environmental parameters—specifically acoustic intelligibility, ambient lighting control, and thermal comfort—directly dictate occupant satisfaction and functional performance in multi-use assembly spaces. In its current state, the Calbayog City Convention Center's Main Hall features hard ceramic tile flooring, reflective perimeter glass walls lined with aging drapery, and deteriorated suspended ceiling fabric baffles, resulting in severe acoustic reverberation, flutter echoes, and compromised speech clarity during large assemblies. Furthermore, the absence of zoned ambient lighting control and balanced thermal distribution detracts from the attendee experience. Addressing these baseline IEQ challenges through non-structural acoustic overlays and adaptive lighting interfaces is essential to elevating the facility into a high-performance civic venue.
+
+---
+
 Calbayog City is actively pursuing eco-tourism as a key driver of municipal development and regional sustainability. However, as Roa and Lagamon (2018) noted, there are growing concerns regarding the preservation of Samar’s historical and cultural resources, where inadequate preservation measures have threatened local heritage assets. Compounding this challenge is the diminishing public awareness among locals regarding their cultural identity. In this context, culturally responsive interior design becomes essential. By grounding interior surfaces in Samar’s rich Basey banig mat weaving heritage and Calbayog’s celebrated waterfalls, interior design serves as an active, experiential medium for cultural preservation, education, and civic pride.
 
 ---

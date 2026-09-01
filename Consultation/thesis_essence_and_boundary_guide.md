@@ -52,7 +52,7 @@
 ### B. The 30-Second Verbal Defense Script (Verbatim Speech)
 > *"Thank you for that question. In applied interior design research (Groat & Wang, 2013), problem formulation is established prior to formal survey distribution through **preliminary site reconnaissance, physical architectural trace mapping, and facility operational history**:*
 > 
-> 1. **On Acoustic Reverberation:** The hall’s physical material envelope consists of hard porcelain tile flooring, parallel perimeter glass, and high ceilings with no absorptive treatment. By the basic laws of architectural acoustics, hard non-porous surfaces inevitably cause long reverberation times and flutter echoes.
+> 1. **On Acoustic Reverberation:** The hall’s physical material envelope consists of hard ceramic tile flooring, parallel perimeter glass, and high ceilings with no/old absorptive treatment. By the basic laws of architectural acoustics, hard non-porous surfaces inevitably cause long reverberation times and flutter echoes.
 > 2. **On Turnaround Delays:** Initial administrative inquiry confirmed that the facility was converted from a 2009 bus station and has **no dedicated on-site furniture storage**, forcing third-party event organizers to haul in loose rental furniture and execute setups using manual trial-and-error measurements.
 > 3. **On Generic Aesthetics:** Photographic site inventory reveals standard commercial finishes with no reflection of Samar’s indigenous *banig* weaving heritage or Calbayog’s eco-tourism identity.
 > 
