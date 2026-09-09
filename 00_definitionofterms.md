@@ -33,7 +33,7 @@ The following table provides concise operational definitions for key terms utili
 * Groat, L. N., & Wang, D. (2013). *Architectural research methods* (2nd ed.). John Wiley & Sons.
 * Habraken, N. J. (1972). *Supports: An alternative to mass housing*. Architectural Press.
 * Hashemian, S. (2005). *Modularity and adaptability in built environments* [Doctoral dissertation, Massachusetts Institute of Technology].
-* Ike, C. O., Barnaby, P., Agu, J., & Igwegbe, A. (2023). Exploring the use of architectural strategies to enhance flexibility in international conference and exhibition centers. *International Journal of Research Publication*, 11, 23–27. https://doi.org/10.13140/RG.2.2.14878.72004
+* Ike, C. O., Barnaby, J., Agu, A. M., & Igwegbe, U. K. (2023). Exploring the use of architectural strategies to enhance flexibility in international conference and exhibition centers. *International Journal of Innovative Environmental Studies Research*, 11(4), 75–84. https://www.researchgate.net/publication/378146879_Exploring_The_Use_Of_Architectural_Strategies_To_Enhance_Flexibility_In_International_Conference_And_Exhibition_Centers
 * Krstić, V., Filipović, I., & Ristić Trajković, J. (2024). Cultural sensitivity and social well-being in embassy architecture: Educational approaches and design strategies. *Sustainability*, 16(20), Article 8880. https://doi.org/10.3390/su16208880
 * Phantos, T. (2025). Overhead rigging and motorized truss systems in event halls. *Stage & Venue Technology*, 22(1), 14–29.
 * Tompkins, J. A., White, J. A., Bozer, Y. A., & Tanchoco, J. M. A. (2010). *Facilities planning* (4th ed.). John Wiley & Sons.
