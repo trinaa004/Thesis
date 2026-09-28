@@ -14,17 +14,21 @@ This document serves as the master context index, project ruleset, and reference
 | **[00_definitionofterms.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_definitionofterms.md)** | Operational definitions for 12 core technical terms (spatial modularity, IEQ, turnaround time, future-proofing, culturally responsive design, etc.) and complete reference list. |
 | **[00_References](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_References)** | Master alphabetical list of references and bibliography for the entire thesis study. |
 | **[01_rationale.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/01_rationale.md)** | Detailed rationale justifying spatial flexibility, Samar cultural preservation, Calbayog eco-tourism identity, and future-proofing. |
-| **[02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md)** | Statement of the Problem (SPOP Q1–Q3.1), Research Objectives, Significance of the Study, and Scope & Limitations. |
+| **[02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md)** | Statement of the Problem (SPOP Q1–Q3.2), Research Objectives, Significance of the Study, and Scope & Limitations. |
 | **[20_RRL.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md)** | Review of Related Literature (RRL), theoretical framework, ergonomic standards, cultural design references, and citation database. |
 | **[21_theoretical_conceptual.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/21_theoretical_conceptual.md)** | Theoretical Background & Conceptual Framework synthesizing Open Building Theory (Habraken, 1972) and Theory of Place Attachment (Scannell & Gifford, 2010). |
 | **[22_LGU_Precedent_Baguio_Retrofit.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/22_LGU_Precedent_Baguio_Retrofit.md)** | Philippine Provincial LGU Facility Retrofit Precedent: Detailed case analysis of the Baguio Convention & Cultural Center modernization, cultural integration, and methodological justification. |
-| **[30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md)** | Applied Design Research & Multi-Phase Spatial Synthesis methodology (Phase 1: Ergonomic/Quantitative; Phase 2: Cultural Abstraction; Phase 3: Spatial Synthesis & Pre-Occupancy Predictive Verification). |
+| **[30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md)** | Applied Design Research & Mixed-Methods methodology (Phase 1: Baseline Fieldwork; Phase 2: Interior Design Synthesis; Phase 3: Technical Verification). |
 | **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Locale description of Calbayog City Convention Center (Brgy. Capoocan, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Foyer], 500 occupant capacity, former bus station history). |
 | **[32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md)** | Respondent profiles, inclusion criteria, Purposive Expert Sampling ($n = 15–25$), Purposive Quota Sampling ($n = 100–120$), Slovin's formula, and qualitative sample ($n = 8–12$). |
 | **[33_Instruments.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/33_Instruments.md)** | Research instruments (Structured Survey Questionnaires & Semi-Structured Interview Guides). |
 | **[34_Data Collection.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/34_Data%20Collection.md)** | Field survey distribution and data collection protocols. |
 | **[35_Data Analysis.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/35_Data%20Analysis.md)** | Descriptive statistics (weighted means), Braun & Clarke (2006) thematic analysis, and 3-pillar spatial/precedent/acoustic NRC triangulation procedures. |
 | **[37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md)** | Complete text of research survey forms, questionnaire items, and qualitative interview scripts. |
+| **[38_InformedConsent.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/38_InformedConsent.md)** | Bilingual (English & Waray) USC-REC Informed Consent Form for quantitative survey respondents (Form A: Event Planners & Form B: Event Attendees). |
+| **[38_survey_answer_sheets.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/38_survey_answer_sheets.md)** | Compact, paper-saving single-page survey answer sheets for Form A (Planners) and Form B (Attendees) with demographic grids and Likert rating matrices. |
+| **[39_InterviewInformedConsent.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/39_InterviewInformedConsent.md)** | Bilingual (English & Waray) USC-REC Informed Consent Form for qualitative semi-structured key informant interviews with audio recording permissions. |
+| **[40_ObservationInformedConsent.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/40_ObservationInformedConsent.md)** | Bilingual (English & Waray) USC-REC Informed Consent Form for on-site spatial audits and event lifecycle observations (Ingress, In-Session, Egress) tailored for event organizers with specific opt-in permissions for turnaround timing, laser measurements, and non-identifying photography. |
 | **[Consultation/nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/nutshell.md)** | Master Executive Summary, 30-Second Elevator Pitch, 3 Design Pillars, Scope Boundary Matrix, and Defense Quick Reference. |
 | **[Consultation/rrl_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/rrl_nutshell.md)** | Chapter 2 (Literature Review) In a Nutshell: Theoretical synthesis, spatial modularity, anthropometrics, cultural precedents, and research gap mapping. |
 | **[Consultation/methodology_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/methodology_nutshell.md)** | Chapter 3 (Research Methodology) In a Nutshell: Design synthesis flow, sampling matrix, instruments, and RA 10173 data collection protocols. |
@@ -37,6 +41,11 @@ This document serves as the master context index, project ruleset, and reference
 | **[Consultation/interior_design_framework_specification.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/interior_design_framework_specification.md)** | Interior Design Framework Specification & Operational Deliverables Guide: Deep breakdown of the 4 operational modules, physical deliverables, statutory compliance matrix, and defense speaking script. |
 | **[Consultation/research_design_and_analysis_in_a_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/research_design_and_analysis_in_a_nutshell.md)** | Research Design & Data Analysis In a Nutshell: Executive methodology summary, 3-phase mixed-methods workflow, sampling mathematics, Braun & Clarke thematic analysis, 3-pillar predictive validation, and defense speaking scripts. |
 | **[Consultation/new_major_literature_reviewed_bibliography.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/new_major_literature_reviewed_bibliography.md)** | Major Literature Reviewed – Bibliography (Primary & Secondary Sources): Tabular summary matrix with categorized APA 7th citations and concise annotations across statutory codes, empirical turnaround studies, acoustics, Samar heritage, and research methodology. |
+| **[Consultation/post_design_validation_fgd_methodology_guide.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/post_design_validation_fgd_methodology_guide.md)** | Post-Design Stakeholder Validation via Focus Group Discussion (FGD): Methodological framework, anti-bias/anti-mess protocols, academic precedents (Tremblay et al., Zeisel, Sanoff, Preiser, Krueger & Casey), chapter placement map, step-by-step scripts, and evaluation rubrics. |
+| **[Consultation/interviewee_outreach_templates.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/interviewee_outreach_templates.md)** | Interviewee Outreach & Invitation Text Templates: Ready-to-copy recruitment messages (Conversational Taglish, Professional English, Localized Waray, Quick SMS, and Confirmation replies) offering flexible in-person and online interview options. |
+| **[Consultation/applied_experimentation_defense_guide.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/applied_experimentation_defense_guide.md)** | Applied Experimentation Defense Guide: Epistemological grounding (Groat & Wang, 2013; Zeisel, 2006), 4-part scientific variable architecture (IV/DV), verified precedents (Estrada, Ayuba & Agah, Baguio BCCC), and verbatim defense script for panel defense. |
+| **[draft/01_UC_REC_Inquiry_Email.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/draft/01_UC_REC_Inquiry_Email.md)** | University of Cebu Research Ethics Committee (UC-REC) Inquiry Email Templates: Formal academic inquiry, concise variation, and follow-up templates requesting external review procedures, forms, and guidelines. |
+| **[draft/02_Interview_Facilitator_Guide_and_Script.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/draft/02_Interview_Facilitator_Guide_and_Script.md)** | Qualitative Interview Facilitator Guide & Speaking Script: Step-by-step field execution guide with trilingual on-record verbal consent scripts, role-differentiated questioning routes (Route A for Planners/Operators vs. Route B for Cultural Advocates), debriefing protocols, and reflection log. |
 
 
 ---
@@ -88,8 +97,8 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 
 ## 4. Methodological Summary & Sampling Matrix
 
-- **Framework**: Applied Design Research & Multi-Phase Spatial Synthesis Framework
-- **Methodology**: Sequential Explanatory Mixed-Methods Design
+- **Framework**: Applied Design Research (Convergent Parallel Mixed-Methods)
+- **Methodology**: Convergent Parallel Mixed-Methods Design
 - **Respondent Sampling Matrix**:
   - **Group 1: Event Planners & Venue Operators** ($n = 15–25$)
     - *Method*: Purposive Expert Sampling
@@ -99,7 +108,10 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
     - *Focus*: Interior comfort, circulation, sightlines, acoustics, wayfinding, cultural ambiance.
   - **Qualitative Key Informants** ($n = 8–12$)
     - *Method*: Semi-structured in-depth interviews (Thematic saturation via Braun & Clarke, 2006).
-  - **Total Sample Size ($N$)**: **115 to 145 respondents**
+  - **Total Diagnostic Sample Size ($N$)**: **115 to 145 respondents**
+  - **Post-Design Validation Focus Group Discussion (FGD) Panel** ($n = 7–10$)
+    - *Method*: Purposive Nested Sub-sampling from Phase 1 respondents (3–4 Event Planners, 1–2 CCC Operations Staff, 2–3 Event Attendees, 1 Cultural Stakeholder).
+    - *Focus*: Stress-testing 2D plans and 3D visual models via silent rubric scoring and moderated thematic discussion (Tremblay et al., 2010; Zeisel, 2006; Krueger & Casey, 2014).
 
 ---
 

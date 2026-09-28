@@ -64,11 +64,11 @@
 
 ---
 
-### SECTION B: EXISTING SPATIAL & OPERATIONAL CHALLENGES (SPOP Q1.1 & Q1.2) / MGA KULANG UG PROBLEMA HA LUGAR
-*Evaluates current interior envelope limitations, setup turnaround delays, circulation bottlenecks, and physical constraints.* / *Pagtimbang san mga problema ha interior ug pag-turnaround san lugar.*
+### SECTION B: EXISTING SETUP TURNAROUND DELAYS & SPATIAL CHALLENGES (SPOP Q1.2) / MGA KULANG UG PROBLEMA HA PAG-PREPARAR UG AYOS
+*Evaluates setup turnaround delays, spatial zoning limitations, circulation bottlenecks, and logistical challenges encountered by planners and operators.* / *Pagtimbang san mga problema ha pag-turnaround, pag-ayos san lugar, ug trapik ha agi-an.*
 
-**B1. The current 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer) lacks spatial flexibility, making it difficult to execute rapid layout turnarounds between different event formats.**  
-*Waraynon: An yana nga 840 sqm nga interior (711 sqm Main Hall ug 129 sqm Foyer) kay kulang ha kagawasan o kaabtik san lugar, sanglit makure ug ma-iha an pagbalyo san ayos an mga muebles para ha iba-iba nga okasyon.*
+**B1. The current convention center hall (711 sqm Main Hall & 129 sqm Foyer) lacks spatial flexibility (such as movable room dividers and adaptable furniture layouts), making it difficult to quickly switch setups between different types of events.**  
+*Waraynon: An yana nga lugar ha convention center (711 sqm Main Hall ug 129 sqm Foyer) kay kulang ha kaabtik san lugar (sugad san nagigius nga mga partisyon ug nababalyo nga mga ayos san muebles), sanglit makure ug ma-iha an pagbalyo san ayos para ha iba-iba nga klase san okasyon.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -83,24 +83,24 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**B3. Existing loading access, service aisles, and staff circulation corridors within the hall experience bottlenecks during event setup.**  
-*Waraynon: An mga agi-an san pag-karga, service aisles, ug circulation corridors kay nagkaka-mayda trapik ug bottleneck samtang nag-preparar san okasyon.*
+**B3. Existing loading doors, service aisles, and staff walkways get crowded and congested during event setup and throughout the event.**  
+*Waraynon: An mga agi-an san pag-karga, service aisles, ug agi-an san mga trabahador kay nagkakagutok samtang nag-aandam ug samtang nagpapadayon an okasyon.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**B4. The current venue lacks adaptable spatial dividers to split the 711 sqm Main Hall into smaller concurrent meeting and pre-function zones.**  
-*Waraynon: An venue yana kay kulang ha mga mobile o adaptable spatial dividers para matunga an 711 sqm nga hall ug 129 sqm nga foyer ha mas gudti nga meeting ug pre-function zones.*
+**B4. The inability to easily subdivide the 711 sqm Main Hall into smaller breakout zones complicates space planning and delays the setup of multi-session or simultaneous activities.**  
+*Waraynon: An kakulangan san masayon nga pagtunga san 711 sqm nga hall kay nagpapakuri ha pagplano san lugar ug nagpapadugay san pag-ayos para ha durungan nga mga buruhaton (sugad san magka-iba nga meeting ug dining).*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**B5. Uncontrolled acoustic reverberation and echo within the hall impair sound clarity during speech-heavy conventions or musical performances.**  
-*Waraynon: An diri kontrolado nga boses ug lanog (echo) ha hall kay nagpapadiri-klaro san tingog ug acoustic clarity ha mga konperensya o okasyon.*
+**B5. The lack of overhead ceiling rigging points and utility tracks forces staff to manually run floor cables and stands, significantly slowing down setup turnaround.**  
+*Waraynon: An kakulangan san mga kabitayan ha ceiling ug tracks para ha kuryente kay nagpipirit ha mga trabahador nga mag-agi san kable ha sahig, nga dako nga nagpapaiha san pag-preparar san okasyon.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -109,19 +109,19 @@
 
 ---
 
-### SECTION C: FLEXIBLE FF&E LAYOUT TYPOLOGIES & TURNAROUND EFFICIENCY (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
-*Assesses preferences for modular seating, standardized banquet/classroom clusters, and setup turnaround speed.* / *Pag-timbang san mga pinalabi ha reconfigurable seating ug kaabtik san setup.*
+### SECTION C: FLEXIBLE FURNITURE & MODULAR EVENT LAYOUTS (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
+*Assesses preferences for modular seating, standardized banquet/classroom layouts, and setup turnaround speed.* / *Pag-timbang san mga pinalabi ha reconfigurable seating ug kaabtik san setup.*
 
-**C1. Utilizing standardized, lightweight modular FF&E layouts (Plenary, Classroom, Banquet, Exhibition) significantly accelerates venue turnaround speed for multi-scale events.**  
-*Waraynon: An pag-gamit san standardized, lightweight modular FF&E layouts kay nagpapadali san turnaround ug pag-preparar san lugar sa iba-iba nga okasyon.*
+**C1. Using standardized, lightweight modular furniture and pre-planned setups (Theater, Classroom, Banquet, Exhibition) makes changing event layouts much faster.**  
+*Waraynon: An pag-gamit san standardized, mag-an nga modular furniture ug daan nga mga layout (Theater, Classroom, Banquet, Exhibition) kay nagpapadali san pag-ayos san lugar.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**C2. Establishing standardized interior zoning templates and flexible spatial pathways significantly accelerates layout turnaround speed for event planners.**  
-*Waraynon: An paghimo san mga standardized zoning templates ug flexible spatial pathways kay nagpapadali san pag-ayos ug pag-turnaround san lugar.*
+**C2. Having clear floor layout guides and flexible walkway plans significantly speeds up setup and teardown for event organizers.**  
+*Waraynon: An pagkamayda san mga giya ha layout ug ha-lapad nga agi-an kay nagpapadali san pag-ayos ug paghipos san lugar.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -136,8 +136,8 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**C4. Establishing pre-calculated anthropometric aisle clearances (e.g., 1620–1800 mm service lanes) improves server and staff mobility during banquet setups.**  
-*Waraynon: An pag-establisar san sakto nga clearance sa mga agi-an (1620–1800 mm) kay nagpapadali san paglihok san mga trabahador ug waiters ha banquet setups.*
+**C4. Providing pre-planned, wide walkway clearances (such as 1.6 to 1.8-meter server lanes) improves movement for waiters and staff during events.**  
+*Waraynon: An pagbutang san sakto ug halapad nga agi-an (1.6 tubtob 1.8 ka metro) kay nagpapadali san paglihok san mga waiters ug staff ha mga kaganapan.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -154,11 +154,11 @@
 
 ---
 
-### SECTION D: LOCALIZED SAMAR CULTURAL MATERIAL INTEGRATION (SPOP Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
-*Gathers feedback on incorporating Samar Basey banig weaving patterns, tikog grass textures, Waray geometric motifs, and Calbayog waterfall imagery.* / *Pagtimbang san disenyo tikang ha banig Basey, tikog, ug busay san Calbayog.*
+### SECTION D: CULTURAL AND NATURAL HERITAGE INTEGRATION (SPOP Q3.2) / DISENYO TIKANG HA KULTURAL UG NATURAL NGA KABILIN SAN SAMAR UG CALBAYOG
+*Gathers feedback on incorporating regional cultural heritage (Samar Basey banig weaving, tikog grass textures, Waray motifs) and local natural heritage (Calbayog cascading waterfall imagery).* / *Pagtimbang san pag-upod san kultural nga kabilin san Samar (banig Basey, tikog, Waray motifs) ug natural nga kabilin san Calbayog (mga busay).*
 
-**D1. Abstracting traditional Samar Basey *banig* weaving patterns into acoustic wall panel finishes creates a compelling cultural identity for event planners.**  
-*Waraynon: An pag-upod san mga disenyo nga tikang ha paglalag san banig nga Basey ha mga acoustic wall panels kay naghahatag san napaka-nami nga kultural nga pagkakakilanlan.*
+**D1. Abstracting traditional Samar Basey *banig* weaving patterns into acoustic wall panel finishes creates a compelling cultural heritage identity for event planners.**  
+*Waraynon: An pag-upod san mga disenyo nga tikang ha paglalag san banig nga Basey ha mga acoustic wall panels kay naghahatag san napaka-nami nga pagkakakilanlan san aton kultural nga kabilin.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -173,24 +173,24 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D3. Incorporating fluid, cascading visual motifs inspired by Calbayog’s waterfalls into ceiling acoustic baffles enhances the venue’s sense of place.**  
-*Waraynon: An paghimo san mga disenyo ha ceiling nga tikang ha mga busay san Calbayog kay nagpapanami ug nagpapadakip san katahum ug pagkakakilanlan san lugar.*
+**D3. Incorporating fluid, cascading visual motifs inspired by Calbayog’s  waterfall into ceiling acoustic baffles enhances the venue’s sense of place.**  
+*Waraynon: An paghimo san mga disenyo ha ceiling nga tikang ha natural nga kabilin san mga busay san Calbayog kay nagpapanami ug nagpapadakip san katahum ug pagkakakilanlan san lugar.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D4. Abstracting Waray geometric patterns into upgraded perimeter acoustic drapery enhances regional civic identity while mitigating sound reflections across the perimeter glass walls.**  
-*Waraynon: An pag-upod san mga Waray geometric patterns ha acoustic curtains ha kuta nga salamin kay nagpapakilala san kultura ug nakakabawas san anino o echo san tunog.*
+**D4. Abstracting Waray geometric patterns into upgraded perimeter acoustic drapery celebrates regional cultural heritage while mitigating sound reflections across the perimeter glass walls.**  
+*Waraynon: An pag-upod san mga Waray geometric patterns ha acoustic curtains ha kuta nga salamin kay nagpapakilala san aton kultural nga kabilin ug nakakabawas san anino o echo san tunog.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D5. Permanent cultural interior surface treatments distinguish Calbayog City Convention Center from generic corporate MICE venues.**  
-*Waraynon: An mga pormante nga kultural nga disenyo ha interior kay nagpapakilala san Calbayog City Convention Center nga iba ha mga ordinaryo nga MICE venues.*
+**D5. Permanent interior surface treatments reflecting local cultural and natural heritage distinguish Calbayog City Convention Center from generic corporate MICE venues.**  
+*Waraynon: An mga permanente nga disenyo ha interior nga nagpapakita san aton kultural ug natural nga kabilin kay nagpapakilala san Calbayog City Convention Center nga iba ha mga ordinaryo nga MICE venues.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -199,7 +199,7 @@
 
 ---
 
-### SECTION E: OVERHEAD CEILING PLANE & RIGGING ADAPTABILITY (SPOP Q4) / DISENYO UG TRACKS HA CEILING
+### SECTION E: OVERHEAD CEILING PLANE & RIGGING ADAPTABILITY (SPOP Q3.1) / DISENYO UG TRACKS HA CEILING
 *Measures perceived importance of flexible ceiling track systems, motorized truss hoists, acoustic drapes, and adjustable ambient lighting.* / *Pagtimbang san ceiling track systems, suga, ug sound trusses.*
 
 **E1. Installing an overhead ceiling track-and-rigging framework would simplify hanging decorative drapes, banners, and temporary spatial dividers.**  
@@ -244,11 +244,11 @@
 
 ---
 
-### SECTION F: PROGRAMMATIC PARAMETERS & FUTURE-PROOF SPECIFICATIONS (SPOP Q2 & Q4) / DESIGN MANUAL UG MGA MATERYALES
-*Evaluates modular layout typologies (Plenary, Classroom, Banquet, Exhibition), smart technologies, universal accessibility, and material durability.* / *Pagtimbang san layout typologies ug durabilidad san materyales.*
+### SECTION F: PROGRAMMATIC PARAMETERS & FUTURE-PROOF SPECIFICATIONS (SPOP Q2 & Q3.1) / DESIGN MANUAL UG MGA MATERYALES
+*Evaluates modular event layouts (Theater, Classroom, Banquet, Exhibition), smart technologies, universal accessibility, and material durability.* / *Pagtimbang san mga layout ug durabilidad san materyales.*
 
-**F1. A standardized manual of repeatable layout typologies (Plenary, Classroom, Banquet, Exhibition) accelerates event planning approval workflows.**  
-*Waraynon: An pagkamayda san standardized manual san mga layout typologies (Plenary, Classroom, Banquet, Exhibition) kay nagpapadali san pag-apruba ug pagplano.*
+**F1. A design manual with ready-to-use event layout templates (Theater, Classroom, Banquet, Exhibition) speeds up event planning and approvals.**  
+*Waraynon: An pagkamayda san manual nga may daan nga mga layout templates (Theater, Classroom, Banquet, Exhibition) kay nagpapadali san pagplano ug pag-apruba.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -336,64 +336,64 @@
 
 ---
 
-### SECTION B: EXISTING SPATIAL & COMFORT CHALLENGES (SPOP Q1.1) / MGA KULANG UG PROBLEMA HA LUGAR
-*Evaluates current interior envelope limitations, circulation bottlenecks, acoustic reverberation, and visual sightlines.* / *Pagtimbang san mga problema ha interior, agi-an, ug acoustics.*
+### SECTION B: BASELINE INDOOR ENVIRONMENTAL QUALITY (IEQ) & SPATIAL SATISFACTION (SPOP Q1.1) / PAGTIMBANG SAN KALIDAD SAN INTERIOR UG KA-KOMPORTABLE
+*Evaluates attendee satisfaction with existing interior lighting, acoustic clarity, thermal comfort, visual sightlines, and spatial layout.* / *Pagtimbang san ka-kontento san mga bisita ha suga, acoustic dungog, temperatura, pagtan-aw ha stage, ug ka-komportable san lugar.*
 
-**B1. The main hall frequently feels overcrowded or poorly laid out during major civic or cultural events.**  
-*Waraynon: An hall kay agsub nga pakabati-an nga sobra ka-gutok o diri maayos an pagkaha-plag san mga okasyon.*
-- [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
-- [ ] 2 – Disagree (D) / Diri Nagtutugot
-- [ ] 3 – Neutral (N) / Tunga-tunga
-- [ ] 4 – Agree (A) / Nagtutugot
-- [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
+**B1. I am satisfied with the current sound quality and speech clarity inside the hall, being able to hear presentations clearly without disturbing echo or loud noise.**  
+*Waraynon: Kontento ako ha katin-aw san tunog ug boses ha sulod san hall, nga nakakabati ako hin klaro nga waray samok nga lanog (echo) o aringasa.*
+- [ ] 1 – Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
+- [ ] 2 – Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
+- [ ] 3 – Neutral (N) / Fair (F) | Tunga-tunga / Katadungan
+- [ ] 4 – Agree (A) / Satisfied (S) | Nagtutugot
+- [ ] 5 – Strongly Agree (SA) / Very Satisfied (VS) | Pohon nga Nagtutugot
 
-**B2. Narrow aisle pathways make moving through the hall difficult during high-capacity events.**  
-*Waraynon: An mga hag-pit nga agi-an kay nagpapamakure ha paglihok-lihok ha sulod san hall ha mga dako nga okasyon.*
-- [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
-- [ ] 2 – Disagree (D) / Diri Nagtutugot
-- [ ] 3 – Neutral (N) / Tunga-tunga
-- [ ] 4 – Agree (A) / Nagtutugot
-- [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
+**B2. I am satisfied with the existing interior lighting levels, which provide adequate brightness to read and navigate the hall without harsh glare.**  
+*Waraynon: Kontento ako ha yana nga suga ha sulod san hall, nga sakto an kapawa ha pagbasa ug paglihok nga diri masilaw ha mata.*
+- [ ] 1 – Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
+- [ ] 2 – Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
+- [ ] 3 – Neutral (N) / Fair (F) | Tunga-tunga / Katadungan
+- [ ] 4 – Agree (A) / Satisfied (S) | Nagtutugot
+- [ ] 5 – Strongly Agree (SA) / Very Satisfied (VS) | Pohon nga Nagtutugot
 
-**B3. Seating arrangements during banquets or conferences often feel cramped with insufficient legroom and passage clearance.**  
-*Waraynon: An mga lingkuran ha banquets o konperensya kay nakakabati-an nga hagtig-pit ug kulang an lugar para ha tiil ug agi-an.*
-- [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
-- [ ] 2 – Disagree (D) / Diri Nagtutugot
-- [ ] 3 – Neutral (N) / Tunga-tunga
-- [ ] 4 – Agree (A) / Nagtutugot
-- [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
+**B3. I am satisfied with the indoor thermal comfort and ventilation, keeping the hall comfortably cool and well-aerated even during full-capacity events.**  
+*Waraynon: Kontento ako ha temperatura ug bentilasyon san hall, nga nagpapadayon nga presko ug marisyo an hangin bisan damo an tawo.*
+- [ ] 1 – Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
+- [ ] 2 – Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
+- [ ] 3 – Neutral (N) / Fair (F) | Tunga-tunga / Katadungan
+- [ ] 4 – Agree (A) / Satisfied (S) | Nagtutugot
+- [ ] 5 – Strongly Agree (SA) / Very Satisfied (VS) | Pohon nga Nagtutugot
 
-**B4. Visual sightlines to the main stage are frequently obstructed from rear or side seating positions.**  
-*Waraynon: An pagtan-aw ha stage tikang ha luyo o ha ligid nga lingkuran kay agsub nga nahahabol o diri klaro.*
-- [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
-- [ ] 2 – Disagree (D) / Diri Nagtutugot
-- [ ] 3 – Neutral (N) / Tunga-tunga
-- [ ] 4 – Agree (A) / Nagtutugot
-- [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
+**B4. I am satisfied with my view of the stage and presentation screens, being able to see clearly without obstructions from my seat.**  
+*Waraynon: Kontento ako ha akon pagtan-aw ha entablado (stage) ug presentation screens, nga klaro ug waray nakaka-ulang tikang ha akon lingkuran.*
+- [ ] 1 – Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
+- [ ] 2 – Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
+- [ ] 3 – Neutral (N) / Fair (F) | Tunga-tunga / Katadungan
+- [ ] 4 – Agree (A) / Satisfied (S) | Nagtutugot
+- [ ] 5 – Strongly Agree (SA) / Very Satisfied (VS) | Pohon nga Nagtutugot
 
-**B5. High echo and reverberation inside the hall make it difficult to hear speeches or announcements clearly.**  
-*Waraynon: An dako nga lanog (echo) ha hall kay nagpapamakure ha pagdungog san mga pakig-voses ug pahatag san impormasyon.*
-- [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
-- [ ] 2 – Disagree (D) / Diri Nagtutugot
-- [ ] 3 – Neutral (N) / Tunga-tunga
-- [ ] 4 – Agree (A) / Nagtutugot
-- [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
+**B5. I am satisfied with the spatial layout, aisle widths, and seating legroom, allowing easy movement without feeling cramped or overcrowded.**  
+*Waraynon: Kontento ako ha pagkaha-plag san mga lingkuran ug kahaluag san agi-an, nga may sakto nga lugar para ha tiil ug diri gutok paglihok.*
+- [ ] 1 – Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
+- [ ] 2 – Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
+- [ ] 3 – Neutral (N) / Fair (F) | Tunga-tunga / Katadungan
+- [ ] 4 – Agree (A) / Satisfied (S) | Nagtutugot
+- [ ] 5 – Strongly Agree (SA) / Very Satisfied (VS) | Pohon nga Nagtutugot
 
 ---
 
-### SECTION C: FLEXIBLE FF&E LAYOUTS & INTERIOR COMFORT PREFERENCES (SPOP Q2) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
+### SECTION C: SEATING ARRANGEMENTS & INTERIOR COMFORT PREFERENCES (SPOP Q2) / KAABTIK SAN MUEBLES UG INTERIOR COMFORT
 *Assesses preferences for comfortable seating layouts, clear aisle pathways, and layout flexibility.* / *Pagtimbang san mga layout ug ka-komportable san lingkuran ug agi-an.*
 
-**C1. Reconfigurable furniture layouts tailored to specific event sizes enhance personal comfort and spatial flow for attendees.**  
-*Waraynon: An mga reconfigurable furniture layouts nga sakto ha ka-dako san okasyon kay nakakahatag san ka-komportable ha mga matambong.*
+**C1. Flexible seating arrangements arranged specifically for each event size improve comfort and ease of movement for attendees.**  
+*Waraynon: An mga lingkuran nga naiaayos sumala ha kadako san okasyon kay nakakahatag hin mas dako nga komportable ug masayon nga paglihok.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**C2. Well-defined main aisles (e.g., 1800–2400 mm clear pedestrian walkways) significantly improve safety and crowd movement.**  
-*Waraynon: An mga ma-klares ug ha-lapad nga agi-an (1800–2400 mm) kay dako nga bulig para ha kaluwasan ug paglihok san tawo.*
+**C2. Wide and clearly marked main walkways (about 1.8 to 2.4 meters wide) significantly improve safety and crowd movement.**  
+*Waraynon: An mga klaro ug halapad nga agi-an (1.8 tubtob 2.4 ka metro) kay dako nga bulig para ha kaluwasan ug paglihok san mga tawo.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -416,8 +416,8 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**C5. Reconfigurable modular staging enhances performance visibility for attendees seated anywhere in the hall.**  
-*Waraynon: An modular staging nga nababalyo an ayos kay nagpapanami san visual sightlines para ha tanan nga naglilingkod ha hall.*
+**C5. Reconfigurable modular staging enhances stage visibility for attendees seated anywhere in the hall.**  
+*Waraynon: An entablado (stage) nga naiaadjust an ayos kay nagpapanami san pagtan-aw para ha tanan nga naglilingkod ha hall.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -426,11 +426,11 @@
 
 ---
 
-### SECTION D: LOCALIZED SAMAR CULTURAL INTEGRATION & SENSE OF PLACE (SPOP Q3) / DISENYO TIKANG HA KULTURA SAN SAMAR
-*Evaluates community pride, cultural resonance, and aesthetic identity from incorporating Basey banig, tikog grass, and Calbayog waterfall motifs.* / *Pagtimbang san kultura, banig Basey, tikog, ug busay san Calbayog.*
+### SECTION D: CULTURAL AND NATURAL HERITAGE INTEGRATION & SENSE OF PLACE (SPOP Q3.2) / DISENYO TIKANG HA KULTURAL UG NATURAL NGA KABILIN SAN SAMAR UG CALBAYOG
+*Evaluates community pride, heritage resonance, and aesthetic identity from incorporating regional cultural heritage (Basey banig, tikog grass) and local natural heritage (Calbayog waterfall motifs).* / *Pagtimbang san bugal ha kultural nga kabilin (banig Basey, tikog) ug natural nga kabilin (mga busay san Calbayog).*
 
-**D1. Incorporating Samar Basey *banig* weaving patterns into interior wall panels instills regional pride and a distinct sense of place.**  
-*Waraynon: An pag-upod san mga disenyo nga tikang ha paglalag san banig nga Basey ha interior walls kay nagpapatubo san aton bugal ug pagkakakilanlan san lugar.*
+**D1. Incorporating Samar Basey *banig* weaving patterns into interior wall panels instills regional pride and honors local cultural heritage.**  
+*Waraynon: An pag-upod san mga disenyo nga tikang ha paglalag san banig nga Basey ha interior walls kay nagpapatubo san aton bugal ug nagpapasidungog ha aton kultural nga kabilin.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -438,31 +438,31 @@
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
 **D2. Natural textures inspired by *tikog* grass make the convention center interior feel warm, welcoming, and connected to local Samar heritage.**  
-*Waraynon: An mga tekstura nga tikang ha tikog kay naghahatag san ka-presko ug kainit nga nagpapabati san aton kultura ha Samar.*
+*Waraynon: An mga tekstura nga tikang ha tikog kay naghahatag san ka-presko ug kainit nga nagpapabati san aton kultural nga kabilin ha Samar.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D3. Seeing cascading visual patterns inspired by Calbayog’s waterfalls on the ceiling enhances the aesthetic beauty of the venue.**  
-*Waraynon: An pagkakita san mga disenyo ha ceiling nga tikang ha mga busay san Calbayog kay nagpapanami ug nagpapatahum san lugar.*
+**D3. Seeing cascading visual patterns inspired by Calbayog’s natural waterfall heritage on the ceiling enhances the aesthetic beauty and sense of place of the venue.**  
+*Waraynon: An pagkakita san mga disenyo ha ceiling nga tikang ha natural nga kabilin san mga busay san Calbayog kay nagpapanami ug nagpapatahum san lugar.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D4. Upgraded perimeter acoustic curtains featuring Waray geometric motifs create a welcoming cultural ambiance while controlling room echo.**  
-*Waraynon: An pag-gamit san bag-o nga acoustic curtains ha kuta nga may disenyo san Waray kay naghahatag san kultural nga ambyante ug nakakabawas san echo.*
+**D4. Upgraded perimeter acoustic curtains featuring Waray geometric motifs celebrate local cultural heritage while controlling room echo.**  
+*Waraynon: An pag-gamit san bag-o nga acoustic curtains ha kuta nga may disenyo san Waray kay nagpapasidungog san aton kultural nga kabilin ug nakakabawas san echo.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**D5. Expressing authentic Samar culture inside the convention center makes events more memorable for both local residents and out-of-town visitors.**  
-*Waraynon: An pagpapakita san tunay nga kultura san Samar ha interior kay nagpapadakip san mga panumduman san mga bisita ug tawo san Calbayog.*
+**D5. Expressing authentic Samar cultural heritage and Calbayog natural heritage inside the convention center makes events more memorable for both local residents and out-of-town visitors.**  
+*Waraynon: An pagpapakita san tunay nga kultural nga kabilin san Samar ug natural nga kabilin san Calbayog ha interior kay nagpapadakip san mga panumduman san mga bisita ug tawo san Calbayog.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -471,7 +471,7 @@
 
 ---
 
-### SECTION E: ACOUSTIC COMFORT & AMBIENT LIGHTING EXPERIENCE (SPOP Q1.1 & Q4) / ACOUSTIC DUNGOG UG SUGA
+### SECTION E: ACOUSTIC COMFORT & AMBIENT LIGHTING EXPERIENCE (SPOP Q1.1 & Q3.1) / ACOUSTIC DUNGOG UG SUGA
 *Measures attendee satisfaction with speech clarity, acoustic comfort, and ambient lighting quality.* / *Pagtimbang san dungog, katin-aw san boses, ug suga.*
 
 **E1. Overhead acoustic ceiling panels and sound drapes make listening to presentations more enjoyable by reducing harsh room echo.**  
@@ -516,7 +516,7 @@
 
 ---
 
-### SECTION F: UNIVERSAL ACCESSIBILITY & CIVIC VENUE PRIDE (SPOP Q2 & Q4) / ACCESSIBILITY UG BUGAL SAN LUGAR
+### SECTION F: UNIVERSAL ACCESSIBILITY & CIVIC VENUE PRIDE (SPOP Q2 & Q3.1) / ACCESSIBILITY UG BUGAL SAN LUGAR
 *Evaluates universal wheelchair access (BP 344 / ADA), material cleanliness, and civic pride in venue infrastructure.* / *Pagtimbang san accessibility ha may kapansanan ug pagpanami san lugar.*
 
 **F1. Dedicated, wide wheelchair pathways (minimum 1200 mm) and integrated seating areas ensure that the venue is inclusive for persons with disabilities (PWDs) and senior citizens.**  
@@ -535,24 +535,24 @@
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**F3. Upgrading the convention center interior with modern, culturally rooted design elements increases my pride in Calbayog City’s civic infrastructure.**  
-*Waraynon: An pagpanami san convention center nga may disenyo nga tikang ha kultura kay nagpapadako san akon bugal ha Calbayog City.*
+**F3. Upgrading the convention center interior with modern design elements rooted in local cultural and natural heritage increases my pride in Calbayog City’s civic infrastructure.**  
+*Waraynon: An pagpanami san convention center nga may disenyo nga naggigikan ha aton kultural ug natural nga kabilin kay nagpapadako san akon bugal ha Calbayog City.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**F4. Sustainable interior specifications (such as non-toxic, low-VOC acoustic panels) create a healthier indoor air environment for event attendees.**  
-*Waraynon: An pagpili san low-VOC ug non-toxic materials kay naghahatag san mas malimpyo nga hangin ha sulod san lugar.*
+**F4. Using eco-friendly, non-toxic materials and healthy wall finishes creates cleaner, safer indoor air for attendees.**  
+*Waraynon: An pagpili san mga materyales nga diri makahilo (non-toxic) ug makauupay ha kalikupan kay naghahatag san mas malimpyo nga hangin ha sulod san lugar.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
 - [ ] 4 – Agree (A) / Nagtutugot
 - [ ] 5 – Strongly Agree (SA) / Pohon nga Nagtutugot
 
-**F5. A modernized, flexible, and culturally distinctive convention center will serve the Calbayog community effectively for many years to come.**  
-*Waraynon: An makabago, adaptable, ug kultural nga convention center kay magpapadayon nga magserbisyo ha komunidad san Calbayog ha madugay nga katuigan.*
+**F5. A modernized, flexible, and heritage-responsive convention center (celebrating local culture and nature) will serve the Calbayog community effectively for many years to come.**  
+*Waraynon: An makabago, adaptable, ug nagpapasidungog ha aton kabilin nga convention center kay magpapadayon nga magserbisyo ha komunidad san Calbayog ha madugay nga katuigan.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -563,7 +563,7 @@
 
 # PART 4: QUALITATIVE SEMI-STRUCTURED INTERVIEW PROTOCOL FOR EVENT PLANNERS & VENUE ADMINISTRATORS / GABAY SA INTERVIEW PARA HA MGA EVENT PLANNER UG OPERATOR
 
-**Target Informants**: Selected Event Planners, Coordinators, Venue Managers, and Technical Directors ($n = 8 \text{ to } 12$).  
+**Target Informants**: Selected Event Planners, Coordinators, Venue Operations Personnel, and Cultural/Tourism Stakeholders ($n = 8 \text{ to } 12$).  
 **Format**: 20-to-30-minute semi-structured, audio-recorded qualitative interview session.  
 
 ---
@@ -571,46 +571,75 @@
 ### INTERVIEW GUIDE QUESTIONS / MGA PAKIANA SA INTERVIEW
 
 #### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1.1 & Q1.2) / MGA KULANG UG PROBLEMA HA LUGAR
-1. **What are the primary spatial and physical challenges you encounter when setting up or tearing down events in the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Foyer) of the Calbayog City Convention Center?**  
-   *Waraynon: Ano an mga panguna nga problema ha lugar ug pasilidad nga imo naaagihan samtang nag-preparar o nag-hihipos san mga gamit ha 840 sqm nga interior (711 sqm Main Hall ug 129 sqm Foyer) san Calbayog City Convention Center?*
-2. **How much time do you spend setting up events in the main hall, and what setup challenges slow you down?**  
-   *Waraynon: Ka-iha an imo gin-gagamit nga oras ha pag-preparar san okasyon ha main hall, ug ano nga mga problema an nagpapaiha ha iyo?*
-3. **How do current acoustic reverberation and ambient lighting conditions affect event execution?**  
-   *Waraynon: Paunan-o nakaka-apekto an lanog (echo) ug suga ha yana nga pamalakad san mga okasyon?*
+1. **What are the biggest space and layout challenges you face when setting up and packing down events in the convention center?**  
+   - *Interviewer Probe: (e.g., cramped foyer during ingress, narrow doors, crowded hallways, lack of furniture staging area)*  
+   *Waraynon: Ano an mga pinaka-dako nga problema ha lugar nga iyo naieksperyensyahan samtang nag-aandam o naghihipos san okasyon ha convention center?*  
+   - *Dugang nga Pakiana / Probe: (sugad san masikip nga agi-an, gutok nga foyer, o kakulangan san kabutangan san mga kagamitan)*
+
+2. **On average, how many hours does it take your team to set up the hall, and what causes the longest delays?**  
+   - *Interviewer Probe: (e.g., hauling heavy tables, configuring the stage from scratch, taping power cables across the floor)*  
+   *Waraynon: Pira ka oras an kasagaran nga gin-gagamit niyo ha pag-andam san hall, ug ano an mga buruhaton nga pinaka-nagpapadugay ha iyo?*  
+   - *Dugang nga Pakiana / Probe: (sugad san paghakot san magbug-at nga lamesa, pag-ayos san stage, o pag-latag san mga kable ha salog)*
+
+3. **How do the current sound clarity, lighting, and room temperature affect your events?**  
+   - *Interviewer Probe: (e.g., disturbing room echo during speeches, glare or poor lighting on stage, warm/stuffy air during peak attendance)*  
+   *Waraynon: Paunan-o nakaka-apekto an lanog san tunog, suga, ug temperatura san hangin ha padalagan san iyo mga okasyon?*  
+   - *Dugang nga Pakiana / Probe: (sugad san ma-lanog ba an boses ha mic, masilaw o madulom ba an suga, o mapaso ba kon puno an mga tawo)*
 
 #### Module 2: Spatial Modularity & Furniture Flexibility (SPOP Q2) / KAABTIK SAN MUEBLES UG LUGAR
-4. **What types of modular furniture (FF&E), stackable seating modules, or convertible staging systems would most dramatically improve your setup speed and spatial efficiency?**  
-   *Waraynon: Ano nga klase san mga bag-o nga muebles (FF&E), stackable seating, o staging systems an nakakapadali san pag-preparar ug pagpaabtik san lugar?*
-5. **How would having standardized layout templates (e.g., Plenary, Classroom, Banquet, Exhibition) change your space planning workflow?**  
-   *Waraynon: Paunan-o makakabulig an pagkamayda san ma-klares nga layout templates (Plenary, Classroom, Banquet, Exhibition) ha imo pagplano san lugar?*
-6. **What anthropometric clearance issues (e.g., aisle widths, server passage, seat spacing) do you frequently observe during large banquets or exhibitions?**  
-   *Waraynon: Ano nga mga problema ha agi-an, ha distansya san lingkuran, ug ha agi-an san waiters an imo agsub nga nakikita ha mga dako nga banquets o exhibitions?*
+4. **What kinds of movable furniture or adjustable staging would make your event setups faster and easier?**  
+   - *Interviewer Probe: (e.g., lightweight folding tables, stackable chairs with dollies, modular stage blocks that change height)*  
+   *Waraynon: Ano nga klase san mga nagigius nga muebles o nababalyo nga entablado (stage) an makakapadali ug makakapa-abtik san iyo pag-ayos?*  
+   - *Dugang nga Pakiana / Probe: (sugad san mapipilo nga lamesa, stackable chairs nga may ligid, o modular nga stage blocks)*
 
-#### Module 3: Overhead Ceiling Track & Rigging Systems (SPOP Q4) / DISENYO UG TRACKS HA CEILING
-7. **How could an adjustable overhead ceiling track and rigging system benefit your lighting, sound, or decorative drapery setups?**  
-   *Waraynon: Paunan-o makakabulig an adjustable ceiling track and rigging system ha pag-bitay san mga suga, sound, ug dekorasyon?*
-8. **In what ways would motorized overhead truss hoists improve safety and floor space utilization during major events?**  
-   *Waraynon: Sa ano nga pamaagi makakabulig an motorized truss hoists para ha kaluwasan ug pagpapadako san lugar ha sahig ha mga dako nga okasyon?*
+5. **How would having ready-made layout templates (for theater, banquet, classroom, or trade booths) help your event planning?**  
+   - *Interviewer Probe: (e.g., faster client approvals, clear table counts, eliminating trial-and-error measurements)*  
+   *Waraynon: Paunan-o makakabulig ha iyo pagplano kon may daan na nga giya o plano san mga ayos (sugad san theater, bangkete, o booths)?*  
+   - *Dugang nga Pakiana / Probe: (mas madali ba magpa-apruba ha kliyente, diri na kinahanglan magsukol-sukol tikang ha uno)*
 
-#### Module 4: Cultural Heritage Expression & Future-Proof Specifications (SPOP Q3 & Q4) / DISENYO TIKANG HA KULTURA SAN SAMAR
-9. **How do you feel about integrating traditional Samar Basey *banig* mat weaving patterns, *tikog* grass textures, and Calbayog waterfall imagery into upgraded perimeter acoustic drapery and ceiling acoustic baffles?**  
-   *Waraynon: Ano an imo hunahuna ha pag-upod san mga disenyo tikang ha banig Basey, tikog, ug busay san Calbayog ha mga acoustic curtains ug ceiling baffles san venue?*
-10. **How can we balance strong cultural expression with high spatial reconfigurability so that permanent motifs do not restrict room versatility?**  
-   *Waraynon: Paunan-o naton mababalanse an pagpapakita san kultura ug an kaabtik san lugar para an mga pormante nga disenyo diri maka-singa ha pagbalyo san ayos san lugar?*
-11. **What long-term future-proof interior features or sustainable materials do you believe are essential for keeping the Calbayog City Convention Center competitive over the next 10 to 15 years?**  
-   *Waraynon: Ano nga mga makabago ug matadong nga materyales an kinahanglan para magpadayon nga napuslanon ug matadong an Calbayog City Convention Center ha laang san 10 tubtob 15 ka tuig?*
+6. **What problems do you notice with aisle spacing, waiter service paths, or wheelchair accessibility during large gatherings?**  
+   - *Interviewer Probe: (e.g., chairs blocking walkways, catering staff bumping into guests, difficulty for wheelchairs or elderly attendees)*  
+   *Waraynon: Ano nga mga problema ha agi-an, pagserbi san mga waiters, o agi-an san wheelchair para ha PWD an agsub niyo maobserbaran ha mga dako nga okasyon?*  
+   - *Dugang nga Pakiana / Probe: (nagkakagutok ba an mga lingkuran, makuri ba makalabay an catering, may igo ba nga lugar para ha PWDs)*
+
+#### Module 3: Overhead Ceiling Track & Rigging Systems (SPOP Q3.1) / DISENYO UG TRACKS HA CEILING
+7. **How would ceiling-mounted tracks or hanging points help your lighting, sound, and backdrop setups?**  
+   - *Interviewer Probe: (e.g., hanging decorative drapes and banners without tall ladders, placing stage lights directly overhead)*  
+   *Waraynon: Paunan-o makakabulig ha iyo kon may daan na nga mga tracks o kabitayan ha ceiling para ha suga, sound, ug mga dekorasyon?*  
+   - *Dugang nga Pakiana / Probe: (mas masayon ba magbitay hin kurtina ug banners nga diri na kinahanglan hin hitaas nga hagdan)*
+
+8. **How would motorized overhead hoists (which lift equipment to the ceiling) improve safety and free up floor space?**  
+   - *Interviewer Probe: (e.g., removing bulky speaker tripods and lighting stands from walkways, eliminating trip hazards)*  
+   *Waraynon: Paunan-o makakabulig an motorized hoists (nga nag-aalsa san gamit pakadto ha ceiling) ha kaluwasan ug ha pagpahaluag san salog?*  
+   - *Dugang nga Pakiana / Probe: (nakakatanggal ba san mga tripods ug stands ha agi-an, nakakabawas ba san peligro ha pagka-sipak)*
+
+#### Module 4: Cultural and Natural Heritage Integration & Future-Proof Specifications (SPOP Q3.1 & Q3.2) / DISENYO TIKANG HA KULTURAL UG NATURAL NGA KABILIN SAN SAMAR UG CALBAYOG
+9. **What are your thoughts on featuring Samar cultural heritage (Basey banig weaves) and Calbayog natural heritage (waterfall motifs) on the walls and ceiling?**  
+   - *Interviewer Probe: (e.g., acoustic wall panels textured with tikog grass, fluid acoustic ceiling panels resembling waterfalls)*  
+   *Waraynon: Ano an imo panlantaw ha pagbutang san disenyo tikang ha aton kultural nga kabilin (banig san Basey) ug natural nga kabilin (mga busay san Calbayog) ha mga dingding ug ceiling?*  
+   - *Dugang nga Pakiana / Probe: (sugad san acoustic panels nga may banig patterns, o ceiling panels nga sugad san nag-aagas nga busay)*
+
+10. **How can we design these local heritage elements so they look distinctive without clashing with a client's custom wedding or conference theme?**  
+    - *Interviewer Probe: (e.g., have you experienced fixed decor clashing with a client's backdrop? would neutral wood tones and subtle textures work better than bright colors?)*  
+    *Waraynon: Paunan-o naton maipapakita ini nga mga disenyo nga diri makikig-away o makikig-bunggo ha tema san kliyente (sugad san kasal o pormal nga seminar)?*  
+    - *Dugang nga Pakiana / Probe: (naeksperyensyahan mo na ba nga an permanente nga dekorasyon nakasira ha backdrop san kliyente? mas maopay ba an neutral nga kolor san kahoy)*
+
+11. **In your experience, what kinds of durable and easy-to-clean materials does the venue need to withstand heavy event wear and tear?**  
+    - *Interviewer Probe: (e.g., what parts of the hall get scuffed or stained fastest? what takes the longest time to clean between events?)*  
+    *Waraynon: Sumala ha imo eksperyensya, ano nga mga lig-on ug masayon-limpyohan nga materyales an kinahanglan san hall para magpabilin nga maopay bisan agsub gamiton?*  
+    - *Dugang nga Pakiana / Probe: (ano nga parte san hall an masayon mabagras o mabulingan? ano an pinaka-makuri limpyohan pagkatapos san okasyon)*
 
 
 ---
 
-# PART 5: ARCHITECTURAL ON-SITE SPATIAL OBSERVATION PROTOCOL & CHECKLIST
+# PART 5: ARCHITECTURAL ON-SITE SPATIAL & EVENT LIFECYCLE OBSERVATION PROTOCOL
 
 **Locale**: Calbayog City Convention Center — 840 sqm Interior Envelope (711 sqm Main Hall + 129 sqm Foyer).  
-**Objective**: To document physical envelope dimensions, circulation bottlenecks, utility placements, and current acoustic/lighting conditions during active event setups and non-event periods.  
+**Objective**: To record baseline architectural dimensions, physical envelope clearances, and real-time operational workflows during vacant hall audits and live event lifecycle phases (Ingress, In-Session, and Egress across contrasting event typologies).  
 
 ---
 
-### OBSERVATION CHECKLIST
+### PROTOCOL A: STATIC ARCHITECTURAL ENVELOPE & FACILITY CHECKLIST (VACANT HALL AUDIT)
 
 | Observation Category | Specific Spatial Parameters to Record | Field Observations & Notes |
 | :--- | :--- | :--- |
@@ -619,7 +648,19 @@
 | **3. Pedestrian & Service Circulation** | • Main entrance foyer to hall circulation flow.<br>• Primary central aisle width vs cross-aisle width.<br>• Back-of-house catering service lanes to banquet tables. | |
 | **4. Overhead Ceiling Plane & Utility Infrastructure** | • Existing ceiling grid height & material finishes.<br>• Rigging points, truss hooks, lighting track availability.<br>• Exposed ductwork, piping, or cable clutter visibility. | |
 | **5. Acoustic & Visual Environmental Quality** | • Perceived speech intelligibility and audible reverberation off ceramic tile flooring and glass perimeters.<br>• Physical condition, fabric wear, dust accumulation, and cleanliness of old existing perimeter drapery.<br>• Physical condition, sagging, and surface wear of existing fabric ceiling baffles.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
-| **6. Cultural Interior Material Presence** | • Existing wall, floor, or ceiling decorative finishes.<br>• Presence of regional Samar/Waray cultural motifs.<br>• Material durability, wear-and-tear, and surface condition. | |
+| **6. Cultural & Natural Heritage Interior Presence** | • Existing wall, floor, or ceiling decorative finishes.<br>• Presence or absence of regional Samar cultural motifs (weaving/crafts) or Calbayog natural heritage features (waterfall/hydrological references).<br>• Material durability, wear-and-tear, and surface condition. | |
+
+---
+
+### PROTOCOL B: MULTI-PHASE EVENT LIFECYCLE OBSERVATION MATRIX (LIVE EVENT SHADOWING)
+*Administered during scheduled live events across contrasting typologies (Plenary Assembly, Social Banquet, and Trade Exhibition).*
+
+| Event Operational Phase | Operational & Spatial Parameters to Observe | Specific Field Notes & Timestamps |
+| :--- | :--- | :--- |
+| **Event Profile & Typology** | • Event Typology observed (Plenary / Banquet / Exhibition / Multi-Use).<br>• Estimated total attendee count and seating layout format.<br>• Time-in / Time-out duration of the entire booking. | |
+| **1. Ingress Phase (Load-In & Setup Logistics)** | • Unloading vehicle access and staging bottlenecks at the loading door.<br>• Furniture hauling paths and floor distribution speed.<br>• Crew method for hanging banners, drapes, or stage lighting (ladder/scaffolding use).<br>• Floor cabling, tape-down hazards, and power outlet reach.<br>• Total setup turnaround time from empty hall to event readiness. | |
+| **2. In-Session Phase (Active Event Operations)** | • Foyer queue buildup, registration desk flow, and foyer-to-hall transition.<br>• Attendee circulation ease along main aisles and cross-aisles.<br>• Waiter/staff tray clearance and service lane mobility during food/refreshment service.<br>• Sightline clarity from rear and corner seats to stage and presentation screens.<br>• Audible speech intelligibility, room echo, and background noise during presentations.<br>• Ambient lighting transitions and perceived room temperature/ventilation comfort. | |
+| **3. Egress Phase (Teardown & Turnover Logistics)** | • Attendee exiting flow, exit door clearance, and foyer dispersal bottlenecks.<br>• Furniture disassembly, chair stacking, and table breakdown procedures.<br>• Crew loading paths back to transport trucks and loading door congestion.<br>• Post-event cleaning, floor sweep, and waste removal turnaround duration.<br>• Total teardown time required to return the hall to vacant turnover status. | |
 
 ---
 

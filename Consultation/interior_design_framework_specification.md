@@ -61,6 +61,8 @@ Modular Floor Layouts      Anthropometric Clearances    Acoustic Surface Overlay
    - Dedicated registration and reception counter module with queuing stanchion paths.
    - Pre-function socializing/cocktail standing nodes ($0.28\text{ m}^2\text{/person}$ waiting allowance).
    - Universal PWD step-free staging zone directly connecting to the Main Hall portals.
+   - **Interior Ingress/Egress Cargo Staging Buffer (1800–2400 mm):** A dedicated, unobstructed maneuvering corridor directly inside the main entrance to absorb equipment load-in/load-out without blocking foyer circulation.
+   - **Interior Surface Impact Protection:** High-durability wall base and corner guards to protect perimeter interior finishes from cart and dolly collisions during event setup/teardown.
 
 ---
 
@@ -119,12 +121,14 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 
 | Deliverable Component | Format & Contents | Primary End-User |
 | :--- | :--- | :--- |
-| **1. Dimensioned Floor Plan Manual** | Scaled 2D CADD/Revit layout sheets for all 4 typologies (Plenary, Classroom, Banquet, Exhibition) with detailed aisle dimensions, seat counts, and PWD stalls. | Venue Operators, Event Planners, LGU Utility Crew |
-| **2. Dimensional Standards & Clearance Sheet** | Reference card detailing standard furniture dimensions, chair push-back clearances, service lanes, and wall setbacks to eliminate trial-and-error measurement. | Facility Maintenance Staff, Setup Supervisors |
-| **3. Room Conversion Operational Matrix** | Step-by-step layout transition sequence diagrams and crew timelines (e.g., Transition A: Plenary to Banquet workflow). | Event Changeover Teams, Venue Coordinators |
-| **4. Surface Material & Acoustic Schedule** | Detailed finish schedule specifying flame-retardant fabrics, *banig* abstraction patterns, *tikog* textures, and acoustic NRC ratings. | Contractors, Interior Architects, Tourism Officers |
-| **5. Ceiling & Lighting Plan Interface** | Reflected ceiling plans (RCP) showing suspended waterfall baffles, utility tracks, and multi-zone lighting circuits. | Lighting Designers, Technical AV Coordinators |
-| **6. Regulatory Compliance Audit Checklist** | Tabulated verification matrix certifying compliance with PD 1096 Rule XII Table XII.1, BP 344, RA 9514, and DOT MC No. 2023-0003. | City Building Officials, Tourism Accreditation Auditors |
+| **1. 3D Digital Model & Spatial Perspective Renders** | Developed in **SketchUp & Enscape**: High-fidelity 3D views showing the Acoustic Envelope (Basey *banig* panels, waterfall baffles), Overhead Utility Grid (track lighting 300–500 lux, AV drops), 4 Layout Typologies, and the Foyer Ingress Staging Buffer. | Thesis Panel, LGU Officials, Event Planners |
+| **2. Dimensioned Floor Plan Manual** | Scaled 2D CADD layout sheets for all 4 typologies (Plenary, Classroom, Banquet, Exhibition) with detailed aisle dimensions, seat counts, and PWD stalls. | Venue Operators, Event Planners, LGU Utility Crew |
+| **3. Dimensional Standards & Clearance Sheet** | Reference card detailing standard furniture dimensions, chair push-back clearances, service lanes, and wall setbacks to eliminate trial-and-error measurement. | Facility Maintenance Staff, Setup Supervisors |
+| **4. Room Conversion Operational Matrix** | Step-by-step layout transition sequence diagrams and crew timelines (e.g., Transition A: Plenary to Banquet workflow). | Event Changeover Teams, Venue Coordinators |
+| **5. Surface Material & Acoustic Schedule** | Detailed finish schedule specifying flame-retardant fabrics, *banig* abstraction patterns, *tikog* textures, and acoustic NRC ratings. | Contractors, Interior Architects, Tourism Officers |
+| **6. Ceiling & Lighting Plan Interface** | Reflected ceiling plans (RCP) showing suspended waterfall baffles, utility tracks, and multi-zone lighting circuits. | Lighting Designers, Technical AV Coordinators |
+| **7. Regulatory Compliance Audit Checklist** | Tabulated verification matrix certifying compliance with PD 1096 Rule XII Table XII.1, BP 344, RA 9514, and DOT MC No. 2023-0003. | City Building Officials, Tourism Accreditation Auditors |
+| **8. Architectural Facade Handover Recommendation** | Formal Chapter 5 administrative recommendation advising the Calbayog City Engineering Office to retrofit the exterior facade doors with RA 9514-compliant commercial double swing doors and magnetic hold-opens. | City Engineering Office, Building Officials |
 
 ---
 
@@ -147,8 +151,8 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 | **SPOP Q1.1:** Attendee dissatisfaction with lighting, acoustics, and comfort. | Hard reflective tile surfaces, lack of sound absorption, static harsh lighting. | **Module 3 & 4:** Flame-retardant Basey *banig* acoustic wall panels (NRC 0.75–0.85), waterfall ceiling baffles, and dimmable 300–500 lux LED tracks. |
 | **SPOP Q1.2:** Prolonged setup turnaround delays and layout bottlenecks. | No standardized layouts; manual trial-and-error measuring; dragging furniture back and forth. | **Module 1 & 2:** Standardized Layout Manual and Anthropometric Clearance Ruleset (eliminating trial-and-error space planning by providing exact, pre-calculated furniture spacing, service lanes, and egress setbacks). |
 | **SPOP Q2:** Maximizing spatial capacity, turnaround speed, and BP 344 accessibility. | Lack of pre-calculated clearances and ad-hoc seating spacing. | **Module 1:** Pre-calculated Plenary (500 pax), Banquet, Classroom, and Exhibition floor templates with designated $760 \times 1220\text{ mm}$ PWD stations. |
-| **SPOP Q3:** Material specifications and overhead tracks for future-proofing. | Inflexible overhead infrastructure; tangled floor wires and hazard taping. | **Module 4:** Overhead utility tracks with concealed AV/power raceways and adjustable drapery rigging. |
-| **SPOP Q3.1:** Cultural sense of place without compromising versatility. | Generic commercial drywall; risk of thematic over-decoration clashing with corporate events. | **Module 3:** Contemporary geometric abstraction of Samar Basey *banig* weaving and Calbayog waterfall fluid linework embedded in neutral, functional acoustic panels. |
+| **SPOP Q3.1:** Material specifications and overhead tracks for future-proofing. | Inflexible overhead infrastructure; tangled floor wires and hazard taping. | **Module 4:** Overhead utility tracks with concealed AV/power raceways and adjustable drapery rigging. |
+| **SPOP Q3.2:** Cultural sense of place without compromising versatility. | Generic commercial drywall; risk of thematic over-decoration clashing with corporate events. | **Module 3:** Contemporary geometric abstraction of Samar Basey *banig* weaving and Calbayog waterfall fluid linework embedded in neutral, functional acoustic panels. |
 
 ---
 

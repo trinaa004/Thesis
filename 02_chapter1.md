@@ -9,8 +9,9 @@ Specifically, the study addresses the following research questions:
    1.1. What is the level of attendee satisfaction regarding existing interior lighting, acoustics, and thermal comfort?
    1.2. What setup turnaround delays and spatial layout challenges do event planners and venue operators encounter within the 840 sqm interior envelope?
 2. How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility?
-3. What interior material specifications, acoustic overlays, and overhead ceiling track systems can future-proof the facility for multi-scale event adaptability?
-   3.1. In what ways can localized Samar heritage and Calbayog natural motifs be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
+3. How can the interior environment of the Calbayog City Convention Center be designed to balance long-term operational resilience with local identity?
+   3.1. What interior material specifications, acoustic overlays, and overhead ceiling track systems can future-proof the facility for multi-scale event adaptability?
+   3.2. In what ways can localized Samar heritage and Calbayog natural motifs be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
 
 ---
 
@@ -21,8 +22,9 @@ This study aims to develop a site-specific interior design framework consisting 
    1.1. Measure attendee satisfaction with the existing interior lighting, acoustic performance, and thermal comfort.
    1.2. Identify physical layout bottlenecks and setup turnaround delays experienced by event planners and venue operators during live operations.
 2. To formulate standardized modular layout typologies (Plenary, Classroom, Banquet, Exhibition) and reconfigurable FF&E arrangements that optimize spatial capacity, accelerate turnaround speed, and ensure universal accessibility.
-3. To propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
-   3.1. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, and Calbayog waterfall fluid forms—to establish a localized civic identity and place attachment.
+3. To establish an interior design framework that balances long-term operational resilience with local identity.
+   3.1. To propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
+   3.2. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, and Calbayog waterfall fluid forms—to establish a localized civic identity and place attachment.
 
 ---
 
@@ -44,6 +46,7 @@ The scope of this study is strictly confined to the development of a non-structu
 
 * Designing a standardized menu of repeatable interior layout templates (e.g., Plenary, Exhibition, and Banquet configurations) optimized for the specific square footage of the venue. 
 * Formulating ergonomic furniture density arrangements and loose FF&E layout clusters to maximize spatial efficiency and minimize setup/teardown turnaround times for event planners. 
+* Formulating a spatial policy and operational ruleset—comprising pre-calculated anthropometric clearance buffers, room-conversion protocols, and statutory compliance checklists (PD 1096, BP 344, RA 9514)—that eliminates trial-and-error setup guesswork for facility utility crews.
 * Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns into upgraded perimeter acoustic drapery and ceiling acoustic overlays to establish a distinct regional identity. 
 * Proposing a non-structural overhead ceiling interface that layers modular acoustic finish tiles with an adjustable, conceptual interior track-and-rigging framework to facilitate dynamic alterations in ambient lighting and decorative drapery. 
 
@@ -56,5 +59,5 @@ To protect the professional boundaries of this study and maintain a focused rese
 * While the framework conceptually accounts for technological integration, this study will not provide detailed engineering schematics, calculations, or circuit designs for Mechanical, Electrical, Plumbing (MEP), HVAC ducting rerouting, acoustic engineering ratings, or commercial rigging hardware systems. These elements are treated purely as spatial and aesthetic design interfaces. 
 * The design intervention is strictly internal. All outdoor zones, landscaping, parking facilities, building services, and ancillary interior zones (such as administrative offices, back-of-house catering kitchens, loading docks, and public restrooms) are outside the scope of this study. 
 * Field recommendations and spatial parameters are synthesized from empirical survey and interview feedback gathered from event planners and attendees of the Calbayog City Convention Center (synthesized from An, Kim, & Hur, 2021), combined with global interior design standards, anthropometric data, and documented industry best practices. 
-* The scope is strictly limited to spatial planning and physical interior design strategies. It explicitly excludes venue operational policies, event marketing strategies, financial budgeting, and facility management business models. 
-* Because the thesis produces an applied, unbuilt interior design framework and spatial proposal rather than a physically constructed facility, conducting a real-world, on-site Post-Occupancy Evaluation (POE) during the undergraduate research timeframe is beyond the practical and physical scope of this study. Pre-construction design validity is instead established through pre-occupancy predictive verification (normative anthropometric clearance audits, material acoustic NRC specifications, and published analog facility precedents), with formal on-site POE systematically designated as a future recommendation for the City Government of Calbayog.
+* The policy component of this study is strictly confined to spatial, ergonomic, and interior reconfiguration guidelines (e.g., anthropometric clearance standards, statutory occupancy density limits under PD 1096, BP 344 accessibility parameters, and room changeover sequences). It explicitly excludes administrative, commercial, and business operations policies, such as venue rental fee structures, commercial leasing agreements, event marketing and promotional strategies, municipal budget appropriations, and facility staffing/human resource management models.
+* Because the thesis produces an applied, unbuilt interior design framework and spatial proposal rather than a physically constructed facility, conducting a real-world, on-site Post-Occupancy Evaluation (POE) during the undergraduate research timeframe is beyond the practical and physical scope of this study (Preiser & Vischer, 2005). Pre-construction design validity is instead established through evidence-based design synthesis (integrating normative anthropometric clearances, accessibility mandates, and acoustic NRC thresholds) combined with a structured post-design Evaluative Focus Group Discussion (FGD) (Tremblay et al., 2010; Zeisel, 2006; Sanoff, 2000) involving key venue stakeholders, with formal longitudinal on-site POE systematically designated as a future recommendation for the City Government of Calbayog.
