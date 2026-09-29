@@ -21,7 +21,7 @@ The questionnaire will utilize a combination of 5-point Likert scales (ranging f
 A qualitative semi-structured interview guide will be developed to explore nuanced insights from key event planners and venue operators. The open-ended questions will focus on specific operational workflows, physical challenges encountered during event setup and teardown, desired acoustic and lighting controls, and cultural and natural heritage expression in public venues.
 
 ## 3. On-Site Spatial and Event Lifecycle Observation Protocol
-The researcher will conduct direct, non-participatory spatial observations within the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Foyer). This instrument incorporates a two part protocol:
+The researcher will conduct direct, non-participatory spatial observations within the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Lobby). This instrument incorporates a two part protocol:
 
 ### Part A: Static Architectural Envelope & Physical Facility Checklist
 Conducted during non-event and vacant hall periods to record baseline physical dimensions and structural clearances:
@@ -33,7 +33,7 @@ Conducted during non-event and vacant hall periods to record baseline physical d
 ### Part B: Multi-Phase Event Lifecycle Observation Protocol (Ingress, Live Operations, & Egress)
 Conducted during scheduled live events held at the convention center across contrasting event typologies (such as plenary conferences, social banquets, and commercial exhibitions) to document real-time operational dynamics across three distinct phases:
 1. **Ingress (Load-In & Setup Phase):** Unloading logistics at the loading entrance, outsourced FF&E hauling paths, ladder/scaffolding usage, floor cable management, setup duration/turnaround time, and spatial pinch points during hall preparation.
-2. **In-Session (Active Live Event Phase):** Foyer registration flow, attendee circulation patterns, main aisle vs. service lane congestion (waiter paths and server mobility), stage/screen sightline obstructions, live speech intelligibility and room echo, and thermal/ventilation performance under full occupant loads.
+2. **In-Session (Active Live Event Phase):** Lobby registration flow, attendee circulation patterns, main aisle vs. service lane congestion (waiter paths and server mobility), stage/screen sightline obstructions, live speech intelligibility and room echo, and thermal/ventilation performance under full occupant loads.
 3. **Egress (Teardown & Load-Out Phase):** Attendee exit flow and egress dispersal, furniture dismantling, stacking, and removal procedures, loading door vehicle access congestion, and post-event turnover speed.
 
 ## 4. Post-Design Stakeholder Evaluation Matrix & Focus Group Discussion (FGD) Guide
@@ -42,7 +42,7 @@ To validate the synthesized interior design framework, 2D CADD layout typologies
 ### Part A: Structured Design Verification Rubric (Quantitative Individual Scoring)
 A standardized 5-point Likert rubric (1 = Strongly Disagree / Highly Unfeasible to 5 = Strongly Agree / Highly Feasible) administered to each participant for independent, silent completion prior to group deliberation. The rubric evaluates five core dimensions:
 1. **Spatial Modularity & Turnaround Viability:** Operational feasibility of the four typologies (Plenary, Banquet, Classroom, Exhibition), FF&E mobility, and storage transfer efficiency.
-2. **Anthropometric Clearances & Accessibility:** Adequacy of 1200 mm main aisles, 1620–1800 mm wait-staff service corridors, wheelchair turning bays (BP 344), and foyer crowd dispersals.
+2. **Anthropometric Clearances & Accessibility:** Adequacy of 1200 mm main aisles, 1620–1800 mm wait-staff service corridors, wheelchair turning bays (BP 344), and lobby crowd dispersals.
 3. **Acoustic Performance & Durability:** Perimeter acoustic panel coverage, waterfall ceiling baffle configuration, and maintenance durability of *tikog* grass composite materials.
 4. **Cultural & Natural Heritage Resonance & Place Attachment:** Authenticity, civic dignity, and respectful abstraction of Basey *banig* weaves (*Lara*) and Calbayog waterfall fluid mechanics (Scannell & Gifford, 2010).
 5. **Overhead Rigging & Utility Adaptability:** Functional effectiveness of ceiling-mounted tracks in eliminating floor cabling and streamlining lighting/audio changeovers.

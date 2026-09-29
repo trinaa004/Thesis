@@ -2,7 +2,7 @@
 
 **Working Title:** *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 **Degree Program:** Bachelor of Science in Interior Design  
-**Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Foyer)  
+**Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Lobby)  
 **Location:** Brgy. Capoocan, Calbayog City, Samar  
 
 ---
@@ -26,7 +26,7 @@
 ## 3. The 2-Paragraph Executive Synopsis (Comprehensive & Protective)
 
 > **Paragraph 1 (The Operational & Spatial Deficit):**  
-> *"Originally adapted from a municipal bus terminal, the Calbayog City Convention Center’s 840-square-meter interior envelope (711 sqm Main Hall + 129 sqm Foyer) operates with severe spatial inefficiencies. Because the facility lacks standardized layout templates and on-site furniture storage, event organizers rely on outsourced FF&E and manual trial-and-error setups. This results in excessive setup turnaround times, circulation congestion, poor acoustic speech intelligibility, and a placeless aesthetic envelope that fails to reflect Calbayog's rich civic and cultural identity."*  
+> *"Originally adapted from a municipal bus terminal, the Calbayog City Convention Center’s 840-square-meter interior envelope (711 sqm Main Hall + 129 sqm Lobby) operates with severe spatial inefficiencies. Because the facility lacks standardized layout templates and on-site furniture storage, event organizers rely on outsourced FF&E and manual trial-and-error setups. This results in excessive setup turnaround times, circulation congestion, poor acoustic speech intelligibility, and a placeless aesthetic envelope that fails to reflect Calbayog's rich civic and cultural identity."*  
 > 
 > **Paragraph 2 (The Non-Structural Interior Solution & Value):**  
 > *"To resolve these deficits without structural demolition or civil engineering intervention, this study formulates an applied Interior Design Framework and Layout Manual grounded in Open Building Theory and Place Attachment. The framework provides a dual-layer intervention: an **active logistical layer** featuring four modular FF&E typologies and an overhead ceiling track that drastically reduces turnaround times; and a **passive experiential layer** featuring acoustic wall panels and suspended ceiling baffles abstracting Samar Basey banig weaving and Calbayog waterfall motifs to restore acoustic comfort and foster regional pride."*
@@ -38,7 +38,7 @@
 | What Panelists Might Mistakenly Assume | What Your Study ACTUALLY Is (Interior Design Scope) |
 | :--- | :--- |
 | **❌ "Is this an Architectural renovation or Civil Engineering project?"** | **✅ A Non-Structural Interior Overlay:** Zero alterations to load-bearing columns, roof trusses, or building facades. It works strictly within the 840 sqm interior shell using loose FF&E, surface finishes, and suspended ceiling track interfaces. |
-| **❌ "Are you proposing to demolish or replace the exterior building facade doors?"** | **✅ Interior Staging Buffers & Chapter 5 LGU Recommendation:** Exterior facade fenestration belongs strictly to Architecture and Civil Engineering. Within the interior scope, this study designs an unobstructed **1800–2400 mm interior staging corridor and cargo buffer** inside the 129 sqm Foyer. Physical replacement of the exterior sliding doors with RA 9514-compliant commercial swing doors is formally routed to **Chapter 5 as an official administrative recommendation to the Calbayog City Engineering Office**. |
+| **❌ "Are you proposing to demolish or replace the exterior building facade doors?"** | **✅ Interior Staging Buffers & Chapter 5 LGU Recommendation:** Exterior facade fenestration belongs strictly to Architecture and Civil Engineering. Within the interior scope, this study designs an unobstructed **1800–2400 mm interior staging corridor and cargo buffer** inside the 129 sqm Lobby. Physical replacement of the exterior sliding doors with RA 9514-compliant commercial swing doors is formally routed to **Chapter 5 as an official administrative recommendation to the Calbayog City Engineering Office**. |
 | **❌ "Is this an Industrial Engineering or Operations Management thesis?"** | **✅ Evidence-Based Interior Space Planning:** Turnaround time is measured purely as the *dependent spatial performance metric* to prove that pre-calculated anthropometric clearances (1200–1800 mm) and standardized layout templates physically eliminate setup friction. |
 | **❌ "Is this just superficial decorating or aesthetic restyling?"** | **✅ A Technical Interior Layout System:** Integrates ergonomic standards (Neufert, Panero & Zelnik), statutory accessibility mandates (BP 344 & ADA), empirical user comfort data, and acoustic surface specifications. |
 | **❌ "Do permanent cultural motifs limit corporate event neutrality?"** | **✅ Non-Restricting Geometric Cultural Abstraction:** Samar *banig* patterns and waterfall curves are abstracted into acoustic fabric panels and suspended ceiling baffles that preserve visual neutrality for formal corporate events while retaining local identity. |

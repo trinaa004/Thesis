@@ -4,7 +4,7 @@
 > *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 > **Degree Program:** Bachelor of Science in Interior Design (BSID)  
 > **Venue & Locale:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar)  
-> **Spatial Envelope:** **840 sq.m.** (*711 sq.m.* Main Convention Hall + *129 sq.m.* Foyer) | **Capacity:** Up to 500 occupants  
+> **Spatial Envelope:** **840 sq.m.** (*711 sq.m.* Main Convention Hall + *129 sq.m.* Lobby) | **Capacity:** Up to 500 occupants  
 
 ---
 
@@ -14,7 +14,7 @@ It is a **site-specific, non-structural interior design framework, 3D visualizat
 
 * **Strict Non-Structural Interior Overlay:** It does **not** demolish or modify load-bearing columns, building facades, or roof trusses. Everything proposed operates strictly within the interior envelope.
 * **Dual-Layer Intervention:**
-  1. **Active Logistical Layer (For Event Planners & Crew):** Mobile, modular furniture (FF&E), overhead utility/rigging tracks, an unobstructed **1800–2400 mm interior foyer staging buffer**, and 4 pre-engineered layout configurations to make event set-up and tear-down fast and effortless.
+  1. **Active Logistical Layer (For Event Planners & Crew):** Mobile, modular furniture (FF&E), overhead utility/rigging tracks, an unobstructed **1800–2400 mm interior lobby staging buffer**, and 4 pre-engineered layout configurations to make event set-up and tear-down fast and effortless.
   2. **Passive Experiential Layer (For Attendees & Guests):** Acoustic wall panels and suspended ceiling baffles wrapped in Samar *tikog* / *banig* weaving patterns and fluid Calbayog waterfall motifs to absorb echoes and immerse visitors in local cultural identity.
 
 ---
@@ -107,7 +107,7 @@ The final output is an actionable, professional **Interior Design Framework & La
  [ 3D Digital Model ]     [ 2D CADD Drawings ]    [ LGU Operations Manual ]   [ Academic Handover ]
   SketchUp & Enscape       4 Typologies, RCP &     Turnaround rules, setup     Ch. 4 door survey data;
   perspectives: acoustics, utility tracks, wall    sequences, and maintenance  Ch. 5 LGU engineering
-  grid & foyer buffer      elevations & finishes   guidelines (2–3 hr setups)  facade recommendation
+  grid & lobby buffer      elevations & finishes   guidelines (2–3 hr setups)  facade recommendation
 ```
 
 ### Anticipated Real-World Impact:

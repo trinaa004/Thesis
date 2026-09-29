@@ -12,7 +12,7 @@ Here is the exact mapping of your study against the definition and core componen
 
 | Scientific Component (From your Google Search) | Laboratory Science Context | **Your Study: Calbayog City Convention Center** |
 | :--- | :--- | :--- |
-| **Real-World Environment** | Actual classroom, hospital ward, or retail store | **The actual 840 sqm interior envelope** (711 sqm Main Hall + 129 sqm Foyer) of the Calbayog City Convention Center in Brgy. Capoocan, Calbayog City, Samar (adaptive reuse of a former municipal bus terminal). |
+| **Real-World Environment** | Actual classroom, hospital ward, or retail store | **The actual 840 sqm interior envelope** (711 sqm Main Hall + 129 sqm Lobby) of the Calbayog City Convention Center in Brgy. Capoocan, Calbayog City, Samar (adaptive reuse of a former municipal bus terminal). |
 | **Independent Variable (IV)** *(The Manipulated Intervention)* | A new teaching method, drug dosage, or website layout | **The Interior Design Framework Overlay:** <br>• 4 standardized modular layout typologies<br>• Kinetic space dividers & overhead track/rigging grid<br>• Engineered acoustic surface assemblies (Samar *banig* & waterfall baffles)<br>• Reconfigurable FF&E |
 | **Dependent Variable (DV)** *(The Measured Outcomes / Metrics)* | Test scores, recovery rates, user click-throughs | **Measurable Operational & Experiential Metrics:** <br>1. *Turnaround Efficiency:* Setup/teardown time in hours<br>2. *Statutory Compliance:* Aisle/turning clearances under BP 344 & PD 1096<br>3. *Acoustic Performance:* Noise Reduction Coefficient (NRC) & Reverberation Time ($RT_{60}$)<br>4. *Place Attachment:* Attendee and planner satisfaction ratings |
 | **Control Group / State** *(Baseline without Intervention)* | Patients receiving placebo; students taught with old curriculum | **Phase 1 Diagnostic Baseline (Status Quo):** The current un-optimized facility with long turnaround delays, acoustic flutter echo, spatial bottlenecks, and generic aesthetic. |
@@ -25,7 +25,7 @@ Here is the exact mapping of your study against the definition and core componen
 
 #### A. Real-World Environment (Practice Conditions)
 * **What it means:** An applied experiment does not happen in an abstract hypothetical world; it is grounded in actual operational constraints.
-* **In your thesis:** Your testbed is the **Calbayog City Convention Center** in Brgy. Capoocan, Calbayog City, Samar. It has real-world operational baggage: it was converted in 2009 from a municipal bus terminal, meaning it possesses a static, echoing rectangular hall (711 sqm) and a constrained foyer (129 sqm) that regularly struggles to host civic assemblies, social banquets, lectures, and regional exhibitions.
+* **In your thesis:** Your testbed is the **Calbayog City Convention Center** in Brgy. Capoocan, Calbayog City, Samar. It has real-world operational baggage: it was converted in 2009 from a municipal bus terminal, meaning it possesses a static, echoing rectangular hall (711 sqm) and a constrained lobby (129 sqm) that regularly struggles to host civic assemblies, social banquets, lectures, and regional exhibitions.
 
 #### B. Independent Variable (IV) — The Direct Intervention You Manipulate
 * **What it means:** The specific tool, design, or system that **you as the researcher control and introduce** to solve the problem.

@@ -5,7 +5,7 @@ This study aims to formulate a site-specific interior design framework for the C
 
 Specifically, the study addresses the following research questions:
 
-1. What is the current baseline condition of the Calbayog City Convention Center's Main Hall & Foyer in terms of indoor environmental quality (IEQ) and spatial usage efficiency?
+1. What is the current baseline condition of the Calbayog City Convention Center's Main Hall & Lobby in terms of indoor environmental quality (IEQ) and spatial usage efficiency?
    1.1. What is the level of attendee satisfaction regarding existing interior lighting, acoustics, and thermal comfort?
    1.2. What setup turnaround delays and spatial layout challenges do event planners and venue operators encounter within the 840 sqm interior envelope?
 2. How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility?
@@ -18,7 +18,7 @@ Specifically, the study addresses the following research questions:
 ## Research Objectives
 This study aims to develop a site-specific interior design framework consisting of modular interior typologies and layout standards that adapt to the diverse event demands of the Calbayog City Convention Center, integrating modular, culturally-responsive, and future-proof design principles to enhance spatial efficiency, user experience, and long-term functionality for both event planners and users of the space. Specifically, it seeks to:
 
-1. To evaluate the baseline indoor environmental quality (IEQ) and spatial operational conditions of the Calbayog City Convention Center's Main Hall & Foyer.
+1. To evaluate the baseline indoor environmental quality (IEQ) and spatial operational conditions of the Calbayog City Convention Center's Main Hall & Lobby.
    1.1. Measure attendee satisfaction with the existing interior lighting, acoustic performance, and thermal comfort.
    1.2. Identify physical layout bottlenecks and setup turnaround delays experienced by event planners and venue operators during live operations.
 2. To formulate standardized modular layout typologies (Plenary, Classroom, Banquet, Exhibition) and reconfigurable FF&E arrangements that optimize spatial capacity, accelerate turnaround speed, and ensure universal accessibility.
@@ -42,7 +42,7 @@ The results of the study will benefit the following:
 ## Scope and Limitations of the Study
 
 ### Scope of the Study
-The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the primary interior envelope (Main Hall and Foyer) of the Calbayog City Convention Center. Specifically, the study includes: 
+The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the primary interior envelope (Main Hall and Lobby) of the Calbayog City Convention Center. Specifically, the study includes: 
 
 * Designing a standardized menu of repeatable interior layout templates (e.g., Plenary, Exhibition, and Banquet configurations) optimized for the specific square footage of the venue. 
 * Formulating ergonomic furniture density arrangements and loose FF&E layout clusters to maximize spatial efficiency and minimize setup/teardown turnaround times for event planners. 
@@ -50,7 +50,7 @@ The scope of this study is strictly confined to the development of a non-structu
 * Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns into upgraded perimeter acoustic drapery and ceiling acoustic overlays to establish a distinct regional identity. 
 * Proposing a non-structural overhead ceiling interface that layers modular acoustic finish tiles with an adjustable, conceptual interior track-and-rigging framework to facilitate dynamic alterations in ambient lighting and decorative drapery. 
 
-The spatial application of this framework is strictly limited to the 840-square-meter interior envelope of the facility, comprising the 711-square-meter Main Convention Hall and the 129-square-meter Foyer / pre-function area. 
+The spatial application of this framework is strictly limited to the 840-square-meter interior envelope of the facility, comprising the 711-square-meter Main Convention Hall and the 129-square-meter Lobby / pre-function area. 
 
 ### Limitations of the Study
 To protect the professional boundaries of this study and maintain a focused research scope, the study establishes the following explicit limitations: 

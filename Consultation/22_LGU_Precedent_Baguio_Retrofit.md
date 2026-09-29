@@ -2,7 +2,7 @@
 
 **Document Type:** Review of Related Literature (RRL) — Local Civic Precedent & Methodological Justification  
 **Applicable Thesis Sections:** Chapter 2 (Review of Related Literature — Cultural Identity & Adaptable Civic Interiors) & Chapter 1 (Rationale / Background of the Study)  
-**Target Locale Comparison:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar — 840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer)
+**Target Locale Comparison:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar — 840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Lobby)
 
 ---
 
@@ -18,7 +18,7 @@ The **Baguio Convention and Cultural Center (BCCC)** serves as a directly compar
 | :--- | :--- | :--- |
 | **Governance & Ownership** | Local Government Unit (City Government of Baguio) | Local Government Unit (City Government of Calbayog) |
 | **Facility Origin / History** | Built in 1977 (Ar. Jorge Ramos); aged municipal convention facility | Renovated in 2009; former municipal bus terminal |
-| **Primary Structural Envelope** | Fixed structural shell with regional roofline (Cordilleran *fale* roof geometry) | Fixed 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer) with high-volume roof framing |
+| **Primary Structural Envelope** | Fixed structural shell with regional roofline (Cordilleran *fale* roof geometry) | Fixed 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Lobby) with high-volume roof framing |
 | **Intervention Strategy** | Non-structural interior retrofit, MEPFS modernization, spatial and acoustic infill | Non-structural interior design overlay, modular FF&E, ceiling track/rigging, acoustic baffling |
 | **Target Functionality** | Multi-use: Civic assemblies, MICE conferences, cultural exhibits, SMART governance hub | Multi-use: Plenary/theater, classroom lectures, banquets, trade exhibits, cultural showcases |
 | **Cultural Heritage Integration** | Preservation of Ifugao *bale* silhouette, entrance portico *halipan* (rat guard) column motifs, regional folk art murals, and dedicated UNESCO creative exhibition galleries | Abstraction of Samar Basey *banig* (*tikog* grass) weaves, Waray geometric motifs, Calbayog waterfall fluid linework |
@@ -45,12 +45,12 @@ The BCCC rehabilitation offers four key design strategies directly translatable 
 ### A. Non-Structural Interior Envelope & Acoustic Remediation
 Rather than altering load-bearing pillars or the external roof geometry, the BCCC retrofit focused on a high-performance **interior wall and ceiling overlay**. 
 - Perforated acoustic wall paneling, modular fabric-wrapped acoustic baffles, and tuned resonant absorbers were installed to optimize reverberation time ($RT_{60}$) for both speech intelligibility (conferences) and musical resonance (cultural events).
-- This mirrors the proposed Calbayog intervention of deploying *tikog*-surfaced acoustic perimeter panels and suspended fluid ceiling baffles to control acoustics in the 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer) without structural wall modifications.
+- This mirrors the proposed Calbayog intervention of deploying *tikog*-surfaced acoustic perimeter panels and suspended fluid ceiling baffles to control acoustics in the 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Lobby) without structural wall modifications.
 
 ### B. Spatial Zoning, Modularity, and Multi-Use Flexibility
 The BCCC interior was segmented into adaptable zones capable of simultaneous or rapid sequential use:
 - The main auditorium floor was upgraded with flexible, high-density movable seating systems, allowing transitions from formal plenary theater seating to open floor exhibition grids and banquet layouts.
-- Peripheral foyer and mezzanine areas were repurposed into modular creative art galleries, civic function rooms, and the city's integrated SMART Command Center.
+- Peripheral lobby and mezzanine areas were repurposed into modular creative art galleries, civic function rooms, and the city's integrated SMART Command Center.
 - This demonstrates the viability of **Open Building Theory (Habraken, 1972)** in local governance: the municipal building serves as the permanent "support," while modular FF&E, mobile track partitions, and demountable staging act as the kinetic "infill" that accommodates dynamic civic needs.
 
 ### C. Integration of Regional Cultural Identity & Creative Placemaking
@@ -86,7 +86,7 @@ PICC / Coex / Albuquerque                                     Baguio Convention 
         └──────────────────────────────┬──────────────────────────────┘
                                        ▼
                      [ CALBAYOG CITY CONVENTION CENTER ]
-              840 sqm Interior Envelope (711m² Hall + 129m² Foyer)
+              840 sqm Interior Envelope (711m² Hall + 129m² Lobby)
           • Feasible, Non-Structural Interior Design Overlay
           • Rapid Turnaround via Modular FF&E & Overhead Rigging
           • Basey Banig / Tikog Weaving & Waterfall Cultural Identity
@@ -103,7 +103,7 @@ PICC / Coex / Albuquerque                                     Baguio Convention 
 ## 5. Text Snippets Ready for Chapter Integration
 
 ### A. For Chapter 1: Background & Rationale (`01_rationale.md`)
-> *"While flagship convention centers like the Philippine International Convention Center (PICC) illustrate the macroeconomic value of the MICE industry, provincial venues operate under distinct spatial, budgetary, and infrastructural constraints. The successful rehabilitation and interior retrofitting of the Baguio Convention and Cultural Center (BCCC) demonstrates that aging municipal facilities can achieve world-class MICE functionality, universal accessibility, and acoustic excellence through targeted, non-structural interior interventions. By adopting a similar interior-focused framework, the 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Foyer) of the Calbayog City Convention Center can overcome its rigid spatial configuration and turnaround bottlenecks, transitioning from an underutilized municipal hall into an adaptable, culturally resonant civic landmark for Western Samar."*
+> *"While flagship convention centers like the Philippine International Convention Center (PICC) illustrate the macroeconomic value of the MICE industry, provincial venues operate under distinct spatial, budgetary, and infrastructural constraints. The successful rehabilitation and interior retrofitting of the Baguio Convention and Cultural Center (BCCC) demonstrates that aging municipal facilities can achieve world-class MICE functionality, universal accessibility, and acoustic excellence through targeted, non-structural interior interventions. By adopting a similar interior-focused framework, the 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Lobby) of the Calbayog City Convention Center can overcome its rigid spatial configuration and turnaround bottlenecks, transitioning from an underutilized municipal hall into an adaptable, culturally resonant civic landmark for Western Samar."*
 
 ### B. For Chapter 2: Review of Related Literature (`20_RRL.md` — under Cultural Identity & Provincial Precedents)
 > *"At the provincial local government scale, the rehabilitation of the Baguio Convention and Cultural Center (City Government of Baguio, 2019; Filipina News Sentinel, 2022) provides a vital Philippine benchmark for civic interior modernization. Facing operational challenges identical to the Calbayog facility—including severe acoustic reverberation, static spatial layouts, and generic interior surfaces—the Baguio retrofit successfully deployed modular acoustic paneling, flexible seating systems, integrated cultural exhibition galleries, and restored Cordilleran architectural motifs—such as the iconic entrance halipan (rat guard) column geometries and indigenous art murals—within the existing architectural shell. This precedent demonstrates that non-structural interior frameworks grounded in Open Building Theory (Habraken, 1972) and cultural placemaking (Scannell & Gifford, 2010; Del Monte, 2021) are both operationally viable and fiscally appropriate for Philippine local government units seeking to future-proof their civic event infrastructure."*

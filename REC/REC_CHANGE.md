@@ -5,7 +5,7 @@ To ensure a comprehensive evaluation of both operational venue logistics and ove
 Selection Criteria:
 To guarantee data validity and operational relevance, all participants recruited for this study must satisfy explicit inclusion criteria. Specifically, respondents must:
 1. Be at least 18 years of age at the time of data collection.
-2. Have organized, managed, facilitated, or attended at least one event inside the Calbayog City Convention Center (Main Hall or Foyer) within the past five years.
+2. Have organized, managed, facilitated, or attended at least one event inside the Calbayog City Convention Center (Main Hall or Lobby) within the past five years.
 3. Possess familiarity with the venue's interior space or the regional cultural context of Samar.
 
 Inclusivity and Physical Accessibility Accommodations:
@@ -14,7 +14,7 @@ Participant recruitment actively accommodates and encourages the inclusion of in
 
 Phase 1: Pre-Data Gathering Coordinative Actions & Permissions
 	Prior to initiating field data collection, formal coordinative actions will be executed following clearance from the University of San Carlos Research Ethics Committee (USC REC):
-Institutional Permissions & Site Access: Official transmittal and permission letters will be submitted to the Calbayog City Convention Center management and local municipal authorities to secure administrative site authorization, access to venue event logs, and permission for on-site mapping of the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Foyer).
+Institutional Permissions & Site Access: Official transmittal and permission letters will be submitted to the Calbayog City Convention Center management and local municipal authorities to secure administrative site authorization, access to venue event logs, and permission for on-site mapping of the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Lobby).
 Expert Participant Outreach: Formal invitation letters detailing the study's scope, voluntary nature, and time commitment will be transmitted directly to identified event planners, venue operators, and production managers for expert survey and interview recruitment.
 General Attendee Recruitment: To recruit general event attendees, call-for-participation posters will be displayed on venue bulletin boards during scheduled public events, supplemented by digital call-for-participation announcements posted on verified local community and civic social media pages.
 Bilingual Recruitment Materials & Language Inclusivity: To prevent linguistic barriers from excluding local community members, grassroots event attendees, or facility end-users, all recruitment materials—including informational flyers, bulletin posters, and preliminary consent notices—will be made available in both English and Waray (the local vernacular of Calbayog City and Samar).

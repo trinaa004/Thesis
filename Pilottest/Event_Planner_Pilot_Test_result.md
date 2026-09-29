@@ -1,7 +1,7 @@
  PILOT TEST RELIABILITY ANALYSIS & CERTIFICATE OF INSTRUMENT RELIABILITY
 
 **Study Title:** An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Samar-Calbayog Cultural Heritage, and Future-Proof Event Adaptability  
-**Research Locale:** Calbayog City Convention Center (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer), Brgy. Capoocan, Calbayog City, Samar  
+**Research Locale:** Calbayog City Convention Center (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Lobby), Brgy. Capoocan, Calbayog City, Samar  
 **Target Instrument:** Researcher-Developed Quantitative Survey Questionnaire (Form A: Event Planners & Venue Operators Instrument)  
 **Pilot Pre-Test Date:** August 2026  
 **Pilot Sample Size:** $n = 10$ qualified event planners, coordinators, and facility operators (excluded from final study sample)  

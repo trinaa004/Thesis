@@ -3,7 +3,7 @@
 **Proponent**: Trina Jane Misagal  
 **Thesis Adviser**: IDr. Kirah Angeline Lampinez  
 **Study**: *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
-**Research Locale**: Calbayog City Convention Center (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Foyer), Brgy. Capoocan, Calbayog City, Samar
+**Research Locale**: Calbayog City Convention Center (840 sqm interior envelope: 711 sqm Main Hall + 129 sqm Lobby), Brgy. Capoocan, Calbayog City, Samar
 
 ---
 
@@ -29,7 +29,7 @@
 > 
 > My name is **Trina Jane Misagal**, a graduating Interior Design student from the University of San Carlos (SAFAD).
 > 
-> I am currently conducting my undergraduate thesis titled *"An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability."* The goal of my study is to propose non-structural interior design solutions for the Calbayog City Convention Center (an 840 sqm municipal envelope: 711 sqm Main Hall and 129 sqm Foyer) to make event setups and room turnarounds much faster, improve speech acoustics, and integrate local Samar Basey *banig* weaving and Calbayog waterfall motifs into the interior surfaces.
+> I am currently conducting my undergraduate thesis titled *"An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability."* The goal of my study is to propose non-structural interior design solutions for the Calbayog City Convention Center (an 840 sqm municipal envelope: 711 sqm Main Hall and 129 sqm Lobby) to make event setups and room turnarounds much faster, improve speech acoustics, and integrate local Samar Basey *banig* weaving and Calbayog waterfall motifs into the interior surfaces.
 > 
 > Given your valuable on-the-ground experience in **[event planning / event coordination / venue operations]** here in Calbayog and Samar, your insights would be an incredible help to my research.
 > 
@@ -62,7 +62,7 @@
 > I am currently conducting my thesis research titled:  
 > ***"An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability."***
 > 
-> The purpose of this study is to formulate an evidence-based, non-structural interior layout manual and spatial design framework for the 840-square-meter interior envelope (711 sqm Main Hall and 129 sqm Foyer) of the Calbayog City Convention Center in Brgy. Capoocan. The research seeks to resolve spatial layout bottlenecks, reduce setup/teardown turnaround durations through modular furniture and overhead ceiling track systems, optimize speech intelligibility, and celebrate local Samar cultural heritage (Basey *banig* weaving and Calbayog waterfall fluid forms) directly on interior acoustic surfaces.
+> The purpose of this study is to formulate an evidence-based, non-structural interior layout manual and spatial design framework for the 840-square-meter interior envelope (711 sqm Main Hall and 129 sqm Lobby) of the Calbayog City Convention Center in Brgy. Capoocan. The research seeks to resolve spatial layout bottlenecks, reduce setup/teardown turnaround durations through modular furniture and overhead ceiling track systems, optimize speech intelligibility, and celebrate local Samar cultural heritage (Basey *banig* weaving and Calbayog waterfall fluid forms) directly on interior acoustic surfaces.
 > 
 > In light of your distinguished background and hands-on expertise in **[venue administration / event logistics / municipal facility operations]**, I would be deeply grateful for the opportunity to conduct a short, semi-structured qualitative interview with you. The session will take approximately **20 to 30 minutes**.
 > 
@@ -123,6 +123,6 @@
 
 If a potential interviewee calls you back or asks you in person, *"What is your thesis about again?"*, use this concise 30-second speaking script:
 
-> *"My thesis is focused on developing a non-structural interior design framework for the Calbayog City Convention Center—specifically the 840-square-meter Main Hall and Foyer in Brgy. Capoocan. Because the venue was originally converted from a municipal bus terminal in 2009, event organizers often experience prolonged setup and teardown turnaround times, alongside noticeable acoustic echo.*
+> *"My thesis is focused on developing a non-structural interior design framework for the Calbayog City Convention Center—specifically the 840-square-meter Main Hall and Lobby in Brgy. Capoocan. Because the venue was originally converted from a municipal bus terminal in 2009, event organizers often experience prolonged setup and teardown turnaround times, alongside noticeable acoustic echo.*
 > 
 > *The goal of my project is to design pre-calculated modular layouts and mobile furniture systems that allow the local maintenance team to change room configurations quickly, while integrating Samar's Basey banig weaving craft and Calbayog waterfall patterns into high-performance acoustic wall and ceiling panels. Your on-the-ground experience as an event planner and operator is essential to ensuring that these proposed layouts are practical, functional, and grounded in real venue needs."*

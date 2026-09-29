@@ -31,7 +31,7 @@ Before heading to the interview location, ensure you have the following items:
 - [ ] **Printed Informed Consent Forms**: 2 printed copies of [**`39_InterviewInformedConsent.md`**](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/39_InterviewInformedConsent.md) (one copy for the participant to sign and keep; one signed copy for researcher records).
 - [ ] **Printed Reusable Interview Guide**: 1 copy of this guide on a clipboard.
 - [ ] **Fieldwork Notebook & Pen**: For writing down timestamps, participant non-verbal reactions, and key operational quotes.
-- [ ] **Quiet Environment**: Choose a quiet, low-noise room (e.g., private office, quiet café corner, or vacant foyer/conference room) away from heavy traffic or loud air conditioners.
+- [ ] **Quiet Environment**: Choose a quiet, low-noise room (e.g., private office, quiet café corner, or vacant lobby/conference room) away from heavy traffic or loud air conditioners.
 
 ---
 
@@ -143,7 +143,7 @@ Consult this matrix before starting the interview to know exactly which question
 * **Waray:** *"Ano an mga pinaka-dako nga problema ha lugar nga iyo naieksperyensyahan samtang nag-aandam o naghihipos san okasyon ha convention center?"*
 * **Interviewer Probes (Prompt if needed):**
   - *Ingress/Loading:* Is the loading entrance too narrow or congested when unloading trucks?
-  - *Foyer:* Does the 129 sqm entrance foyer get overcrowded during guest registration?
+  - *Lobby:* Does the 129 sqm entrance lobby get overcrowded during guest registration?
   - *Staging:* Is there enough temporary space to store chairs and boxes while decorating?
 
 #### Question 2 (Turnaround Duration & Delays)

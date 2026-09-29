@@ -19,7 +19,7 @@ This document serves as the master context index, project ruleset, and reference
 | **[21_theoretical_conceptual.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/21_theoretical_conceptual.md)** | Theoretical Background & Conceptual Framework synthesizing Open Building Theory (Habraken, 1972) and Theory of Place Attachment (Scannell & Gifford, 2010). |
 | **[22_LGU_Precedent_Baguio_Retrofit.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/22_LGU_Precedent_Baguio_Retrofit.md)** | Philippine Provincial LGU Facility Retrofit Precedent: Detailed case analysis of the Baguio Convention & Cultural Center modernization, cultural integration, and methodological justification. |
 | **[30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md)** | Applied Design Research & Mixed-Methods methodology (Phase 1: Baseline Fieldwork; Phase 2: Interior Design Synthesis; Phase 3: Technical Verification). |
-| **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Locale description of Calbayog City Convention Center (Brgy. Capoocan, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Foyer], 500 occupant capacity, former bus station history). |
+| **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Locale description of Calbayog City Convention Center (Brgy. Capoocan, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Lobby], 500 occupant capacity, former bus station history). |
 | **[32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md)** | Respondent profiles, inclusion criteria, Purposive Expert Sampling ($n = 15–25$), Purposive Quota Sampling ($n = 100–120$), Slovin's formula, and qualitative sample ($n = 8–12$). |
 | **[33_Instruments.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/33_Instruments.md)** | Research instruments (Structured Survey Questionnaires & Semi-Structured Interview Guides). |
 | **[34_Data Collection.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/34_Data%20Collection.md)** | Field survey distribution and data collection protocols. |
@@ -56,10 +56,10 @@ This document serves as the master context index, project ruleset, and reference
   *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*
 - **Degree Program**: Bachelor of Science in Interior Design
 - **Research Locale & Site Specifications**:
-  - **Venue**: Calbayog City Convention Center (Main Convention Hall & Foyer)
+  - **Venue**: Calbayog City Convention Center (Main Convention Hall & Lobby)
   - **Location**: Brgy. Capoocan, Calbayog City, Samar, Philippines
   - **Historical Note**: Renovated on December 14, 2009 (originally a municipal bus station)
-  - **Footprint Area**: **840 square meters (711 sqm Main Hall + 129 sqm Foyer)**
+  - **Footprint Area**: **840 square meters (711 sqm Main Hall + 129 sqm Lobby)**
   - **Maximum Occupancy**: Up to 500 occupants (Plenary assembly in Main Hall)
 - **Primary Operational Bottlenecks**:
   - Rigid, static interior envelope causing prolonged setup/teardown turnaround times.
@@ -80,7 +80,7 @@ This document serves as the master context index, project ruleset, and reference
 Open Building Theory (Habraken, 1972)             Theory of Place Attachment (Scannell & Gifford, 2010)
   └─ Fixed Support: Architectural Envelope           └─ Person-Process-Place (PPP) Model
   └─ Kinetic Infill: 840 sqm Interior Overlay        └─ Tactile & Visual Cultural Resonance
-     (711 sqm Main Hall + 129 sqm Foyer)
+     (711 sqm Main Hall + 129 sqm Lobby)
         │                                                               │
         ▼                                                               ▼
 Active Logistics (Event Planners)                  Passive Experience (Event-Goers)
@@ -149,6 +149,6 @@ When planning, drafting, or making changes to the thesis rationale (`01_rational
 
 ### Core Guidelines:
 1. **Cross-Reference Alignment**: Every edit or planning step for `01_rationale.md` must be cross-checked against `00_introduction.md`, `02_chapter1.md`, and `20_RRL.md` to ensure complete thematic and structural consistency.
-2. **Consistency in Terminology & Standards**: Maintain exact consistency regarding venue specifications (e.g., Calbayog City Convention Center, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Foyer], Brgy. Capoocan, 500 occupants), industry terminology (MICE industry, modularity, adaptability, future-proof design), and cultural elements (Samar Basey *banig* weaving heritage, *tikog* grass, Calbayog waterfalls).
+2. **Consistency in Terminology & Standards**: Maintain exact consistency regarding venue specifications (e.g., Calbayog City Convention Center, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Lobby], Brgy. Capoocan, 500 occupants), industry terminology (MICE industry, modularity, adaptability, future-proof design), and cultural elements (Samar Basey *banig* weaving heritage, *tikog* grass, Calbayog waterfalls).
 3. **Citation & Evidence Integrity**: Ensure citations and supporting literature referenced in the rationale align with the sources established in `20_RRL.md` and `00_definitionofterms.md`.
 4. **Enforce Non-Structural Scope Boundary**: All proposals must remain strictly non-structural interior overlays (FF&E, acoustic panels, overhead track systems). Never propose alterations to load-bearing columns, exterior facades, roof trusses, or civil engineering elements.

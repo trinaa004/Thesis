@@ -3,7 +3,7 @@
 **Document Type:** Literature & Precedent Reference Guide  
 **Degree Program:** Bachelor of Science in Interior Design (BSID)  
 **Applicable Thesis Sections:** Chapter 1 (Background & Rationale), Chapter 2 (Review of Related Literature — RRL), and Thesis Panel Defense Defense Strategy  
-**Target Locale:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar — 840 sqm Interior Envelope: 711 sqm Main Hall + 129 sqm Foyer; 500-occupant capacity; renovated municipal bus terminal)
+**Target Locale:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar — 840 sqm Interior Envelope: 711 sqm Main Hall + 129 sqm Lobby; 500-occupant capacity; renovated municipal bus terminal)
 
 ---
 
@@ -30,7 +30,7 @@
   * **Methodological Precedent:** Directly justifies your dual-respondent sampling framework (evaluating both expert venue operators for logistical bottlenecks and event attendees for user comfort and circulation).
   * **Non-Structural Interior Focus:** Affirms that interior design theses on convention facilities legitimately target interior envelopes, partition flexibility, lighting, indoor environmental health, and localized material integration without altering civil/structural frames.
 * **What It Leaves Unaddressed (Your Innovation & Research Gap):**
-  * **Facility Typology & Governance Model:** Estrada focused on a large (~1,700 sqm) private, commercial mixed-entertainment venue featuring cinema movie screening halls and a commercial dining restaurant. In contrast, your thesis addresses an **840 sqm municipal public LGU civic venue** (711 sqm Main Hall + 129 sqm Foyer) that originated as an adaptive reuse of a municipal bus terminal in Calbayog City, Samar.
+  * **Facility Typology & Governance Model:** Estrada focused on a large (~1,700 sqm) private, commercial mixed-entertainment venue featuring cinema movie screening halls and a commercial dining restaurant. In contrast, your thesis addresses an **840 sqm municipal public LGU civic venue** (711 sqm Main Hall + 129 sqm Lobby) that originated as an adaptive reuse of a municipal bus terminal in Calbayog City, Samar.
   * **Standardized Spatial Modularity & High-Turnaround Logistics:** While Estrada proposed general space convertibility and lighting modes in the convention hall, the study did not ground spatial transformation in **Open Building Theory (Habraken, 1972: Support vs. Kinetic Infill)**, nor did it establish standardized anthropometric clearance typologies (Plenary, Classroom, Banquet, Exhibition) under Philippine accessibility laws (BP 344) to minimize operational setup/teardown turnaround times.
   * **Functional Cultural Acoustic Engineering:** Estrada specified raw agricultural/botanical materials (Coco Coir, Bamboo, Cogon) primarily for eco-sustainability and green finishes. Your study applies the **Theory of Place Attachment (Scannell & Gifford, 2010)** to computationally and texturally abstract indigenous Eastern Visayas weaving (*banig* / *tikog* sedge weaves: *Lara* and *Samat*) and Calbayog waterfall hydrology into **engineered acoustic wall claddings and ceiling baffles** that actively remediate reverberation and speech intelligibility.
 

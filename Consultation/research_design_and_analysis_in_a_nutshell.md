@@ -4,7 +4,7 @@
 *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 **Degree Program:** Bachelor of Science in Interior Design  
 **Research Locale:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar)  
-**Spatial Scope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Foyer / Pre-function Zone)  
+**Spatial Scope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Lobby / Pre-function Zone)  
 **Structural Scope Boundary:** Strictly non-structural interior infill overlay  
 
 ---

@@ -15,8 +15,8 @@
 
 
 #### Instructions / Mga Pamaagi:
-**English:** Please complete the general information section and rate each statement based on your professional experience in organizing, facilitating, or operating events within the Main Hall and Foyer of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
-**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall ug Foyer san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
+**English:** Please complete the general information section and rate each statement based on your professional experience in organizing, facilitating, or operating events within the Main Hall and Lobby of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
+**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall ug Lobby san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
 
 * **1** = Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
 * **2** = Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
@@ -67,8 +67,8 @@
 ### SECTION B: EXISTING SETUP TURNAROUND DELAYS & SPATIAL CHALLENGES (SPOP Q1.2) / MGA KULANG UG PROBLEMA HA PAG-PREPARAR UG AYOS
 *Evaluates setup turnaround delays, spatial zoning limitations, circulation bottlenecks, and logistical challenges encountered by planners and operators.* / *Pagtimbang san mga problema ha pag-turnaround, pag-ayos san lugar, ug trapik ha agi-an.*
 
-**B1. The current convention center hall (711 sqm Main Hall & 129 sqm Foyer) lacks spatial flexibility (such as movable room dividers and adaptable furniture layouts), making it difficult to quickly switch setups between different types of events.**  
-*Waraynon: An yana nga lugar ha convention center (711 sqm Main Hall ug 129 sqm Foyer) kay kulang ha kaabtik san lugar (sugad san nagigius nga mga partisyon ug nababalyo nga mga ayos san muebles), sanglit makure ug ma-iha an pagbalyo san ayos para ha iba-iba nga klase san okasyon.*
+**B1. The current convention center hall (711 sqm Main Hall & 129 sqm Lobby) lacks spatial flexibility (such as movable room dividers and adaptable furniture layouts), making it difficult to quickly switch setups between different types of events.**  
+*Waraynon: An yana nga lugar ha convention center (711 sqm Main Hall ug 129 sqm Lobby) kay kulang ha kaabtik san lugar (sugad san nagigius nga mga partisyon ug nababalyo nga mga ayos san muebles), sanglit makure ug ma-iha an pagbalyo san ayos para ha iba-iba nga klase san okasyon.*
 - [ ] 1 – Strongly Disagree (SD) / Pohon nga Diri Nagtutugot
 - [ ] 2 – Disagree (D) / Diri Nagtutugot
 - [ ] 3 – Neutral (N) / Tunga-tunga
@@ -294,8 +294,8 @@
 
 
 ### Instructions / Mga Pamaagi:
-**English:** Please complete the general information section and rate each statement based on your personal experience as an event attendee or visitor within the Main Hall and Foyer of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
-**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall ug Foyer san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
+**English:** Please complete the general information section and rate each statement based on your personal experience as an event attendee or visitor within the Main Hall and Lobby of the Calbayog City Convention Center. For rating items, please select one response option per statement from the 5-point Likert scale below:  
+**Waraynon:** *Alayon pag kumpleto san impormasyon ug hatagi sang grado an tagsa nga pamahayag sumala ha imo eksperyensya ha pag-organisar o pagdumala san mga okasyon ha Main Hall ug Lobby san Calbayog City Convention Center. Pumili san usa nga batun tikang ha 1 tubtob 5:*
 
 * **1** = Strongly Disagree (SD) / Very Dissatisfied (VD) | Pohon nga Diri Nagtutugot
 * **2** = Disagree (D) / Dissatisfied (D) | Diri Nagtutugot
@@ -572,9 +572,9 @@
 
 #### Module 1: Existing Operational & Setup Bottlenecks (SPOP Q1.1 & Q1.2) / MGA KULANG UG PROBLEMA HA LUGAR
 1. **What are the biggest space and layout challenges you face when setting up and packing down events in the convention center?**  
-   - *Interviewer Probe: (e.g., cramped foyer during ingress, narrow doors, crowded hallways, lack of furniture staging area)*  
+   - *Interviewer Probe: (e.g., cramped lobby during ingress, narrow doors, crowded hallways, lack of furniture staging area)*  
    *Waraynon: Ano an mga pinaka-dako nga problema ha lugar nga iyo naieksperyensyahan samtang nag-aandam o naghihipos san okasyon ha convention center?*  
-   - *Dugang nga Pakiana / Probe: (sugad san masikip nga agi-an, gutok nga foyer, o kakulangan san kabutangan san mga kagamitan)*
+   - *Dugang nga Pakiana / Probe: (sugad san masikip nga agi-an, gutok nga lobby, o kakulangan san kabutangan san mga kagamitan)*
 
 2. **On average, how many hours does it take your team to set up the hall, and what causes the longest delays?**  
    - *Interviewer Probe: (e.g., hauling heavy tables, configuring the stage from scratch, taping power cables across the floor)*  
@@ -634,7 +634,7 @@
 
 # PART 5: ARCHITECTURAL ON-SITE SPATIAL & EVENT LIFECYCLE OBSERVATION PROTOCOL
 
-**Locale**: Calbayog City Convention Center — 840 sqm Interior Envelope (711 sqm Main Hall + 129 sqm Foyer).  
+**Locale**: Calbayog City Convention Center — 840 sqm Interior Envelope (711 sqm Main Hall + 129 sqm Lobby).  
 **Objective**: To record baseline architectural dimensions, physical envelope clearances, and real-time operational workflows during vacant hall audits and live event lifecycle phases (Ingress, In-Session, and Egress across contrasting event typologies).  
 
 ---
@@ -645,7 +645,7 @@
 | :--- | :--- | :--- |
 | **1. Physical Envelope & Spatial Boundaries** | • Clear floor-to-ceiling height.<br>• Column grid locations & structural clearances.<br>• Entrance, exit, and emergency egress door clear widths. | |
 | **2. FF&E Inventory & Loading Staging Logistics** | • Loading entrance/egress door clear widths & vehicle access.<br>• Outsourced FF&E unloading, staging, and floor distribution paths. | |
-| **3. Pedestrian & Service Circulation** | • Main entrance foyer to hall circulation flow.<br>• Primary central aisle width vs cross-aisle width.<br>• Back-of-house catering service lanes to banquet tables. | |
+| **3. Pedestrian & Service Circulation** | • Main entrance lobby to hall circulation flow.<br>• Primary central aisle width vs cross-aisle width.<br>• Back-of-house catering service lanes to banquet tables. | |
 | **4. Overhead Ceiling Plane & Utility Infrastructure** | • Existing ceiling grid height & material finishes.<br>• Rigging points, truss hooks, lighting track availability.<br>• Exposed ductwork, piping, or cable clutter visibility. | |
 | **5. Acoustic & Visual Environmental Quality** | • Perceived speech intelligibility and audible reverberation off ceramic tile flooring and glass perimeters.<br>• Physical condition, fabric wear, dust accumulation, and cleanliness of old existing perimeter drapery.<br>• Physical condition, sagging, and surface wear of existing fabric ceiling baffles.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
 | **6. Cultural & Natural Heritage Interior Presence** | • Existing wall, floor, or ceiling decorative finishes.<br>• Presence or absence of regional Samar cultural motifs (weaving/crafts) or Calbayog natural heritage features (waterfall/hydrological references).<br>• Material durability, wear-and-tear, and surface condition. | |
@@ -659,8 +659,8 @@
 | :--- | :--- | :--- |
 | **Event Profile & Typology** | • Event Typology observed (Plenary / Banquet / Exhibition / Multi-Use).<br>• Estimated total attendee count and seating layout format.<br>• Time-in / Time-out duration of the entire booking. | |
 | **1. Ingress Phase (Load-In & Setup Logistics)** | • Unloading vehicle access and staging bottlenecks at the loading door.<br>• Furniture hauling paths and floor distribution speed.<br>• Crew method for hanging banners, drapes, or stage lighting (ladder/scaffolding use).<br>• Floor cabling, tape-down hazards, and power outlet reach.<br>• Total setup turnaround time from empty hall to event readiness. | |
-| **2. In-Session Phase (Active Event Operations)** | • Foyer queue buildup, registration desk flow, and foyer-to-hall transition.<br>• Attendee circulation ease along main aisles and cross-aisles.<br>• Waiter/staff tray clearance and service lane mobility during food/refreshment service.<br>• Sightline clarity from rear and corner seats to stage and presentation screens.<br>• Audible speech intelligibility, room echo, and background noise during presentations.<br>• Ambient lighting transitions and perceived room temperature/ventilation comfort. | |
-| **3. Egress Phase (Teardown & Turnover Logistics)** | • Attendee exiting flow, exit door clearance, and foyer dispersal bottlenecks.<br>• Furniture disassembly, chair stacking, and table breakdown procedures.<br>• Crew loading paths back to transport trucks and loading door congestion.<br>• Post-event cleaning, floor sweep, and waste removal turnaround duration.<br>• Total teardown time required to return the hall to vacant turnover status. | |
+| **2. In-Session Phase (Active Event Operations)** | • Lobby queue buildup, registration desk flow, and lobby-to-hall transition.<br>• Attendee circulation ease along main aisles and cross-aisles.<br>• Waiter/staff tray clearance and service lane mobility during food/refreshment service.<br>• Sightline clarity from rear and corner seats to stage and presentation screens.<br>• Audible speech intelligibility, room echo, and background noise during presentations.<br>• Ambient lighting transitions and perceived room temperature/ventilation comfort. | |
+| **3. Egress Phase (Teardown & Turnover Logistics)** | • Attendee exiting flow, exit door clearance, and lobby dispersal bottlenecks.<br>• Furniture disassembly, chair stacking, and table breakdown procedures.<br>• Crew loading paths back to transport trucks and loading door congestion.<br>• Post-event cleaning, floor sweep, and waste removal turnaround duration.<br>• Total teardown time required to return the hall to vacant turnover status. | |
 
 ---
 

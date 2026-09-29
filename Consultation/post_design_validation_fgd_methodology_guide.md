@@ -4,7 +4,7 @@
 **Document Type:** Research Consultation Draft & Operational Methodology Guide  
 **Degree Program:** Bachelor of Science in Interior Design (BSID)  
 **Target Facility:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar)  
-**Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Foyer / Pre-function Zone)  
+**Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Lobby / Pre-function Zone)  
 **Deliverable Being Validated:** Interior Design Framework, 4 Standardized Modular Layout Typologies (2D CADD Plans), 3D Perspective Digital Models/Renderings, Acoustic Material Specifications, and Overhead Rigging Grid Schematics.
 
 ---
@@ -95,7 +95,7 @@ To prevent both pitfalls, the validation FGD must follow a **structured, evidenc
 
 1. **Strict Non-Structural Scope Boundary Anchor:**
    - At the opening minute of the session, the boundary slide is projected:
-     > *"Scope Reminder: This study addresses the interior envelope of the 840 sqm Main Hall and Foyer. We are evaluating interior layout typologies, furniture reconfigurability, acoustic surface claddings, and overhead track adaptability. Matters regarding exterior civil engineering, roof truss replacements, outdoor parking, or municipal catering operations are strictly outside our design scope."*
+     > *"Scope Reminder: This study addresses the interior envelope of the 840 sqm Main Hall and Lobby. We are evaluating interior layout typologies, furniture reconfigurability, acoustic surface claddings, and overhead track adaptability. Matters regarding exterior civil engineering, roof truss replacements, outdoor parking, or municipal catering operations are strictly outside our design scope."*
    - Any participant straying into outside topics is immediately and gently redirected back to the interior modules.
 
 2. **Side-by-Side Dual Stimulus Presentation (2D Plans + 3D Renderings):**
@@ -169,7 +169,7 @@ The focus group intentionally integrates balanced representation across operatio
 | :--- | :---: | :--- | :--- |
 | **Professional Event Planners & Production Coordinators** | **$3 \text{ to } 4$** | Phase 1 Expert Survey / Qualitative Key Informants | Evaluates layout turnaround feasibility, furniture stacking/mobility, overhead rigging practicality, and setup bottlenecks across Plenary, Classroom, Banquet, and Exhibition configurations. |
 | **Venue Facility Operations & Administrative Personnel** | **$1 \text{ to } 2$** | Calbayog Convention Center Management / Operations Staff | Evaluates back-of-house circulation, maintenance durability of proposed materials, egress safety, and daily operational manageability. |
-| **General Public Event Attendees / Civic Representatives** | **$2 \text{ to } 3$** | Phase 1 Attendee Survey Pool | Evaluates attendee seating comfort, sightline clarity to stage/screens, acoustic speech intelligibility, and foyer pre-function circulation. |
+| **General Public Event Attendees / Civic Representatives** | **$2 \text{ to } 3$** | Phase 1 Attendee Survey Pool | Evaluates attendee seating comfort, sightline clarity to stage/screens, acoustic speech intelligibility, and lobby pre-function circulation. |
 | **Samar Cultural / Artisan Stakeholder** | **$1$** | Local Cultural / Heritage Key Informant | Evaluates the cultural authenticity, appropriateness, and respectful abstraction of Basey *banig* weaving motifs, *tikog* grass textures, and Calbayog waterfall iconography. |
 | **Total FGD Sample** | **$n = 6 \text{ to } 10$** | **Nested Sub-sample from Phase 1** | **Comprehensive Multi-Perspective Operational Validation** |
 
@@ -197,7 +197,7 @@ The validation instrument is a dual-part protocol consisting of:
 | **2. Anthropometrics, Circulation, & Universal Accessibility** | | | | | | |
 | 2.1 Egress paths, main aisles (1200 mm), and wait-staff service corridors (1620–1800 mm) provide sufficient width to prevent pedestrian congestion. | | | | | | |
 | 2.2 Dedicated barrier-free seating stalls and continuous wheelchair paths fully satisfy accessibility requirements (BP 344). | | | | | | |
-| 2.3 The 129 sqm Foyer layout provides intuitive registration circulation and prevents bottlenecking into the Main Hall. | | | | | | |
+| 2.3 The 129 sqm Lobby layout provides intuitive registration circulation and prevents bottlenecking into the Main Hall. | | | | | | |
 | **3. Acoustic Performance & Surface Finishes** | | | | | | |
 | 3.1 The distribution of perimeter wall acoustic panels and suspended ceiling baffles provides adequate coverage to control flutter echoes and noise. | | | | | | |
 | 3.2 The proposed materials (*tikog* grass acoustic panels, commercial-grade fabrics) appear durable and feasible for public municipal maintenance. | | | | | | |
@@ -314,7 +314,7 @@ The findings directly populate a Chapter 4/5 closing matrix proving how stakehol
 | :--- | :--- | :--- | :--- |
 | *Event Planners* | Wait-staff service lane in Banquet layout felt tight near buffet tables. | Increased service corridor clearance from 1620 mm to 1800 mm. | Updated Sheet ID-103 (Banquet CADD Plan) with widened 1.8m service lanes. |
 | *Venue Operations* | Tikog grass texture at lower wall levels might suffer impact from chair backs. | Integrated a durable 900 mm solid wood wainscot bumper before tikog acoustic cladding. | Modified Wall Section Detail Sheet ID-401 showing protective wainscot datum. |
-| *Attendees / Public* | Requested clear visual signage from foyer into plenary hall. | Added bilingual (English/Waray) woven-pattern wayfinding panel at foyer entrance. | Incorporated entrance portal wayfinding detail on Sheet ID-202. |
+| *Attendees / Public* | Requested clear visual signage from lobby into plenary hall. | Added bilingual (English/Waray) woven-pattern wayfinding panel at lobby entrance. | Incorporated entrance portal wayfinding detail on Sheet ID-202. |
 
 ---
 

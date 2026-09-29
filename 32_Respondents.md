@@ -12,7 +12,7 @@ The second respondent group comprises general community members, local residents
 
 To guarantee data validity and operational relevance, all participants recruited for this study must satisfy explicit inclusion criteria. Specifically, respondents must:
 1. Be at least 18 years of age at the time of data collection.
-2. Have organized, managed, facilitated, or attended at least one event inside the Calbayog City Convention Center (Main Hall or Foyer) within the past five years.
+2. Have organized, managed, facilitated, or attended at least one event inside the Calbayog City Convention Center (Main Hall or Lobby) within the past five years.
 3. Possess familiarity with the venue's interior space or the regional cultural context of Samar.
 
 ### Inclusivity and Physical Accessibility Accommodations
@@ -41,7 +41,7 @@ The validation FGD utilizes a **purposive nested sub-sample of $n = 7 \text{ to 
 
 1. **Professional Event Planners and Production Coordinators ($n = 3 \text{ to } 4$):** Recruited from the Phase 1 expert pool to critically evaluate layout turnaround feasibility, furniture stacking/mobility, overhead rigging practicality, and setup bottlenecks across Plenary, Classroom, Banquet, and Exhibition configurations.
 2. **Venue Facility Operations and Administrative Personnel ($n = 1 \text{ to } 2$):** Recruited from Calbayog Convention Center management/staff to evaluate back-of-house circulation, maintenance durability of proposed materials, egress safety, and daily operational manageability.
-3. **General Public Event Attendees and Civic Representatives ($n = 2 \text{ to } 3$):** Recruited from the Phase 1 attendee pool to evaluate attendee seating comfort, sightline clarity to stage/screens, acoustic speech intelligibility, and foyer pre-function circulation.
+3. **General Public Event Attendees and Civic Representatives ($n = 2 \text{ to } 3$):** Recruited from the Phase 1 attendee pool to evaluate attendee seating comfort, sightline clarity to stage/screens, acoustic speech intelligibility, and lobby pre-function circulation.
 4. **Local Samar Cultural and Artisan Stakeholder ($n = 1$):** Recruited from the regional cultural informant pool to evaluate the cultural authenticity, appropriateness, and respectful abstraction of Basey *banig* weaving motifs, *tikog* grass textures, and Calbayog waterfall iconography.
 
 ---

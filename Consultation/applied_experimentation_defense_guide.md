@@ -3,7 +3,7 @@
 **Document Purpose:** Curriculum Classification & Panel Defense Reference Guide  
 **Degree Program:** Bachelor of Science in Interior Design (BSID)  
 **Target Venue:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar)  
-**Spatial Envelope:** 840 square meters (711 sqm Main Hall + 129 sqm Foyer; 500 max capacity; adaptive reuse of former municipal bus terminal)  
+**Spatial Envelope:** 840 square meters (711 sqm Main Hall + 129 sqm Lobby; 500 max capacity; adaptive reuse of former municipal bus terminal)  
 **Scope Boundary:** Strictly non-structural interior overlay (modular layouts, kinetic partitions, overhead track grid, acoustic surface claddings)
 
 ---
@@ -20,7 +20,7 @@ Your study fulfills every scientific and operational requirement of an **Applied
 
 | Scientific Element of an Experiment | Traditional Laboratory Experiment | Your Thesis: Calbayog City Convention Center |
 | :--- | :--- | :--- |
-| **Experimental Testbed (Setting)** | Sterile, controlled laboratory room | The real-world **840 sqm interior envelope** (711 sqm Main Hall + 129 sqm Foyer) of the Calbayog City Convention Center. |
+| **Experimental Testbed (Setting)** | Sterile, controlled laboratory room | The real-world **840 sqm interior envelope** (711 sqm Main Hall + 129 sqm Lobby) of the Calbayog City Convention Center. |
 | **Baseline / Pre-Test (Control State)** | Untreated subject / status quo measurement | **Phase 1 Diagnostic Baseline:** Documented rigid envelope, long setup/teardown turnaround times, acoustic flutter echo, spatial bottlenecks, and generic aesthetic lacking civic identity. |
 | **Experimental Treatment (Independent Variable - IV)** | Chemical agent, drug dose, or physical stimulus | **Phase 2 Interior Design Framework:** Four modular layout typologies, kinetic space dividers, overhead rigging grid, and Samar *banig* / waterfall acoustic surface assemblies. |
 | **Measured Outcomes (Dependent Variables - DV)** | Physiological response or chemical rate | **Phase 3 Evaluative Verification:** Turnaround time reduction, anthropometric clearance compliance (BP 344 / PD 1096), acoustic absorption ($RT_{60}$ mitigation), and user satisfaction. |
@@ -33,7 +33,7 @@ Your study fulfills every scientific and operational requirement of an **Applied
 ### A. The Setting: Applied Spatial Testbed
 The investigation is not a hypothetical site study. It is situated within an actual, historically constrained local government facility:
 * **Locale:** Calbayog City Convention Center, Brgy. Capoocan, Calbayog City, Samar.
-* **Envelope Dimensions:** 840 square meters total (711 sqm Main Convention Hall + 129 sqm Foyer / Pre-function zone).
+* **Envelope Dimensions:** 840 square meters total (711 sqm Main Convention Hall + 129 sqm Lobby / Pre-function zone).
 * **Physical Origin:** Renovated on December 14, 2009 from a municipal bus terminal.
 * **Maximum Assembly Load:** 500 occupants.
 
@@ -120,7 +120,7 @@ Use these exact talking points during your defense or consultation:
 ### Question 3: "What are your controlled variables?"
 > **Verbatim Speaking Script:**  
 > *"To ensure scientific rigor, several critical parameters are held strictly constant:
-> 1. **The Physical Envelope:** Fixed at 840 square meters (711 sqm Main Hall and 129 sqm Foyer), bounded by the existing structural perimeter of the former bus terminal.
+> 1. **The Physical Envelope:** Fixed at 840 square meters (711 sqm Main Hall and 129 sqm Lobby), bounded by the existing structural perimeter of the former bus terminal.
 > 2. **Structural Boundary:** Strictly non-structural. No load-bearing columns, exterior walls, or roof trusses are altered.
 > 3. **Maximum Assembly Load:** Capped at 500 occupants.
 > 4. **Regulatory Standard:** Clearance thresholds are held strictly to Batas Pambansa Bilang 344 (1200 mm corridors, 1500 mm turning bays) and PD 1096 Table XII.1.
@@ -137,7 +137,7 @@ Use these exact talking points during your defense or consultation:
 ├───────────────────────┬────────────────────────────────────────────────────────────────┤
 │ Research Classification│ Applied Experimentation / Quasi-Experimental Design Research  │
 │ Methodological Source │ Groat & Wang (2013); Zeisel (2006); Tremblay et al. (2010)     │
-│ Physical Testbed      │ 840 sqm Envelope (711 sqm Main Hall + 129 sqm Foyer), Calbayog │
+│ Physical Testbed      │ 840 sqm Envelope (711 sqm Main Hall + 129 sqm Lobby), Calbayog │
 │ Baseline (Pre-Test)   │ Phase 1: Operational turnaround logs, IEQ surveys, audits      │
 │ Independent Variables │ 4 Modular Layouts (Plenary, Classroom, Banquet, Exhibition),   │
 │                       │ Kinetic dividers, Overhead track, Banig/Waterfall acoustic panels│

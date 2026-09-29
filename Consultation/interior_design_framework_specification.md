@@ -3,7 +3,7 @@
 **Official Thesis Working Title:**  
 *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
 **Degree Program:** Bachelor of Science in Interior Design  
-**Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Foyer / Pre-function Area)  
+**Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Lobby / Pre-function Area)  
 **Location:** Brgy. Capoocan, Calbayog City, Samar, Philippines  
 **Structural Scope Boundary:** Strictly non-structural interior infill overlay (Zero alterations to columns, facades, trusses, or exterior envelope)
 
@@ -11,7 +11,7 @@
 
 ## 1. The Master Anchor Definition
 
-> *"A systematic, site-specific operational guide and layout manual comprising pre-calculated modular FF&E floor typologies (Plenary, Classroom, Banquet, Exhibition), anthropometric clearance standards, non-structural cultural and natural heritage acoustic surface treatments, and overhead ceiling track interfaces designed to guide the rapid spatial reconfiguration and modernization of the 840 sqm Main Hall and Foyer of the Calbayog City Convention Center without structural alteration."*
+> *"A systematic, site-specific operational guide and layout manual comprising pre-calculated modular FF&E floor typologies (Plenary, Classroom, Banquet, Exhibition), anthropometric clearance standards, non-structural cultural and natural heritage acoustic surface treatments, and overhead ceiling track interfaces designed to guide the rapid spatial reconfiguration and modernization of the 840 sqm Main Hall and Lobby of the Calbayog City Convention Center without structural alteration."*
 
 ---
 
@@ -34,7 +34,7 @@ Modular Floor Layouts      Anthropometric Clearances    Acoustic Surface Overlay
 ---
 
 ### Module 1: Pre-Calculated Modular Layout Typologies (Floor Plan Manual)
-*Standardized spatial configurations tailored specifically to the 711 sqm Main Hall and 129 sqm Foyer, providing ready-to-execute floor plans that eliminate on-site spatial confusion.*
+*Standardized spatial configurations tailored specifically to the 711 sqm Main Hall and 129 sqm Lobby, providing ready-to-execute floor plans that eliminate on-site spatial confusion.*
 
 1. **Plenary / Theater Typology (High-Density Assembly — Up to 500 Occupants):**
    - *Seating Pitch:* Minimum 840 mm to 900 mm back-to-back row spacing.
@@ -57,11 +57,11 @@ Modular Floor Layouts      Anthropometric Clearances    Acoustic Surface Overlay
    - *Circulation Arteries:* 1500 mm secondary passing corridors; 2400 mm main central avenue accommodating heavy two-way crowd movement.
    - *Travel Distances:* Direct, unobstructed egress routes keeping travel to perimeter exit doors strictly under 45 meters (RA 9514).
 
-5. **Foyer / Pre-Function Sub-System (129 sqm):**
+5. **Lobby / Pre-Function Sub-System (129 sqm):**
    - Dedicated registration and reception counter module with queuing stanchion paths.
    - Pre-function socializing/cocktail standing nodes ($0.28\text{ m}^2\text{/person}$ waiting allowance).
    - Universal PWD step-free staging zone directly connecting to the Main Hall portals.
-   - **Interior Ingress/Egress Cargo Staging Buffer (1800–2400 mm):** A dedicated, unobstructed maneuvering corridor directly inside the main entrance to absorb equipment load-in/load-out without blocking foyer circulation.
+   - **Interior Ingress/Egress Cargo Staging Buffer (1800–2400 mm):** A dedicated, unobstructed maneuvering corridor directly inside the main entrance to absorb equipment load-in/load-out without blocking lobby circulation.
    - **Interior Surface Impact Protection:** High-durability wall base and corner guards to protect perimeter interior finishes from cart and dolly collisions during event setup/teardown.
 
 ---
@@ -80,7 +80,7 @@ Modular Floor Layouts      Anthropometric Clearances    Acoustic Surface Overlay
   - *Assembly Row Pitch & Passage:* Exactly **$900\text{ mm}$** row spacing back-to-back, maintaining an unobstructed **$305\text{ mm}$** clear lateral passage lane per NBCP Section 1207(t) when chairs are occupied.
   - *Egress Corridors & Perimeter Setbacks:* Minimum **$1200\text{ mm}$** clear buffer from all perimeter walls and primary exit doors, guaranteeing that furniture placement never encroaches upon required fire exit paths (RA 9514).
 - **The "First-Time Accuracy" Protocol:**
-  - By providing exact, dimensioned spatial offsets (e.g., *"Plenary Row 1 begins exactly 3.50 meters from the stage front; central aisle is centered on the foyer double doors"*), the crew sets up furniture accurately on the very first pass.
+  - By providing exact, dimensioned spatial offsets (e.g., *"Plenary Row 1 begins exactly 3.50 meters from the stage front; central aisle is centered on the lobby double doors"*), the crew sets up furniture accurately on the very first pass.
   - Eliminates the 3 to 4 hours typically wasted on eyeballing, discovering that tables block exits, dragging furniture across the hall, and re-spacing rows.
 
 ---
@@ -121,7 +121,7 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 
 | Deliverable Component | Format & Contents | Primary End-User |
 | :--- | :--- | :--- |
-| **1. 3D Digital Model & Spatial Perspective Renders** | Developed in **SketchUp & Enscape**: High-fidelity 3D views showing the Acoustic Envelope (Basey *banig* panels, waterfall baffles), Overhead Utility Grid (track lighting 300–500 lux, AV drops), 4 Layout Typologies, and the Foyer Ingress Staging Buffer. | Thesis Panel, LGU Officials, Event Planners |
+| **1. 3D Digital Model & Spatial Perspective Renders** | Developed in **SketchUp & Enscape**: High-fidelity 3D views showing the Acoustic Envelope (Basey *banig* panels, waterfall baffles), Overhead Utility Grid (track lighting 300–500 lux, AV drops), 4 Layout Typologies, and the Lobby Ingress Staging Buffer. | Thesis Panel, LGU Officials, Event Planners |
 | **2. Dimensioned Floor Plan Manual** | Scaled 2D CADD layout sheets for all 4 typologies (Plenary, Classroom, Banquet, Exhibition) with detailed aisle dimensions, seat counts, and PWD stalls. | Venue Operators, Event Planners, LGU Utility Crew |
 | **3. Dimensional Standards & Clearance Sheet** | Reference card detailing standard furniture dimensions, chair push-back clearances, service lanes, and wall setbacks to eliminate trial-and-error measurement. | Facility Maintenance Staff, Setup Supervisors |
 | **4. Room Conversion Operational Matrix** | Step-by-step layout transition sequence diagrams and crew timelines (e.g., Transition A: Plenary to Banquet workflow). | Event Changeover Teams, Venue Coordinators |
@@ -138,7 +138,7 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 | :--- | :--- | :--- |
 | **NBCP (PD 1096) Table XII.1** | $0.65\text{ m}^2/\text{pax}$ (Concentrated Assembly); $1.40\text{ m}^2/\text{pax}$ (Less concentrated); $1.80\text{ m}^2/\text{pax}$ (Classroom); $2.80\text{ m}^2/\text{pax}$ (Exhibition/Stores). | Pre-calculates exact maximum occupant limits per typology to prevent hazardous overcrowding. |
 | **NBCP (PD 1096) Sec. 1207(t)** | Aisle widths $\ge 800\text{ mm}$ (single side), $1000\text{–}1200\text{ mm}$ (double side); Row pitch $\ge 840\text{ mm}$ (standardized to $900\text{ mm}$). | Establishes mandatory minimum aisle passages between seating banks. |
-| **BP 344 (Accessibility Law)** | Clear path $\ge 1200\text{ mm}$; Turning node $1500 \times 1500\text{ mm}$; Wheelchair stall $760 \times 1220\text{ mm}$; Ramp slope $\le 1:12$. | Guarantees barrier-free navigation from Foyer through Main Hall and up to the modular stage. |
+| **BP 344 (Accessibility Law)** | Clear path $\ge 1200\text{ mm}$; Turning node $1500 \times 1500\text{ mm}$; Wheelchair stall $760 \times 1220\text{ mm}$; Ramp slope $\le 1:12$. | Guarantees barrier-free navigation from Lobby through Main Hall and up to the modular stage. |
 | **Fire Code (RA 9514)** | Max exit travel distance $\le 45\text{ m}$ (unsprinklered); Outward-swinging doors with panic hardware for assembly $>50$. | All four layout typologies maintain direct, unobstructed egress avenues strictly under 45 meters. |
 | **DOT PAS (MC 2023-0003) & ASEAN MICE Standard** | Unobstructed sightlines; clear ceiling height; 300–500 lux task lighting; acoustic reverberation control. | Ceiling tracks provide 300–500 lux; acoustic wall/ceiling baffles control ambient reverberation. |
 
