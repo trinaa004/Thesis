@@ -323,7 +323,7 @@
    - [ ] Conferences / Conventions / Educational Seminars
    - [ ] Trade Fairs / Commercial Exhibitions
    - [ ] Social Galas / Wedding Banquets / Celebrations 
-   - [ ] Cultural Performances / Civic Assemblies 
+   - [ ] Cultural Performances / Civic Assemblies / Award Ceremonies 
    - [ ] Community Townhalls / Municipal Summits 
 
 4. **Optional Follow-Up Contact Opt-In / Pag-basa o Pag-entra ha Contact List**:
@@ -629,12 +629,16 @@
     *Waraynon: Sumala ha imo eksperyensya, ano nga mga lig-on ug masayon-limpyohan nga materyales an kinahanglan san hall para magpabilin nga maopay bisan agsub gamiton?*  
     - *Dugang nga Pakiana / Probe: (ano nga parte san hall an masayon mabagras o mabulingan? ano an pinaka-makuri limpyohan pagkatapos san okasyon)*
 
+12. **In your experience, what makes organizers choose—or avoid—the Convention Center for cultural events, art exhibits, or community gatherings instead of venues like the Handumanan Museum or the Sports Center?**  
+    - *Interviewer Probe: (e.g., room size, missing display boards or stage lighting, sound quality, or rental rates)*  
+    *Waraynon: Ha imo eksperyensya, kay-ano nga ginpipili (o diri ginpipili) an Convention Center para ha mga cultural events, art exhibits, o mga pagtitirok kompara ha Handumanan Museum o Sports Center?*  
+    - *Dugang nga Pakiana / Probe: (sugad san kadako san lugar, kulang nga display boards, suga, sound system, o bayad ha abang)*  
 
 ---
 
 # PART 5: ARCHITECTURAL ON-SITE SPATIAL & EVENT LIFECYCLE OBSERVATION PROTOCOL
 
-**Locale**: Calbayog City Convention Center — 840 sqm Interior Envelope (711 sqm Main Hall + 129 sqm Lobby).  
+**Locale**: Calbayog Cultural Convention Center (locally referenced as the Calbayog City Convention Center) — 840 sqm Interior Envelope (711 sqm Main Hall + 129 sqm Lobby).  
 **Objective**: To record baseline architectural dimensions, physical envelope clearances, and real-time operational workflows during vacant hall audits and live event lifecycle phases (Ingress, In-Session, and Egress across contrasting event typologies).  
 
 ---
@@ -647,7 +651,7 @@
 | **2. FF&E Inventory & Loading Staging Logistics** | • Loading entrance/egress door clear widths & vehicle access.<br>• Outsourced FF&E unloading, staging, and floor distribution paths. | |
 | **3. Pedestrian & Service Circulation** | • Main entrance lobby to hall circulation flow.<br>• Primary central aisle width vs cross-aisle width.<br>• Back-of-house catering service lanes to banquet tables. | |
 | **4. Overhead Ceiling Plane & Utility Infrastructure** | • Existing ceiling grid height & material finishes.<br>• Rigging points, truss hooks, lighting track availability.<br>• Exposed ductwork, piping, or cable clutter visibility. | |
-| **5. Acoustic & Visual Environmental Quality** | • Perceived speech intelligibility and audible reverberation off ceramic tile flooring and glass perimeters.<br>• Physical condition, fabric wear, dust accumulation, and cleanliness of old existing perimeter drapery.<br>• Physical condition, sagging, and surface wear of existing fabric ceiling baffles.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
+| **5. Acoustic & Visual Environmental Quality** | • Perceived speech intelligibility and audible reverberation off ceramic tile flooring and glass perimeters.<br>• Physical condition, fabric wear, dust accumulation, and cleanliness of old existing perimeter drapery.<br>• Overhead ceiling condition and bare structural truss clearance, documenting the absence of acoustic ceiling treatment following the removal of previous fabric baffles.<br>• Ambient natural lighting vs artificial fixture coverage.<br>• Visual sightline obstructions from rear seating positions. | |
 | **6. Cultural & Natural Heritage Interior Presence** | • Existing wall, floor, or ceiling decorative finishes.<br>• Presence or absence of regional Samar cultural motifs (weaving/crafts) or Calbayog natural heritage features (waterfall/hydrological references).<br>• Material durability, wear-and-tear, and surface condition. | |
 
 ---

@@ -1,9 +1,9 @@
-# THESIS IN A NUTSHELL: CALBAYOG CITY CONVENTION CENTER
+# THESIS IN A NUTSHELL: CALBAYOG CULTURAL CONVENTION CENTER
 
 > **Official Working Title:**  
-> *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
+> *An Interior Design Framework for the Calbayog Cultural Convention Center: Harmonizing Spatial Modularity, Samar-Calbayog Cultural Heritage, and Future-Proof Event Adaptability*  
 > **Degree Program:** Bachelor of Science in Interior Design (BSID)  
-> **Venue & Locale:** Calbayog City Convention Center (Brgy. Capoocan, Calbayog City, Samar)  
+> **Venue & Locale:** Calbayog Cultural Convention Center (locally referenced as the Calbayog City Convention Center, Brgy. Capoocan, Calbayog City, Samar)  
 > **Spatial Envelope:** **840 sq.m.** (*711 sq.m.* Main Convention Hall + *129 sq.m.* Lobby) | **Capacity:** Up to 500 occupants  
 
 ---

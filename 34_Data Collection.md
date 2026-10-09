@@ -21,7 +21,7 @@ Semi-structured interviews with key informants will be scheduled at mutually agr
 
 ### Phase 5: On-Site Spatial and Event Lifecycle Observations
 Non-participatory field observations and spatial envelope mapping of the 840 square meter interior envelope (711 sqm Main Hall & 129 sqm Lobby) will be conducted across two complementary settings:
-1. **Non-Event Periods (Vacant Hall Audits):** Dedicated to architectural envelope verification, documenting column clearances, ceiling heights, door clear openings, photographing material wear on drapery and baffles, and recording baseline physical metrics.
+1. **Non-Event Periods (Vacant Hall Audits):** Dedicated to architectural envelope verification, documenting column clearances, ceiling heights, door clear openings, photographing material wear on drapery, documenting the unbaffled ceiling structure, and recording baseline physical metrics.
 2. **Live Event Lifecycle Shadowing:** Conducted during scheduled live events across contrasting typologies (e.g., plenary assemblies, banquets, and commercial exhibitions) to observe operational dynamics across three distinct event phases:
    * **Ingress (Load-In & Setup Phase):** Tracking setup turnaround duration, outsourced FF&E delivery and unloading paths, ladder/scaffolding usage, floor cabling hazards, and spatial pinch points during hall preparation.
    * **In-Session (Active Event Execution Phase):** Observing attendee lobby registration flow, crowd movement along main and cross-aisles, waiter tray passage during banquets, visual sightlines to stage/screens, and perceived acoustic clarity and thermal comfort under live occupant loads.

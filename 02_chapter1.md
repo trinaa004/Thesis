@@ -1,30 +1,30 @@
  Chapter 1: Research Framework
 
 ## Statement of the Problem
-This study aims to formulate a site-specific interior design framework for the Calbayog City Convention Center that harmonizes spatial modularity, local Samar heritage, and future-proof adaptability. 
+This study aims to formulate a site-specific interior design framework for the **Calbayog Cultural Convention Center** that harmonizes spatial modularity, Samar & Calbayog cultural heritage, and future-proof adaptability. 
 
 Specifically, the study addresses the following research questions:
 
-1. What is the current baseline condition of the Calbayog City Convention Center's Main Hall & Lobby in terms of indoor environmental quality (IEQ) and spatial usage efficiency?
+1. What is the current baseline condition of the Calbayog Cultural Convention Center's Main Hall & Lobby in terms of indoor environmental quality (IEQ) and spatial usage efficiency?
    1.1. What is the level of attendee satisfaction regarding existing interior lighting, acoustics, and thermal comfort?
    1.2. What setup turnaround delays and spatial layout challenges do event planners and venue operators encounter within the 840 sqm interior envelope?
-2. How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary, Classroom, Banquet, Exhibition) be formulated to maximize spatial capacity, configuration speed, and universal accessibility?
-3. How can the interior environment of the Calbayog City Convention Center be designed to balance long-term operational resilience with local identity?
+2. How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary/Theatrical, Classroom, Banquet, Exhibition/Gallery) be formulated to maximize spatial capacity, configuration speed, and universal accessibility?
+3. How can the interior environment of the Calbayog Cultural Convention Center be designed to balance long-term operational resilience with local identity?
    3.1. What interior material specifications, acoustic overlays, and overhead ceiling track systems can future-proof the facility for multi-scale event adaptability?
-   3.2. In what ways can localized Samar heritage and Calbayog natural motifs be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
+   3.2. In what ways can localized Samar heritage (Basey *banig* weaving patterns, *tikog* grass textures) and Calbayog municipal identity (waterfall fluid forms, Hadang festival cultural movements) be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
 
 ---
 
 ## Research Objectives
-This study aims to develop a site-specific interior design framework consisting of modular interior typologies and layout standards that adapt to the diverse event demands of the Calbayog City Convention Center, integrating modular, culturally-responsive, and future-proof design principles to enhance spatial efficiency, user experience, and long-term functionality for both event planners and users of the space. Specifically, it seeks to:
+This study aims to develop a site-specific interior design framework consisting of modular interior typologies and layout standards that adapt to the diverse event demands of the Calbayog Cultural Convention Center, integrating modular, culturally-responsive, and future-proof design principles to enhance spatial efficiency, user experience, and long-term functionality for both event planners and users of the space. Specifically, it seeks to:
 
-1. To evaluate the baseline indoor environmental quality (IEQ) and spatial operational conditions of the Calbayog City Convention Center's Main Hall & Lobby.
+1. To evaluate the baseline indoor environmental quality (IEQ) and spatial operational conditions of the Calbayog Cultural Convention Center's Main Hall & Lobby.
    1.1. Measure attendee satisfaction with the existing interior lighting, acoustic performance, and thermal comfort.
    1.2. Identify physical layout bottlenecks and setup turnaround delays experienced by event planners and venue operators during live operations.
-2. To formulate standardized modular layout typologies (Plenary, Classroom, Banquet, Exhibition) and reconfigurable FF&E arrangements that optimize spatial capacity, accelerate turnaround speed, and ensure universal accessibility.
+2. To formulate standardized modular layout typologies (Plenary/Theatrical, Classroom, Banquet, Exhibition/Gallery) and reconfigurable FF&E arrangements that optimize spatial capacity, accelerate turnaround speed, and ensure universal accessibility.
 3. To establish an interior design framework that balances long-term operational resilience with local identity.
    3.1. To propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
-   3.2. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, and Calbayog waterfall fluid forms—to establish a localized civic identity and place attachment.
+   3.2. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, Calbayog waterfall fluid forms, and Hadang festival movements—to establish a localized civic identity and place attachment.
 
 ---
 
@@ -32,19 +32,19 @@ This study aims to develop a site-specific interior design framework consisting 
 The results of the study will benefit the following:
 
 * **Event Planners and Venue Operators:** This study provides a concrete, logistical toolkit by offering pre-calculated layout standards and modular spatial typologies. This directly minimizes event turnaround times, eliminates trial-and-error space planning, and optimizes anthropometric clearances for logistical staff, thereby streamlining operational efficiency. 
-* **Event-Goers and Visitors:** This study enhances the immediate interior environment through optimized spatial zoning, intuitive wayfinding, and controlled acoustics. Furthermore, the intentional integration of local Samar cultural design elements creates a deeper psychological connection and an immersive sensory experience for the public. 
-* **The Local Government:** By introducing a future-proof interior framework, the municipality is equipped with a high-performance civic venue capable of effortlessly scaling to accommodate diverse institutional, economic, and tourism-driven events, optimizing the long-term utility and economic viability of local public infrastructure. 
-* **The Local Community of Calbayog City:** This study will ensure that the convention center will become a culturally relevant and accessible space that benefits local businesses and artists. 
-* **Interior Design Professionals and Future Researchers:** This study can be a guide for future studies, offering a basis that they can replicate and explore in greater depth. 
+* **The Local Government Unit (LGU) and Cultural Sector:** Directly assists the City Government of Calbayog in fulfilling its official statutory charter for the facility as a cultural convention center. Provides the City Arts and Culture Office (CACO), City Tourism Office, and General Services Office (GSO) with pre-calculated spatial options that balance commercial and civic venue rental with curated cultural events, institutional symposiums, and local artisanal/civic programs.
+* **Event-Goers & Visitors:** This study enhances the immediate interior environment through optimized spatial zoning, intuitive wayfinding, and controlled acoustics. Furthermore, the intentional integration of local Samar & Calbayog cultural design elements creates a deeper psychological connection, civic pride, and an immersive sensory experience for the public and visiting delegations. 
+* **The Local Community of Calbayog City:** This study ensures that the convention center becomes an adaptable, culturally relevant, and universally accessible civic asset that supports local creative industries, civic organizations, and community assemblies. 
+* **Interior Design Professionals and Future Researchers:** This study provides a practical, research-based guide for renovating provincial convention facilities without structural changes, offering a clear reference that future designers and researchers can replicate and explore in greater depth.
 
 ---
 
 ## Scope and Limitations of the Study
 
 ### Scope of the Study
-The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the primary interior envelope (Main Hall and Lobby) of the Calbayog City Convention Center. Specifically, the study includes: 
+The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the primary interior envelope (Main Hall and Lobby) of the Calbayog Cultural Convention Center. Specifically, the study includes: 
 
-* Designing a standardized menu of repeatable interior layout templates (e.g., Plenary, Exhibition, and Banquet configurations) optimized for the specific square footage of the venue. 
+* Designing a standardized menu of repeatable interior layout templates (e.g., Plenary/Theatrical, Classroom, Banquet, and Exhibition/Gallery configurations) optimized for the specific square footage of the venue. 
 * Formulating ergonomic furniture density arrangements and loose FF&E layout clusters to maximize spatial efficiency and minimize setup/teardown turnaround times for event planners. 
 * Formulating a spatial policy and operational ruleset—comprising pre-calculated anthropometric clearance buffers, room-conversion protocols, and statutory compliance checklists (PD 1096, BP 344, RA 9514)—that eliminates trial-and-error setup guesswork for facility utility crews.
 * Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns into upgraded perimeter acoustic drapery and ceiling acoustic overlays to establish a distinct regional identity. 
@@ -55,9 +55,11 @@ The spatial application of this framework is strictly limited to the 840-square-
 ### Limitations of the Study
 To protect the professional boundaries of this study and maintain a focused research scope, the study establishes the following explicit limitations: 
 
+While the official charter of the City Government of Calbayog envisions the Calbayog Cultural Convention Center supporting spaces for performances (theatres, pavilions), art displays (galleries, museums), and cultural training, the physical footprint of this study is strictly confined to the existing 840-square-meter interior envelope (711 sqm Main Hall + 129 sqm Lobby). Consequently, theatrical, gallery, and training functions are accommodated exclusively through non-structural, reconfigurable modular interior typologies (e.g., mobile display partitions, demountable risers, flexible seating arrangements, and pre-function reception zoning) rather than permanent architectural subdivisions or structural additions of separate dedicated theater or museum wings.
 * This study is a non-structural interior overlay. It completely excludes modifications to the primary building shell, exterior facades, load-bearing columns, and structural roof trusses. No structural load-bearing calculations or civil engineering revisions will be performed. 
 * While the framework conceptually accounts for technological integration, this study will not provide detailed engineering schematics, calculations, or circuit designs for Mechanical, Electrical, Plumbing (MEP), HVAC ducting rerouting, acoustic engineering ratings, or commercial rigging hardware systems. These elements are treated purely as spatial and aesthetic design interfaces. 
 * The design intervention is strictly internal. All outdoor zones, landscaping, parking facilities, building services, and ancillary interior zones (such as administrative offices, back-of-house catering kitchens, loading docks, and public restrooms) are outside the scope of this study. 
-* Field recommendations and spatial parameters are synthesized from empirical survey and interview feedback gathered from event planners and attendees of the Calbayog City Convention Center (synthesized from An, Kim, & Hur, 2021), combined with global interior design standards, anthropometric data, and documented industry best practices. 
+* Field recommendations and spatial parameters are synthesized from empirical survey and interview feedback gathered from event planners, venue operators, attendees, and cultural stakeholders of the Calbayog Cultural Convention Center (synthesized from An, Kim, & Hur, 2021), combined with global interior design standards, anthropometric data, and documented industry best practices. 
 * The policy component of this study is strictly confined to spatial, ergonomic, and interior reconfiguration guidelines (e.g., anthropometric clearance standards, statutory occupancy density limits under PD 1096, BP 344 accessibility parameters, and room changeover sequences). It explicitly excludes administrative, commercial, and business operations policies, such as venue rental fee structures, commercial leasing agreements, event marketing and promotional strategies, municipal budget appropriations, and facility staffing/human resource management models.
 * Because the thesis produces an applied, unbuilt interior design framework and spatial proposal rather than a physically constructed facility, conducting a real-world, on-site Post-Occupancy Evaluation (POE) during the undergraduate research timeframe is beyond the practical and physical scope of this study (Preiser & Vischer, 2005). Pre-construction design validity is instead established through evidence-based design synthesis (integrating normative anthropometric clearances, accessibility mandates, and acoustic NRC thresholds) combined with a structured post-design Evaluative Focus Group Discussion (FGD) (Tremblay et al., 2010; Zeisel, 2006; Sanoff, 2000) involving key venue stakeholders, with formal longitudinal on-site POE systematically designated as a future recommendation for the City Government of Calbayog.
+

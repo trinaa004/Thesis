@@ -1,6 +1,6 @@
  Project Rules & Master Reference Guidelines
 
-This document serves as the master context index, project ruleset, and reference guide for the **Bachelor of Science in Interior Design Thesis** on the **Calbayog City Convention Center**.
+This document serves as the master context index, project ruleset, and reference guide for the **Bachelor of Science in Interior Design Thesis** on the **Calbayog Cultural Convention Center**.
 
 ---
 
@@ -11,7 +11,7 @@ This document serves as the master context index, project ruleset, and reference
 | **[00_title.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_title.md)** | Official Working Title, alternative dual-naming title variations, keyword breakdown, defense script, and title page layout. |
 | **[00_abstract.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_abstract.md)** | Comprehensive Abstract and Structural Abstract Breakdown table for panel defense. |
 | **[00_introduction.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_introduction.md)** | Introduction to MICE industry, shift toward experiential/localized civic venues, and overall study background. |
-| **[00_definitionofterms.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_definitionofterms.md)** | Operational definitions for 12 core technical terms (spatial modularity, IEQ, turnaround time, future-proofing, culturally responsive design, etc.) and complete reference list. |
+| **[00_definitionofterms.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_definitionofterms.md)** | Operational definitions for core technical terms (spatial modularity, IEQ, turnaround time, future-proofing, culturally responsive design, CCCC, Hadang integration, etc.) and complete reference list. |
 | **[00_References](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/00_References)** | Master alphabetical list of references and bibliography for the entire thesis study. |
 | **[01_rationale.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/01_rationale.md)** | Detailed rationale justifying spatial flexibility, Samar cultural preservation, Calbayog eco-tourism identity, and future-proofing. |
 | **[02_chapter1.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/02_chapter1.md)** | Statement of the Problem (SPOP Q1–Q3.2), Research Objectives, Significance of the Study, and Scope & Limitations. |
@@ -19,16 +19,18 @@ This document serves as the master context index, project ruleset, and reference
 | **[21_theoretical_conceptual.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/21_theoretical_conceptual.md)** | Theoretical Background & Conceptual Framework synthesizing Open Building Theory (Habraken, 1972) and Theory of Place Attachment (Scannell & Gifford, 2010). |
 | **[22_LGU_Precedent_Baguio_Retrofit.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/22_LGU_Precedent_Baguio_Retrofit.md)** | Philippine Provincial LGU Facility Retrofit Precedent: Detailed case analysis of the Baguio Convention & Cultural Center modernization, cultural integration, and methodological justification. |
 | **[30_Research Design.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/30_Research%20Design.md)** | Applied Design Research & Mixed-Methods methodology (Phase 1: Baseline Fieldwork; Phase 2: Interior Design Synthesis; Phase 3: Technical Verification). |
-| **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Locale description of Calbayog City Convention Center (Brgy. Capoocan, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Lobby], 500 occupant capacity, former bus station history). |
+| **[31_Research environment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/31_Research%20environment.md)** | Locale description of Calbayog Cultural Convention Center (Brgy. Capoocan, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Lobby], 500 occupant capacity, former bus station history, and venue ecosystem delineation). |
 | **[32_Respondents.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/32_Respondents.md)** | Respondent profiles, inclusion criteria, Purposive Expert Sampling ($n = 15–25$), Purposive Quota Sampling ($n = 100–120$), Slovin's formula, and qualitative sample ($n = 8–12$). |
 | **[33_Instruments.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/33_Instruments.md)** | Research instruments (Structured Survey Questionnaires & Semi-Structured Interview Guides). |
 | **[34_Data Collection.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/34_Data%20Collection.md)** | Field survey distribution and data collection protocols. |
 | **[35_Data Analysis.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/35_Data%20Analysis.md)** | Descriptive statistics (weighted means), Braun & Clarke (2006) thematic analysis, and 3-pillar spatial/precedent/acoustic NRC triangulation procedures. |
+| **[04_chapter4_data_presentation.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/04_chapter4_data_presentation.md)** | Chapter 4: Data Presentation, Analysis, and Triangulation (Section 4.1 Locale Baseline & Longitudinal 129-Event Utilization Trajectory; Section 4.2 Turnaround Friction, Layout Guesswork, & Calendar Compression Triangulation). |
 | **[37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md)** | Complete text of research survey forms, questionnaire items, and qualitative interview scripts. |
 | **[38_InformedConsent.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/38_InformedConsent.md)** | Bilingual (English & Waray) USC-REC Informed Consent Form for quantitative survey respondents (Form A: Event Planners & Form B: Event Attendees). |
 | **[38_survey_answer_sheets.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/38_survey_answer_sheets.md)** | Compact, paper-saving single-page survey answer sheets for Form A (Planners) and Form B (Attendees) with demographic grids and Likert rating matrices. |
 | **[39_InterviewInformedConsent.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/39_InterviewInformedConsent.md)** | Bilingual (English & Waray) USC-REC Informed Consent Form for qualitative semi-structured key informant interviews with audio recording permissions. |
 | **[40_ObservationInformedConsent.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/40_ObservationInformedConsent.md)** | Bilingual (English & Waray) USC-REC Informed Consent Form for on-site spatial audits and event lifecycle observations (Ingress, In-Session, Egress) tailored for event organizers with specific opt-in permissions for turnaround timing, laser measurements, and non-identifying photography. |
+| **[41_Appendix_Historical_Event_Utilization_Ledger.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/41_Appendix_Historical_Event_Utilization_Ledger.md)** | Appendix A: Comprehensive Longitudinal Event Utilization Ledger (2014–2026) containing the master chronological audit matrix of 129 verified events, operational spatial typologies, occupant scales, and archival verification sources. |
 | **[Consultation/nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/nutshell.md)** | Master Executive Summary, 30-Second Elevator Pitch, 3 Design Pillars, Scope Boundary Matrix, and Defense Quick Reference. |
 | **[Consultation/rrl_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/rrl_nutshell.md)** | Chapter 2 (Literature Review) In a Nutshell: Theoretical synthesis, spatial modularity, anthropometrics, cultural precedents, and research gap mapping. |
 | **[Consultation/methodology_nutshell.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/methodology_nutshell.md)** | Chapter 3 (Research Methodology) In a Nutshell: Design synthesis flow, sampling matrix, instruments, and RA 10173 data collection protocols. |
@@ -46,6 +48,9 @@ This document serves as the master context index, project ruleset, and reference
 | **[Consultation/applied_experimentation_defense_guide.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/applied_experimentation_defense_guide.md)** | Applied Experimentation Defense Guide: Epistemological grounding (Groat & Wang, 2013; Zeisel, 2006), 4-part scientific variable architecture (IV/DV), verified precedents (Estrada, Ayuba & Agah, Baguio BCCC), and verbatim defense script for panel defense. |
 | **[draft/01_UC_REC_Inquiry_Email.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/draft/01_UC_REC_Inquiry_Email.md)** | University of Cebu Research Ethics Committee (UC-REC) Inquiry Email Templates: Formal academic inquiry, concise variation, and follow-up templates requesting external review procedures, forms, and guidelines. |
 | **[draft/02_Interview_Facilitator_Guide_and_Script.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/draft/02_Interview_Facilitator_Guide_and_Script.md)** | Qualitative Interview Facilitator Guide & Speaking Script: Step-by-step field execution guide with trilingual on-record verbal consent scripts, role-differentiated questioning routes (Route A for Planners/Operators vs. Route B for Cultural Advocates), debriefing protocols, and reflection log. |
+| **[Consultation/adviser_update_guide_building_data_and_significance.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/adviser_update_guide_building_data_and_significance.md)** | Adviser Consultation Feedback & Site Significance Guide: Deconstructs adviser request for building age, LGU client ownership, disaster resilience (Yolanda, Ruby, Tisoy), 5-year event utilization records, and ready-to-use LGU request letters and update scripts. |
+| **[Consultation/chapter1_preview_applied_experimentation_alignment.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/chapter1_preview_applied_experimentation_alignment.md)** | Chapter 1 Preview & Strategic Alignment Guide: Consolidated document containing the Applied Experimentation vs. Project-Based alignment framework and complete Chapter 1 draft preview under Option 1 (safeguarded against guidebook validation liabilities). |
+| **[Consultation/form_b_survey_simulation_guidelines_and_prompt.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/Consultation/form_b_survey_simulation_guidelines_and_prompt.md)** | Form B Attendee Survey Simulation Guidelines, Conditional Logic Matrix, and Automation Prompt: Mathematical distributions, spatial conditional logic (ceiling fabric acoustic dampening, floor tripods, scaffolding sightlines, non-AC lobby), master AI prompt, and reproducible generation scripts ($n = 100$). |
 
 
 ---
@@ -53,14 +58,19 @@ This document serves as the master context index, project ruleset, and reference
 ## 2. Thesis Executive Context & Core Parameters
 
 - **Official Working Title**:  
-  *An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*
+  *An Interior Design Framework for the Calbayog Cultural Convention Center: Harmonizing Spatial Modularity, Samar-Calbayog Cultural Heritage, and Future-Proof Event Adaptability*
 - **Degree Program**: Bachelor of Science in Interior Design
 - **Research Locale & Site Specifications**:
-  - **Venue**: Calbayog City Convention Center (Main Convention Hall & Lobby)
+  - **Venue**: Calbayog Cultural Convention Center (locally referenced as the Calbayog City Convention Center)
   - **Location**: Brgy. Capoocan, Calbayog City, Samar, Philippines
-  - **Historical Note**: Renovated on December 14, 2009 (originally a municipal bus station)
+  - **Statutory Mandate**: Officially chartered by the City Government of Calbayog to serve as a vital hub for promoting culture, arts, tourism, performances, art displays, cultural training, and community assemblies.
+  - **Historical Note**: Renovated on December 14, 2009 (originally a municipal central bus station)
   - **Footprint Area**: **840 square meters (711 sqm Main Hall + 129 sqm Lobby)**
   - **Maximum Occupancy**: Up to 500 occupants (Plenary assembly in Main Hall)
+- **Venue Ecosystem Context**:
+  - **Calbayog City Sports Center**: Mega-capacity arena for mass athletics and the outdoor street-dancing competitions of the Hadang Festival.
+  - **Handumanan Museum / Arts Gallery**: Municipal facility dedicated to permanent art exhibits and historical collections.
+  - **Calbayog Cultural Convention Center**: Intimate, air-conditioned, affordable 840 sqm civic venue for conferences, seminars, social banquets, and curated indoor cultural presentations/convocations.
 - **Primary Operational Bottlenecks**:
   - Rigid, static interior envelope causing prolonged setup/teardown turnaround times.
   - Poor acoustic control and lack of flexible acoustic isolation/baffling.
@@ -119,10 +129,10 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
 
 | Typology | Layout Description | Key Anthropometric & Clearance Metrics |
 | :--- | :--- | :--- |
-| **Plenary (Theater)** | Assembly seating for conferences, summits, and presentations. | Seat pitch: 900 mm (35.4 in); Clear passage: 305 mm (12 in); Sightline C-value: 60 mm (staggered) / 120 mm (un-staggered). |
-| **Classroom (Lecture)** | Rows of writing tables with chairs facing presentation stage. | Table height: 740–760 mm; Chair depth clearance: 450–500 mm; Service corridor: 400–450 mm. |
+| **Plenary / Theatrical** | Assembly seating for conferences, summits, and indoor cultural presentations. | Seat pitch: 900 mm (35.4 in); Clear passage: 305 mm (12 in); Sightline C-value: 60 mm (staggered) / 120 mm (un-staggered). |
+| **Classroom / Training** | Rows of writing tables with chairs facing presentation stage for workshops and cultural training. | Table height: 740–760 mm; Chair depth clearance: 450–500 mm; Service corridor: 400–450 mm. |
 | **Banquet (Social/Dining)** | Round tables (10-person capacity) for galas, dinners, and celebrations. | Table diameter footprint: 3200–3500 mm; Service lane clearance between tables: 1620–1800 mm. |
-| **Exhibition (Trade Show)** | Booth modules and multi-lane pedestrian circulation corridors. | Corridor widths: 750–900 mm (single-file), 1500–1800 mm (two-person passing), 2400 mm (crowd flow). |
+| **Exhibition / Gallery** | Booth modules, mobile display partitions, and multi-lane pedestrian circulation corridors for trade expos and art showcases. | Corridor widths: 750–900 mm (single-file), 1500–1800 mm (two-person passing), 2400 mm (crowd flow). |
 | **Universal Accessibility** | Compliance with BP 344 & ADA Standards (2010). | Wheelchair clear path: 1200 mm; Turning radius: 1500 mm; Assembly seating stalls: 760 x 1220 mm. |
 
 ---
@@ -133,9 +143,10 @@ Active Logistics (Event Planners)                  Passive Experience (Event-Goe
   - Basey *banig* reed mat weaving linework (Samat & Lara weaves).
   - *Tikog* grass (*Fimbristylis umbellaris*) natural textures integrated into acoustic wall panels.
   - Traditional Waray geometric motifs.
-- **Local Calbayog Identity**:
+- **Local Calbayog Identity & Traditions**:
   - Cascading fluid linework celebrating Calbayog as the "City of Waterfalls" (e.g., Tarangban, Bangon, Mapaso falls).
   - Non-structural acoustic ceiling baffles imitating waterfall fluid mechanics.
+  - Kinetic energy, ritualistic movement, and feather plumage linework of the **Hadang Festival (historically and popularly recognized as the Sarakiki-Hadang Festival)** integrated into accent acoustic wall panels.
 
 ---
 
@@ -149,6 +160,6 @@ When planning, drafting, or making changes to the thesis rationale (`01_rational
 
 ### Core Guidelines:
 1. **Cross-Reference Alignment**: Every edit or planning step for `01_rationale.md` must be cross-checked against `00_introduction.md`, `02_chapter1.md`, and `20_RRL.md` to ensure complete thematic and structural consistency.
-2. **Consistency in Terminology & Standards**: Maintain exact consistency regarding venue specifications (e.g., Calbayog City Convention Center, 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Lobby], Brgy. Capoocan, 500 occupants), industry terminology (MICE industry, modularity, adaptability, future-proof design), and cultural elements (Samar Basey *banig* weaving heritage, *tikog* grass, Calbayog waterfalls).
+2. **Consistency in Terminology & Standards**: Maintain exact consistency regarding venue specifications (e.g., Calbayog Cultural Convention Center [locally referenced as the Calbayog City Convention Center], 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Lobby], Brgy. Capoocan, 500 occupants), industry terminology (MICE industry, modularity, adaptability, future-proof design), and cultural elements (Samar Basey *banig* weaving heritage, *tikog* grass, Calbayog waterfalls, Hadang Festival [historically and popularly recognized as the Sarakiki-Hadang Festival]).
 3. **Citation & Evidence Integrity**: Ensure citations and supporting literature referenced in the rationale align with the sources established in `20_RRL.md` and `00_definitionofterms.md`.
 4. **Enforce Non-Structural Scope Boundary**: All proposals must remain strictly non-structural interior overlays (FF&E, acoustic panels, overhead track systems). Never propose alterations to load-bearing columns, exterior facades, roof trusses, or civil engineering elements.

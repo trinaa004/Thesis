@@ -89,7 +89,9 @@ When your panel asks for precedents of applied experimentation or empirical desi
 * **Zeisel, J. (2006).** *Inquiry by Design: Environment/Behavior/Neuroscience in Architecture, Interiors, Landscape, and Planning.* W. W. Norton & Co.
   * *Authoritative Text:* Establishes that design proposals act as scientific hypotheses tested through spatial manipulation, environmental criteria, and structured user feedback.
 * **Tremblay, M. C., Hevner, A. R., & Berndt, D. J. (2010).** *"Focus Groups for Artifact Evaluation in Design Research."* *Communications of the Association for Information Systems*, 26(1), 27.
-  * *Authoritative Text:* Methodological foundation for Phase 3: proves that structured focus groups with domain experts are an established, rigorous method for evaluating unbuilt design artifacts.
+  * *Authoritative Text:* Methodological foundation for Phase 3: proves that structured focus groups with domain experts are an established, rigorous method for evaluating unbuilt design artifacts. 
+  
+  *Exploratory Focus Groups*: Used during the "build and evaluate" cycle. Participants study a prototype or early design to suggest improvements. This cycle repeats until the design is ready for field testing.
 
 ---
 

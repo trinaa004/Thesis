@@ -281,6 +281,15 @@ Consult this matrix before starting the interview to know exactly which question
 
 ---
 
+### Core Question 5 (Venue Utilization & Civic-Cultural Programming Dynamics — Module 4 Q12)
+* **English:** *"In your experience, what makes organizers choose—or avoid—the Convention Center for cultural events, art exhibits, or community gatherings instead of venues like the Handumanan Museum or the Sports Center?"*
+* **Waray:** *"Ha imo eksperyensya, kay-ano nga ginpipili (o diri ginpipili) an Convention Center para ha mga cultural events, art exhibits, o mga pagtitirok kompara ha Handumanan Museum o Sports Center?"*
+* **Dedicated Cultural & Operational Probes:**
+  - *Spatial & Lighting Capabilities:* For art displays or cultural showcases (like the 2024 *Artists Kolektib*), what temporary display panels, lighting, or staging do organizers need that the convention center currently lacks?
+  - *Venue Selection:* How can the convention center best complement—rather than compete with—the Sports Center (for large sports/festival showdowns) and the Handumanan Museum (for permanent art collections)?
+
+---
+
 ## 7. Post-Interview Closing & Debriefing Script (On-Record & Off-Record)
 
 ### Step 1: Formal On-Record Conclusion
