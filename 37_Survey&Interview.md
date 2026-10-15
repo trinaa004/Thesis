@@ -561,7 +561,7 @@
 
 ---
 
-# PART 4: QUALITATIVE SEMI-STRUCTURED INTERVIEW PROTOCOL FOR EVENT PLANNERS & VENUE ADMINISTRATORS / GABAY SA INTERVIEW PARA HA MGA EVENT PLANNER UG OPERATOR
+# PART 4-A: QUALITATIVE SEMI-STRUCTURED INTERVIEW PROTOCOL FOR EVENT PLANNERS & VENUE ADMINISTRATORS / GABAY SA INTERVIEW PARA HA MGA EVENT PLANNER UG OPERATOR
 
 **Target Informants**: Selected Event Planners, Coordinators, Venue Operations Personnel, and Cultural/Tourism Stakeholders ($n = 8 \text{ to } 12$).  
 **Format**: 20-to-30-minute semi-structured, audio-recorded qualitative interview session.  
@@ -633,6 +633,47 @@
     - *Interviewer Probe: (e.g., room size, missing display boards or stage lighting, sound quality, or rental rates)*  
     *Waraynon: Ha imo eksperyensya, kay-ano nga ginpipili (o diri ginpipili) an Convention Center para ha mga cultural events, art exhibits, o mga pagtitirok kompara ha Handumanan Museum o Sports Center?*  
     - *Dugang nga Pakiana / Probe: (sugad san kadako san lugar, kulang nga display boards, suga, sound system, o bayad ha abang)*  
+
+---
+
+# PART 4-B: QUALITATIVE SEMI-STRUCTURED INTERVIEW PROTOCOL FOR EVENT ATTENDEES & GENERAL PUBLIC / GABAY SA INTERVIEW PARA HA MGA TUMARAMBONG UG PUBLIKO (GENERAL VENUE EXPERIENCE)
+
+**Target Informants**: Event Attendees, Audience Members, Guests, Parents, Students, and Community Stakeholders who have attended past or present events in the facility ($n = 8 \text{ to } 12$).  
+**Format**: 5-to-10-minute conversational, audio-recorded semi-structured qualitative interview session (in-person or online intercept).  
+
+---
+
+### ATTENDEE INTERVIEW GUIDE QUESTIONS / MGA PAKIANA SA INTERVIEW PARA HA MGA TUMARAMBONG
+
+1. **Overall Experience & Past Events Attended / Mga Natambungan nga Okasyon ug Unang Impresyon**  
+   *English:* **What kinds of events have you attended at the Calbayog Convention Center (e.g., graduations, seminars, weddings, cultural shows), and how would you describe your overall experience inside the venue?**  
+   - *Interviewer Probe: (Did the space feel comfortable, spacious, or crowded? What stood out to you?)*  
+   *Waraynon:* ***Ano nga mga klase san okasyon an imo natambungan ha Calbayog Convention Center (sugad san graduation, seminar, kasal, o pasundayag), ug kumusta man an imo kabug-usan nga eksperyensya sa sakob?***  
+   - *Dugang nga Pakiana / Probe: (Komportable ba, haluag, o nagutok? Ano an imo pinaka-nahinumdoman sa lugar?)*  
+
+2. **Acoustic Clarity & Sound Quality / Katin-aw san Tunog ug Lanog ha Hall**  
+   *English:* **Whenever you attend events there, how is the sound quality and speech clarity from the stage? Do you usually experience annoying echoes or struggle to hear what speakers are saying?**  
+   - *Interviewer Probe: (Can you clearly hear from the middle or back rows? Does loud sound, feedback, or applause hurt your ears?)*  
+   *Waraynon:* ***Ha mga okasyon nga imo natambungan didto, kumusta an tunog ug katin-aw san boses tikang ha stage? Nalanog ba hin duro o makuri ba masabtan an gin-yayayak san mga speakers?***  
+   - *Dugang nga Pakiana / Probe: (Klaro ba an boses bisan aada ka ha tunga o ha luyo? Masakit ba ha talinga an lanog o sound system?)*  
+
+3. **Seating Comfort, Legroom & Walkways / Kalingkuran, Espasyo ha Tiil ug Agi-an**  
+   *English:* **When the hall is full, how comfortable is the seating, legroom, and movement between rows? Is it easy to walk around the aisles and lobby, or does it feel cramped and congested?**  
+   - *Interviewer Probe: (Do knees hit the chair in front? Are aisles wide enough? Is the lobby crowded during entry or exit?)*  
+   *Waraynon:* ***Kon puno an hall, komportable ba an mga lingkuran ug an espasyo para ha imo mga tiil? Masayon ba maglakat-lakat ha mga agi-an ug ha lobby, o masikip ug nagkakagutok?***  
+   - *Dugang nga Pakiana / Probe: (Naigo ba an tuhod sa lingkuran sa atubang? Haluag ba an agi-an? Gutok ba an lobby pag-sulod o pag-gawas?)*  
+
+4. **Temperature, Ventilation & Stage Sightlines / Temperatura, Hangin ug Pagkitar-an ha Stage**  
+   *English:* **Based on your visits, how comfortable are the temperature and ventilation inside? Does the hall stay cool or become warm and stuffy when crowded? How is your view of the stage?**  
+   - *Interviewer Probe: (Are there cold or hot spots? Does someone in front block your view?)*  
+   *Waraynon:* ***Sumala ha imo eksperyensya, presko ba an sulod o nagigin mapaso ug kulang an hangin kon damo na an tawo? Klaro ba an imo pagkita ha entablado (stage)?***  
+   - *Dugang nga Pakiana / Probe: (May parte ba nga sobra katugnaw o mapaso? May nakasagang ba ha imo pagkita ha stage?)*  
+
+5. **Local Identity & Cultural Sense of Place / Kultural nga Disenyo ug Pagka-Waraynon san Lugar**  
+   *English:* **When you enter the convention center, do you feel that the interior reflects the unique culture and identity of Calbayog and Samar, or does it look like an ordinary, generic building? What local features would make you proud as a local?**  
+   - *Interviewer Probe: (Would you like to see designs inspired by our waterfalls, Basey banig patterns, or local craftsmanship on the walls and ceiling?)*  
+   *Waraynon:* ***Kon nasulod ka ha convention center, na-aabat mo ba nga nagpapakita an sulod san kultura ug kabilin san Calbayog ug Samar, o sugad la hin ordinaryo nga edipisyo? Ano an mga lokal nga disenyo an maopay ig-dugang nga makakapagpa-garbo ha aton?***  
+   - *Dugang nga Pakiana / Probe: (Karuyag mo ba makakita hin disenyo tikang ha aton mga busay, banig san Basey, o lokal nga kahoy ha dingding ug ceiling?)*  
 
 ---
 

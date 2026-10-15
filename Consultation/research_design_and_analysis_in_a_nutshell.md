@@ -12,11 +12,11 @@
 ## 1. Executive Summary: Methodology at a Glance
 
 > **The 1-Minute Pitch:**  
-> *"This study utilizes an **Applied Design Research** approach executed through a **Convergent Parallel Mixed-Methods Design** structured across three sequential phases ($\text{QUAN} + \text{QUAL} \rightarrow \text{Design Synthesis} \rightarrow \text{Technical Verification}$).  
+> *"This study utilizes an **Applied Design Research** approach executed through a **Tri-Strand Convergent Mixed-Methods Design** structured across three sequential phases ($\text{QUAN} + \text{QUAL} + \text{SPATIAL/ANT} \rightarrow \text{Design Synthesis} \rightarrow \text{Technical Verification}$).  
 > 
-> In Phase 1, the research concurrently gathers quantitative diagnostic baseline data from **115 to 145 respondents** (measuring IEQ satisfaction and setup turnaround bottlenecks) alongside qualitative operational insights and Samar cultural craft narratives from **8 to 12 in-depth key informant interviews** analyzed via Braun & Clarke's (2006) thematic analysis.  
+> In Phase 1, the research concurrently gathers: (1) quantitative diagnostic baseline data from **115 to 145 respondents** (measuring IEQ satisfaction and setup turnaround bottlenecks); (2) qualitative operational insights and Samar cultural narratives from **8 to 12 in-depth key informant interviews** analyzed via Braun & Clarke's (2006) thematic analysis; and (3) in-situ **Spatial Behavioral & Physical Trace Mapping** grounded in **Actor-Network Theory (ANT; Latour, 2005)**, **Zeisel’s (2006) Physical Trace Observation**, and **Gibson’s (1979) Affordance Theory**, documenting 'As-Is' event layouts, movement concentration paths, and human-actant spatial frictions.  
 > 
-> In Phase 2, these empirical findings are triangulated to formulate **four standardized modular layout typologies** (2D CADD plans), 3D perspective models, and **cultural acoustic surface overlays**.  
+> In Phase 2, these empirical strands are triangulated to extract operational layout typologies, formulate tailored comparative design interventions (2D CADD plans, 3D perspective models), and engineer **cultural acoustic surface overlays**.  
 > 
 > In Phase 3, because this is an unbuilt undergraduate thesis, validity is scientifically established prior to construction using a **Post-Design Stakeholder Validation Focus Group Discussion (FGD)** ($n = 7 \text{ to } 10$ venue stakeholders, Tremblay et al., 2010; Zeisel, 2006) combined with a **3-Pillar Pre-Occupancy Predictive Verification Framework** (clearance audits, acoustic NRC ratings, and analog facility precedent transfer)."*
 
@@ -25,39 +25,40 @@
 ## 2. The Multi-Phase Methodological Workflow
 
 ```
-┌──────────────────────────────────────────────┐  ┌──────────────────────────────────────────────┐
-│ STRAND 1: QUANTITATIVE DIAGNOSTIC (QUAN)     │  │ STRAND 2: QUALITATIVE INVESTIGATION (QUAL)   │
-│ • Instrument: Structured Likert questionnaires│  │ • Instrument: Semi-structured interview guide│
-│ • Sample: N = 115 to 145 respondents         │  │ • Sample: n = 8 to 12 key informants         │
-│   ├─ Group 1: Planners (n = 15–25, Expert)   │  │ • Focus: Operational setup root causes,      │
-│   └─ Group 2: Attendees (n = 100–120, Quota) │  │   utility fatigue, Samar Basey banig craft,   │
-│ • Focus: Turnaround delays, IEQ satisfaction │  │   tikog grass, Calbayog waterfall geometry   │
-│ • Analysis: Descriptive statistics           │  │ • Analysis: 6-Step Thematic Analysis         │
-│   (frequencies, weighted means, SD)          │  │   (Braun & Clarke, 2006 saturation)          │
-└──────────────────────┬───────────────────────┘  └──────────────────────┬───────────────────────┘
-                       │                                                 │
-                       └────────────────────────┬────────────────────────┘
-                                                ▼
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ PHASE 2: DATA CONVERGENCE, TRIANGULATION & SPATIAL SYNTHESIS                           │
-│ • Triangulation: Statistical metrics cross-verified with qualitative thematic insights │
-│ • Physical Design Outcome: 4 Modular Layout Typologies (Plenary, Banquet, Classroom,   │
-│   Exhibition) + Acoustic Wall/Ceiling Overlays + Overhead Utility Grid Track           │
-└──────────────────────────────────────────────┬─────────────────────────────────────────┘
-                                               ▼
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ PHASE 3: POST-DESIGN STAKEHOLDER VALIDATION & PREDICTIVE TECHNICAL VERIFICATION        │
-│ • Post-Design Evaluative Focus Group Discussion (FGD) (n = 7 to 10 nested panel):      │
-│   Event Planners (3-4), Venue Staff (1-2), Attendees (2-3), Samar Cultural Informant (1)│
-│   - Anti-Bias Safeguard: Silent Pre-Discussion Design Verification Rubric Scoring      │
-│   - Moderated Stress-Testing Discussion (Krueger & Casey, 2014; Tremblay et al., 2010) │
-│   - Problem-to-Design Refinement Traceability Matrix mapping stakeholder modifications │
-│ • Technical Predictive Verification (Three Pillars):                                   │
-│   1. Spatial & Geometric Clearance Audits (PD 1096 Sec. 1207 Table XII.1; BP 344)     │
-│   2. Acoustic Material NRC Specifications (NRC ≥ 0.75 wall panels, ≥ 0.85 baffles)     │
-│   3. Analog Precedent Triangulation (Baguio BCCC LGU Retrofit; Ayuba & Agah, 2018)    │
-│ • Future Longitudinal POE: Formally recommended for post-construction execution (Ch. 5)│
-└────────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────┐ ┌───────────────────────────────────────┐ ┌───────────────────────────────────────┐
+│ STRAND 1: QUANTITATIVE DIAGNOSTIC     │ │ STRAND 2: QUALITATIVE INVESTIGATION   │ │ STRAND 3: SPATIAL BEHAVIORAL & ANT    │
+│ (QUAN)                                │ │ (QUAL)                                │ │ (SPATIAL / TRACE / AFFORDANCE)        │
+│ • Instrument: Structured questionnaires│ │ • Instrument: Semi-structured guides  │ │ • Method: In-situ Spatial Audits,    │
+│ • Sample: N = 115 to 145 respondents  │ │ • Sample: n = 8 to 12 key informants  │ │   As-Is 2D/3D event documentation   │
+│   ├─ Group 1: Planners (n = 15–25)    │ │ • Focus: Operational setup root       │ │ • Physical Trace Mapping (Zeisel)   │
+│   └─ Group 2: Attendees (n = 100–120) │ │   causes, utility fatigue, Samar Basey│ │ • Actor-Network Theory (Latour):    │
+│ • Focus: Turnaround delays, IEQ       │ │   banig craft, waterfall geometry     │ │   Human actors vs. non-human actants│
+│ • Analysis: Descriptive statistics    │ │ • Analysis: 6-Step Thematic Analysis  │ │ • Movement concentration & airflow  │
+│   (frequencies, weighted means, SD)   │ │   (Braun & Clarke, 2006 saturation)   │ │ • Environmental Affordance (Gibson) │
+└──────────────────┬────────────────────┘ └──────────────────┬────────────────────┘ └──────────────────┬────────────────────┘
+                   │                                         │                                         │
+                   └─────────────────────────────────────────┼─────────────────────────────────────────┘
+                                                             ▼
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ PHASE 2: DATA CONVERGENCE, TRIANGULATION & COMPARATIVE SPATIAL SYNTHESIS                                                  │
+│ • Triangulation: Statistical metrics cross-verified with qualitative thematic codes and spatial ANT friction maps        │
+│ • Typology Extraction: Empirical identification of event modes (Plenary, Classroom, Banquet, Exhibition) from data       │
+│ • Comparative Design Interventions: Tailored "As-Is vs. Proposed" 2D/3D plans, RCP, Basey banig acoustic panels, tracks  │
+└─────────────────────────────────────────────────────────────┬─────────────────────────────────────────────────────────────┘
+                                                              ▼
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ PHASE 3: POST-DESIGN STAKEHOLDER VALIDATION & PREDICTIVE TECHNICAL VERIFICATION                                           │
+│ • Post-Design Evaluative Focus Group Discussion (FGD) (n = 7 to 10 nested panel):                                         │
+│   Event Planners (3-4), Venue Staff (1-2), Attendees (2-3), Samar Cultural Informant (1)                                  │
+│   - Anti-Bias Safeguard: Silent Pre-Discussion Design Verification Rubric Scoring                                         │
+│   - Moderated Stress-Testing Discussion (Krueger & Casey, 2014; Tremblay et al., 2010)                                    │
+│   - Problem-to-Design Refinement Traceability Matrix mapping stakeholder modifications                                    │
+│ • Technical Predictive Verification (Three Pillars):                                                                      │
+│   1. Spatial & Geometric Clearance Audits (PD 1096 Sec. 1207 Table XII.1; BP 344)                                        │
+│   2. Acoustic Material NRC Specifications (NRC ≥ 0.75 wall panels, ≥ 0.85 baffles)                                        │
+│   3. Analog Precedent Triangulation (Baguio BCCC LGU Retrofit; Ayuba & Agah, 2018)                                       │
+│ • Future Longitudinal POE: Formally recommended for post-construction execution (Ch. 5)                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -114,7 +115,27 @@ Interview audio recordings, open-ended text, and post-design FGD transcripts are
 
 ---
 
-### C. Triangulation, Stakeholder Validation, & Pre-Occupancy Predictive Verification
+### C. Spatial Behavioral, Movement & Actor-Network Analysis (ANT / Gibson / Zeisel)
+To elevate the study beyond subjective aesthetics and ground it in empirical environmental design science, the spatial envelope is analyzed as a dynamic socio-technical network using three established frameworks:
+
+1. **Physical Trace Mapping (Zeisel, 2006):**
+   - *By-Products of Use & Ad-Hoc Adaptations:* Systematically logging physical traces left by organizers and custodial crews during live operations—such as heavy gaffer tape securing power cords across walkways, monobloc chairs stacked in lobby concourses due to absent storage, and disposable tarpaulins stapled to drywall.
+   - *Erosion & Impact Tracking:* Mapping finish wear, wall abrasions, and corner-guard damage at heavy turnover thresholds (e.g., lobby double doors and stage access stairs).
+
+2. **Actor-Network Theory (ANT) Translation Analysis (Latour, 1996, 2005):**
+   - *Human Actors:* Event planners, attendees, custodial crews, catering waiters, speakers, and PWD occupants.
+   - *Non-Human Actants:* Hard ceramic floor tiles ($600 \times 600\text{ mm}$), heavy folding plywood tables, sliding glass doors, perimeter curtain walls, high open steel trusses (6.20 m), and mobile PA tripod speakers.
+   - *Network Friction Mapping:* Analyzing how non-human actants actively impose physical resistance on human actors (e.g., hard floor tiles reflecting sound waves to produce speech-masking flutter echoes; non-wheeled folding tables demanding 6 hours of manual lifting from custodial crews; loose cords creating trip hazards).
+
+3. **Spatial Affordance Analysis (Gibson, 1979):**
+   - Evaluates the functional "action possibilities" latent within the interior envelope. Identifies mismatches between what the space *physically affords* versus what event programs *demand* (e.g., the hall affords high-density standing, but lacks the acoustic absorption and dedicated overhead power drops afforded by modern purpose-built MICE facilities).
+
+4. **Movement Concentration & Circulation Heat-Mapping:**
+   - Visualizing pedestrian crowd flow velocity, registration queuing congestion, wait-staff cart navigation, and ingress/egress choke points across the 129 sqm Lobby and 711 sqm Main Hall for each distinct event typology.
+
+---
+
+### D. Triangulation, Stakeholder Validation, & Pre-Occupancy Predictive Verification
 
 Because an undergraduate thesis produces an unbuilt interior design framework rather than a physically constructed building, conducting an on-site Post-Occupancy Evaluation (POE) is physically impossible during the thesis timeframe (Preiser & Vischer, 2005). Pre-construction validity is established through a **Dual-Channel Verification Model** combining an **Evaluative Focus Group Discussion** with **Three Technical Predictive Pillars**:
 
@@ -142,7 +163,7 @@ Because an undergraduate thesis produces an unbuilt interior design framework ra
 > **Verbatim Response:**  
 > *"Interior design is both a technical science and a human-centered art. A purely qualitative study would lack the statistical rigor needed to quantify turnaround delays and IEQ satisfaction. Conversely, purely quantitative numbers cannot explain the operational root causes of setup friction, nor can numbers capture the cultural nuances of Samar’s weaving heritage.  
 > 
-> By using a **Convergent Parallel Mixed-Methods Design ($\text{QUAN} + \text{QUAL}$)**, the quantitative survey establishes the exact baseline deficits, while the qualitative interviews explain why those problems occur and how local artisans translate Basey banig and Calbayog waterfalls into interior surfaces. Gathering these strands concurrently and triangulating them during spatial synthesis ensures the resulting layout manual is grounded in empirical human evidence rather than subjective aesthetic assumptions."*
+> By using a **Tri-Strand Convergent Mixed-Methods Design ($\text{QUAN} + \text{QUAL} + \text{SPATIAL/ANT}$)**, the quantitative survey establishes the exact baseline deficits, the qualitative interviews explain why those problems occur, and direct spatial trace mapping uncovers how non-human objects actively obstruct human movement. Triangulating these three strands during spatial synthesis ensures the resulting layout manual is grounded in empirical human evidence rather than subjective aesthetic assumptions."*
 
 ---
 
@@ -163,3 +184,11 @@ Because an undergraduate thesis produces an unbuilt interior design framework ra
 > 2. **Three-Pillar Predictive Technical Verification:** Mathematically proving spatial compliance with the National Building Code (PD 1096) and Accessibility Law (BP 344), establishing laboratory-certified acoustic NRC ratings ($\ge 0.75$ wall panels, $\ge 0.85$ ceiling baffles) anchored on architectural acoustics (Egan, 2007), and benchmarking against verified municipal facility retrofits like the Baguio Convention Center.  
 > 
 > Furthermore, formal on-site longitudinal Post-Occupancy Evaluation is systematically structured as a primary **Chapter 5 recommendation** for the City Government of Calbayog upon physical construction."*
+
+---
+
+### Question 4: "Why did you incorporate Actor-Network Theory (ANT) and Behavioral Trace Mapping alongside traditional surveys and interviews?"
+> **Verbatim Response:**  
+> *"Traditional interior design surveys capture what people *say* they feel, but direct observation reveals what the physical space actually *does* to them. By integrating **Actor-Network Theory (Latour, 2005)**, **Physical Trace Mapping (Zeisel, 2006)**, and **Gibson’s (1979) Affordance Theory**, we treat the convention center not as an inert backdrop, but as a living network where non-human actants—such as hard ceramic tiles, loose extension cords, sliding doors, and heavy folding tables—actively dictate human behavior, labor fatigue, and acoustic comfort.  
+> 
+> Documenting these physical traces (such as taped floor cables, chairs dumped in lobby corners, and catering cart bottlenecks) provides objective, indisputable spatial evidence. This elevates the thesis from a mere 'project-based' aesthetic redesign into a **rigorous research-based study**, ensuring that our proposed design interventions resolve the precise physical friction points uncovered on the ground."*

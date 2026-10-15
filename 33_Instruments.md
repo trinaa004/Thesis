@@ -36,7 +36,16 @@ Conducted during scheduled live events held at the convention center across cont
 2. **In-Session (Active Live Event Phase):** Lobby registration flow, attendee circulation patterns, main aisle vs. service lane congestion (waiter paths and server mobility), stage/screen sightline obstructions, live speech intelligibility and room echo, and thermal/ventilation performance under full occupant loads.
 3. **Egress (Teardown & Load-Out Phase):** Attendee exit flow and egress dispersal, furniture dismantling, stacking, and removal procedures, loading door vehicle access congestion, and post-event turnover speed.
 
-## 4. Post-Design Stakeholder Evaluation Matrix & Focus Group Discussion (FGD) Guide
+## 4. Physical Environmental Measurement Instrument: Calibrated Sound Level Meter & Stage Pink Noise Protocol
+To capture objective physical baseline acoustic data and triangulate attendee survey ratings, an on-site physical sound level audit is conducted using a calibrated digital Sound Level Meter (Benetech GM1352; IEC 61672-1 Class 2 compliant) paired with a stage-mounted electro-acoustic sound source (JBL PartyBox portable high-output loudspeaker). The sound level meter operates across a 30 to 130 dBA measuring range with an accuracy of ±1.5 dB, 0.1 dB resolution, factory-calibrated A-frequency weighting (dBA) mirroring the human auditory response curve, and a 1/2-inch electret condenser microphone fitted with a high-density foam windscreen.
+
+The acoustic audit employs a standardized 8-point spatial measurement grid across the 840 sqm interior envelope:
+* **Main Hall Envelope (711 sqm):** Six listening nodes—Point 1 (Stage Front-Left), Point 2 (Stage Front-Right), Point 3 (Center Hall-Left), Point 4 (Center Hall-Right), Point 5 (Rear Hall-Left), and Point 6 (Rear Hall-Right / Under-Truss Zone).
+* **Lobby Envelope (129 sqm):** Two pre-function nodes—Point 7 (Main Entrance Foyer) and Point 8 (Registration / Holding Area).
+
+Measurements are gathered at seated ear height (1.2 meters above finished floor; 1.5 meters standing height in the lobby) maintaining a minimum 1.0 to 1.5-meter buffer from reflective boundary walls (ISO 3382-2:2008; Egan, 2007). In the unoccupied hall, acoustic readings capture the **Passive Architectural Envelope Baseline (HVAC Idle)**, adhering to municipal LGU administrative policies that prevent operating heavy mechanical HVAC units solely for student research observations. To evaluate room reverberation decay under standardized conditions, the stage-mounted JBL PartyBox projects calibrated broadband pink noise ($125\text{ Hz} - 8\text{ kHz}$) at $85\text{--}90\text{ dBA}$ reference output ($1.0\text{ m}$ on-axis) utilizing the standardized **interrupted noise decay method (ISO 3382-2:2008 Section 5.2)**, where the steady-state pink noise signal is abruptly interrupted to time sound decay duration back to the passive ambient background floor.
+
+## 5. Post-Design Stakeholder Evaluation Matrix & Focus Group Discussion (FGD) Guide
 To validate the synthesized interior design framework, 2D CADD layout typologies, and 3D visual models following Phase 2, a dual-component validation instrument is deployed during the post-design stakeholder review session (Tremblay, Hevner, & Berndt, 2010; Zeisel, 2006; Sanoff, 2000):
 
 ### Part A: Structured Design Verification Rubric (Quantitative Individual Scoring)

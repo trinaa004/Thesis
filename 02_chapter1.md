@@ -1,30 +1,30 @@
- Chapter 1: Research Framework
+# Chapter 1: Research Framework
 
 ## Statement of the Problem
-This study aims to formulate a site-specific interior design framework for the **Calbayog Cultural Convention Center** that harmonizes spatial modularity, Samar & Calbayog cultural heritage, and future-proof adaptability. 
+This study aims to identify the operational event typologies of the **Calbayog Cultural Convention Center**, analyze their spatial patterns and key interior design elements, and develop evidence-based interior design interventions that optimize spatial versatility, setup turnaround, and cultural identity. 
 
 Specifically, the study addresses the following research questions:
 
-1. What is the current baseline condition of the Calbayog Cultural Convention Center's Main Hall & Lobby in terms of indoor environmental quality (IEQ) and spatial usage efficiency?
-   1.1. What is the level of attendee satisfaction regarding existing interior lighting, acoustics, and thermal comfort?
-   1.2. What setup turnaround delays and spatial layout challenges do event planners and venue operators encounter within the 840 sqm interior envelope?
-2. How can modular interior zoning, reconfigurable FF&E, and standardized layout typologies (Plenary/Theatrical, Classroom, Banquet, Exhibition/Gallery) be formulated to maximize spatial capacity, configuration speed, and universal accessibility?
-3. How can the interior environment of the Calbayog Cultural Convention Center be designed to balance long-term operational resilience with local identity?
-   3.1. What interior material specifications, acoustic overlays, and overhead ceiling track systems can future-proof the facility for multi-scale event adaptability?
-   3.2. In what ways can localized Samar heritage (Basey *banig* weaving patterns, *tikog* grass textures) and Calbayog municipal identity (waterfall fluid forms, Hadang festival cultural movements) be integrated into interior surface treatments to cultivate a distinct sense of place without compromising versatility?
+1. What is the baseline operational condition and indoor environmental quality (IEQ) of the Calbayog Cultural Convention Center’s Main Hall and Lobby?
+   1.1. What are the attendee satisfaction levels regarding existing lighting, acoustics, and thermal comfort?
+   1.2. What setup turnaround bottlenecks and spatial layout challenges do event planners and custodial staff encounter during live operations?
+2. What operational spatial typologies emerge from the venue's event history and live observations, and what interior design layout interventions best optimize their furniture configurations, circulation clearance, and turnaround speed?
+3. In what ways can the interior envelope balance multi-event technical adaptability with localized Samar-Calbayog cultural identity?
+   3.1. What non-structural ceiling tracks, acoustic assemblies, and material specifications are required to support multi-scale event versatility?
+   3.2. How can localized Samar heritage (Basey *banig* weaving patterns, *tikog* grass textures) and Calbayog municipal identity (waterfall fluid forms, Hadang festival cultural movements) be integrated into interior surface treatments to cultivate place attachment without compromising versatility?
 
 ---
 
 ## Research Objectives
-This study aims to develop a site-specific interior design framework consisting of modular interior typologies and layout standards that adapt to the diverse event demands of the Calbayog Cultural Convention Center, integrating modular, culturally-responsive, and future-proof design principles to enhance spatial efficiency, user experience, and long-term functionality for both event planners and users of the space. Specifically, it seeks to:
+This study aims to identify the operational event typologies of the Calbayog Cultural Convention Center, evaluate their spatial and environmental challenges, and formulate evidence-based interior design interventions that enhance spatial modularity, operational efficiency, and cultural placemaking for both venue operators and event-goers. Specifically, it seeks to:
 
-1. To evaluate the baseline indoor environmental quality (IEQ) and spatial operational conditions of the Calbayog Cultural Convention Center's Main Hall & Lobby.
-   1.1. Measure attendee satisfaction with the existing interior lighting, acoustic performance, and thermal comfort.
-   1.2. Identify physical layout bottlenecks and setup turnaround delays experienced by event planners and venue operators during live operations.
-2. To formulate standardized modular layout typologies (Plenary/Theatrical, Classroom, Banquet, Exhibition/Gallery) and reconfigurable FF&E arrangements that optimize spatial capacity, accelerate turnaround speed, and ensure universal accessibility.
-3. To establish an interior design framework that balances long-term operational resilience with local identity.
-   3.1. To propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
-   3.2. To synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, Calbayog waterfall fluid forms, and Hadang festival movements—to establish a localized civic identity and place attachment.
+1. To evaluate the baseline indoor environmental quality (IEQ) and operational spatial conditions of the Calbayog Cultural Convention Center's Main Hall & Lobby.
+   1.1. Measure attendee satisfaction with existing interior lighting, acoustic speech intelligibility, and seating ergonomics.
+   1.2. Identify physical layout bottlenecks and setup turnaround delays experienced by event planners and custodial staff during live operations.
+2. To identify and categorize the operational spatial typologies that emerge from the venue's event history and live observations, and formulate optimized interior design layout interventions that enhance furniture mobility, circulation clearance, and turnaround speed.
+3. To formulate an interior design framework that balances long-term operational resilience with local cultural identity.
+   3.1. Propose future-proof interior material specifications, acoustic wall/ceiling assemblies, and a non-structural overhead ceiling track-and-rigging interface to support multi-scale event versatility. 
+   3.2. Synthesize culturally-responsive interior surface treatments—abstracting Basey *banig* weaving geometry, *tikog* grass textures, Calbayog waterfall fluid forms, and Hadang festival movements—to establish a localized civic identity and place attachment.
 
 ---
 
