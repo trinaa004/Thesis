@@ -11,7 +11,7 @@ Specifically, the study addresses the following research questions:
 2. What operational spatial typologies emerge from the venue's event history and live observations, and what interior design layout interventions best optimize their furniture configurations, circulation clearance, and turnaround speed?
 3. In what ways can the interior envelope balance multi-event technical adaptability with localized Samar-Calbayog cultural identity?
    3.1. What non-structural ceiling tracks, acoustic assemblies, and material specifications are required to support multi-scale event versatility?
-   3.2. How can localized Samar heritage (Basey *banig* weaving patterns, *tikog* grass textures) and Calbayog municipal identity (waterfall fluid forms, Hadang festival cultural movements) be integrated into interior surface treatments to cultivate place attachment without compromising versatility?
+   3.2. How can localized Samar heritage (Basey *banig* weaving patterns, *tikog* grass textures) and Calbayog municipal identity (waterfall fluid forms, Hadang festival) be integrated into interior surface treatments to cultivate place attachment without compromising versatility?
 
 ---
 
@@ -44,7 +44,7 @@ The results of the study will benefit the following:
 ### Scope of the Study
 The scope of this study is strictly confined to the development of a non-structural interior design framework and layout manual for the primary interior envelope (Main Hall and Lobby) of the Calbayog Cultural Convention Center. Specifically, the study includes: 
 
-* Designing a standardized menu of repeatable interior layout templates (e.g., Plenary/Theatrical, Classroom, Banquet, and Exhibition/Gallery configurations) optimized for the specific square footage of the venue. 
+* Designing a standardized menu of repeatable interior layout templates across four primary operational typologies (Plenary/Theatrical, Classroom, Banquet, and Exhibition/Gallery configurations) scalable across distinct occupant capacity tiers (50 to 500 pax) and dual-event spatial subdivision. 
 * Formulating ergonomic furniture density arrangements and loose FF&E layout clusters to maximize spatial efficiency and minimize setup/teardown turnaround times for event planners. 
 * Formulating a spatial policy and operational ruleset—comprising pre-calculated anthropometric clearance buffers, room-conversion protocols, and statutory compliance checklists (PD 1096, BP 344, RA 9514)—that eliminates trial-and-error setup guesswork for facility utility crews.
 * Integrating localized Samar heritage motifs, material selections, and traditional weaving patterns into upgraded perimeter acoustic drapery and ceiling acoustic overlays to establish a distinct regional identity. 

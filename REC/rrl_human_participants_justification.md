@@ -20,7 +20,7 @@
 
 ---
 
-## 2. Group 1: Event Planners, Coordinators, & Venue Operators ($N = 15–25$)
+## 2. Group 1: Event Planners, Coordinators, & Venue Operators (N = 15–25)
 
 ### Location 1: MICE Industry Section
 * **Location in `20_RRL.md`**: Section `## MICE Industry`, Paragraphs 2 & 3 ([Lines 13–17](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md#L13-L17)).
@@ -29,7 +29,7 @@
   > *"A major consideration for the success of this industry would be the decision-making process of event organizers or planners, who act on behalf of their clients. These professionals consider various factors when it comes to selecting a venue... (Lee & Lee, 2017)."*
 * **Ethics & Defense Justification**:
   * These citations prove that venue success depends directly on aligning spatial features with the real-world operational demands and venue selection criteria of event planners.
-  * Involving event planners ($N = 15–25$) via Purposive Expert Sampling captures empirical insights on setup turnaround bottlenecks, circulation constraints, and FF&E mobility that standard architectural textbooks cannot provide.
+  * Involving event planners (N = 15–25) via Purposive Expert Sampling captures empirical insights on setup turnaround bottlenecks, circulation constraints, and FF&E mobility that standard architectural textbooks cannot provide.
 
 ### Location 2: Adaptable & Flexible Design Section
 * **Location in `20_RRL.md`**: Section `## Adaptable & Flexible Design`, Paragraphs 1 & 2 ([Lines 56–64](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md#L56-L64)).
@@ -41,7 +41,7 @@
 
 ---
 
-## 3. Group 2: General Public, Event Attendees, & Visitors ($N = 100–120$)
+## 3. Group 2: General Public, Event Attendees, & Visitors (N = 100–120)
 
 ### Location 3: Culturally Responsive Design Section
 * **Location in `20_RRL.md`**: Section `## Culturally Responsive Design`, Paragraphs 1, 3, & 5 ([Lines 185–196](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md#L185-L196)).
@@ -50,7 +50,7 @@
   > *"Interior design thus becomes a medium through which occupants can recognize themselves in the built form... Krstić et al. (2024) emphasized that emotionally responsive, culturally sensitive environments can enhance occupants’ sense of belonging and promote well-being."*
 * **Ethics & Defense Justification**:
   * Literature establishes that a sense of place, psychological comfort, and cultural resonance are subjective user experiences.
-  * Involving event attendees and community members ($N = 100–120$) via Purposive Quota Sampling (Slovin's formula) is necessary to measure public satisfaction with interior comfort, acoustic intelligibility, visual sightlines, and local Samar cultural pride.
+  * Involving event attendees and community members (N = 100–120) via Purposive Quota Sampling (Slovin's formula) is necessary to measure public satisfaction with interior comfort, acoustic intelligibility, visual sightlines, and local Samar cultural pride.
 
 ### Location 4: Universal Accessibility Compliance Section
 * **Location in `20_RRL.md`**: Section `## Anthropometric and Ergonomic Standards`, Subsection `Universal Design & Accessibility Compliance` ([Lines 105–115](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md#L105-L115)).
@@ -61,7 +61,7 @@
 
 ---
 
-## 4. Group 3: Qualitative Key Informants ($n = 8–12$)
+## 4. Group 3: Qualitative Key Informants (n = 8–12)
 
 ### Location 5: Samar Weaving Heritage & Surface Translation Section
 * **Location in `20_RRL.md`**: Section `## Samar Weaving Heritage and Its Translation into Interior Surfaces`, Paragraphs 1 & 3 ([Lines 198–205](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/20_RRL.md#L198-L205)).
@@ -69,7 +69,7 @@
   > *"Basey, Samar, is widely recognized as a center of banig (mat) weaving, a craft that uses locally grown tikog grass and functions simultaneously as a livelihood and as a marker of community identity... (Garado et al., 2026; Del Monte et al., 2022)."*  
   > *"However, a verifiable typology of specifically Waray/Eastern Visayas weaving motifs remains thin in the published literature and may warrant primary documentation (e.g., interviews with Basey weavers or the NCCA intangible-heritage inventory)."*
 * **Ethics & Defense Justification**:
-  * The literature explicitly notes a research gap in documented Waray/Samar surface weaving motifs, directly justifying semi-structured qualitative key informant interviews ($n = 8–12$) with local venue administrators, cultural heritage experts, and weavers to achieve thematic saturation (Braun & Clarke, 2006).
+  * The literature explicitly notes a research gap in documented Waray/Samar surface weaving motifs, directly justifying semi-structured qualitative key informant interviews (n = 8–12) with local venue administrators, cultural heritage experts, and weavers to achieve thematic saturation (Braun & Clarke, 2006).
 
 ---
 
@@ -86,7 +86,7 @@
 - Pembegül (2009)                                                   - Garado et al. (2026)
          │                                                                   │
          ▼                                                                   ▼
-Merits Group 1: Event Planners ($N = 15–25$)                        Merits Group 2: Public Attendees ($N = 100–120$)
-& Key Informant Interviews ($n = 8–12$)                             to evaluate comfort, acoustics, & local identity.
+Merits Group 1: Event Planners (N = 15–25)                        Merits Group 2: Public Attendees (N = 100–120)
+& Key Informant Interviews (n = 8–12)                             to evaluate comfort, acoustics, & local identity.
 to evaluate setup delays, turnaround, & FF&E.
 ```

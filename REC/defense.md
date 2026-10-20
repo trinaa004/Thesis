@@ -100,9 +100,9 @@
 ### Accessibility Metric Matrix (Flexible Main Hall Context):
 | Accessibility Metric | Spatial Meaning in an Open / Flexible Hall | Standard Specification (BP 344 / ADA 2010) |
 | :--- | :--- | :--- |
-| **Accessible Seating Stall** | Reserved 760 mm x 1220 mm clear floor footprint integrated into loose chair/table layout templates next to companion seats. | **760 mm x 1220 mm** ($30\text{ in} \times 48\text{ in}$) clear floor spot + adjacent companion chair. |
-| **Wheelchair Corridor Width** | Unobstructed main and cross-aisle walking paths between temporary furniture setups. | Minimum **1200 mm** ($47.2\text{ in}$) clear aisle width. |
-| **Wheelchair Turning Radii** | Clear floor clearance at aisle intersections and dead ends for $360^\circ$ turns. | Minimum **1500 mm** ($59.0\text{ in}$) diameter turning circle. |
+| **Accessible Seating Stall** | Reserved 760 mm x 1220 mm clear floor footprint integrated into loose chair/table layout templates next to companion seats. | **760 mm x 1220 mm** (30 in × 48 in) clear floor spot + adjacent companion chair. |
+| **Wheelchair Corridor Width** | Unobstructed main and cross-aisle walking paths between temporary furniture setups. | Minimum **1200 mm** (47.2 in) clear aisle width. |
+| **Wheelchair Turning Radii** | Clear floor clearance at aisle intersections and dead ends for 360° turns. | Minimum **1500 mm** (59.0 in) diameter turning circle. |
 
 ---
 
@@ -118,7 +118,7 @@
 > 
 > **1. For Group 1 (Event Planners & Operators, N = 15–25):** I used **Purposive Expert Sampling**. Because professional event coordinators managing events in this specific venue are a small, specialized population, a large random sample is methodologically inappropriate. Literature (An et al., 2021; Palinkas et al., 2015) confirms that 15 to 25 expert respondents provide high content validity for venue logistics and setup/teardown evaluation.
 > 
-> **2. For Group 2 (General Public & Event Attendees, N = 100–120):** I used **Purposive Quota Sampling** and applied **Slovin’s Sample Size Formula** ($n = \frac{N}{1 + N(e)^2}$). For an estimated active attendee population of 500 to 1,000+ venue visitors, a sample of 100 to 120 respondents achieves statistical reliability at a 95% confidence level with an acceptable margin of error of $e = 0.08$ to $0.09$ (8%–9%), which is standard for descriptive public architectural perception studies (Creswell & Creswell, 2018; Israel, 1992).
+> **2. For Group 2 (General Public & Event Attendees, N = 100–120):** I used **Purposive Quota Sampling** and applied **Slovin’s Sample Size Formula** (n = N / [1 + N(e)²]). For an estimated active attendee population of 500 to 1,000+ venue visitors, a sample of 100 to 120 respondents achieves statistical reliability at a 95% confidence level with an acceptable margin of error of e = 0.08 to 0.09 (8%–9%), which is standard for descriptive public architectural perception studies (Creswell & Creswell, 2018; Israel, 1992).
 > 
 > **3. For Qualitative Interviews (n = 8–12):** 8 to 12 key informants selected from the survey pool achieve **thematic saturation** (Braun & Clarke, 2006).
 > 
@@ -129,36 +129,36 @@
 ### Step-by-Step Mathematical Calculation (Slovin's Formula)
 
 #### **Formula:**
-$$n = \frac{N}{1 + N(e)^2}$$
+n = N / [1 + N(e)²]
 
-* **$n$** = Required Sample Size
-* **$N$** = Total Estimated Population (Active venue visitors over a 5-year recall window, estimated at $N = 500 \text{ to } 1,000$)
-* **$e$** = Margin of Error ($0.08 \text{ to } 0.09$, or $8\% \text{ to } 9\%$)
-* **Confidence Level** = $95\%$
-
----
-
-#### **Sample Calculation 1 (Population $N = 500$, Margin of Error $e = 0.085$ / $8.5\%$):**
-1. **Square the margin of error ($e^2$):**
-   $$e^2 = (0.085)^2 = 0.007225$$
-2. **Multiply by population ($N \times e^2$):**
-   $$N(e)^2 = 500 \times 0.007225 = 3.6125$$
-3. **Add 1 to the denominator ($1 + N(e)^2$):**
-   $$1 + 3.6125 = 4.6125$$
-4. **Divide total population by denominator ($n = \frac{N}{\text{denominator}}$):**
-   $$n = \frac{500}{4.6125} = 108.4 \approx \mathbf{109 \text{ respondents}}$$
+* **n** = Required Sample Size
+* **N** = Total Estimated Population (Active venue visitors over a 5-year recall window, estimated at N = 500 to 1,000)
+* **e** = Margin of Error (0.08  to  0.09, or 8\%  to  9\%)
+* **Confidence Level** = 95\%
 
 ---
 
-#### **Sample Calculation 2 (Population $N = 1,000$, Margin of Error $e = 0.09$ / $9\%$):**
-1. **Square the margin of error ($e^2$):**
-   $$e^2 = (0.09)^2 = 0.0081$$
-2. **Multiply by population ($N \times e^2$):**
-   $$N(e)^2 = 1,000 \times 0.0081 = 8.1$$
-3. **Add 1 to the denominator ($1 + N(e)^2$):**
-   $$1 + 8.1 = 9.1$$
-4. **Divide total population by denominator ($n = \frac{N}{\text{denominator}}$):**
-   $$n = \frac{1000}{9.1} = 109.89 \approx \mathbf{110 \text{ respondents}}$$
+#### **Sample Calculation 1 (Population N = 500, Margin of Error e = 0.085 / 8.5\%):**
+1. **Square the margin of error (e^2):**
+   e^2 = (0.085)^2 = 0.007225
+2. **Multiply by population (N × e^2):**
+   N(e)^2 = 500 × 0.007225 = 3.6125
+3. **Add 1 to the denominator (1 + N(e)^2):**
+   1 + 3.6125 = 4.6125
+4. **Divide total population by denominator (n = \frac{N}{denominator}):**
+   n = \frac{500}{4.6125} = 108.4 \approx \mathbf{109  respondents}
+
+---
+
+#### **Sample Calculation 2 (Population N = 1,000, Margin of Error e = 0.09 / 9\%):**
+1. **Square the margin of error (e^2):**
+   e^2 = (0.09)^2 = 0.0081
+2. **Multiply by population (N × e^2):**
+   N(e)^2 = 1,000 × 0.0081 = 8.1
+3. **Add 1 to the denominator (1 + N(e)^2):**
+   1 + 8.1 = 9.1
+4. **Divide total population by denominator (n = \frac{N}{denominator}):**
+   n = \frac{1000}{9.1} = 109.89 \approx \mathbf{110  respondents}
 
 ---
 
@@ -166,9 +166,9 @@ $$n = \frac{N}{1 + N(e)^2}$$
 
 | Respondent Group | Sample Size | Sampling Method | Purpose & Methodological Rationale | Supporting Literature |
 | :--- | :--- | :--- | :--- | :--- |
-| **Group 1: Event Planners & Venue Operators** | $N = 15–25$ | Purposive Expert Sampling | Evaluate operational turnaround times, setup/teardown bottlenecks, FF&E reconfigurability, and ceiling track utility. Small expert pool yields high domain validity without requiring mass numbers. | *An et al. (2021)*;<br>*Palinkas et al. (2015)*;<br>*Pembegül (2009)* |
-| **Group 2: General Public & Event Attendees** | $N = 100–120$ | Purposive Quota Sampling | Evaluate interior comfort, sightlines, acoustics, wayfinding, and cultural identity. Slovin's formula confirms 100–120 is statistically reliable at 95% confidence ($e = 0.08–0.09$). | *Slovin (1960)*;<br>*Israel (1992)*;<br>*Creswell (2018)* |
-| **Qualitative Key Informants** | $n = 8–12$ | Purposive Saturation Sampling | In-depth semi-structured interviews to refine layout preferences and cultural surface abstraction until thematic saturation is reached. | *Braun & Clarke (2006)*;<br>*Guest et al. (2006)* |
+| **Group 1: Event Planners & Venue Operators** | N = 15–25 | Purposive Expert Sampling | Evaluate operational turnaround times, setup/teardown bottlenecks, FF&E reconfigurability, and ceiling track utility. Small expert pool yields high domain validity without requiring mass numbers. | *An et al. (2021)*;<br>*Palinkas et al. (2015)*;<br>*Pembegül (2009)* |
+| **Group 2: General Public & Event Attendees** | N = 100–120 | Purposive Quota Sampling | Evaluate interior comfort, sightlines, acoustics, wayfinding, and cultural identity. Slovin's formula confirms 100–120 is statistically reliable at 95% confidence (e = 0.08–0.09). | *Slovin (1960)*;<br>*Israel (1992)*;<br>*Creswell (2018)* |
+| **Qualitative Key Informants** | n = 8–12 | Purposive Saturation Sampling | In-depth semi-structured interviews to refine layout preferences and cultural surface abstraction until thematic saturation is reached. | *Braun & Clarke (2006)*;<br>*Guest et al. (2006)* |
 | **TOTAL SAMPLE** | **115 – 145 quantitative**<br>*(+ 8–12 qualitative)* | **Dual-Track Mixed Sampling** | **Ensures comprehensive synthesis of expert operational efficiency and public user experience.** | — |
 
 ---
@@ -184,7 +184,7 @@ $$n = \frac{N}{1 + N(e)^2}$$
 > **1. Venue Capacity Anchor:** The 711 square meter Main Hall of the Calbayog City Convention Center has a maximum single-event capacity of **500 occupants** (for assembly/plenary layouts), supported by the 129 sqm Lobby for pre-function flow.
 > **2. Target Inclusion Filter (5-Year Recall Window):** Because the study filters respondents to adults (18+) who have attended or organized an event inside the Main Hall or Lobby within the past five years (2021–2026), 500 to 1,000 is a conservative estimate of the *accessible target population of active, recurring venue visitors* in Calbayog City across civic, corporate, trade, and social event formats.
 > 
-> **3. Mathematical Plateau (The 'Safety Net' Argument):** Mathematically, Slovin’s formula reaches a stability plateau around 100 to 120 respondents. Even if the population estimate were assumed to be much larger—such as $N = 5,000$ or even $10,000$—Slovin’s formula at $e = 0.09$ yields $n = 120.4 \approx 121$ respondents. Therefore, our sample size of **100 to 120 public respondents** mathematically guarantees a 95% confidence level and 8%–9% margin of error regardless of minor population size variations."**
+> **3. Mathematical Plateau (The 'Safety Net' Argument):** Mathematically, Slovin’s formula reaches a stability plateau around 100 to 120 respondents. Even if the population estimate were assumed to be much larger—such as N = 5,000 or even 10,000—Slovin’s formula at e = 0.09 yields n = 120.4 \approx 121 respondents. Therefore, our sample size of **100 to 120 public respondents** mathematically guarantees a 95% confidence level and 8%–9% margin of error regardless of minor population size variations."**
 
 ---
 
@@ -208,8 +208,8 @@ $$n = \frac{N}{1 + N(e)^2}$$
 ### Acoustic Data Collection Methodology Matrix:
 | Acoustic Data Source | Research Instrument / Tool Used | Purpose in Interior Design Framework | What is EXCLUDED (Engineering Scope Boundary) |
 | :--- | :--- | :--- | :--- |
-| **User Acoustic Perception** | Structured Survey Questionnaires (Form A & B, Items B5, E1, E5) | Quantify user dissatisfaction with room echo & speech clarity via 5-point Likert scale. | Decibel meter readings ($dB$), Sound Pressure Level ($SPL$) maps. |
-| **Operational Impact** | Semi-Structured Key Informant Interviews (Protocol Module 1, Q3) | Capture qualitative experience of event coordinators on sound disruption during events. | Laboratory Sound Transmission Class ($STC$) testing. |
+| **User Acoustic Perception** | Structured Survey Questionnaires (Form A & B, Items B5, E1, E5) | Quantify user dissatisfaction with room echo & speech clarity via 5-point Likert scale. | Decibel meter readings (dB), Sound Pressure Level (SPL) maps. |
+| **Operational Impact** | Semi-Structured Key Informant Interviews (Protocol Module 1, Q3) | Capture qualitative experience of event coordinators on sound disruption during events. | Laboratory Sound Transmission Class (STC) testing. |
 | **Spatial Site Audit** | On-Site Observation Protocol (Checklist Category 6) | Qualitative auditory walkthrough to observe sound reflection locations. | RT60 digital sound frequency analyzers & impulse testing software. |
 | **Interior Design Solution** | Material Specifications & Overhead Layout Manual | Propose non-structural acoustic finishes (*tikog*, felt baffles, drapery). | Active sound masking system schematics & HVAC silencer engineering. |
 
@@ -229,7 +229,7 @@ $$n = \frac{N}{1 + N(e)^2}$$
 > 
 > **2. Validation of the Core Thesis Rationale (Open Building Theory):** The panelist’s observation actually validates our central research problem. A municipal convention center is an inherently multi-functional MICE facility. The fact that weddings (Banquet typology) and conferences (Plenary/Classroom typologies) demand different spatial, acoustic, lighting, and circulation setups within the *exact same 840 square meter interior envelope (711 sqm Main Hall + 129 sqm Lobby)* is precisely why a rigid, static interior fails. Applying **Open Building Theory (Habraken, 1972)** allows our framework to provide 4 standardized, reconfigurable layout typologies to seamlessly serve both event types.
 > 
-> **3. Methodological Triangulation:** We do not rely on public attendee memory alone. Attendee feedback is triangulated with **expert event planners and venue operators ($n = 15–25$)** who manage multiple event setups, as well as **objective on-site architectural spatial observations** anchored in anthropometric standards (Neufert & Neufert, 2012; BP 344/ADA aisle and seating clearances).
+> **3. Methodological Triangulation:** We do not rely on public attendee memory alone. Attendee feedback is triangulated with **expert event planners and venue operators (n = 15–25)** who manage multiple event setups, as well as **objective on-site architectural spatial observations** anchored in anthropometric standards (Neufert & Neufert, 2012; BP 344/ADA aisle and seating clearances).
 > 
 > **4. Attribute-Neutral Question Framing:** Survey items focus on baseline physical envelope characteristics—such as reverberation, sightline obstruction, clear walkway widths, and overhead rigging capability—which are physical realities of the space regardless of temporary decor."**
 
@@ -238,7 +238,7 @@ $$n = \frac{N}{1 + N(e)^2}$$
 | :--- | :--- | :--- |
 | **Demographic Filtering** | Section A event-type profiling enables cross-tabulation and subgroup disaggregation between wedding vs. conference attendees. | Structured Survey Instrument ([37_Survey&Interview.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/37_Survey&Interview.md#L45-L50)) |
 | **Open Building Theory** | 4 standardized Layout Typologies (Plenary, Classroom, Banquet, Exhibition) accommodate varying spatial demands. | *Habraken (1972)*; *Hashemian (2005)* |
-| **Triangulation** | Synthesizes Attendee perception + Expert Planner logistics ($n=15–25$) + Objective Anthropometric Site Observations. | *Creswell & Creswell (2018)*; *Neufert & Neufert (2012)* |
+| **Triangulation** | Synthesizes Attendee perception + Expert Planner logistics (n=15–25) + Objective Anthropometric Site Observations. | *Creswell & Creswell (2018)*; *Neufert & Neufert (2012)* |
 | **Attribute Neutrality** | Question prompts measure permanent interior envelope characteristics (acoustics, sightlines, circulation) rather than transient decor. | *An, Kim, & Hur (2021)*; *Pembegül (2009)* |
 
 ---
@@ -251,20 +251,20 @@ $$n = \frac{N}{1 + N(e)^2}$$
 ### 60-Second Verbal Defense Script:
 > **"Thank you for that question, Panel.**
 > 
-> **Because our survey questionnaire is a researcher-developed instrument, we conducted a pilot pre-test with 10 qualified individuals ($n = 10$) prior to main field deployment, in accordance with research methodology standards (Creswell & Creswell, 2018):**
+> **Because our survey questionnaire is a researcher-developed instrument, we conducted a pilot pre-test with 10 qualified individuals (n = 10) prior to main field deployment, in accordance with research methodology standards (Creswell & Creswell, 2018):**
 > 
 > **1. Purpose of the Pilot Test:** The pilot test does NOT gather final empirical study data. Its sole purpose is to evaluate item readability, contextual clarity, structural flow, Waray translation accuracy, and scale reliability (Cronbach's alpha).
 > 
 > **2. Pilot Participant Qualification:** For the Event Planner instrument, pilot respondents were required to have active event planning and coordination experience—such as campus/student organization event heads, local fiesta/church coordinators, decor and catering managers, or senior interior design peers. They possess direct operational knowledge of setup logistics, sightlines, and furniture arrangements needed to validate question clarity.
 > 
-> **3. Data Contamination Protection:** In strict accordance with our Exclusion Criteria, all 10 pilot test participants were explicitly excluded from the final main study sample ($N = 115–145$) to prevent familiarity bias and data contamination."**
+> **3. Data Contamination Protection:** In strict accordance with our Exclusion Criteria, all 10 pilot test participants were explicitly excluded from the final main study sample (N = 115–145) to prevent familiarity bias and data contamination."**
 
 ### Pilot Testing Protocol Matrix:
 | Pilot Parameter | Pilot Specification & Standard | Strategic Defense Purpose |
 | :--- | :--- | :--- |
-| **Pilot Sample Size ($n$)** | **$n = 10$ individuals** (5 event organizers/coordinators + 5 frequent event-goers) | Establishes scale internal consistency (Cronbach's alpha) and item readability. |
+| **Pilot Sample Size (n)** | **n = 10 individuals** (5 event organizers/coordinators + 5 frequent event-goers) | Establishes scale internal consistency (Cronbach's alpha) and item readability. |
 | **Inclusion Criteria** | Practical event coordination experience (student org heads, caterers, decorators, design peers). | Ensures respondents understand technical terms (FF&E, sightlines, turnaround times). |
-| **Data Integrity Rule** | **100% Excluded** from the main study sample ($N = 115–145$). | Prevents data contamination and participant familiarity bias (*REC F29 Exclusion Rule*). |
+| **Data Integrity Rule** | **100% Excluded** from the main study sample (N = 115–145). | Prevents data contamination and participant familiarity bias (*REC F29 Exclusion Rule*). |
 
 ---
 

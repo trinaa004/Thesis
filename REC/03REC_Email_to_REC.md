@@ -25,7 +25,7 @@ Attached to this email is the complete Research Ethics clearance package for you
 2. **Cover Letter for Research Ethics Review** *(Noted and Signed by Thesis Adviser)*
 3. **Informed Consent Forms** *(English and Waray/Filipino Bilingual Versions)*
 4. **Research Data Collection Instruments** *(Form A: Event Planners, Form B: Event Attendees, Key Informant Interview Guide, & Spatial Observation Checklist)*
-5. **Certificates of Instrument Reliability & Statistical Validation Reports** *(Cronbach's Alpha Pilot Results: Form A $\alpha = 0.9402$ & Form B $\alpha = 0.9469$, Master Composite $\bar{\alpha} = 0.9436$)*
+5. **Certificates of Instrument Reliability & Statistical Validation Reports** *(Cronbach's Alpha Pilot Results: Form A α = 0.9402 & Form B α = 0.9469, Master Composite ᾱ = 0.9436)*
 6. **Site Permission & Venue Authorization Clearances**
 
 I respectfully submit these documents for your review and clearance. Thank you very much for your time, consideration, and guidance.

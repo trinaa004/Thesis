@@ -118,7 +118,7 @@ The results of this study will benefit the following stakeholders:
 ### Scope of the Study
 The scope of this study is strictly confined to the formulation of a non-structural interior design framework and evidence-based spatial layout recommendations for the primary interior envelope (Main Convention Hall and Lobby) of the Calbayog City Convention Center, located at Inay-la St., Brgy. Capoocan, Calbayog City, Samar. Specifically, the study includes:
 
-* Designing a standardized menu of four repeatable interior layout templates (Plenary, Classroom, Banquet, and Exhibition configurations) optimized for the specific dimensions and occupant capacity of the venue.
+* Designing a standardized menu of repeatable interior layout templates across four primary operational typologies (Plenary, Classroom, Banquet, and Exhibition configurations) scalable across distinct occupant capacity tiers (50 to 500 pax) and dual-event spatial subdivision.
 * Formulating ergonomic furniture density arrangements and loose FF&E layout clusters to maximize floor plate utility and minimize setup/teardown turnaround times for utility staff.
 * Establishing evidence-based spatial layout recommendations and clearance matrices in Chapter 5—incorporating statutory clearance standards (Batas Pambansa Bilang 344, Presidential Decree 1096, and Republic Act 9514)—to eliminate guesswork in furniture spacing and aisle clearances.
 * Integrating localized Samar heritage elements—specifically abstracting Basey *banig* geometric weaves, natural *tikog* grass textures, and Calbayog waterfall fluid mechanics—into perimeter acoustic wall claddings and suspended ceiling baffles to mitigate flutter echoes while cultivating regional identity.

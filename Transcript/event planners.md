@@ -611,3 +611,243 @@ Key Informant: Informant EP5
 Participant Profile: Event Planner & Coordinator
 
 
+TM:So good evening, ako po si Trina Jane Misagal, usa po ako na fourth year interior design student sa University of San Carlos po. Tapos ini po na interview po kay para po sa akon thesis about sa mga events sa convention center, and sa interior or sulod san convention center.
+
+TM: And these questions la po kay about la po—it will just be about your experience within the convention center as an event planner and coordinator. Okay.
+
+TM:So may I ask po what what you do po, what your occupation is, or profession?
+
+EP5:So, I'm a teacher, and I do events planning and coordination as a side hustle, and as well as um being a on the styling side of our planning.
+
+TM:Mm. How long have you been um with been um handling events po?
+
+EP5:Um, like since 2015 or 2016, mga sugad sana.
+
+TM:So it's been around 10 years or so.
+
+EP5:10 years, yeah, yeah.
+
+TM:Um, so for the first question, um what do you think sa imuhang sa imo sa imo opinion, nano an imo um thoughts, like what what do you think are the biggest space and layout challenges na imo nafi-face pag nagse-set up ka or back packing down events sa convention center kun?
+
+EP5:Um, so far regarding sa sa space alone sa sa convention center, um enough man hiya. Enough man hiya for us maka kuan man hiya, spacious enough man hiya for us to move during ingress, um enough man hiya for tanan mga gamit pag during mag kuha san gamit. So waray man hiya, waray man hiya waray man gud kami masyado challenge regarding that. Um, though sa iba nga factors siguro mayda. Pero regarding sa space, um there's, yes. Um, convention kasi is diri man tanan not all events are gamit kudi an bug-os na ano eh. Usually, um our biggest biggest big event there, like weddings, diri gud hiya gingagamit an stage. So um siguro kun sa space sa sa stage la gud kay may kuan may may comment. Pero regarding overall general, generally, an space niya is waray man gud.
+
+TM:Mm. Um, may I ask po, since you mentioned your issues with the stage, what what are your opinions with the stage? Like what what I noticed that when I was observing, they always cover the stage when it comes to private events like weddings and birthdays.
+
+EP5: Yeah, I suggest kasi a stage na more convertible. You know, um like like diri hiya diri hiya permanent na sugad sanan nga height, kase not all events are magamit san sugad sana nga height. Kay so ideally, iton niya height kasi it for for programs like graduation, like um formal programs na kinahanglan mga uh speaker na uh like mga speaker ba nga ano, uh spokesperson, mga something like that kasi kinahanglan elevated. But for the other events, like uh birthdays, weddings, we don't opt for the using the stage kasi it's too high.:So, yeah, yeah. Parang ang nagawas it, graduation la niya ata an pwede gamiton an stage. So iton gud an kuan kasi eh. So I suggest bagan convertible ba an tawag sana? So...
+
+TM:Mm, convertible stage, or something na pwede hiya i-store somewhere within, kay mayda man storage room an convention center, right?
+
+EP5:Oo. Kase ang amon ang iba kase na venue, like Saryo Akko Hotel, The Pavilion, ang ira kasi stage is removable eh. Or kun diri mo man hiya iremove, nare-reduce an iya height.So so better siguro sugad siton, para at least if ever diri hiya gamiton, or if ever gamiton man hiya, mare-reduce an iya height. If ever naman diri hiya gamiton para mas laluag pa an space, tanggalon siya, something like that.Tapos ano kasi eh, usa liwat kasi ito na dida na nagra-raise an usa na challenge. If ever if ever we're going to use the stage naman, since the the stairs there sa side, sa access sa stage, diri siya removable, it's permanent. So mayda kami struggle dida san pagtaod san drapes sa stage, sa drapes sa stage. Kay an scaffolding an scaffolding is may space between the floor and the the ano the the floor mismo and the stage. So may hagdan man. An scaffolding niya is ano, so another scaffolding, di mo na lakhan an agi para ma... Iton na part na may may staircase abot san scaffolding, didta kami nagkukuripag. Isa liwat challenge an pagtaod san kuan, san drapes, cortina. So far amo la ito na ano regarding...Tas if ever, oo, for example, if ever iba na nga event and ano, pero they require or they want as the idea is parts san ceiling treatment. So since hataas ura-ura an stage, pag an iton nga view, visual ba unta san kuan, is naghihimubo an space. Since may ceiling treatment, una una an stage, and since hataas an elevation san stage, guti na la an space niya san san tawo, san lights, or something like that. So baga nagugutiay an visuals visuals. Like kun ngay-an ta s'ya san nag-request an client na may event dida hira, then pag... kun gab-i... Since diri na... takluban an stage, gamit s'ya sa morning, so may ceiling works, may ceiling treatment stage. So kun may ceiling treatment sa stage, guti na la an space niya.
+
+TM: Mm. Ah, I see. Oo.
+
+EP5: Oo. Di ba? Kun ti-landingon ta an sa ceiling treatment sa dance floor or sa sa whole area...ttas duderetso ceiling treatment tikadto sa stage, since ang stage elevated, 'di ba, an space visuals ngadto sa stage nga part, guti na.
+
+TM: Medyo guti na.
+
+EP5:Oo.
+
+TM:I see.
+
+EP5:Mura ni na siya ug part sa ulo sa tawo.
+
+TM: Mm, so baga'n if aadto dida an celebrant….
+
+EP5: Yeah, yeah, yeah, yeah. So mas maopay siguro na convertible talaga an stage.
+
+TM: An stage. I see, I see. Okay. Now, for the next question po: um gaano kaiha usually an an how long does it take for your team to set up when it when you pag-ingress, and then what causes the longest delays?
+
+EP5:Sa ingress? Um oo, an sa ano naman... An structure alone is waray man siya factor siton. Ah, an kuan la... an cause of delay dida is danay an an authority or an bantay na mago-open san establishment.
+
+TM: Mm.
+
+EP5:Oo, pag halimbawa natataimingan na lumawa, so maghulat pa kami. That's a kind of delay also kasi kasi danay na-iihan pagbalik. Pero so far, waray man liwat, diri man gud siya perme, so diri man gud siya big deal. In terms of delay dida sa ingress, sa siton. Um lugod, um sort of medyo uncomfortable la talaga kami pag nag-aayos.Since since diri siya well-ventilated sa sulod. Pag diri naka-open an aircon. Tapos...So so diri waray waray diri waray comfort talaga an diri comfortable an akon staff, kami, pag nag nag-start kami decoration, since since amo na ito, waray ventilation, super kapaso sa sulod, tapos waray abrihi aircon bisan utala...
+
+EP5:
+So I think there's a solution for that, right? At least kun diri nira magamit unta an aircon, at least unta mayda man la hira iprovide na na industrial fan for us to be at least comfortable na nag-aayos ngadto kun diri nira ipagamit an kuan. Or or may mga mechanism sa sulod, like like windows na kun, 'di ba may mga ano man may mga establishment man nga an ira walls are may mga convertible liwat nga pwede la siya isara pag during function na, tapos pwede la siya iclose, para at least mayda ventilation didto bisan waray kuryente.
+
+TM: That's true.
+
+EP5: So, so far in terms of ano, waray man gud delay. Iton la gud talaga an nagiging comment everytime na mag-start kami san preparation.
+
+TM:Mm. Regarding sa factor ha san establishment, waray.
+
+TM:Waray gud. Usually it's like, what if po sunod-sunod an event?
+
+EP5:Um kun sunod-sunod naman an event, iton la gihapon. Pero sa amon part as a planner, diri namo gin- ginpre-prevent na talaga namon daan na, like for instance, every event namon is ginpapabook talaga namon sa client for two days.
+
+TM: Two days.
+
+EP5: They're going to pay for two days, yes, kasi that's a public establishment, and you can't do something about it kun may ibubook sila or ipapabook nira sa iba since you're not paid for that certain ano date, 'di ba? So kun sunod-sunod an event, secure naman an amon event since we our client paid for two days, which is the the first day is the preparation day, aside from our own day.
+
+TM:Mm.
+
+EP5:Depende gihapon sa strategy. It all depends on the strategy san iyo planner and coordinator. So sa amon part...
+
+TM: So that's something to be considered.
+
+EP5: Yes. In our part, malabo siya mangyari kasi we always ano, secure the date na kailangan namin. Especially the preparation day, because we all know that we all we always we are always cautious about preparation eh, kasi time is very crucial factor in terms of event. So that is why securing the two days for your event is ano na siya, ideal.
+
+TM:Mm.
+
+EP5: So regardless kung magsunod-sunod man an event didto, since you paid for two days, and then your preparation is...
+
+TM: That's true, that's true.
+
+TM: Now, since na-mention po kani-na an temperature, this next question is also related to that po. With your experience, how does the current like sound clarity, pati lighting and room temperature affect your events during the events na mismo?
+
+EP5:Actually, um guests are guests feels uncomfortable talaga pag nahingangadto hira sa area na parang beyond reach na or diri man gud siya naabot san aircon, since not all air air-conditioning unit are functional. So, there are certain units there that is out of order, and if the guest medyo diri namon didto nag diri gud kami didto nagbubutang table, which is somewhat useless iton nga area para sa mga guest. Pero usa liwat time, it's necessary na i-occupy talaga i-utilize an space eh. So, may mga guest talaga na diri maiwasan magreklamo because mapaso na pag iton adto hira dida, since iton nga area is nonfunctional an aircon. Though, bagan I think usa la gihapon, usa la gid didto talaga diri nasyonan. Tapos ano, um ano, natitigpat... natuturo pa. So, the guests are uncomfortable. Tapos naman, uh somewhat may frustrations danay an client everytime na nag nagtitrip an kuryente..So, something like that. There are instances na parang, I don't know if if the power supply is too low for the convention, na na-compromise danay an power na danay na tigda nagba-brownout or basta nagti-trip an light.
+
+EP5:
+So tigda napaparong, so nakakalasan kami. And then, affected danay an pag siton na tigda napaparong tapos magla-light tigda, bagan affected an amon uh an amon LED wall. Mayda kami suba instance na uh one of the fuse one of the panel na pumutok an fuse because of that.
+
+EP5: Didto sana LED LED panel, that's why nag-blank po siya. So, that's a ano, red flag for our ano, our event. Kasi, 'di ba, you have to deliver all the best that you can para sa smooth smooth an an flow. But if there are certain things that happen na beyond our control, pero dapat uh kuan mayda unta precautions kun kay kun waray sadto sana na power trip sa sa venue, at least it it ano, naprevent unta ito.
+
+TM: That's true, that's true.
+
+EP5:
+Yeah, yeah, yeah. Tas uh kuan and brownout, sa sulod la ito san establishment.
+
+TM:Not everywhere not elsewhere?
+
+EP5:Yeah, yeah, yeah, yeah. Only the convention. As what I've said, it's like a power nagti-trip 'yung ano 'yung breaker, parang gano'n.
+
+TM:Mm.
+
+EP5: So um in fact, I thought na na na-fix na ito, since may gintaod na um may gintaod na transformer na bago sa gawas. I thought na that would fix the problem, but parang that this year may na-encounter again kami during that time sa amon event. So that's it.
+
+TM:Mhm. I'll take note, I'll take note. [Laughs] Now, for the current lighting conditions and current ceiling and lighting fixtures sa sulod san convention center, um what's your opinion on it?
+
+EP5:Um it's so boring, it doesn't uh that's why um most events opt for ceiling treatment since um it's not that ano, it's not that adequate. So diri siya good, uh parang nakukulangan ako, inadequate siya in terms of lightings. And then um regarding uh san pagiging aesthetically ano, it's not aesthetic. So, and then...Though naayos na nira an iba na mga broken lights, still an parang may mas maopay pa unta siton nga kuan, 'di ba? I mean, diri siya appealing, diri liwat siya aesthetically appealing, diri siya adequate. So, 'yun 'yun.
+
+TM:Now, ini na next question po na-mention na po kani-na with like regarding the adjustable stage. The next question is um kun nano an what do you think are the movable furnitures or adjustable staging, like what like it would would it make your event setups faster and easier?
+
+
+EP5:Yeah, the the movable stage, since um part siya san danay ginkakabiran, so if ever diri siya accessible sa mga scaffolding, so it would take us it's a challenge for us to to ano do the kun pan-o namon makakab-ot iton nga wall sa stage, nga which is diri siya naabot because of that. And then, um regarding naman siton na ano na iba, siguro ano..Okay. So, regarding naman sa mga movable ano, waray man. Ah ano na la, an ira purtahan which is guba naman. Tapos um at least unta mas ma-fix nira ito na maging smooth an pag an pag pag-abri, pagsara, kase uh tapos waray siya proper na lock. So, siya la ito. Pero other things, mas maopay kasi talaga an usa nga, for me, ideally, mas maopay an i-decor, i- ano man an or iset-up an usa na area bagan plain and blank canvas, something like that.
+
+TM:Plain and blank canvas.
+
+EP5:Yeah, bar- we don't want a lot of obstacles sa in. So which is um a permanent stage is part of an obstacle during the setup. Tapos mayda didto usahay by the way regarding kanina san imo ginbasa about san temperature. An iba man talaga ano, usa na uh access or ventilation, kase uh pag unused an stage, meaning may cover, 'di ba? So, so an duha nga aircon kase is nagagawas hiya, so diri bagan pag magtaod kami nga diri namon gagamiton an stage, nagagawas hiya. So an iya an iya hagkot unta nga ginahatag is natatahoban siya pakadto sa... Yeah, kasi an iya flow... Mas aopay unta ito kay kun movable iton, kay para at least na-adjust hiya kun at least laba siton la nga area mamu-move nga puwede siya i-isol didi dapit, para at least mapopokus hiya sa guests kay kun tahob an stage. Tapos naman kun gamit an stage, at least ibalik lang ito. Something like that, like that. Pero I think that's useful naman. It's very simple, but useful para sa mga whatever it is. Kasi diri tala- nagagawas na talaga siya pag magtatahob na kami.
+
+TM:Now, for this next question po: what would you think about having a ready-made layout templates for different kinds of events in the convention center? How would it help your event planning for initial anos, for your initial plans?
+
+EP5:Uh kay kay. So regarding that, I think client's approval will be much faster, since um upon your meetings you can present that. Of course, um based on reality, as as if ever based on your experiences, you're going to create that, you have that template, so and a proper discussions to the clients, I think that would that would provide a faster transaction with your client. Kasi uh clients who don't have any idea about events would always assume that all venues are the same, regardless of your design, so something like that. Like comparing it to a sports center or comparing it to a to a basketball court, which um venues are very much different in terms of uh physical, what do you what do you call this one? Structure alone.That's very much different. It's actually easier to to style a basketball court than convention center.
+
+TM:[Laughter] Thank you for that insight. [Laughter]
+
+EP5:Yeah, that's because of the that's because of the structured structural design alone. So, since um comparing basketball court and convention center, uh convention center are a lot there's a lot of restrictions in terms of uh using staples, something like that. And then, uh there are preparations that um take time, like like doing a frame for for our for our drapes, something like that. So unlike unlike in a covered court, uh um the metals there, the structural the structure alone of a covered court, that that will serve as the foundation of a drapings. While in a convention center, you have to you have to make that. Like kailangan mo pa siyang gawin, like kailangan mo pang gumawa mismo ng ng buong frame, the whole area. So you have to you have to tie a a, what do you call this one? 'Yung alam mo 'yun, 'yung tire, ano....tie wire? 'Yun, oo, gumagamit kami ng alambre at pa-palibot, the whole area, para lang may may foundation 'yung 'yung drapings natin.
+
+EP5:
+And then, of course, uh we're using scaf- uh we're using trusses for for a very heavy heavy things na ilalagay sa ceiling treatment, like chandeliers. Um, without trusses, uh you cannot you cannot do uh heavy ceiling treatments sa convention center since since walang ano doon, walang foundation do'n na to secure the heavy things na ilalagay mo sa ceiling.
+
+TM: Mm.
+
+EP5: Unlike sa sa unlike sa covered court, um you can just use long long ropes or para maisabit mo 'yung mga chandeliers mo eh. Unlike sa convention, walang gano'n eh. Walang...
+
+TM: Anchor?
+
+EP5:Walang mga bakal na puwede mong pagsabitan.
+
+TM: Ah, okay.
+
+EP5:'Di ba? Kasi sa covered court, there are built-in trusses. But in the convention, it's just a plain plain ceiling, without any uh foundation of something na puwede mong malagyan ng mabibigat.
+
+TM:Mm.
+
+EP5:Of course, unlike also sa sports center, 'di ba? Some of us uh some of us uh stylists mas preferred 'yung ano uh 'yung tawag dito, sports center since it's like a covered court. Na kasi sumasakop 'yung space 'yung paa ng ano eh, trusses eh. If may trusses tayo, syempre may may nakaharang 'di ba? So, iiwasan 'yun sa table arrangement, so gano'n. Parang...
+
+TM:
+It takes away space. Mhm.
+
+EP5:Yeah, yeah, yeah, yeah. So that's it. Mas maganda pa rin 'yung 'yung walang paa 'yung trusses na gagamitin, kasi parang mau-utilize 'yung buong space sa baba.
+
+TM:Mm. Okay. Noted.
+
+TM: Now, para sa next question po: nano po an mga problems in terms of aisle spacing, like mga waiter service paths, or perhaps even wheelchair accessibility during mga large gatherings?
+
+EP5: Actually, there's no ano... 'Di ba, there is a disability platform for supposedly uh PWD platform for entrance of every uh establishment? Pero sa convention, walang gano'n.'Di ba, walang PWD ramp ba 'yung tawag? 'Yung 'yung para sa mga wheelchair, walang gano'n sa convention.
+
+TM:
+Mhm.
+
+EP5: And then, uh regarding naman sa sa you have mentioned about the waiter, bumping waiters, 'yung parang uh access ng mga moving crews, no? Uh it always depends on the number of pax naman. It always depends on the number of guests. Yes. Of course, if ever you're going to utilize the whole capacity of the convention center, mas mahihirapan na 'yung uh waiters na na passing through every guest ano. Pero again, that always depends on the planning. If ever man 'yung nangyari or mangyayari na the guest uh the client is expecting a 300 guests, which is convention can only accommodate at least uh 250 for a wedding, uh if ever umabot man talaga ng 300, uh it is advised naman that uh caterer should always have two two two sets of uh crew. Like, iba 'yung staff sa left side, iba 'yung staff sa right side.
+
+TM: Mm.
+
+EP5: And they are instructed that uh they are not supposed to roam around uh crossing the aisle for their ano, because they are assigned on the other side, while the other staff are assigned on the left side, something like that. Yes.
+
+TM:So it's about of about coordinating with everyone.
+
+EP5: Yeah, yeah, yeah, yeah. We always do that. We always coordinate with everyone. So, iba 'yung uh parang ground staff ng left side, iba 'yung ground staff ng right side. We always discourage them crossing the aisle, especially um during shoots and uh during shoot. Since uh during dinner, it's always safe naman na uh safe naman siya sa pag-bashing sa mga ano, sa pagiging ano tawag dito, uh photobomber, since okay lang naman 'yun. Uh para para maiwasan lang 'yung 'yung maging pagiging disorganized, magkaiba talaga 'yung staff sa kabilang buffet, since we they are always advised to have two buffets in every uh guests 200 and more. So ibang staff 'yung nasa left na buffet, ibang staff 'yung nasa right.
+
+TM:Now, para sa next question, maano ini an an imo gin-mention kani-na [laughter]. Now [laughs], paano po makakabulig sa iyo kun mayda na daan na, like, ceiling-mounted tracks, or maybe rigging or hanging points? How would it help with your lighting, sound, and backdrop setups?
+
+EP5:So it would help us a lot. It would um give us more space for our table arrangements, since we don't need to use trusses which requires a, ano uh tawag dito, 'yung lifter na na it utilizes at least one table talaga, since 'yung 'yung 'yung paa ng lifter na 'yan is malapad.
+
+TM: Mm, mhm.
+
+EP5:So, which is iniiwasan ng tables, sa table arrangement pa lang, um inaano na 'yung paa, baka may masagi, or baka may baka may mapatid na guest. That's why, uh it's very much useful since they we don't need to use that anymore if there is a built-in what do you call this one? If there's a mounted tracks for that, at least for a hanging points for for a heavy heavy elements that we're going to use during styling. And, of course, 'yung um tipid din sa oras kasi hindi na kami gagawa ng sariling frame for the foundation of our drapes. Kasi it it it consumes time. 'Yung 'yung ano pa lang, uh paggawa pa lang ng framing.
+
+TM:Mm. How long does it take framing pa lang?
+
+EP5:Uh framing pa lang would take uh two to three hours.
+
+TM:And then the drapery on top of the framing?
+
+EP5:The drapery is like five hours.
+
+TM:Ooh. For everything?
+
+EP5:Um no, not not everything. Uh that's the ano, fabric things lang. Uh wala pa diyan 'yung mga chandeliers natin, 'yung hanging lights, wala pa diyan 'yung accessories. Because they're going we're going to attach uh more than 20 20 panels of fabrics, so...
+
+TM:Oh, to cover the entire...
+
+EP5:Yeah, more than 20. Yeah, to cover the ceiling in the convention center. I think that's 25 to 30 panels. Actually, ano, in totality, you can use at least 9 rolls of fabric for that. Yeah, like, nine rolls of fabric. So, what we're what we're using during uh styling, so we're using nine rolls of fabric for that for the covering alone of the ceiling and the wall. So, that takes a lot of time, you know.
+
+TM:Tapos ang next question: um how would you think um kanang mga motorized hoists, if it was already provided by the convention center, would like how would you think it would improve safety and possibly free up floor space?
+
+EP5:Yeah, that's uh very uh useful, since um we're not going to provide our own lifters...which would save up space for our guests. During um uh during floor plans, we're not going to allot uh space for the lifters on the floor. So at least, um it would save us four tables.
+
+TM:Four tables.
+
+EP5:Which is 40 people.
+
+TM:Mm. That's a lot.
+
+EP5:See? Yeah, 40 people, since uh there are 10 pax per table, which is uh um if ever we're using a lifter, it has four uh four we're going to use four lifters, and then um one lifter uh takes up a space of a a 10-seater table. At least, we have yeah, at least we have saved at least 30 to 40 pax. So if ever they're going to provide that, at least um they're going to give us space, more space. Yes, adequate space for for at least, yeah, at least 300 guests. Kasi 300 guests tapos may may trusses tayo is uh medyo masikip na. If ever walang trusses, at least uh adequate space ang maibibigay if there is a motorized lifter sa venue mismo. And then, uh during preparation actually, um that's why we're using lifters, because um it also saves us time. Since um everyone on the floor without without doing a lot of effort climbing on a scaffolding, so we're just uh we're just standing on the floor doing the decorations while the trusses is still lowered, and then when we're done, that's the only time that it will be lifted.So if ever they can provide lifter there, so that would save us a lot of time and effort, 'di ba?
+
+TM:
+Mhm, that's true
+
+EP5: Uh that would save us at least uh five hours. Yes, because uh a 20 20 by 20 feet 20 by 20 feet um scaffolding is a large area for us to to get to to be climbing and and how many times, climbing up the scaffolding for how many times, 'di ba?
+
+TM:That's true, back and forth, getting materials, yeah.
+
+EP5:Yeah, take materials, you roll it up in the scaffolding, and then you attach that, go down and go up, go down and go up, for a 20 20 by 20 feet area. So it it takes a lot it it will take us a lot of effort and time.
+
+TM:Now, for the next few questions, about na po ini sa um sa culture, identity, and heritage of Calbayog City and Samar. So, it'll just be about your opinion or what your thoughts are. Okay, so for the first question, um what are your thoughts on featuring Samar cultural heritage and Calbayog's natural heritage and identity on the walls and the ceiling? Like, for instance, um the the banigs in Basey, or um Calbayog being known for its its um Hadang Festival, and the waterfalls, something of that sort?
+
+EP5:Actually, I don't I don't see anything um identical to our cultures uh depicting in the or showing in the convention center. I don't I don't see such kind of sign or I don't know, I just see a lot of tarpaulins there, but...:that that's the only thing that that shows our cultural heritage in convention center. Without that, I don't I don't know if...There's any convention center showcase such kind of uh culture. So...
+
+TM:Wara pa man gud. [Laughter] Kun mabutang hiya, or ma-include siya sa future design, let's say sa sulod, what are your thoughts about that?
+
+EP5:Ah, pwede man, mas maopay man siguro. Like for example, the ceiling, you can uh sa ceiling, pwede. The uh sa walls and stage, which is uh supposedly um an number one nga magsho-showcase if ever. So it's a at least um at least if LGU will be using convention, there is a less effort for the beautification of the stage decorations, since there is already a identity of Calbayog uh on stage, right? So that's not bad naman. Actually, it uh though though for me, 'di ba, as a perspective of a stylist, a blank canvas is better than um a ano a a space which are which you have a lot of things na you have to cover. So they can do that outside na lang, pero not inside. Since um ideally for a stylist, everything will be covered, 'di ba? We need a canvas, a blank canvas for our...
+
+TM:
+Now, what if there was a way to make it so that it won't be clashing with, like, a wedding theme or a conference theme?
+
+EP5:Um you can do that outside. Like what? Outside, you can do that outside, because um it won't affect the the showcasing inside of a certain event, 'di ba? Kasi uh the videos that are captured during events or especially weddings and birthdays are inside naman eh, uh shooting uh where us stylist ano did our decor. Pero sa labas naman, 'di ba, 'yun naman ang 'pag labas ay, it's convention. It's the convention of Calbayog. Something like that. When when when guests arrive from other other uh places, because we have a lot of clients that uh already, what do you call this, staying on the other places, like from Cavite, North, Cebu, so we have guests coming from that place.:So better siguro na sa labas i-showcase 'yung mga ganyan para, 'Ay, this is Calbayog, this is convention of Calbayog City.' Gano'n. 'Di ba? No need na to to put it inside, since since 'yung sa loob kasi is the stylist's concern. Well, sa labas naman is the facade's concern. Mhm. 'Yun lang. That's my suggestion, my opinion. Kasi 'pag pasok mo sa loob, wala lang, plain building. Building na building na pwede mong makita kahit saan. Walang identity, gano'n lang. So, 'yun lang. If ever we're considering this um cultural heritage, you can show it, but outside. I mean, sa exterior. Yeah. Kasi if ever interior 'yung gagawin natin, it's tatakpan man la gihapon ito san mga stylist. For LGU, bisan pa for LGU kasi they're still ano, uh they're still hiring stylists eh. Siguro uh to minimize lang the cost of styling, siguro. To minimize the cost of styling, pwede. Pero, they're still hiring stylists.
+
+TM:Okay. Now, an convention center, an tawag po sa iya kay Calbayog Cultural Convention Center officially, right?
+
+EP5:Pero waray man didto cultural [laughter] identity sa sa building mismo. So, just a building. Idon't know ha, pero sa akon pagkita, waray talaga ako nakikita. Generic building, amo la.
+.
+TM:'Di ba usually an mga like mga festival events, or like mga art exhibits ginhihimo gin- ho-hold siya sa Handumanan Museum or sa sports center? Like how come what why do you think it's not being held inside the convention center?
+
+EP5:Um cultural events, like uh... Why? Uh the space for the audience. You know, kasi um sports center can can accommodate uh a lot of audience, more than 500 audience. So, if ever we're showcasing something, uh we need audience, wherein convention cannot hold that kind of audience. So so ideally, um regarding those kind of shows which requires a lot of audience, um convention center can't hold such audience. That's why. Wherein sports center is the right venue for that. We have risers there, uh may mga lingkuran, which is perfect for that kind of events. So um wherein naman, convention is perfect for uh gala, for other events other than cultural presentation.
+
+TM:Now, uh may follow up question po: um why do you think despite the building being older compared to other event event spaces like Baypark or Ciriaco, why do you think it's still getting booked by people?
+
+EP5:Of course, it's cheaper. Comparing it to other uh establishment or events place, like for example, um Baypark Pavilion, it's too uh that is the most expensive events place as of this time. Okay, so a 16,000 rent per day um is much uh a 16,000 rent per day, which can hold to 300 pax maximum for a wedding, is much better than an 18,000 rent per day which can only hold 100 pax, which is at the Baypark, a newer uh a newer establishment or ano. Um, and then, um con- uh comparing it to Ciriaco naman, convention kasi is uh event there is customizable, meaning you can choose suppliers that you like. You have the choice. So, so you're just booking the the the the the reception alone or the venue alone, unlike in Saryo Akko, you cannot book the venue alone. It's always it always comes with a catering service. That's why um yeah, that is why uh people are still choosing, uh aside from being being affordable, uh people still choosing um convention over Ciriaco and Pavilion. Because, as what I've always offered, the uh events..
+
+TM: Ohhhh, thank you so much for your time and your insights po! They will be helpful for my study.

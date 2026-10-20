@@ -27,7 +27,7 @@ For the Event Planners and Venue Operators group, a Purposive Expert Sampling me
 
 For the General Public and Event Attendees group, a Purposive Quota Sampling method will be utilized to ensure a balanced demographic cross-section of event-goers across diverse event formats (such as social celebrations, trade exhibitions, civic assemblies, and professional conventions). To determine a statistically defensible sample size for the venue's active public user population (based on the Main Hall's maximum assembly capacity of N = 500 occupants up to an estimated N = 1,000 active event-goers), Slovin's sample size formula:
 
-$$n = \frac{N}{1 + N(e)^2}$$
+n = N / [1 + N(e)²]
 
 and Israel’s (1992) sampling guidelines indicate that a sample size of 100 to 120 respondents achieves statistical reliability at a 95% confidence level with an acceptable margin of error ranging from e = 0.08 to 0.09 (Cochran, 1977). For descriptive statistical analysis involving weighted means, standard deviations, and percentage distributions, this sample size satisfies the requirements of the Central Limit Theorem and provides stable empirical feedback on interior environmental quality, spatial comfort, and circulation efficiency without excessive sampling error.
 
@@ -37,12 +37,12 @@ Following the quantitative survey analysis, a qualitative phase will involve sem
 
 Following the completion of the interior design synthesis, an Evaluative Focus Group Discussion (FGD) is conducted to empirically validate the unbuilt design framework, 2D layout typologies, and 3D digital renderings (Tremblay, Hevner, & Berndt, 2010; Zeisel, 2006). 
 
-The validation FGD utilizes a **purposive nested sub-sample of $n = 7 \text{ to } 10$ participants** recruited directly from the Phase 1 respondent pool who have consented to follow-up evaluation. In focus group research methodology, a cohort of 6 to 10 participants represents the optimal group size for complex evaluative inquiries, offering adequate operational diversity while preventing chaotic dialogue and conversational fragmentation (Krueger & Casey, 2014; Stewart & Shamdasani, 2014). The panel intentionally incorporates balanced representation across key stakeholder roles:
+The validation FGD utilizes a **purposive nested sub-sample of 7 to 10 participants** recruited directly from the Phase 1 respondent pool who have consented to follow-up evaluation. In focus group research methodology, a cohort of 6 to 10 participants represents the optimal group size for complex evaluative inquiries, offering adequate operational diversity while preventing chaotic dialogue and conversational fragmentation (Krueger & Casey, 2014; Stewart & Shamdasani, 2014). The panel intentionally incorporates balanced representation across key stakeholder roles:
 
-1. **Professional Event Planners and Production Coordinators ($n = 3 \text{ to } 4$):** Recruited from the Phase 1 expert pool to critically evaluate layout turnaround feasibility, furniture stacking/mobility, overhead rigging practicality, and setup bottlenecks across Plenary, Classroom, Banquet, and Exhibition configurations.
-2. **Venue Facility Operations and Administrative Personnel ($n = 1 \text{ to } 2$):** Recruited from Calbayog Convention Center management/staff to evaluate back-of-house circulation, maintenance durability of proposed materials, egress safety, and daily operational manageability.
-3. **General Public Event Attendees and Civic Representatives ($n = 2 \text{ to } 3$):** Recruited from the Phase 1 attendee pool to evaluate attendee seating comfort, sightline clarity to stage/screens, acoustic speech intelligibility, and lobby pre-function circulation.
-4. **Local Samar Cultural and Artisan Stakeholder ($n = 1$):** Recruited from the regional cultural informant pool to evaluate the cultural authenticity, appropriateness, and respectful abstraction of Basey *banig* weaving motifs, *tikog* grass textures, and Calbayog waterfall iconography.
+1. **Professional Event Planners and Production Coordinators (3 to 4):** Recruited from the Phase 1 expert pool to critically evaluate layout turnaround feasibility, furniture stacking/mobility, overhead rigging practicality, and setup bottlenecks across Plenary, Classroom, Banquet, and Exhibition configurations.
+2. **Venue Facility Operations and Administrative Personnel (1 to 2):** Recruited from Calbayog Convention Center management/staff to evaluate back-of-house circulation, maintenance durability of proposed materials, egress safety, and daily operational manageability.
+3. **General Public Event Attendees and Civic Representatives (2 to 3):** Recruited from the Phase 1 attendee pool to evaluate attendee seating comfort, sightline clarity to stage/screens, acoustic speech intelligibility, and lobby pre-function circulation.
+4. **Local Samar Cultural and Artisan Stakeholder (n = 1):** Recruited from the regional cultural informant pool to evaluate the cultural authenticity, appropriateness, and respectful abstraction of Basey *banig* weaving motifs, *tikog* grass textures, and Calbayog waterfall iconography.
 
 ---
 

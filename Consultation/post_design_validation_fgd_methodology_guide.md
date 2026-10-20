@@ -251,18 +251,19 @@ To be integrated into **`34_Data Collection.md`**:
 └──────────────────────────────────────────┬─────────────────────────────────────────────┘
                                            ▼
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ STEP 2: PHYSICAL ENVIRONMENT SETUP & STIMULUS PREPARATION                              │
-│ • Arrange a quiet, neutral meeting space (or secure high-definition Zoom session).   │
-│ • Provide each participant with: (1) Printed 11x17 Design Presentation Booklet,       │
-│   (2) Individual Design Verification Rubric, (3) Clipboard and pen.                    │
-│ • Setup multi-media projection displaying 2D CADD plans and 3D perspective models.     │
+│ STEP 2: DIGITAL ENVIRONMENT SETUP & STIMULUS PREPARATION                               │
+│ • Convene synchronous online session via Google Meet with secure access link.          │
+│ • Provide each participant with: (1) Digital Design Presentation Package (PDF),        │
+│   (2) Digital Design Verification Rubric (Google Forms / interactive PDF).             │
+│ • Setup high-definition screen sharing displaying 2D CADD plans & 3D perspective models│
 └──────────────────────────────────────────┬─────────────────────────────────────────────┘
                                            ▼
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │ STEP 3: STANDARDIZED OBJECTIVE WALKTHROUGH (15–20 MINUTES)                             │
-│ • Facilitator delivers neutral orientation script emphasizing stress-testing.          │
-│ • Walk through 4 layout typologies, clearance widths, material NRCs, and ceiling grid. │
-│ • Present factual technical dimensions without promotional or persuasive bias.        │
+│ • Facilitator delivers neutral orientation script emphasizing operational stress-test. │
+│ • Walk through 4 layout typologies grounded in historical event demand (Chapter 4):    │
+│   (1) Plenary (48.8%), (2) Classroom (25.6%), (3) Banquet (14.0%), (4) Exhibition (11.6%)│
+│ • Present factual technical dimensions (BP 344), material NRCs, and ceiling grid tracks│
 └──────────────────────────────────────────┬─────────────────────────────────────────────┘
                                            ▼
 ┌────────────────────────────────────────────────────────────────────────────────────────┐

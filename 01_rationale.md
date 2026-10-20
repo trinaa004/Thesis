@@ -24,5 +24,5 @@ This study is driven by the necessity to elevate the spatial modularity, regiona
 
 ---
 
-Ultimately, this study aims to formulate a site-specific, non-structural interior design framework consisting of modular interior typologies, ergonomic layout standards, and overhead ceiling interfaces for the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Lobby). By harmonizing flexible spatial configurations with Samar and Calbayog's identity and sustainable material specifications, the proposed framework enhances spatial efficiency, optimizes setup turnarounds for venue operators, and reinforces community connection for long-term civic utility.
+Ultimately, this study aims to formulate evidence-based interior design interventions consisting of repeatable modular layout templates, ergonomic circulation standards, and overhead ceiling interfaces for the 840 sqm interior envelope (711 sqm Main Hall & 129 sqm Lobby). By harmonizing flexible spatial configurations with Samar and Calbayog's cultural identity and sustainable material specifications, the proposed framework enhances spatial efficiency, resolves operational turnaround bottlenecks for event planners and custodial staff, and reinforces community place attachment for long-term civic utility.
 

@@ -21,7 +21,7 @@ The rapid evolution of the Meetings, Incentives, Conventions, and Exhibitions (M
 | :--- | :--- |
 | **Research Background & Problem** | MICE industry growth and civic-cultural demands vs. rigid 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Lobby) at the Calbayog Cultural Convention Center; setup delays, sub-optimal indoor environmental quality (IEQ: acoustic reverberation, lighting control, thermal comfort), and lack of cohesive local identity. |
 | **Primary Research Goal** | Formulate a site-specific, non-structural interior design framework and layout manual harmonizing spatial modularity, Samar-Calbayog cultural heritage, and future-proof adaptability. |
-| **Methodology & Sampling** | Applied Design Research via a Convergent Parallel Mixed-Methods Design. Survey ($N = 115–145$: $15–25$ event planners + $100–120$ general public attendees), semi-structured interviews ($n = 8–12$), and architectural site mapping. |
+| **Methodology & Sampling** | Applied Design Research via a Convergent Parallel Mixed-Methods Design. Survey (N = 115–145: 15–25 event planners + 100–120 general public attendees), semi-structured interviews (n = 8–12), and architectural site mapping. |
 | **Data Analysis & Standards** | Descriptive statistics (frequencies, weighted means), Braun & Clarke (2006) thematic analysis, and spatial clearance compliance matrices (BP 344 / ADA / Panero). |
 | **Expected Design Deliverables** | Modular layout typologies (Plenary/Theatrical, Classroom, Banquet, Exhibition/Gallery), overhead ceiling track/rigging interface, localized surface pattern treatments (*banig*, *tikog*, waterfalls, Hadang motifs), future-proof material specifications, and an interior design framework layout manual. |
 

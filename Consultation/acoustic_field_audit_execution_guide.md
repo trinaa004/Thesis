@@ -227,7 +227,12 @@ At each node (Points 1 through 8):
    * Repeat the interrupted broadcast and cutoff for **three (3) consecutive trials** per listening node.
    * Compute the arithmetic mean decay time:
      $$\bar{t}_{\text{decay}} = \frac{t_1 + t_2 + t_3}{3}$$
-6. **Advance to the Next Node:**
+6. **In-Situ Flutter Echo Defect Observation (Egan, 2007; Cavanaugh et al., 2010):**
+   * Concurrently with the interrupted pink noise cutoff (or via a single sharp handclap at seated ear height $1.2\text{ m}$ AFF during silent intervals), the researcher observes whether an acoustical **flutter echo defect** is physically present between parallel reflective boundaries (glazed ceramic floor tiles and flat metal roof deck):
+     - **Observed:** An audible rapid series of reflections producing a distinct metallic ringing, buzzing, or zipper-like chatter trailing the sound cutoff.
+     - **Not Observed:** Sound decay is smooth and diffuse without audible periodic ringing (e.g., in zones shielded by pleated perimeter drapery or diffused by partition geometry).
+   * Record the finding and physical boundary cause in Field Sheet 2.
+7. **Advance to the Next Node:**
    * Sequentially repeat this procedure from Point 1 through Point 6 in the Main Hall (and Point 8 in the Lobby).
 
 ---
@@ -355,7 +360,7 @@ $$RT_{60\text{ (retrofitted)}} = \frac{0.161 \times 3,910.5\text{ m}^3}{671.25\t
 *Reference Output:* $85.0\text{--}90.0\text{ dBA}$ @ 1.0 m Reference | *Operating State:* Passive Envelope Baseline (HVAC Idle)  
 *Measurement Method:* ISO 3382-2:2008 Section 5.2 Interrupted Noise Method (Benetech GM1352 + Stopwatch / WAV)  
 
-| Listening Node | Location Description | Baseline $L_{min}$ (dBA) | Trial 1 Decay (s) | Trial 2 Decay (s) | Trial 3 Decay (s) | Mean Decay Time ($\bar{t}_{\text{decay}}$, s) | Flutter Echo Audibility (None / Mild / Severe) |
+| Listening Node | Location Description | Baseline $L_{min}$ (dBA) | Trial 1 Decay (s) | Trial 2 Decay (s) | Trial 3 Decay (s) | Mean Decay Time ($\bar{t}_{\text{decay}}$, s) | Flutter Echo Defect (Observed / Not Observed) & Field Notes |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | **P-1** | Stage Front-Left | | | | | | |
 | **P-2** | Stage Front-Right | | | | | | |
@@ -365,6 +370,8 @@ $$RT_{60\text{ (retrofitted)}} = \frac{0.161 \times 3,910.5\text{ m}^3}{671.25\t
 | **P-6** | Rear Hall-Right (Under Truss) | | | | | | |
 | **P-7** | Lobby: Main Foyer | | | | | | |
 | **P-8** | Lobby: Registration / Pre-Function | | | | | | |
+
+*Field Defect Logging Protocol (Egan, 2007, pp. 58–63; Cavanaugh et al., 2010): Flutter echo is logged as an observed acoustical defect if transient sound excitation (abrupt pink noise cutoff or single sharp handclap) produces an audible metallic ringing, buzzing, or zipper-like chatter between parallel specular planes (glazed ceramic floor tiles and exposed metal roof deck). If sound decays diffusely without periodic reflections (e.g., near pleated perimeter drapery or diffused lobby foyer geometry), record 'Not Observed.'*
 
 ---
 

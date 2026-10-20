@@ -563,7 +563,7 @@
 
 # PART 4-A: QUALITATIVE SEMI-STRUCTURED INTERVIEW PROTOCOL FOR EVENT PLANNERS & VENUE ADMINISTRATORS / GABAY SA INTERVIEW PARA HA MGA EVENT PLANNER UG OPERATOR
 
-**Target Informants**: Selected Event Planners, Coordinators, Venue Operations Personnel, and Cultural/Tourism Stakeholders ($n = 8 \text{ to } 12$).  
+**Target Informants**: Selected Event Planners, Coordinators, Venue Operations Personnel, and Cultural/Tourism Stakeholders (n = 8 to 12).  
 **Format**: 20-to-30-minute semi-structured, audio-recorded qualitative interview session.  
 
 ---
@@ -638,7 +638,7 @@
 
 # PART 4-B: QUALITATIVE SEMI-STRUCTURED INTERVIEW PROTOCOL FOR EVENT ATTENDEES & GENERAL PUBLIC / GABAY SA INTERVIEW PARA HA MGA TUMARAMBONG UG PUBLIKO (GENERAL VENUE EXPERIENCE)
 
-**Target Informants**: Event Attendees, Audience Members, Guests, Parents, Students, and Community Stakeholders who have attended past or present events in the facility ($n = 8 \text{ to } 12$).  
+**Target Informants**: Event Attendees, Audience Members, Guests, Parents, Students, and Community Stakeholders who have attended past or present events in the facility (n = 8 to 12).  
 **Format**: 5-to-10-minute conversational, audio-recorded semi-structured qualitative interview session (in-person or online intercept).  
 
 ---

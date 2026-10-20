@@ -8,18 +8,10 @@ Together, these dual frameworks establish a comprehensive, evidence-based interi
 
 *(Note: The physical boundary of the non-structural interior overlay—confining all interventions strictly within the 840 sqm interior envelope without altering structural columns, facades, or roof trusses—is established as a statutory scope parameter in Chapter 1 under **Scope and Limitations of the Study**, in compliance with Republic Act No. 10350 [Philippine Interior Design Act of 2012] and the National Building Code of the Philippines [PD 1096]).*
 
-```
-                                [ THE DUAL THEORETICAL FRAMEWORK ]
-                                                │
-         ┌──────────────────────────────────────┴──────────────────────────────────────┐
-         ▼                                                                             ▼
- [ PILLAR 1: SOCIO-TECHNICAL OPERATIONS ]                      [ PILLAR 2: SENSORY PLACEMAKING ]
- Actor-Network Theory (Latour, 2005) &                         Theory of Place Attachment
- Affordance Theory (Gibson, 1979)                              (Scannell & Gifford, 2010)
- • Human Actors vs. Non-Human Actants                          • Person-Process-Place (PPP) Model
- • Resolves setup bottlenecks, cable hazards, & echo           • Cultural Tactility & Civic Meaning
- • Re-engineers spatial affordances for rapid turnover         • Basey Banig Weaving & Calbayog Waterfalls
-```
+| PILLAR 1: SOCIO-TECHNICAL OPERATIONS | PILLAR 2: SENSORY PLACEMAKING |
+| :--- | :--- |
+| **Actor-Network Theory (Latour, 2005) & Affordance Theory (Gibson, 1979)** | **Theory of Place Attachment (Scannell & Gifford, 2010)** |
+| • Human Actors vs. Non-Human Actants<br>• Resolves setup bottlenecks, cable hazards, and echo<br>• Re-engineers spatial affordances for rapid turnover | • Person-Process-Place (PPP) Model<br>• Cultural Tactility & Civic Meaning<br>• Basey Banig Weaving & Calbayog Waterfalls |
 
 ---
 
@@ -32,14 +24,14 @@ ANT posits that social and operational situations are generated through heteroge
 
 Within the Calbayog Cultural Convention Center, live event operations represent a precarious network sustained between:
 * **Human Actors:** Event organizers, facility custodial utility crews, banquet catering staff, audio-visual technicians, keynote speakers, and attendees.
-* **Non-Human Actants:** Hard ceramic floor tiles ($600 \times 600\text{ mm}$), heavy non-stackable wooden banquet tables, rented plastic monobloc chairs, loose electrical extension cords taped with gaffer tape, sliding glass lobby doors, high exposed steel roof trusses (6.20 m height), and temporary vinyl tarpaulins stapled to drywall.
+* **Non-Human Actants:** Hard ceramic floor tiles (600 × 600 mm), heavy non-stackable wooden banquet tables, rented plastic monobloc chairs, loose electrical extension cords taped with gaffer tape, sliding glass lobby doors, high exposed steel roof trusses (6.20 m height), and temporary vinyl tarpaulins stapled to drywall.
 
 *Operational Friction as Translation Breakdown:*  
 ANT explains that prolonged setup turnaround delays (4 to 8+ hours) and attendee dissatisfaction are the direct result of **network friction** where non-human actants actively impose physical resistance on human actors:
 1. When custodial crews (Human Actors) attempt a rapid room conversion, heavy non-wheeled tables and the absence of a dedicated furniture storage room (Non-Human Actants) resist them, forcing staff into hours of manual lifting, fatigue, and trial-and-error spatial guesswork.
-2. When a speaker presents (Human Actor), acoustic sound waves strike hard, uninsulated ceramic tiles and parallel glass walls (Non-Human Actants), translating into severe reverberant flutter echo ($RT_{60} > 1.8\text{ s}$) that degrades speech intelligibility and causes ear fatigue in the audience.
+2. When a speaker presents (Human Actor), acoustic sound waves strike hard, uninsulated ceramic tiles and parallel glass walls (Non-Human Actants), translating into severe reverberant flutter echo (RT60 > 1.8 s) that degrades speech intelligibility and causes ear fatigue in the audience.
 
-By diagnosing the interior envelope through ANT, the proposed interior design framework deliberately introduces **new, optimized non-human actants**—specifically lightweight nesting tables on transport dollies, flame-retardant Basey *banig* acoustic wall panels (NRC $\ge 0.75$), and overhead ceiling utility raceways—that eliminate friction and actively empower human operational efficiency.
+By diagnosing the interior envelope through ANT, the proposed interior design framework deliberately introduces **new, optimized non-human actants**—specifically lightweight nesting tables on transport dollies, flame-retardant Basey *banig* acoustic wall panels (NRC ≥ 0.75), and overhead ceiling utility raceways—that eliminate friction and actively empower human operational efficiency.
 
 #### B. Environmental Affordance Theory (Gibson, 1979)
 Complementing ANT, Gibson’s (1979) Theory of Affordances examines the functional "action possibilities" that an interior environment physically offers or denies to its users. In a multi-purpose assembly facility:
@@ -69,48 +61,12 @@ For event-goers and visiting delegations, place attachment is cultivated not thr
 
 ## 2. Conceptual Framework
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                       DUAL THEORETICAL PILLARS                                         │
-├───────────────────────────────────────────────────┬────────────────────────────────────────────────────┤
-│ PILLAR 1: SOCIO-TECHNICAL OPERATIONS & AFFORDANCE │ PILLAR 2: SOCIO-CULTURAL SENSORY PLACEMAKING       │
-│ Actor-Network Theory & Affordance Theory          │ Theory of Place Attachment                         │
-│ (Latour, 2005; Gibson, 1979)                      │ (Scannell & Gifford, 2010)                         │
-│ • Diagnoses Human-Actant Operational Friction     │ • Person-Process-Place (PPP) Bonding Mechanism     │
-│ • Re-engineers Spatial Action Affordances         │ • Fosters Civic Pride & Eliminates Placelessness   │
-│ • Eliminates Setup Delays, Clutter, & Echo        │ • Translates Basey Banig, Waterfalls, & Hadang     │
-└─────────────────┬─────────────────────────────────┴──────────────────┬─────────────────────────────────┘
-                  │                                                    │
-                  ▼                                                    ▼
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                       USER STAKEHOLDER DRIVERS                                         │
-├───────────────────────────────────────────────────┬────────────────────────────────────────────────────┤
-│ ACTIVE LOGISTICAL DRIVERS                         │ PASSIVE EXPERIENTIAL DRIVERS                       │
-│ (Event Planners, Custodial Crews, Caterers)       │ (Event Attendees, Delegates, Cultural Advocates)   │
-│ • Rapid room turnover (< 90 mins)                 │ • Acoustic clarity & speech intelligibility        │
-│ • Pre-calculated anthropometric clearances        │ • Unobstructed stage sightlines (C ≥ 60 mm)        │
-│ • Safe overhead cable routing & dolly mobility    │ • Cultural immersion in Samar-Calbayog heritage    │
-└─────────────────┬─────────────────────────────────┴──────────────────┬─────────────────────────────────┘
-                  │                                                    │
-                  └─────────────────────────┬──────────────────────────┘
-                                            ▼
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                EVIDENCE-BASED DESIGN INTERVENTIONS                                     │
-├───────────────────────────────────────────────────┬────────────────────────────────────────────────────┤
-│ SPATIAL & OPERATIONAL INTERVENTIONS (INFILL)      │ SENSORY & CULTURAL OVERLAYS (PLACEMAKING)          │
-│ • 4 Standardized Typologies (Plenary, Classroom,  │ • Basey Banig / Tikog Acoustic Panels (NRC ≥ 0.75) │
-│   Banquet, Exhibition) anchored in 20_RRL.md      │ • Kinetic Waterfall Suspended Baffles (NRC ≥ 0.85) │
-│ • Anthropometric clearance rules (1620–1800 mm)   │ • Hadang Festival dynamic feature wall accents     │
-│ • Overhead ceiling utility & lighting track grid  │ • BP 344 Universal Accessibility & PWD integration │
-└───────────────────────────────────────────────────┬────────────────────────────────────────────────────┘
-                                                    │
-                                                    ▼
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                       UNIFIED DESIGN OUTCOME                                           │
-│         SITE-SPECIFIC INTERIOR DESIGN FRAMEWORK & RECONFIGURABLE LAYOUT MANUAL                         │
-│         FOR THE 840 SQM CALBAYOG CULTURAL CONVENTION CENTER (MAIN HALL & LOBBY)                        │
-└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+| Stage | Component A: Socio-Technical Operations & Infill | Component B: Cultural Sensory Placemaking & Experience |
+| :--- | :--- | :--- |
+| **1. Theoretical Anchors** | **Actor-Network Theory & Affordance Theory (Latour, 2005; Gibson, 1979)**<br>• Diagnoses human-actant operational friction<br>• Re-engineers spatial action affordances<br>• Eliminates setup delays, clutter, and acoustic echo | **Theory of Place Attachment (Scannell & Gifford, 2010)**<br>• Person-Process-Place (PPP) bonding mechanism<br>• Fosters civic pride and eliminates generic placelessness<br>• Translates Basey banig weaving, waterfalls, and Hadang motifs |
+| **2. Stakeholder Drivers** | **Active Logistical Drivers (Planners, Crews, Caterers)**<br>• Rapid room turnover (< 90 minutes)<br>• Pre-calculated anthropometric clearances<br>• Safe overhead cable routing and cart/dolly mobility | **Passive Experiential Drivers (Attendees, Delegates, Guests)**<br>• Acoustic clarity and speech intelligibility<br>• Unobstructed stage sightlines (C ≥ 60 mm)<br>• Cultural immersion in Samar-Calbayog heritage |
+| **3. Evidence-Based Interventions** | **Spatial & Operational Infill Interventions**<br>• 4 Standardized Typologies (Plenary, Classroom, Banquet, Exhibition)<br>• Anthropometric clearance rules (1620–1800 mm service lanes)<br>• Overhead ceiling utility and lighting track grid | **Sensory & Cultural Placemaking Overlays**<br>• Basey Banig / Tikog Acoustic Panels (NRC ≥ 0.75)<br>• Kinetic Waterfall Suspended Baffles (NRC ≥ 0.85)<br>• Hadang Festival dynamic feature wall accents<br>• BP 344 Universal Accessibility and PWD integration |
+| **4. Unified Design Outcome** | **Site-Specific Interior Design Framework & Reconfigurable Layout Manual**<br>Comprehensive operational guide for the 840 sqm interior envelope (711 sqm Main Hall + 129 sqm Lobby), harmonizing spatial flexibility, regional heritage, and future-proof adaptability. | |
 
 ### Synthesis of the Conceptual Framework
 The conceptual framework operates through an integrated three-stage synthesis:

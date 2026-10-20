@@ -1,4 +1,4 @@
-# 04: Scenario-Based Design Experimentation & Alternative Testing Protocol
+﻿# 04: Scenario-Based Design Experimentation & Alternative Testing Protocol
 
 **Degree Program:** Bachelor of Science in Interior Design (BSID)  
 **Research Locale:** Calbayog Cultural Convention Center (840 sqm Envelope: 711 sqm Main Hall + 129 sqm Lobby)  
@@ -75,8 +75,9 @@ Linear vs. Chevron       Lecture vs. Pods Clusters       Grid vs. Staggered Zone
 
 ---
 
-### Scenario 1: High-Density Civic Plenary Assembly (500 Occupants)
-*Operational Demand:* Maximum legal occupant capacity under PD 1096 Table XII.1; unobstructed stage visibility; rapid life-safety evacuation (RA 9514).
+### Scenario 1: High-Density Civic Plenary Assembly & Convocations (500 Occupants & Scalable Tier 1)
+*Operational Demand:* Maximum legal occupant capacity under PD 1096 Table XII.1; unobstructed stage visibility; rapid life-safety evacuation (RA 9514); dynamic scalability down to compact ceremonies (such as the observed *TESDA Graduation*, 80â€“100 pax).
+*Empirical Grounding:* Triangulated between peak citywide convocations (500 pax) and the live-shadowed *TESDA Graduation* (80â€“100 pax, Oct 13, 2026), where loose chairs occupied only the front third of the hall, leaving the rear as an empty echoing cavern with church-like reverberation, while graduates suffered from heat while waiting in the unconditioned lobby.
 
 * **Alternative A: Traditional Parallel Linear Seating**
   - *Layout Description:* Straight horizontal seating banks divided by a single 1500 mm central aisle and two 1000 mm perimeter aisles.
@@ -103,33 +104,35 @@ Linear vs. Chevron       Lecture vs. Pods Clusters       Grid vs. Staggered Zone
 
 ---
 
-### Scenario 3: Social Dining & Gala Banquet (250–350 Occupants)
-*Operational Demand:* 10-person round tables ($\varnothing 1800\text{ mm}$); formal dining ambiance; rapid wait-staff food service; ceremonial stage and dancefloor space.
+### Scenario 3: Social Dining & Gala Banquet (150-350 Occupants)
+*Operational Demand:* 10-person round tables ($\varnothing 1800\text{ mm}$); formal dining ambiance; rapid wait-staff food service; ceremonial stage and dancefloor space; catering buffer in lobby.
+*Empirical Grounding:* Live shadowing across three distinct banquetsâ€”the *PAGPASAMWAK Legislative Caravan* (300 pax), *Stakeholder's Night* (200 pax), and a private *Wedding Event* (150 pax)â€”empirically confirmed severe status quo constraints: chair-to-chair spacing compressed to a tight $700\text{--}750\text{ mm}$, middle longitudinal aisles blocked by camera tripods, and outsourced aluminum crank-stand truss towers consuming floor space (loss of 40 seats) while obstructing sightlines to the stage.
 
 * **Alternative A: Rigid Rectangular Table Grid**
-  - *Layout Description:* Round tables aligned in a strict, orthogonal $X\text{-}Y$ grid across the 711 sqm floor plate.
+  - *Layout Description:* Round tables aligned in a strict, orthogonal $X\text{-}Y$ grid across the 711 sqm floor plate; heavy outsourced crank-stand trusses; unconditioned lobby holding.
   - *Operational Pros:* Easiest layout for custodial crews to eyeball and align; standard appearance.
-  - *Operational Cons:* Waiters carrying heavy service trays must criss-cross between seated guests; outer chairs frequently collide with adjacent tables when diners push back ($< 1400\text{ mm}$ service gap).
+  - *Operational Cons:* Waiters carrying heavy service trays must criss-cross between seated guests; outer chairs frequently collide with adjacent tables when diners push back ($< 1400\text{ mm}$ service gap); ground truss bases eat up 40 seats.
 * **Alternative B: Staggered Diamond Clusters with Dedicated Peripheral Service Corridors**
-  - *Layout Description:* Hexagonal/diamond staggered table clusters maintaining a strict $1620\text{ mm to }1800\text{ mm}$ clearance between outer chair perimeters, ringed by a dedicated 2000 mm perimeter service lane connecting directly to the lobby catering staging buffer.
-  - *Operational Pros:* Eliminates tray collisions; speeds up food service delivery; provides unobstructed paths for bridal parties or VIP processionals.
+  - *Layout Description:* Hexagonal/diamond staggered table clusters maintaining a strict $1620\text{ mm to }1800\text{ mm}$ clearance between outer chair perimeters, ringed by a dedicated 2000 mm perimeter service lane connecting directly to the lobby catering staging buffer. Motorized ceiling lighting battens eliminate ground trusses.
+  - *Operational Pros:* Eliminates tray collisions; speeds up food service delivery; recovers 40 seats (full 300 pax capacity); provides unobstructed paths for bridal parties or VIP processionals; conditioned lobby (dual ACs at Col 1A/4A) provides isolated food staging.
   - *Operational Cons:* Requires strict adherence to dimensioned floor markings to avoid drifting.
 
 ---
 
-### Scenario 4: Exhibition, Trade Fair & Culinary Showcase (Exhibition Mode)
-*Operational Demand:* High pedestrian traffic capacity; heavy utility/power draw; spatial zoning between display booths and active demonstration zones (e.g., Tinapa 101 Cookfest).
+### Scenario 4: Exhibition, Trade Fair & Cultural Concourse (Exhibition Mode)
+*Operational Demand:* High pedestrian traffic capacity; heavy utility/power draw; spatial zoning between display booths and active demonstration zones; activating the 129 sqm lobby as a cultural showcase concourse.
+*Empirical Grounding:* Field shadowing during the *Samar Investment Forum* (Oct 11-12, 2026) and *PAGPASAMWAK Caravan* revealed that when the 129 sqm lobby was used as a provincial Trade Fair / Walkthrough Gallery showcasing local crafts from Calbayog, Catbalogan, Daram, and Basey, booths were pushed directly against the entrance doors, blocking one of two primary exit portals and causing severe ingress bottlenecks. Furthermore, the unconditioned lobby became uncomfortably warm ($>28^\circ\text{C}$).
 
-* **Alternative A: Perimeter Linear Wall-Mounted Booths**
-  - *Layout Description:* 15 to 20 shell-scheme display booths ($2000 \times 2000\text{ mm}$) arranged strictly along the perimeter walls, leaving a massive empty open zone in the center of the hall.
-  - *Operational Pros:* Simple electrical drops along perimeter walls; massive open floor for standing crowds.
-  - *Operational Cons:* Visitors crowd along walls while the center floor plate remains underutilized; poor crowd dispersion.
-* **Alternative B: Central Island Modules with Multi-Lane Looped Circulation**
-  - *Layout Description:* Booths grouped back-to-back into central display "islands" fed by overhead ceiling power raceways, framed by a continuous 2400 mm arterial circulation loop and 1500 mm secondary aisles.
-  - *Operational Pros:* Maximizes booth display density; creates intuitive, continuous pedestrian flow without dead ends; isolates live cooking stations near perimeter ventilation.
-  - *Operational Cons:* Requires overhead ceiling utility drop infrastructure (Module 4) to deliver power to center-island booths without floor tripping hazards.
-
----
+* **Alternative A: Perimeter Wall Booths & Unconditioned Lobby Clutter**
+  - *Layout Description:* 15 to 20 display booths pushed strictly against perimeter walls in the main hall, while temporary trade tables in the unconditioned 129 sqm lobby crowd doorway thresholds and block emergency egress doors.
+  - *Operational Pros:* Simple perimeter wall power access; large central void.
+  - *Operational Cons:* Visitors crowd along walls while 60% of the center hall remains empty; lobby entrance blocked; unconditioned lobby causes heat fatigue; single-use plastic tarpaulins damage walls.
+* **Alternative B: Central Island Modules & Conditioned Cultural Concourse (Recommended)**
+  - *Layout Description:* 
+    1. *Main Hall:* Booths grouped back-to-back into central display "islands" fed by overhead utility tracks, framed by a continuous 2400 mm arterial looped pedestrian thoroughfare and 1500 mm cross-aisles.
+    2. *129 sqm Lobby as an Active Cultural Concourse:* Grounded in **Baguio BCCC** (active indigenous cultural programming) and **Seoul Coex** (Heatherwick Studio; Fakharany, 2025; activating circulation foyers into cultural showcases), the lobby is equipped with overhead perimeter ceiling rigging points with wand-drawn fabric dividers to create a dedicated pop-up showcase for Samar/Calbayog arts and crafts (*banig*, *tikog*) without blocking exits, kept thermally comfortable by **two dedicated AC units at Columns 1A and 4A (Grid Lines 1 & 4)**.
+  - *Operational Pros:* Continuous 2400 mm looped flow eliminates dead-ends; overhead power drops eliminate trip hazards; conditioned lobby micro-gallery promotes civic heritage without obstructing the 2000 mm entrance bypass; zero wall damage.
+  - *Operational Cons:* Requires initial installation of overhead ceiling track and perimeter lobby rigging points.
 
 ### Scenario 5: Spatial Subdivision / Dual Concurrent Event Mode
 *Operational Demand:* Accommodating two simultaneous, distinct municipal or private events without sound bleed or visual interference.
