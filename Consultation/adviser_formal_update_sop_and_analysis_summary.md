@@ -1,29 +1,36 @@
-# Master Adviser Update: Revised SOP, Empirical Data Summary, & Triangulation Analysis
+# Master Adviser Update: Comprehensive Research Design, Data Collection, Analysis Framework, & Triangulation Synthesis
 
-**Document Purpose:** Ready-to-Send Formal Adviser Update, Executive Research Briefing, and Progress Synthesis  
+**Document Purpose:** Ready-to-Send Formal Adviser Update, Executive Research Briefing, and Comprehensive Progress Synthesis  
 **Project Title:** *An Interior Design Framework for the Calbayog Cultural Convention Center: Harmonizing Spatial Modularity, Samar-Calbayog Cultural Heritage, and Future-Proof Event Adaptability*  
 **Degree Program:** Bachelor of Science in Interior Design (BSID)  
 **Research Locale:** Calbayog Cultural Convention Center (Brgy. Capoocan, Calbayog City, Samar)  
-**Envelope Parameters:** 840 sqm total footprint (711 sqm Main Hall + 129 sqm Lobby) | Capacity: Up to 500 occupants  
+**Envelope Parameters:** 840 sqm total footprint (711 sqm Main Plenary Hall + 129 sqm Lobby / Pre-Function Concourse) | Legal Assembly Capacity: Up to 500 occupants (PD 1096 / RA 9514)  
+**Formatting Standard:** 100% Google Docs and Email Paste-Ready (Rule 5 Compliant: Zero-LaTeX Unicode Typography)
 
 ---
 
-## Part 1: Ready-to-Send Email to Thesis Adviser
+## Part 1: Ready-to-Send Email / Formal Memo to Thesis Adviser
 
-### Option A: Formal Academic Email / Written Progress Memo (Comprehensive)
+### Option A: Comprehensive Academic Briefing Memo (Full Progress Update)
 
-**Subject:** Thesis Progress Update & Revised SOP: Calbayog Cultural Convention Center — Empirical Data & Analysis Summary
+**Subject:** Comprehensive Thesis Progress Update: Calbayog Cultural Convention Center — Methodology, Empirical Datasets, Triangulation Analysis, & Design Framework
 
 Dear Ma'am / Sir [Adviser's Name],
 
 Good day!
 
-I hope this email finds you well. 
+I hope this update finds you in good health.
 
-Before we conduct our upcoming **Evaluative Focus Group Discussion (FGD)** for design validation, I would like to formally present a comprehensive progress update on my thesis study entitled:  
+Prior to conducting our upcoming **Evaluative Focus Group Discussion (FGD)** for pre-occupancy design validation, I would like to formally present a comprehensive progress update on my undergraduate thesis study:  
 **"An Interior Design Framework for the Calbayog Cultural Convention Center: Harmonizing Spatial Modularity, Samar-Calbayog Cultural Heritage, and Future-Proof Event Adaptability."**
 
-Below is the finalized, research-aligned **Statement of the Problem (SOP)**, followed by an executive synthesis of the empirical datasets gathered, the triangulation analysis conducted, and the resulting interior design intervention framework.
+To ensure rigorous alignment with your guidance and university research standards, this briefing synthesizes:
+1. The finalized, research-aligned **Statement of the Problem (SOP)** and objectives;
+2. The overarching **Research Design and Theoretical Framework** (Applied Design Research & Mixed-Methods);
+3. The executed **7-Stage Data Collection Protocol** (including ethical clearance, pilot reliability, surveys, interviews, and dual-modality observations);
+4. The **Data Analysis Framework & Triangulation Engine** (descriptive statistics, thematic analysis, Sabine acoustic modeling, and secondary capacity estimation);
+5. An executive synthesis of **Empirical Baseline Findings** (129-event longitudinal audit, 5 live shadowed events, 4 archival exemplar trace audits, and physical acoustic testing); and
+6. The resulting **Evidence-Based Interior Design Intervention Framework** and our upcoming FGD validation setup.
 
 ---
 
@@ -43,97 +50,128 @@ Below is the finalized, research-aligned **Statement of the Problem (SOP)**, fol
 
 ---
 
-### 2. Summary of Empirical Data Gathered So Far
+### 2. Overarching Research Design & Theoretical Framework
 
-To establish high scientific validity and avoid an assumption-based design brief, the study has gathered a comprehensive multi-method dataset across five core empirical pillars:
+The study adopts an **Applied Design Research** strategy executed through a **Convergent Parallel Mixed-Methods Design** (Creswell & Creswell, 2018; Groat & Wang, 2013), structured across three sequential phases:
 
-1. **Longitudinal Event Utilization Audit ($N = 129$ Verified Events, 2014–2026):**
-   * Documented 129 verified events from master LGU booking records, proving the facility is actively utilized and vital to the city.
-   * Proved that **107 events occurred within the last 5 years (2022–2026)** (83.0% of all activity), confirming high contemporary relevance.
-   * Categorized the master spatial typologies: **Plenary Assemblies (48.8%)**, **Classroom/Seminars (25.6%)**, **Banquets & Socials (14.0%)**, and **Exhibitions/Trade (11.6%)**.
-   * Documented the building's physical resilience: Endured Super Typhoons *Yolanda* (2013), *Ruby* (2014), and *Tisoy* (2019), and served as the municipal 35,000-family COVID-19 relief hub, confirming the structural shell is durable and justifying a non-structural interior overlay.
+| Research Phase | Methodological Execution & Operational Deliverables | Academic Grounding & Standards |
+| :--- | :--- | :--- |
+| **Phase 1: Diagnostic Fieldwork (QUAN + QUAL)** | Concurrent collection of quantitative surveys (N = 112), qualitative interviews (n = 9), static envelope mapping, physical acoustic testing (Benetech meter + JBL PartyBox pink noise), live event lifecycle shadowing (n = 5 events), and archival photographic trace audits (4 exemplar events from 129-event ledger). | Central Limit Theorem; ISO 3382-2:2008; Zeisel (2006); Groat & Wang (2013). |
+| **Phase 2: Triangulation & Interior Design Synthesis** | Systematic cross-referencing of user inputs, empirical field observations, and statutory codes to generate the non-structural interior overlay: 2D CADD layout manual (4 typologies across 4 occupancy tiers), reflected ceiling plans, 3D photorealistic renderings, and material specifications. | BP 344; RA 9514; PD 1096; Panero & Zelnik (1979); Neufert (2012); Egan (2007). |
+| **Phase 3: Evaluative Stakeholder Validation (FGD)** | Synchronous online Evaluative Focus Group Discussion (Google Meet; 7 to 10 nested key stakeholders) conducting a quasi-experimental stress-test of Option A (Status Quo Baseline) vs. Option B (Proposed Modular Framework) across operational scenarios using 5-point comparative rubrics. | Tremblay, Hevner, & Berndt (2010); Sanoff (2000); Krueger & Casey (2014). |
 
-2. **Direct Empirical Event Lifecycle Observations (Protocol B: Live Event Shadowing):**
-   * Firsthand on-site tracking of scheduled live events across contrasting typologies, observing spatial clearances, logistical friction, and environmental comfort across **Ingress, In-Session, and Egress** phases (Chapter 4, Section 4.2.4 & Table 4.5b):
-     - **Samar Investment Forum & Investor's Gala (Oct 11–12, 2026; Multi-Use Hybrid, 150–200 pax daytime / 80–100 pax evening):** Documented a grueling **16+ hour setup marathon** (Oct 10 evening to Oct 12, 3:00 am); missing curtain tiebacks forcing makeshift ties; perimeter sliding doors on Grid 4 used as the primary loading axis; one of two main lobby entrance doors blocked by an exhibition booth; livestream camera tripods blocking the 2.0 m center walkway; substandard **700–750 mm seat-to-seat pitch**; sliding fire exit doors obscured behind drapery with zero illuminated exit signs (RA 9514); thermal stratification (freezing 17°C perimeter AC vs. warm center rows); and a severe **3.5-hour turnaround reset compression** between the daytime forum and evening gala.
-     - **DOLE / TESDA Graduation Ceremony (Oct 13, 2026; Plenary Assembly, 80–100 occupants):** Documented a severe spatial mismatch where 80–100 pax occupied only the front half of the undivided 711 sqm Main Hall (leaving the rear half and lobby as empty voids), which produced a hollow, cathedral-like **"church echo"** over unbaffled ceramic tiles and bare gypsum bulkheads. This provides conclusive empirical proof for the necessity of a **kinetic operable acoustic partition wall ($\text{STC} \ge 45$)** to subdivide the hall for smaller assemblies.
-     - *Staged Field Tracking:* Pre-formatted logging for *PAGPASAMWAK Caravan* (Oct 6), *Charter Day Stakeholders' Gala* (Oct 15), and *Private Wedding Reception* (Oct 17).
+#### Theoretical Synthesis Anchoring the Study (Dual-Framework Paradigm):
+1. **Socio-Technical Operations & Spatial Affordance: Actor-Network Theory (Latour, 1996, 2005) paired with Gibson's (1979) Theory of Environmental Affordances:** Analyzes event coordination as a heterogeneous socio-technical network where human actors (event coordinators, custodial utility crews, caterers, audio-visual technicians, keynote speakers, and attendees) interact with non-human actants (hard 600 × 600 mm ceramic tiles, heavy non-stackable wooden banquet tables, rented plastic monobloc chairs, loose floor cords with gaffer tape, sliding glass doors, and 6.20 m high exposed roof trusses). Diagnosing operational breakdowns and friction points allows the interior framework to systematically re-engineer spatial action affordances—introducing lightweight nesting tables on transport dollies, overhead utility and lighting track grids, and standardized floor layout typologies—to compress room changeover from 4–12+ hours to under 90 minutes.
+2. **Cultural & Sensory Placemaking: Theory of Place Attachment (Scannell & Gifford, 2010):** Utilizes the tripartite Person-Process-Place (PPP) framework to resolve the civic venue's sterile placelessness and emotional detachment. By abstracting Basey *banig* reed mat weaving linework (*Samat* and *Lara* weaves), indigenous *tikog* grass textures (*Fimbristylis umbellaris*), Calbayog waterfall fluid cascading forms (Tarangban, Bangon, Mapaso falls), and kinetic Hadang / Sarakiki-Hadang Festival motifs into high-performance acoustic wall claddings and ceiling baffles (NRC ≥ 0.75 to 0.85), the interior cultivates civic pride, local place bonding, and sensory speech intelligibility while maintaining neutral multi-event versatility.
 
-3. **Quantitative Stakeholder Surveys ($N = 112$ Total Respondents):**
-   * **Survey Form A ($n = 12$ Expert Planners & Operators):** Documented operational friction, turnover durations ($83.3\%$ take 4 to 12+ hours), loading door constraints, and the overhead utility void.
-   * **Survey Form B ($N = 100$ Event Attendees & Community Members):** Verified demographic representation across age brackets, attendance frequency ($75\%$ repeat visitors), and established baseline IEQ satisfaction ratings.
-
-4. **Qualitative Key Informant Interviews ($n = 9$ Stakeholders):**
-   * **Group 1 (Operational Experts, Informants EP1–EP4):** Professional event coordinators, LGU booking officers, and live AV sound engineers detailing grueling overnight setups, tape-down cabling hazards, and door frame wear.
-   * **Group 2 (Event Attendees & Performers, Informants EA1–EA5):** Civic delegates, private guests, and orchestra performers detailing speech echo masking, thermal hotspots, and the total absence of cultural identity.
-
-5. **On-Site Physical Spatial & In-Situ Acoustic Audits:**
-   * **Spatial Mapping:** Documented the 840 sqm envelope (711 sqm Main Hall + 129 sqm Lobby), structural column grid ($7.5\text{ m} \times 7.9\text{ m}$ bays), $5,390\text{ mm}$ clear ceiling height, elevated stage platform at **$940\text{ mm}$ AFFL** (3 steps), Grid B glass walls ($3,540\text{ mm}$ high), perimeter clerestories covered by drapes at $+3,640\text{ mm}$ AFFL, and upper unpadded painted gypsum bulkheads ($1,750–1,850\text{ mm}$).
-   * **Loading Bottleneck:** Revealed that nominal $2,000\text{ mm}$ sliding doors are restricted to **$1,000\text{ mm}$ usable clear width** because secondary leaves are locked, with primary gear collisions concentrated along Column Grid Line 4.
-   * **Physical Acoustic Field Testing (ISO 3382-2):** Executed calibrated interrupted pink noise sound pressure level decay testing across 8 spatial nodes. Measured an unoccupied reverberation decay of **$RT_{60} = 2.53\text{ seconds}$** (and $1.85–2.20\text{ s}$ occupied), more than double the international speech intelligibility standard of **$0.80–1.10\text{ seconds}$**.
+*(Note on Physical Boundaries: Conforming strictly with Republic Act No. 10350 [Philippine Interior Design Act of 2012] and the National Building Code of the Philippines [PD 1096], all interventions are strictly confined to a non-structural interior overlay within the 840 sqm interior envelope [711 sqm Main Hall + 129 sqm Lobby], leaving primary civil structures, columns, exterior facades, and load-bearing roof trusses completely unaltered as detailed in Chapter 1 Scope and Limitations).*
 
 ---
 
-### 3. Core Triangulation Analysis: Cross-Comparing User Inputs, Observations, and Standards
+### 3. Summary of the Executed 7-Stage Data Collection Protocol
 
-The data analysis does not rely on isolated opinions; it cross-compares user feedback against empirical field observations, physical testing, and statutory standards:
+To satisfy institutional ethics and ensure reproducibility, data collection was systematically executed across seven procedural stages:
 
-| Evaluated Dimension | User Inputs (Surveys & Interviews) | Empirical Physical Observations & Live Shadowing (Protocol B) | Normative Statutory Standard | Triangulated Root Cause & Design Mandate |
+1. **Stage 1 (Permissions & USC-REC Ethical Clearance):** Secured official administrative authorization from convention center facility management; distributed bilingual (English and Waray) recruitment briefs and Informed Consent Forms (Form A for planners, Form B for attendees, Form C for key informant interviews, and Form D for spatial event observations).
+2. **Stage 2 (Pilot Testing & Instrument Reliability):** Administered pre-tests to 10 professional planners and 10 representative attendees (excluded from final study sample). Computed Cronbach's alpha coefficients confirmed exceptional internal consistency:
+   * Event Planner Instrument: α = 0.9402
+   * Event Attendee Instrument: α = 0.9469 (Composite Mean α = 0.9436), verifying high psychometric reliability.
+3. **Stage 3 (Quantitative Survey Administration, N = 112 Total Respondents):**
+   * *Form A (Event Planners & Operators, n = 12):* Administered via Purposive Expert Sampling to commercial coordinators, LGU facility managers, and live production technicians, evaluating setup bottlenecks, FF&E hauling, and overhead utility demands.
+   * *Form B (Event Attendees & Community Members, N = 100):* Administered via Purposive Quota Sampling (calculated via Slovin's formula at 95% confidence level, e = 0.08–0.09 based on 500-occupant capacity), evaluating baseline IEQ satisfaction, visual sightlines, circulation, and cultural ambiance.
+4. **Stage 4 (Qualitative Semi-Structured Key Informant Interviews, n = 9 Informants):**
+   * *Group 1 (Operational Experts, Informants EP1–EP4):* Venue booking managers, event coordinators, and audio engineers detailing grueling overnight setups, loading door collisions, and breaker overloads.
+   * *Group 2 (Attendees, Performers & Cultural Advocates, Informants EA1–EA5):* Multi-event attendees, dance troupe performers, and cultural advocates detailing speech echo blurring, thermal hotspots, and the complete lack of regional identity.
+5. **Stage 5 (Spatial Audits & Dual-Modality Event Observations):**
+   * *Static Envelope Audit (Protocol A):* Detailed 4-zone mapping of the 840 sqm envelope (711 sqm Main Hall + 129 sqm Lobby), clear height (5,390 mm to ceiling plane; 6.20 m to truss chord), 940 mm elevated stage platform (3 riser steps), 3,540 mm glass walls along Grid B, unpadded upper bulkheads (+3,640 mm to +5,390 mm AFFL), and nominal 2000 mm sliding doors restricted to 1000 mm usable width.
+   * *Primary Direct Live Event Shadowing (Protocol B, n = 5 contemporary events, October 2026):* Firsthand on-site tracking of Ingress, In-Session, and Egress across contrasting typologies:
+     - *PAGPASAMWAK Legislative Caravan* (Oct 5–6; 300 pax mixed-use banquet/gallery);
+     - *Samar Investment Forum & Investor's Gala* (Oct 10–12; 150–200 / 80–100 pax hybrid);
+     - *TESDA Graduation Ceremony* (Oct 13; 80–100 pax plenary convocation);
+     - *Stakeholders' Night* (Oct 14–15; 200 pax formal gala); and
+     - *Private Wedding Reception* (Oct 15–17; 150 pax ceremonial banquet).
+   * *Secondary Archival Photographic & Media Content Trace Observation (Protocol C, 4 exemplar events):* Systematic visual audits of high-resolution interior photographs and official municipal captions from the 12-year longitudinal ledger (N = 127 events, 2014–2026) where direct physical attendance was impossible due to calendar timing (grounded in Zeisel, 2006 and Groat & Wang, 2013):
+     - *Scenario 1 (Classroom Training):* **DTI Samar Creative Entrepreneurship Training** (June 23, 2025; Event #3 in Ledger; 53 creative entrepreneurs; documented front 30% workshop seating, rear 70% ad-hoc craft display gallery of wood engravings/paintings buffering flutter echo, stage LED wall presentation, and unutilized 129 sqm lobby);
+     - *Scenario 2 (Mass Convocations):* **ECCD Centers Moving-Up Ceremony** (April 22, 2025; Event #64 in Ledger; ~450 peak children, parents, and officials; documented wide 5.5 m processional center aisle with <250 mm lateral pitch, parents standing past Row 6 due to flat-floor sightline blockage [C < 25 mm], backdrop floor lamps, and speech clarity aided by 2025 residual ceiling fabric baffles);
+     - *Scenario 3 (Formal Banquets):* **Knights of Columbus Council 3288 Hermana Night 2026** (September 6, 2026; Event #118 in Ledger; documented 10-seater linear banquet tables flanking a wide central carroza [religious float] aisle, restricting seated clearances to ≤ 300 mm, stage lighting via outsourced column T-bars with floor cords, and bare ceiling with burnt-out luminaires); and
+     - *Scenario 4 (Cultural Placemaking & Expos):* **Annual Calbayog Tinapa 101 Cookfest** (October 2016 / July 2024 / October 2026; Events #9, #48, #125 in Ledger; documented perimeter cooking with portable butane stoves without exhaust, center judging seating set back 2.4 m from single dish table, 2-seater judges' table, 52.5 sqm elevated stage wasted solely for LED countdown timer, and severe crowd bottleneck around dish table during judging).
+   * *Physical Acoustic Field Testing (ISO 3382-2):* Benetech GM1352 sound level meter paired with a stage-mounted JBL PartyBox projecting calibrated pink noise across 8 spatial nodes. Measured passive background noise floors and interrupted noise decay duration under vacant and occupied states.
+6. **Stage 6 (Post-Design Evaluative FGD Execution):** Synchronous 80-minute online session via Google Meet with a purposive nested panel of 7 to 10 stakeholders evaluating Option A vs. Option B across the operational scenarios using Google Forms rubrics and Krueger & Casey's (2014) questioning route.
+7. **Stage 7 (Data Privacy, Security & Disposal):** Full compliance with Republic Act No. 10173 (Data Privacy Act of 2012) enforcing AES-256 digital encryption, locked physical storage, participant pseudonymization, 30-day destruction of participant linking keys, and irreversible document shredding/purging upon expiration of a 1-year post-defense retention window.
+
+---
+
+### 4. Data Analysis Framework & Triangulation Engine
+
+The data analysis does not rely on subjective impressions; it systematically triangulates across four structured analytical streams:
+
+1. **Descriptive Statistical Analysis:** Survey responses compiled in Microsoft Excel and evaluated through weighted means (`x̄`), standard deviations (`SD`), and percentage distributions (`%`) mapped to a 5-point Likert scale interpretation rubric (1.00–1.79: Very Low / Strongly Disagree; 1.80–2.59: Low / Disagree; 2.60–3.39: Moderate / Neutral; 3.40–4.19: High / Agree; 4.20–5.00: Very High / Strongly Agree).
+2. **Braun & Clarke (2006) Thematic Analysis:** Audio interview recordings transcribed verbatim and processed through a 6-phase thematic workflow (Familiarization → Initial Coding → Searching for Themes → Reviewing Themes → Defining Themes → Producing the Report) to isolate operational root causes.
+3. **Sabine Reverberation Equation Mathematical Modeling:** Measured physical sound pressure levels and reverberation times triangulated against Sabine's formula:
+   `RT₆₀ = (0.161 × V) / A`
+   where `V` represents the interior volume (3,910.5 m³ Main Hall) and `A` is the total equivalent absorption. The mathematical model proves why the untreated ceramic floor and bare plasterboard envelope produce an unacceptable reverberation decay of `RT₆₀ = 2.53 seconds` (more than double the international standard of 0.80–1.10 s), establishing the empirical necessity for laboratory-certified absorption thresholds (NRC ≥ 0.75 for wall claddings; NRC ≥ 0.85 for ceiling baffles).
+4. **Secondary Occupant Capacity Estimation & Seating Array Protocol:** To establish rigorous occupant capacities across the 12-year longitudinal ledger (N = 127 events) in the absence of electronic turnstile gates, a 4-level secondary estimation methodology was executed:
+   - *Level 1 (Direct Published Metrics; Groat & Wang, 2013):* Official headcounts corroborated from municipal press releases, DepEd memoranda, and PIO bulletins (e.g., 295 registered delegates for *Artists Kolektib*, 96 couples for *Kasalang Bayan*, 53 entrepreneurs for *DTI Training*).
+   - *Level 2 (Photographic Seating Array Audits; Zeisel, 2006):* High-resolution photographic audits calculating row-by-column Monobloc chair grids (Nrows × Nseats) and round banquet table clusters deployed across the 711 sqm floor plate.
+   - *Level 3 (Statutory Density Factoring; PD 1096 / RA 9514):* Applying building code density thresholds (0.65 m²/person for unconcentrated chairs; 1.40 m²/person for banquet dining) to define engineered boundaries (maximum 500 plenary occupants; 250–300 banquet diners) stratified into four operational tiers (Tier 1: 50–120 pax; Tier 2: 150–250 pax; Tier 3: 250–350 pax; Tier 4: 400–500 pax).
+   - *Level 4 (Empirical Calibration via Live Shadowing):* Ground-truth calibration against actual headcounts, spatial layouts, and turnaround durations recorded during the researcher's live shadowing of 5 contemporary events in October 2026.
+
+---
+
+### 5. Summary of Empirical Findings & Methodological Triangulation
+
+Cross-referencing user inputs against field observations, physical audits, and statutory codes revealed four acute operational deficits:
+
+| Evaluated Dimension | User Inputs (Surveys & Interviews) | Empirical Physical Observations (Live Protocols B & Archival C) | Statutory / Benchmark Standard | Triangulated Root Cause & Design Intervention |
 | :--- | :--- | :--- | :--- | :--- |
-| **Acoustic Speech Clarity (SOP 1.1)** | Attendees rate sound clarity deficient ($\bar{x} = 2.57$); describe echo blurring speeches. | Measured $RT_{60} = 2.53\text{ s}$ decay. Protocol B live shadowing of TESDA graduation confirmed severe, cathedral-like "church echo" over $711\text{ sqm}$ ceramic tile floor and upper bare gypsum bulkheads. | ISO 3382 / Egan Standard: $0.80–1.10\text{ s}$ for multi-purpose halls; speech threshold $\text{NRC} \ge 0.75$. | **Acoustic Volume Deficit:** Hard, parallel reflective surfaces trap sound in upper volume. Requires certified wall panels ($\text{NRC} \ge 0.75$) and ceiling baffles ($\text{NRC} \ge 0.85$). |
-| **Setup Turnaround Time & Overhead Logistics (SOP 1.2)** | $83.3\%$ of planners report 4–12+ hr turnovers; manual layout guesswork ($\bar{x} = 3.92$). | Protocol B observed a 16+ hour setup marathon (Investment Forum) and a compressed 3.5h turnover window before gala. Ingress loading doors restricted to $1,000\text{ mm}$ on Grid 4; lack of ceiling rigging forces 4+ hours of fabricating DIY ground-support framing and truss rigs that encroach on floor space and egress, plus 2 hours of floor cable taping. | **MICE Benchmark:** Turnover duration $< 90\text{ mins}$; **RA 9514 & PEC:** Zero surface floor wiring across $2,000\text{ mm}$ clear egress paths; **ANSI E1.2 / PLASA:** Overhead structural rigging required to eliminate hazardous floor towers. | **Overhead Infrastructure Void:** Absence of ceiling rigging forces crews to spend 4+ hours assembling temporary ground trusses that steal floor space (sacrificing up to 40 banquet seats) and taping floor cables. **Mandates Module 3: Non-Structural Overhead Ceiling Utility & Rigging Grid** to restore floor clearance and compress turnover to $< 90\text{ mins}$. |
-| **Seating Ergonomics & Clearances (SOP 2)** | Attendees report cramped legroom ($\bar{x} = 2.39$); planners note waiter collisions. | Unanchored monobloc chairs spaced at $< 750\text{ mm}$ pitch. Protocol B measured actual seat-to-seat clearance at only 700–750 mm; 2.0 m center aisle blocked by livestream camera tripods. | BP 344: $1,200\text{ mm}$ accessible paths; RA 9514: $900\text{ mm}$ seat pitch; Neufert: $1,600–1,800\text{ mm}$ banquet service lanes. | **Clearance Violations:** Absence of floor layout templates causes seating drift and blocked exits. Requires pre-calculated layout plans and floor indicia. |
-| **Lighting Flexibility & Atmospheric Control (SOP 1.1 / SOP 3.1)** | Planners rated smart lighting tracks their #1 highest technical priority ($\bar{x} = 4.67$); cite forced outsourcing of external lights. Attendees demand glare-free lighting ($\bar{x} = 4.37$). | Static "all-on / all-off" commercial switching causes severe presentation screen glare while stage remains dark (EP3). 100% of events outsource external lighting; high-wattage rental rigs overloaded circuits, causing blown fuses and blanked LED screens (EP5). | CIBSE / IESNA: Variable 100–500 lux; UGR $\le 19$; CCT tuning (2700K warm banquet to 4000K conference); PEC / NFPA 70: Dedicated theatrical branch circuits. | **Atmospheric & Controls Deficit:** Inability to dim or zone lighting forces costly third-party outsourcing and breaker trips. **Mandates Module 3: Integrated 3-Circuit Dimmable Smart Lighting Tracks** with DALI/DMX programmed scene presets. |
-| **Spatial Subdivision & Scale Flexibility (SOP 2 / Scenario 5)** | Planners cite inability to divide hall ($\bar{x} = 3.58$); smaller events feel overwhelmed. | Protocol B documented 80–100 pax TESDA graduation occupying only the front half of the 711 sqm hall, leaving rear half as an empty cavern with hollow acoustic flutter. | MICE Acoustic Guidelines: STC $\ge 45$ for simultaneous multi-session occupancy; efficient thermal zoning. | **All-or-Nothing Spatial Trap:** Undivided hall wastes 50% of AC/lighting and degrades acoustics for smaller groups. Mandates a ceiling-tracked kinetic acoustic partition ($\text{STC} \ge 45$). |
-| **Cultural Placemaking (SOP 3.2)** | $95\%$ of attendees demand local cultural reflection ($\bar{x} = 4.49$); venue feels generic. | Renovated from bus terminal in 2009; finished with plain painted walls, white tiles, and commercial drywall; zero Samar heritage. | City Charter: Venue mandated to promote regional arts, Sarakiki-Hadang, and tourism; Scannell & Gifford (2010) Place Attachment. | **Placelessness:** Hall fails its statutory civic charter. Mandates abstracting Basey *banig* weaves and Calbayog waterfall linework into acoustic surfaces. |
+| **Acoustic Speech Clarity (SOP 1.1)** | Attendees rate sound clarity deficient (x̄ = 2.57); speeches blur in echo. | Measured RT₆₀ = 2.53 s decay. Protocol B live shadowing of TESDA graduation confirmed cathedral-like "church echo" over bare tiles. Protocol C confirmed unbaffled upper bulkheads (+3,640 mm to +5,390 mm AFFL). | ISO 3382 / Egan Standard: 0.80–1.10 s for multi-purpose halls; speech threshold NRC ≥ 0.75. | **Upper Volume Specular Reflection:** Hard parallel masonry and tile surfaces trap sound. **Mandates Module 2:** Wallcrown Atmosphere Digest UW1062 dried-tikog-inspired wallpaper, staggered fabric-wrapped acoustic panels (NRC ≥ 0.75) with cove lighting, waterfall ceiling baffles (NRC ≥ 0.85), beige acoustic drapery, and A-xet Bianco Snow Terrazzo acoustic LVT. |
+| **Setup Turnaround Time & Rigging Logistics (SOP 1.2)** | 83.3% of planners report 4–12+ hr turnovers; manual layout guesswork (x̄ = 3.92). | Protocol B logged 16+ hr setup (Samar Forum), 13+ hr marathon (Wedding with 4 ground trusses eating 36 sqm), and 3.5h reset compression. Protocol C confirmed column T-bar lighting with taped cords in Hermana Night 2026, 4–6 hr temporary stall assembly in Tinapa 101, and primary loading doors on Grid 4 restricted to 1000 mm. | MICE Benchmark: Turnover < 90 mins; RA 9514 & PEC: Zero floor wiring across 2000 mm egress routes; ANSI E1.2: Overhead structural rigging required. | **Overhead Infrastructure Void:** Lack of ceiling tracks forces crews to spend 4+ hours building temporary ground trusses that steal floor space and taping floor wires. **Mandates Module 3:** Non-structural Unistrut ceiling track grid, motorized hoists, and retractable utility reels. |
+| **Seating Ergonomics & Clearances (SOP 2)** | Attendees report cramped legroom (x̄ = 2.39); planners cite waiter collisions. | Protocol B measured seat pitch at only 700–750 mm; center aisle blocked by camera tripods; waitstaff colliding with chairs. Protocol C confirmed parents standing due to flat-floor sightline blockage (C < 25 mm) behind a wide 5.5 m processional aisle in ECCD graduation; and Hermana Night chair-to-chair clearances compressed to ≤ 300 mm around a central carroza aisle. | BP 344: 1200 mm accessible paths; RA 9514: 900 mm seat pitch; Neufert: 1600–1800 mm banquet service lanes; Sightlines: C ≥ 60 mm. | **Clearance & Sightline Deficit:** Absence of floor templates causes seating drift and blocked exits. **Mandates Module 1:** Radial chevron plenary seating (C ≥ 60 mm), diamond banquet clusters (1800 mm service lanes), and brass floor alignment studs. |
+| **Pre-Function Thermal Comfort & Egress Safety (SOP 1.1 / 1.2)** | Attendees rate lobby arrival comfort low (x̄ = 2.61); planners cite registration gridlock. | Protocol B documented lobby heat (> 28°C) where wedding guests fanned themselves due to zero AC. Registration booths blocked 1 of 2 main entrance doors in both PAGPASAMWAK and Samar Forum. Sliding exits concealed by drapes with zero exit signs (RA 9514). | ASHRAE 55: Operative comfort 22–24°C; RA 9514: Unobstructed egress portals; 90-min battery-backed illuminated exit signs. | **Pre-Function Climate & Portal Void:** Unconditioned lobby creates thermal shock and bottlenecked entry. **Mandates Module 4:** Dual split-type AC units at Columns 1A & 4A, 2000 mm door standoff buffers, and illuminated exit signage. |
+| **Cultural Placemaking (SOP 3.2)** | 95% of attendees demand local cultural reflection (x̄ = 4.49); venue feels generic. | Renovated from bus terminal in 2009; finished with plain painted masonry and white tiles. Protocol C confirmed heavy reliance on disposable vinyl tarpaulins taped and nailed to drywall, 52.5 sqm stage wasted solely as an LED timer stand (Tinapa 101), and rear 70% floor used as ad-hoc craft display while the 129 sqm lobby was left unutilized (DTI Training). | Municipal Civic Charter: Hub for promoting local culture, arts, and tourism; Scannell & Gifford (2010) Theory of Place Attachment. | **Generic Civic Placelessness:** Venue fails its statutory cultural mandate. **Mandates Module 2:** Permanent architectural finishes inspired by regional heritage: Wallcrown dried-tikog wallpaper, white MCM banig-weave column base, oak Flexiflute upper columns, Grid B solid acoustic wall (fabric panels inside; Hadang CNC rooster mural in Lobby), and A-xet Bianco Snow Terrazzo LVT. |
 
 ---
 
-### 4. Resulting Interior Design Intervention (The Three Master Modules)
+### 6. Resulting Interior Design Intervention Framework (The Master Modules)
 
-The empirical analysis translates into three unified non-structural interior design modules matching the three core pillars of the thesis:
+The empirical analysis translates into four actionable, non-structural interior design modules:
 
-1. **Module 1: Pax-Driven Spatial Modularity, Clearance Standards & Scalable Layout Manual (SOP 2):**
-   * *Deliverable Set A (Scaled 2D CADD Floor Plans):* Grounded in the 129-event longitudinal audit and tested across the 5 FGD operational scenarios, Module 1 provides an adaptive manual of **4 Core Typologies** articulated across **scalable occupancy tiers (50 to 500 pax)**:
-     - *Plenary / Theatrical Assembly Typology:* Scales from Tier 4 Peak Plenary (400–500 pax radial chevron, $900\text{ mm}$ pitch, BP 344 bays) down to Tier 2 Mid-Scale Plenary (200–300 pax with buffered rear acoustics).
-     - *Classroom / Training Typology:* Scales from Tier 2 Chevron Training (150–250 pax with integrated modesty wire raceways) to Tier 1 Interactive Workshop Pods (50–120 pax collaborative clusters).
-     - *Banquet / Dining Typology:* Scales from Tier 3 Large Gala Banquet (250–350 pax staggered diamond clusters with $1,800\text{ mm}$ service lanes and bridal dais) to Tier 2 Mid-Scale Dining (150–200 pax).
-     - *Exhibition / Interactive Showcase Typology:* Accommodates Tier 2/3 Arterial Looped Trade Expos (15–20 modular $2\times2\text{ m}$ / $3\times3\text{ m}$ booths with $2,400\text{ mm}$ corridors) and Culinary Cookfest showcases.
-     - *Multi-Zone Subdivided Mode (Scenario 5):* Concurrent dual-occupancy layout (e.g., Zone A Workshop + Zone B Banquet) separated by the ceiling-tracked kinetic acoustic partition ($\text{STC} \ge 45$).
-   * *Integrated Anthropometrics & Life-Safety Clearances:* Enforces strict $900\text{ mm}$ seat pitches (RA 9514), guaranteed $1,800\text{ mm}$ two-way waiter service lanes (Neufert), $1,200\text{–}1,800\text{ mm}$ perimeter egress corridors, an absolute **$2,000\text{ mm}$ no-furniture door buffer** (preventing booths or tripods from blocking exits), 4 integrated BP 344 wheelchair stations ($760 \times 1,220\text{ mm}$), and discrete photoluminescent brass floor alignment indicia embedded in tile joints to eliminate trial-and-error measuring while guiding blackout egress.
-
-2. **Module 2: Samar-Calbayog Cultural Acoustic Overlays & Sensory Placemaking (SOP 3.2):**
-   * *Deliverable Set C (Interior Elevations, Wall Sections & 3D Perspectives):*
-     - CNC-routed acoustic wall panels ($\text{NRC} \ge 0.75$) abstracting Samar Basey *banig* (*Samat* and *Lara* weaves) with flame-retardant *tikog* grass textures.
-     - Suspended wave ceiling baffles ($\text{NRC} \ge 0.85$) reflecting Calbayog's identity as the "City of Waterfalls" (Tarangban & Bangon falls) in the central volume.
-     - **Proposed Full-Height Wand-Drawn Acoustic Drapery & Concealed Soffit Pocket:** Housed in a concealed $150\times180\text{ mm}$ pocket inside the proposed $+4,685\text{ mm}$ perimeter dropped soffit, heavy velour drapery ($\text{NRC} \ge 0.70$) hangs unbroken to the floor. Operated via a $2,700\text{ mm}$ baton wand hidden behind lead pleats (grip at $+1,650\text{–}1,750\text{ mm}$ AFFL), staff effortlessly glide curtains from floor level without ladders. Features bi-parting door splits and magnetic wall anchors locking curtains back to preserve a full $2,000\text{ mm}$ clear exit portal (RA 9514).
-     - Kinetic stage proscenium celebrating the movement and plumage of the *Sarakiki-Hadang Festival*.
-
-3. **Module 3: Non-Structural Overhead Ceiling Utility & Dimmable Smart Lighting Grid (SOP 3.1):**
-   * *Deliverable Set B (Reflected Ceiling Plan & Lighting Layout):*
-     - **Inward-Facing LED Cove Lighting (+4,685 mm Dropped Soffit):** Linear 24V tunable LED wash highlighting the suspended waterfall baffles.
-     - **Concealed Perimeter Unistrut Swagging Rail (Channel B):** Continuous Unistrut P1000 channel nested in the $+4,685\text{ mm}$ soffit pocket ($WLL \ge 250\text{ kg}$), allowing decorators to snap carabiners into hidden eyebolts for tensioned ceiling fabric swagging without driving nails or tie-wires into walls.
-     - Central motorized hoists and overhead unistrut channels eliminating hazardous floor-standing truss towers and freeing up to 40 banquet seats on the floor plate.
-     - Overhead utility and AV cable drops eliminating floor cable taping and tripping hazards across egress corridors (PEC / RA 9514).
-     - Integrated 3-circuit dimmable smart lighting tracks (CCT tuning, glare-controlled UGR $\le 19$, and programmed DALI/DMX scene presets: Plenary, Presentation, Banquet Gala, and Stage Accent) to eliminate forced third-party lighting rentals.
-     - **Illuminated Emergency Exit Signage:** 90-minute battery-backed photoluminescent LED exit signs over all perimeter and lobby exit doors (RA 9514).
+1. **Module 1: Pax-Driven Spatial Modularity & Reconfigurable Layout Manual (SOP 2):**
+   * Pre-calculated 2D CADD layout configurations scaled across 4 occupancy tiers (50 to 500 pax):
+     - *Plenary / Theatrical Typology:* Radial continental chevron seating angled at 15° to 30° toward stage center (guaranteeing C ≥ 60 mm sightline clearance), dual 1500 mm radial egress avenues connecting to perimeter doors, and 4 dedicated BP 344 wheelchair bays (760 × 1220 mm).
+     - *Classroom / Training Typology:* Modular collaborative pods (6 to 8 pax) utilizing flip-top nesting tables on lockable casters, 1500 mm facilitator roaming avenues, and overhead retractable power drops.
+     - *Banquet / Dining Typology:* Staggered diamond round table clusters (Ø 1800 mm) maintaining guaranteed 1800 mm service lanes and a dedicated 1800 mm catering bypass corridor in the lobby.
+      - *Exhibition / Trade Showcase Typology:* Central back-to-back island modules in Zero-Stage Flat-Floor Mode (reclaiming 52.5 sqm of floor space) with a 2400 mm looped thoroughfare and overhead utility drops, eliminating perimeter dead zones.
+      - *Venue-Provided Demountable Staging System:* Replaces the legacy fixed concrete stage (+940 mm AFFL) with standardized interlocking risers (1.22 Ã— 2.44 m units, 300/600/900 mm legs, BP 344 ramp) supporting on-demand stage assembly for convocations or complete stage removal ("Zero-Stage Flat-Floor Mode") to reclaim 52.5 sqm of continuous floor area for expos and banquets.
+     - *Spatial Subdivision Scenario:* Kinetic operable acoustic partition wall (STC ≥ 45) enabling concurrent dual-event bookings (e.g., seminar + banquet) in the 711 sqm Main Hall.
+   * *Floor Indicia System:* Photoluminescent brass floor alignment studs embedded flush in tile grout joints, allowing custodial staff to align rows instantly without measuring tapes while providing blackout egress pathmarking.
+2. **Module 2: Samar-Calbayog Cultural Acoustic Placemaking Overlays (SOP 3.2):**
+   * Stage perimeter walls: Commercial **Wallcrown Atmosphere Digest Wallpaper (Code: UW1062)** in light beige (dried-*tikog*-inspired subtle linear texture; Class A fire rated).
+   * Interior columns: **White MCM (Modified Clay Material)** flexible wall cladding on base (+0.00 to +1,200 mm AFFL) textured like *banig* weave, paired with **Flexiflute Primed** panels painted in an oak wood tone on upper shafts (+1,200 to +4,685 mm AFFL).
+   * Grid Line B Solid Acoustic Separation Wall: Permanent solid acoustic drywall wall converting exposed glass bays (between 1B–2B and 3B–4B). Main Hall face: staggered light beige fabric-wrapped acoustic panels (NRC ≥ 0.75) with integrated indirect LED cove lighting. Lobby pre-function face (129 sqm Concourse): custom **CNC wood-carved relief feature wall** inspired by the movement and rooster (*manok*) iconography of the Hadang Festival.
+   * Curvilinear suspended PET felt ceiling baffles (NRC ≥ 0.85) reflecting the cascading fluid dynamics of Calbayog's waterfalls (Tarangban, Bangon falls) with 24V LED cove illumination.
+   * **Full-Height Wand-Drawn Acoustic Drapery (+4,685 mm AFFL to floor):** Flame-retardant beige acoustic drapery (NRC ≥ 0.70) with 2,700 mm baton wands and magnetic wall holdbacks preserving a 2,000 mm clear exit portal under RA 9514.
+   * Commercial acoustic Luxury Vinyl Tile (LVT) with acoustic backing (**A-xet Floor Coverings in BIANCO SNOW TERRAZZO**), eliminating the high-frequency flutter clatter of legacy porcelain tiles.
+3. **Module 3: Non-Structural Ceiling Track & Dimmable Smart Lighting Grid (SOP 3.1):**
+   * Overhead Unistrut track grid suspended at +5,390 mm AFFL (roof truss deck level) equipped with central motorized chain hoists and line-array audio pick points—eliminating 4 ground truss towers and instantly recovering 40 banquet seats on the floor plate.
+   * **Concealed Perimeter Swagging Rail (Channel B):** Continuous Unistrut P1000 channel nested in the +4,685 mm soffit pocket (Working Load Limit ≥ 250 kg), allowing event decorators to snap ceiling fabric swags and banners into pre-positioned eyebolts tool-free and damage-free, completely eliminating wall nails and wire scars.
+   * Retractable ceiling cord reels supplying 220V power directly to floor pods, eliminating floor wire taping.
+   * 3-circuit DALI/DMX dimmable smart lighting tracks featuring automated scene presets (Plenary, Conference, Banquet Gala, Exhibition, Stage Accent) to eliminate forced third-party lighting rentals.
+   * Illuminated 90-minute battery-backed LED Fire Exit signage mounted over all exits (RA 9514).
+4. **Module 4: Active Pre-Function Concourse Infrastructure (SOP 1.1 / 1.2):**
+   * Two dedicated commercial split-type air conditioning units mounted on perimeter side walls at Columns 1A and 4A (Grid Lines 1 & 4) utilizing existing electrical sockets, cooling the 129 sqm Lobby to 22–24°C.
+   * Ceiling perimeter display tracks and wand-drawn fabric dividers transforming the lobby into an active pop-up cultural showcase for Basey mats and Calbayog arts while preserving a continuous 2000 mm exit path.
 
 ---
 
-### 5. Next Immediate Step: Evaluative Focus Group Discussion (FGD)
+### 7. Next Immediate Step: Evaluative Focus Group Discussion (FGD)
 
-Having synthesized these empirical findings into 2D CADD layout plans, reflected ceiling plans, and 3D Enscape visualization perspectives, our next methodological step is **Phase 3 Pre-Occupancy Stakeholder Validation (Tremblay et al., 2010)**:
-* **Stimulus Slide Deck Grounding ([draft/06_FGD_Presentation_Slide_Deck_and_Visual_Scenarios_Guide.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/draft/06_FGD_Presentation_Slide_Deck_and_Visual_Scenarios_Guide.md)):** The presentation pairs real on-site photographic references from the 129-event historical ledger with quantified turnaround penalties (4–12 hours manual setup vs. <45 min to 2 hours modular turnover).
-* **Format:** Synchronous 80-minute online session via **Google Meet** with 8 to 10 purposively selected key stakeholders (Event Planners, Facility Managers, CACO Cultural Officers, and Attendees).
-* **Protocol:** Screen-shared side-by-side stress-testing of **Option A (Status Quo Baseline)** versus **Option B (Proposed Modular Interior Framework)** across 5 operational scenarios using a 5-point comparative rubric:
-  1. *Scenario 1: Plenary Assembly (300–500 pax)* — Linear rows vs. Radial Chevron seating ($C \ge 60\text{ mm}$ sightlines).
-  2. *Scenario 2: Classroom / Workshop (120–180 pax)* — Static rows vs. Modular Pods with unistrut utility drops.
-  3. *Scenario 3: Social Banquet / Gala (200–300 pax)* — Grid rows vs. Staggered Clusters with 2000 mm perimeter buffer.
-  4. *Scenario 4: Exhibition / Trade Fair / Cookfest (150–200 pax)* — Wall-hugging stalls vs. Central Island looped circulation.
-  5. *Scenario 5: Spatial Subdivision / Dual-Event (80–120 pax each)* — Echoing half-empty hall vs. Kinetic STC $\ge 45$ operable partition wall.
-* **Output:** Translates stakeholder evaluation scores directly into Chapter 4 Tables 4.15 and 4.16 before finalizing Chapter 5.
+Having completed the 2D CADD drawings, reflected ceiling plans, 3D digital renderings, and material specifications, the next methodological milestone is **Phase 3 Pre-Occupancy Stakeholder Validation (Tremblay et al., 2010; Zeisel, 2006)**:
+* **Presentation Manual ([draft/06_FGD_Presentation_Slide_Deck_and_Visual_Scenarios_Guide.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/draft/06_FGD_Presentation_Slide_Deck_and_Visual_Scenarios_Guide.md)):** A 12-slide operational stimuli deck pairing real on-site photographic evidence from the 129 ledger and live shadowing with side-by-side comparative evaluations of Option A (Status Quo Baseline) vs. Option B (Proposed Modular Framework).
+* **Execution Modality:** Synchronous 80-minute teleconference via **Google Meet** with a purposive nested panel of 7 to 10 stakeholders (Event Planners, Facility Managers, Sound Engineers, Multi-Event Attendees, and City Arts & Culture Officers).
+* **Data Integration:** Panel rubric scores and qualitative feedback will be translated directly into **Chapter 4 Tables 4.15 and 4.16** through a Problem-to-Design Traceability Matrix before finalizing Chapter 5 conclusions.
 
-I would appreciate your feedback or guidance on this data synthesis and our planned FGD execution. Thank you very much for your continuous mentorship and support!
+I would deeply appreciate your feedback on this research synthesis and our upcoming FGD validation setup. Thank you very much for your continuous mentorship and support!
 
 Respectfully yours,
 
@@ -145,33 +183,32 @@ BS Interior Design Candidate
 
 ### Option B: Concise Executive Summary (Mobile / Quick-Read Version)
 
-**Subject:** Quick Thesis Update: Calbayog Convention Center — Revised SOP, Data Summary, & Next Steps
+**Subject:** Quick Thesis Update: Calbayog Convention Center — Methodology, Empirical Findings, & Next Steps
 
 Dear Ma'am / Sir [Adviser's Name],
 
-Good day! Here is a concise progress summary of my thesis on the **Calbayog Cultural Convention Center** prior to conducting our Evaluative Focus Group Discussion (FGD):
+Good day! Here is an executive progress summary of my thesis on the **Calbayog Cultural Convention Center** prior to conducting our Evaluative Focus Group Discussion (FGD):
 
-1. **Revised Statement of the Problem:**
-   * **SOP 1.1 & 1.2:** Evaluates baseline IEQ satisfaction (attendees) and setup turnaround bottlenecks (event planners).
-   * **SOP 2:** Identifies operational spatial typologies from event history and formulates optimized interior layout templates.
-   * **SOP 3.1 & 3.2:** Develops future-proof overhead utility tracks and culturally-responsive acoustic overlays (Basey *banig* and waterfall motifs under Place Attachment theory).
+1. **Research Design & Methodology:**
+   * **Applied Design Research & Convergent Parallel Mixed-Methods Design:** Phase 1 Diagnostic Fieldwork (QUAN + QUAL) → Phase 2 Triangulation & Interior Design Synthesis → Phase 3 Stakeholder Validation (FGD).
+   * **Theoretical Anchors (Dual-Framework Paradigm):** Actor-Network Theory & Affordance Theory (Latour/Gibson: Diagnosing human-actant operational friction and re-engineering spatial affordances to compress turnovers to < 90 mins) paired with Theory of Place Attachment (Scannell & Gifford: Person-Process-Place framework translating Basey banig weaving and Calbayog waterfalls into high-performance acoustic infill). Physical interior boundaries are statutorily governed by RA 10350 and PD 1096.
+   * **7-Stage Data Collection:** Institutional permissions, pilot pre-testing (Planner α = 0.9402, Attendee α = 0.9469), surveys (N = 112), interviews (n = 9), dual-modality observations, acoustic testing, and RA 10173 data privacy protocols.
 
-2. **Completed Empirical Dataset Across 5 Pillars:**
-   * **129 Verified Historical Events (2014–2026):** 107 events held in the last 5 years; categorized into Plenary (48.8%), Classroom (25.6%), Banquet (14.0%), and Exhibition (11.6%). Proved typhoon resilience (*Yolanda, Ruby, Tisoy*) justifying non-structural interior overlay.
-   * **Protocol B Live Event Shadowing:** Tracked live operations during the *Samar Investment Forum & Gala* (16+ hr setup marathon, blocked doors, 700–750 mm seat pitch, 3.5h reset) and *TESDA Graduation* (half-empty hall causing cathedral-like "church echo" proving the need for a kinetic acoustic wall).
-   * **Quantitative Surveys ($N = 112$):** $n=12$ planners (identifying 4–12 hr setup friction) and $N=100$ attendees (identifying thermal and acoustic deficits).
-   * **Qualitative Interviews ($n = 9$):** In-depth feedback from planners, sound engineers, and attendees.
-   * **Physical Spatial & Acoustic Audits:** $840\text{ sqm}$ envelope mapped; documented $1,000\text{ mm}$ loading door bottleneck; pink noise acoustic testing confirmed severe reverberation of **$RT_{60} = 2.53\text{ s}$** (target standard: $0.80–1.10\text{ s}$).
+2. **Empirical Dataset Across Four Core Strands:**
+   * **Longitudinal Audit (N = 127 events, 2014–2026):** 83% occurred in the last 5 years; categorized into Plenary (48.8%), Classroom (25.6%), Banquet (14.0%), and Exhibition (11.6%). Proved structural typhoon resilience (*Yolanda, Ruby, Tisoy*) justifying non-structural interior overlay.
+   * **Protocol B Live Shadowing (n = 5 Contemporary Events, October 2026):** Documented a 16+ hr setup marathon and 3.5h turnover compression (*Samar Investment Forum*), empty-hall "church echo" proving the need for an operable acoustic wall (*TESDA*), a 13+ hr rigging marathon and unconditioned lobby heat stress (*Wedding*), stage depth compression (*PAGPASAMWAK*), and 4 ground trusses consuming 40 banquet seats (*Stakeholders' Night* / *Wedding*).
+   * **Protocol C Archival Trace Audits (4 Exemplar Events; Zeisel, 2006):** Audited high-resolution photos and municipal captions for *DTI Creative Training* (front 30% seating, rear 70% craft gallery buffering flutter echo, unused lobby), *ECCD Moving-Up Ceremonies* (wide 5.5 m processional aisle, parents standing past Row 6 due to C < 25 mm sightlines, backdrop floor lamps, residual ceiling baffles), *Hermana Night 2026* (linear banquet tables for 10 flanking central carroza aisle compressing chair clearance to ≤ 300 mm, perimeter column T-bar lights, bare ceiling with non-working bulbs), and *Tinapa 101 Cookfest* (perimeter butane stoves, center judging seating set back 2.4 m, 2-seater judges' table, stage used solely for LED timer, severe crowd bottlenecks around single dish display table).
+   * **Physical Spatial & Acoustic Audits:** Mapped 840 sqm envelope; confirmed 1,000 mm loading door bottleneck on Grid 4; interrupted pink noise testing logged severe reverberation decay of **RT₆₀ = 2.53 s** (target: 0.80–1.10 s).
 
-3. **Core Triangulation Findings:**
-   * Attendees rate acoustics deficient ($\bar{x} = 2.57$) $\rightarrow$ Verified by $2.53\text{ s}$ decay and live observed TESDA "church echo" $\rightarrow$ Caused by $711\text{ sqm}$ ceramic floor and upper bare gypsum bulkheads.
-   * Planners report setup delays ($\bar{x} = 3.92$) $\rightarrow$ Verified by 16h setup marathon and 4+ hr makeshift ground-truss assembly $\rightarrow$ Solved by Module 3 overhead utility/rigging grid and Module 1 layout templates.
-   * Static all-on/all-off lighting washes out screens and forces 100% outsourcing of lights (EP3, EP5) $\rightarrow$ Solved by Module 3 DALI/DMX dimmable smart lighting tracks with scene presets ($\bar{x} = 4.67$ planner priority).
-   * Half-empty hall wastes conditioning and blurs acoustics $\rightarrow$ Solved by operable acoustic wall ($\text{STC} \ge 45$).
-   * $95\%$ demand cultural identity ($\bar{x} = 4.49$) $\rightarrow$ Solved by abstracting Basey *banig* and waterfall forms into functional acoustic panels ($\text{NRC} \ge 0.75$) and baffles ($\text{NRC} \ge 0.85$).
+3. **Core Triangulated Findings:**
+   * **Acoustics (SOP 1.1):** Attendees rate sound clarity low (x̄ = 2.57) → Verified by RT₆₀ = 2.53 s and TESDA flutter echo → Solved by Module 2 Wallcrown wallpaper, staggered fabric acoustic panels (NRC ≥ 0.75), waterfall baffles (NRC ≥ 0.85), and A-xet Bianco Snow Terrazzo acoustic LVT.
+   * **Turnaround (SOP 1.2):** 83.3% report 4–12+ hr turnovers → Verified by 16h setup marathon and DIY ground trusses stealing 40 seats → Solved by Module 3 overhead Unistrut ceiling grid and Module 1 layout templates compressing turnover to < 90 mins.
+   * **Ergonomics & Sightlines (SOP 2):** Substandard 700–750 mm seat pitch and blocked views → Solved by Module 1 radial chevron seating (C ≥ 60 mm), diamond banquet tables (1800 mm service lanes), and brass floor alignment studs.
+   * **Pre-Function Concourse (SOP 1.1 / 1.2):** Lobby heat (> 28°C) and door blockages → Solved by Module 4 dual AC units at Columns 1A & 4A and 2000 mm door standoff buffers.
+   * **Civic Identity (SOP 3.2):** 95% demand cultural representation (x̄ = 4.49) → Solved by permanent abstraction of Basey *tikog* weaving, waterfall fluid lines, and Hadang festival motifs.
 
 4. **Next Step:**
-   * Conducting the **Evaluative FGD via Google Meet ($N = 8–10$ stakeholders)** to evaluate Option A (Status Quo Baseline with real photos and 4–12 hr penalties) vs. Option B (Proposed Modular Framework) across 5 scenarios to complete Chapter 4 Tables 4.15 and 4.16.
+   * Conducting the **Evaluative FGD via Google Meet (7–10 stakeholders)** using our 12-slide stimuli deck to test Option A (Status Quo Baseline) vs. Option B (Proposed Modular Framework) across operational scenarios to complete Chapter 4 Tables 4.15 and 4.16.
 
 Thank you very much, Ma'am/Sir!
 

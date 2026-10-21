@@ -25,7 +25,7 @@ Under Slovin’s formula ($n = \frac{N}{1 + N(e)^2}$) applied to the convention 
 
 To ensure that the distinct spatial phenomena of different event configurations are rigorously represented and statistically testable, the 100 respondents are partitioned into a deliberate purposive quota:
 
-| Event Typology Cluster | Historical Ledger Share ($N = 129$) | Form B Sample Quota ($n = 100$) | Share (%) | Methodological Justification |
+| Event Typology Cluster | Historical Ledger Share ($N = 127$) | Form B Sample Quota ($n = 100$) | Share (%) | Methodological Justification |
 | :--- | :---: | :---: | :---: | :--- |
 | **Conferences / Conventions / Educational Seminars** | 48.8% | **35** | 35.0% | Represents high-density forward-facing plenary assemblies (350–500 pax) utilizing the raised stage. |
 | **Social Galas / Wedding Banquets / Celebrations** | 14.0% | **28** | 28.0% | **Intentionally elevated quota (28%)** to provide robust statistical power for evaluating ceiling fabric acoustic dampening, central scaffolding sightline cuts, and floor tripod clutter. |

@@ -1,7 +1,7 @@
 # Interior Design Framework Specification & Operational Deliverables Guide
 
-**Official Thesis Working Title:**  
-*An Interior Design Framework for the Calbayog City Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability*  
+**Official Finalized Thesis Title:**  
+*SPATIAL UTILIZATION ANALYSIS AND EVIDENCE-BASED INTERIOR DESIGN INTERVENTIONS FOR THE CALBAYOG CULTURAL CONVENTION CENTER: OPTIMIZING SPATIAL ADAPTABILITY AND SAMAR HERITAGE INTEGRATION FOR FLEXIBLE EVENT ENVIRONMENTS, HINAY-LA ST., BRGY. CAPOOCAN, CALBAYOG CITY, SAMAR*  
 **Degree Program:** Bachelor of Science in Interior Design  
 **Spatial Envelope:** 840 square meters (711 sqm Main Convention Hall + 129 sqm Lobby / Pre-function Area)  
 **Location:** Brgy. Capoocan, Calbayog City, Samar, Philippines  
@@ -35,7 +35,7 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 ---
 
 ### Module 1: Pax-Driven Modular Spatial Typologies & Scalable Layout Template Suite (Floor Plan Manual)
-*Standardized spatial configurations tailored specifically to the 711 sqm Main Hall and 129 sqm Lobby. Grounded in the 129-event longitudinal ledger, Module 1 articulates 4 master typologies across scalable occupancy tiers (Tiers 1 to 4: 50 to 500 pax) and dual-event spatial subdivision, providing ready-to-execute floor plans that eliminate on-site spatial confusion.*
+*Standardized spatial configurations tailored specifically to the 711 sqm Main Hall and 129 sqm Lobby. Grounded in the 127-event longitudinal ledger, Module 1 articulates 4 master typologies across scalable occupancy tiers (Tiers 1 to 4: 50 to 500 pax) and dual-event spatial subdivision, providing ready-to-execute floor plans that eliminate on-site spatial confusion.*
 
 1. **Plenary / Theatrical Assembly Typology (Civic Convocations & Graduations):**
    - *Tier 4 Peak Assembly (400–500 Occupants):* Radial chevron continental seating banks ($15^\circ–30^\circ$ splay), strict $840–900\text{ mm}$ pitch, $1,500\text{ mm}$ radial egress aisles ensuring unimpeded life-safety egress (PD 1096 / RA 9514), unobstructed stage sightlines ($C \ge 60\text{ mm}$), and 4 integrated $760 \times 1,220\text{ mm}$ BP 344 wheelchair bays.
@@ -65,7 +65,14 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 
 ---
 
-7. **Embedded Anthropometric Clearance Ruleset & First-Time Accuracy Protocol:**
+7. **Venue-Provided Demountable Staging System (Replacing Fixed Concrete Dais):**
+   - *Subfloor Leveling & Spatial Continuity:* The legacy 52.5 sqm fixed concrete stage (+940 mm AFFL) is leveled down to the main hall slab level (+0.00 AFFL), enabling the continuous **A-xet Bianco Snow Terrazzo acoustic LVT** to span the entire 711 sqm floor plate unbroken all the way to Grid Line F.
+   - *Standardized Modular Staging Units:* Standardized commercial interlocking $1,220 \times 2,440\text{ mm}$ (4'×8') aluminum-framed staging risers with telescoping legs, modular steps, demountable BP 344 accessible ramp (1:12 slope), and flame-retardant perimeter skirting.
+   - *Dual Operational Staging Affordances:*
+     - **Stage-Deployed Mode (Plenary / Theatrical / Ceremonial / Weddings):** The venue supplies and custom-configures the modular stage to required dimensions (compact $6.0 \times 3.0\text{ m}$ up to full $11.0 \times 4.2\text{ m}$) and elevations (300 mm for intimate seminars, 600 mm for banquets, 900 mm for 500-pax theatrical assemblies).
+     - **Zero-Stage Flat-Floor Mode (Exhibitions / Trade Fairs / Large Banquets / Flat Arena):** For events not requiring an elevated stage, the risers are completely demounted and stowed onto rolling stage caddies in back-of-house storage. This **instantly reclaims 52.5 sqm of continuous floor area**, allowing 4 to 6 additional trade booths or 30 to 40 additional banquet dining seats with zero dead space.
+
+8. **Embedded Anthropometric Clearance Ruleset & First-Time Accuracy Protocol:**
    - *Standard Event Furniture Dimensions:* Assembly chairs ($450 \times 450 \times 800\text{–}850\text{ mm}$); 10-person banquet tables ($\varnothing 1,800\text{ mm}$); seminar tables ($450 \times 1,800\text{ mm}$); exhibition modules ($2,000 \times 2,000\text{ mm}$ / $3,000 \times 3,000\text{ mm}$).
    - *Chair Push-Back Clearance:* Exactly **$450\text{ mm} \text{ to } 500\text{ mm}$** behind banquet and classroom tables, allowing occupants to push back chairs and stand comfortably without colliding with adjacent stations.
    - *Two-Way Catering Service Corridors:* Guaranteed **$1,620\text{ mm} \text{ to } 1,800\text{ mm}$** between perimeter chair edges of adjacent banquet clusters, allowing waiters carrying trays or food carts to pass freely.
@@ -78,27 +85,31 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 ---
 
 ### Module 2: Samar-Calbayog Cultural Acoustic Overlays & Sensory Placemaking
-*Remediates existing acoustic reverberation (measured $RT_{60} = 2.53\text{ s}$) while embedding authentic regional Samar and Calbayog identity (Theory of Place Attachment).*
+*Remediates existing acoustic reverberation (measured $RT_{60} = 2.53\text{ s}) through commercial, fire-rated finishes abstracting regional Samar and Calbayog identity (Theory of Place Attachment).*
 
-- **Perimeter Acoustic Wall Absorption Panels:**
-  - Non-structural wall-mounted composite panels (achieving an acoustic performance of $\text{NRC} \ge 0.75$).
-  - Upholstered in flame-retardant commercial acoustic fabric incorporating abstracted geometric patterns derived from **Basey *banig* weaving (*Samat* and *Lara* weaves)** and natural **tikog grass (*Fimbristylis umbellaris*)** textures.
-  - Sub-frame installation using concealed Z-clips to avoid damaging the existing building shell.
+- **Stage Perimeter Walls (Main Hall):**
+  - Commercial **Wallcrown Atmosphere Digest Wallpaper collection (Code: UW1062)** in light beige.
+  - Subtle vertical linear pattern inspired by the natural grain of dried *tikog* leaves (*Fimbristylis umbellaris*) used in Basey mat weaving; washable, Class A fire rated, providing a warm neutral backdrop that prevents chromatic light spill on camera lenses.
+- **Interior Columns (+0.00 to +4,685 mm AFFL):**
+  - **Lower Column Base (+0.00 to +1,200 mm AFFL):** Clad in **white MCM (Modified Clay Material)** flexible wall cladding textured to resemble traditional *banig* weaving relief. Highly durable, impact-resistant against furniture trolleys, non-combustible, and easily wipeable.
+  - **Upper Column Shaft (+1,200 to +4,685 mm AFFL):** Clad in **Flexiflute Primed** flexible fluted panels painted to match a warm oak wood tone, infusing organic warmth and vertical rhythm while preserving architectural neutrality.
+- **Grid Line B Solid Acoustic Separation Wall (Between Columns 1B–2B and 3B–4B):**
+  - Permanent solid acoustic wall infill replacing legacy exposed single-pane glass partitions (which event staff constantly covered with makeshift tarpaulins).
+  - **Main Hall Face:** Drywall substrate with custom fabric-wrapped acoustic panels ($\text{NRC} \ge 0.75$) in light beige fabric, arranged in a sophisticated **staggered pattern with integrated indirect LED cove lighting** for speech intelligibility and subtle architectural highlight.
+  - **Lobby Pre-Function Face (129 sqm Concourse):** Features a **custom CNC wood-carved relief feature wall** abstracting the ceremonial movement, dynamic rhythm, and rooster (*manok*) iconography central to Calbayog's premier **Hadang Festival**, creating a dignified civic landmark for arriving delegates.
+- **Perimeter Fenestrations & Proposed Full-Height Wand-Drawn Drapery (Grids 1 & 4):**
+  - Housed inside a **concealed $150\times180\text{ mm}$ recessed pocket** within the perimeter dropped ceiling soffit at **$+4,685\text{ mm}$ AFFL**.
+  - **Full-Height Vertical Extent:** Heavy flame-retardant beige acoustic drapery ($\text{NRC} \ge 0.70$) hangs unbroken from $+4,685\text{ mm}$ to floor level ($+0.00$), covering clerestories and sliding doors in one acoustic-absorptive sweep.
+  - **Wand-Drawn Floor Ergonomics:** Heavy-duty aluminum track with wheeled nylon carriers; fitted with a **$2,700\text{ mm}$ rigid fiberglass/aluminum baton wand** concealed behind the leading fabric pleat, allowing staff to glide curtains open and shut smoothly from floor level without climbing ladders.
+  - **Egress Integrity & Magnetic Wall Anchors (RA 9514):** Bi-parting splits centered at each sliding door portal. High-strength neodymium wall magnets lock stacked curtains back against adjacent column jambs, maintaining the full **$2,000\text{ mm}$ clear portal width** during active operations and emergency egress.
+- **High Perimeter Bulkheads (Grids 1 & 4, +3,640 to +5,390 mm AFFL):**
+  - Washable regular painted wall in neutral light beige / warm off-white, maintaining a clean, cohesive envelope.
 - **Suspended Kinetic Waterfall Ceiling Baffles:**
-  - Non-structural, curvilinear ceiling sound baffles ($\text{NRC} \ge 0.85$) suspended in the central ceiling volume (up to $+5,390\text{ mm}$ AFFL), imitating the fluid dynamics and cascading drop lines of **Calbayog’s famed waterfalls** (Tarangban, Bangon, Mapaso falls).
-  - Eliminates cathedral-like flutter echoes and diffuses mid-to-high speech frequencies.
-- **Proposed Full-Height Wand-Drawn Acoustic Drapery & Concealed Soffit Pocket:**
-  - Proposed non-structural drapery sub-system housed inside a **concealed $150\times180\text{ mm}$ recessed pocket** within the proposed perimeter dropped ceiling soffit at **$+4,685\text{ mm}$ AFFL**.
-  - **Full-Height Vertical Extent:** Heavy flame-retardant acoustic velour drapery ($\text{NRC} \ge 0.70$) hangs unbroken from $+4,685\text{ mm}$ down to floor level ($+0.00$), covering both clerestories and sliding doors in one grand, acoustic-absorptive sweep.
-  - **Wand-Drawn Floor Ergonomics:** Heavy-duty aluminum track with wheeled nylon carriers; master lead carrier fitted with a **$2,700\text{ mm}$ rigid fiberglass/aluminum baton wand** concealed behind the leading fabric pleat. The handle terminates at $+1,650\text{–}1,750\text{ mm}$ AFFL (standing chest/eye level), allowing staff to glide curtains open and shut smoothly from floor level without climbing ladders.
-  - **Egress Integrity & Magnetic Wall Anchors (RA 9514):** Drapery features bi-parting splits centered at each sliding door portal. High-strength neodymium wall magnets lock the stacked curtains back against adjacent column jambs, maintaining the full **$2,000\text{ mm}$ clear portal width** during active operations and emergency egress.
-- **Sarakiki-Hadang Kinetic Stage Proscenium Feature:**
-  - Decorative proscenium framing celebrating the cultural movement, plumage, and rhythm of Calbayog's premier *Sarakiki-Hadang Festival*.
-- **Built-In Cultural Backdrop for Civic Equity:**
-  - Provides a permanent, dignified civic aesthetic by default, eliminating the need for temporary single-use plastic tarpaulins and wall-damaging tape.
+  - Non-structural, curvilinear ceiling sound baffles ($\text{NRC} \ge 0.85$) suspended in the central ceiling volume (up to $+5,390\text{ mm}$ AFFL) in light beige / off-white, abstracting the cascading drop lines of **Calbayog’s waterfalls** (Tarangban, Bangon falls) and illuminated by inward-facing 24V linear LED cove wash.
+- **Commercial Acoustic Resilient Flooring:**
+  - High-gloss specular porcelain floor tiles are replaced with **commercial acoustic Luxury Vinyl Tile (LVT) with acoustic backing (A-xet Floor Coverings in BIANCO SNOW TERRAZZO)**, dampening footfall impact noise and eliminating floor sound reflections.
 
 ---
-
 ### Module 3: Non-Structural Overhead Ceiling Utility & Dimmable Smart Lighting Grid (Technical Versatility)
 *Provides future-proof technical versatility and life-safety compliance without structural alterations.*
 
@@ -128,10 +139,10 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 | Deliverable Component | Format & Contents | Primary End-User |
 | :--- | :--- | :--- |
 | **1. 3D Digital Model & Spatial Perspective Renders** | Developed in **SketchUp & Enscape**: High-fidelity 3D views showing the Acoustic Envelope (Basey *banig* panels, waterfall baffles), +4,685 mm perimeter soffit with cove lighting, full-height drapery, Overhead Utility Grid (track lighting 300–500 lux, AV drops), 4 Layout Typologies, and Lobby Ingress Buffer. | Thesis Panel, LGU Officials, Event Planners |
-| **2. Dimensioned Floor Plan Manual** | Scaled 2D CADD layout sheets for all 4 typologies (Plenary, Classroom, Banquet, Exhibition) with detailed aisle dimensions, seat counts, 2000 mm door buffers, and PWD stalls. | Venue Operators, Event Planners, LGU Utility Crew |
+| **2. Dimensioned Floor Plan Manual** | Scaled 2D CADD layout sheets for all 4 typologies (Plenary, Classroom, Banquet, Exhibition) under both Stage-Deployed and Zero-Stage Flat-Floor configurations with detailed aisle dimensions, seat counts, 2000 mm door buffers, and PWD stalls. | Venue Operators, Event Planners, LGU Utility Crew |
 | **3. Dimensional Standards & Clearance Sheet** | Reference card detailing standard furniture dimensions, chair push-back clearances, service lanes, and wall setbacks to eliminate trial-and-error measurement. | Facility Maintenance Staff, Setup Supervisors |
 | **4. Room Conversion Operational Matrix** | Step-by-step layout transition sequence diagrams and crew timelines (e.g., Transition A: Plenary to Banquet workflow). | Event Changeover Teams, Venue Coordinators |
-| **5. Surface Material & Acoustic Schedule** | Detailed finish schedule specifying flame-retardant fabrics, *banig* abstraction patterns, *tikog* textures, full-height acoustic velour drapery, and acoustic NRC ratings. | Contractors, Interior Architects, Tourism Officers |
+| **5. Surface Material & Acoustic Schedule** | Detailed finish schedule specifying Wallcrown Atmosphere Digest UW1062 wallpaper, white MCM banig cladding, oak Flexiflute panels, staggered fabric acoustic panels (NRC ≥ 0.75), Hadang CNC wood mural, beige acoustic drapery, waterfall baffles (NRC ≥ 0.85), and A-xet Bianco Snow Terrazzo acoustic LVT. | Contractors, Interior Architects, Tourism Officers |
 | **6. Ceiling & Lighting Plan Interface** | Reflected ceiling plans (RCP) showing suspended waterfall baffles, +4,685 mm dropped perimeter soffit, cove lighting, utility tracks, and multi-zone lighting circuits. | Lighting Designers, Technical AV Coordinators |
 | **7. Regulatory Compliance Audit Checklist** | Tabulated verification matrix certifying compliance with PD 1096 Rule XII Table XII.1, BP 344, RA 9514 (egress widths, illuminated exit signs, travel distances), and DOT MC No. 2023-0003. | City Building Officials, Tourism Accreditation Auditors |
 | **8. Architectural Facade Handover Recommendation** | Formal Chapter 5 administrative recommendation advising the Calbayog City Engineering Office to retrofit the exterior facade doors with RA 9514-compliant commercial double swing doors and magnetic hold-opens. | City Engineering Office, Building Officials |

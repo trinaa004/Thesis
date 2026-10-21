@@ -4,7 +4,7 @@
 **Target Locale:** Calbayog Cultural Convention Center (Main Hall & Lobby), Brgy. Capoocan, Calbayog City, Samar  
 **Physical Footprint:** 840 square meters (711 sqm Main Hall + 129 sqm Lobby / Pre-Function Area)  
 **Maximum Occupant Load:** Up to 500 occupants (Plenary assembly)  
-**Empirical Evidence Baseline:** Appendix A ($N = 129$ verified events, 2014–2026) & Chapter 4 (Sections 4.1 & 4.2)  
+**Empirical Evidence Baseline:** Appendix A ($N = 127$ verified events, 2014–2026) & Chapter 4 (Sections 4.1 & 4.2)  
 
 ---
 
@@ -30,7 +30,7 @@ By answering this with hard, empirical data, you prove that:
 | :--- | :--- | :--- | :---: |
 | **Bucket 1: Building Profile & Resilience** | • Built originally as municipal bus terminal<br>• Converted & inaugurated: **Dec 14, 2009** (17 years operational)<br>• Owned & managed by **City Government of Calbayog**<br>• Structural resilience: Endured Super Typhoon Yolanda (2013), Ruby (2014), Tisoy (2019)<br>• Served as 35,000-family COVID-19 relief staging center | City Planning Records / City Engineering / Verified Public History | **COMPLETED & VERIFIED** |
 | **Bucket 2: Civic Significance & High-Profile Events** | • Landmark *Samar-wide Artists Kolektib* (295 registered artists with Mayor Raymund Uy & Raul Isidro)<br>• *2nd Samar Investment Forum* & *PAGPASAMWAK Legislative Caravan*<br>• *Kasalang Bayan* Mass Wedding (96 couples + families)<br>• *Knights of Columbus Hermana Night 2026* (500 pax peak capacity)<br>• Annual *Calbayog Tinapa 101 Cookfest* | Calbayog Journal / Official LGU Portal / Photo Documentation | **COMPLETED & VERIFIED** |
-| **Bucket 3: 5-Year Event Utilization Log (Frequency)** | • Total longitudinal inventory: **129 verified events** (2014–2026)<br>• Recent 5-year operational volume: **107 events between 2022 and 2026** (83.0% of total)<br>• Spatial typology breakdown: Plenary (48.8%), Classroom (25.6%), Banquet (14.0%), Exhibition (11.6%)<br>• Triangulation: Documented calendar compression during Charter Day | Master Booking Records / LGU Press Releases / Field Audit (**Appendix A**) | **COMPLETED & VERIFIED** |
+| **Bucket 3: 5-Year Event Utilization Log (Frequency)** | • Total longitudinal inventory: **127 verified events** (2014–2026)<br>• Recent 5-year operational volume: **107 events between 2022 and 2026** (83.0% of total)<br>• Spatial typology breakdown: Plenary (49.6%), Classroom (25.2%), Banquet (13.4%), Exhibition (11.8%)<br>• Triangulation: Documented calendar compression during Charter Day | Master Booking Records / LGU Press Releases / Field Audit (**Appendix A**) | **COMPLETED & VERIFIED** |
 
 ---
 
@@ -71,16 +71,16 @@ The Calbayog Cultural Convention Center is the **only LGU-owned indoor conventio
 
 ## 4. Completed 5-Year Event Utilization Ledger & Typology Synthesis
 
-Rather than relying on estimates or pending requests, the thesis now incorporates a complete, verified empirical dataset of **129 events** (fully codified in **Appendix A** and analyzed in **Chapter 4**):
+Rather than relying on estimates or pending requests, the thesis now incorporates a complete, verified empirical dataset of **127 events** (fully codified in **Appendix A** and analyzed in **Chapter 4**):
 
 ### A. Operational Trajectory (2014–2026)
 * **Baseline Operations (2014–2018):** 17 events (Initial multi-purpose utilization: cultural festivals, academic quiz bees, mass weddings, and symposia).
 * **Pandemic & Emergency Logistics Hub (2019–2021):** 5 events (Relief operations hub for 35,000 families and PSA PhilSys registration).
 * **Post-Pandemic Resurgence (2022–2024):** 34 events (Civic reactivation, landmark *Artists Kolektib*, agriculture congresses, and institutional assemblies).
 * **Contemporary Peak Operations (2025–2026):** 73 events (Intense municipal operations under Mayor Raymund C. Uy, departmental trainings, health summits, job fairs, private banquets, and high-occupancy 500-pax assemblies).
-* **Key Finding:** **107 of 129 events (83.0%)** occurred within the recent 2022–2026 window alone, proving the facility is experiencing peak municipal demand.
+* **Key Finding:** **106 of 127 events (83.5%)** occurred within the recent 2022–2026 window alone, proving the facility is experiencing peak municipal demand.
 
-### B. Empirical Distribution of the 4 Spatial Typologies ($N = 129$)
+### B. Empirical Distribution of the 4 Spatial Typologies ($N = 127$)
 
 | Spatial Layout Typology | Verified Events ($f$) | Percentage (%) | Real-World Community Booking Demand |
 | :--- | :---: | :---: | :--- |
@@ -116,12 +116,12 @@ When presenting this update to your thesis adviser, use this confident, fact-gro
 >    * Situated in Samar's typhoon belt, the reinforced concrete and structural steel shell has successfully weathered **Super Typhoon Yolanda (2013), Typhoon Ruby (2014), and Typhoon Tisoy (2019)**. During crises, it served as the city's central relief logistics hub (staging rice distribution for 35,000 families).
 >    * This proves that the building’s physical superstructure is sound and durable, which directly validates our thesis premise: the building does not need demolition, but rather an **evidence-based, non-structural interior overlay**.
 > 
-> 3. **5-Year Event Utilization Ledger ($N = 129$ Events Verified):**
->    * I have compiled an exhaustive 12-year longitudinal booking ledger containing **129 verified events from 2014 to 2026**, which is codified in **Appendix A** and analyzed in **Chapter 4 (Tables 4.1, 4.2, and 4.3)**.
+> 3. **5-Year Event Utilization Ledger ($N = 127$ Events Verified):**
+>    * I have compiled an exhaustive 12-year longitudinal booking ledger containing **127 verified events from 2014 to 2026**, which is codified in **Appendix A** and analyzed in **Chapter 4 (Tables 4.1, 4.2, and 4.3)**.
 >    * In the recent 5-year operational window (2022–2026) under Mayor Raymund Uy's administration, the venue hosted **107 events (83.0% of all bookings)**. This proves that the convention center is **not dead or underutilized—it is heavily booked and essential to Calbayog City**.
 > 
 > 4. **Empirical Justification of the 4 Interior Design Typologies:**
->    * Across these 129 verified events, the operational distribution breaks down as:
+>    * Across these 127 verified events, the operational distribution breaks down as:
 >      - **Plenary / Theatrical:** 48.8% (63 events — summits, legislative caravans, public hearings, CKC orchestra concert)
 >      - **Classroom / Training:** 25.6% (33 events — ECCD teacher workshops, CSWDO trainings, quiz bees)
 >      - **Banquet / Social:** 14.0% (18 events — weddings, Hermana Night with 500 pax, clan reunions, Kasalang Bayan)
@@ -131,4 +131,4 @@ When presenting this update to your thesis adviser, use this confident, fact-gro
 > 5. **Turnaround Bottleneck Triangulation:**
 >    * The event calendar proves that during peak seasons like Charter Day, the venue must convert between Exhibitions, Plenaries, 96-couple Banquets, and Cookfests within consecutive 24- to 48-hour windows. Because staff lack modular layout plans and stackable furniture, they waste 4 to 8 hours dragging furniture by trial and error. Our interior design framework provides the pre-calculated layout manual and modular FF&E to solve this exact bottleneck.
 > 
-> *All 129 events are fully detailed in **Appendix A** and integrated into **Chapter 4** of my thesis draft. Thank you, Ma'am/Sir!"*
+> *All 127 events are fully detailed in **Appendix A** and integrated into **Chapter 4** of my thesis draft. Thank you, Ma'am/Sir!"*

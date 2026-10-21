@@ -48,7 +48,7 @@ Prepare a **12-to-15 slide presentation deck** (using PowerPoint, Google Slides,
   * Researcher Name, Degree (BS Interior Design), Institutional Affiliation (University of San Carlos)
   * Prominent Anchor Box: *"Operational Stress-Test Session — Evaluating Usability, Life-Safety, Clearances, and Cultural Resonance"*
 
-#### Slide 2: Locale Envelope, 129-Event Evidence & Lobby Interventions
+#### Slide 2: Locale Envelope, 127-Event Evidence & Lobby Interventions
 * **Slide Contents:**
   * **Envelope Summary Graphic:** 840 sqm total footprint (711 sqm Main Plenary Hall + 129 sqm Lobby concourse; clear height: 5.39 m plasterboard plane, 6.20 m to lower truss chord; max capacity: 500 occupants).
   * **Empirical Grounding:** Summary chart from Chapter 4 Table 4.2 ($N = 129$ longitudinal events, 2014–2026) triangulated with live operational shadowing across 5 verified events (*TESDA Graduation* 80–100 pax, *Samar Investment Forum* 150–200 pax mixed-use, *Wedding Event* 150 pax, *PAGPASAMWAK Caravan* 300 pax mixed-use, and *Stakeholder's Night* 200 pax).
@@ -62,7 +62,7 @@ Prepare a **12-to-15 slide presentation deck** (using PowerPoint, Google Slides,
     * *3D View:* Low eye-level perspective from Row 18 showing audience heads completely blocking the presenter on stage.
   * **Option B (Right - Proposed):**
     * *2D Plan:* Radial Chevron Angled Seating Blocks ($15^\circ\text{ to }30^\circ$ splay toward stage center) with 900 mm seat row pitch, 305 mm clear passage, 1500 mm radial aisles leading directly to exit doors, and 4 dedicated BP 344 wheelchair stalls ($760 \times 1220\text{ mm}$).
-    * *Visual Callouts:* Green unobstructed sightline vectors with Sightline C-value clearance ($C \ge 60\text{ mm}$); modular staging extensions ($300\text{ mm} / 600\text{ mm} / 900\text{ mm}$ heights) with accessible ramp.
+    * *Visual Callouts:* Green unobstructed sightline vectors with Sightline C-value clearance ($C \ge 60\text{ mm}$); venue-provided demountable modular staging system deployed at variable elevations ($300\text{ mm} / 600\text{ mm} / 900\text{ mm}$) with demountable BP 344 accessible ramp and steps, replacing the static concrete platform.
     * *3D View:* Eye-level perspective from rear row showing unobstructed visibility of the entire stage deck.
 
 #### Slide 4: Scenario 2 — Institutional Training & Capacity Building (150–180 Occupants)
@@ -96,7 +96,7 @@ Prepare a **12-to-15 slide presentation deck** (using PowerPoint, Google Slides,
     * *3D View:* Perimeter crowding with dead center space and doorway clutter.
   * **Option B (Right - Proposed):**
     * *2D Plan:* 
-      1. *Main Hall:* Central Island Booth Modules with back-to-back configurations; 2400 mm arterial looped pedestrian circulation; 1500 mm secondary aisles.
+      1. *Main Hall (Zero-Stage Flat-Floor Mode):* Demountable modular stage struck down and stowed in back-of-house storage, **reclaiming the entire 52.5 sqm footprint** as continuous flat floor plate (A-xet Bianco Snow Terrazzo LVT) to accommodate 4 to 6 additional vendor booths; Central Island Booth Modules with back-to-back configurations; 2400 mm arterial looped pedestrian circulation; 1500 mm secondary aisles.
       2. *129 sqm Lobby as an Active Cultural Concourse:* Equipped with ceiling perimeter rigging points and wand-drawn fabric dividers to create an active pop-up cultural showcase (BCCC & Seoul Coex precedents) while keeping the main double doors 100% clear. Cooled by **two dedicated AC units at Columns 1A and 4A (Grid Lines 1 & 4)**.
     * *Visual Callouts:* Retractable ceiling-drop power cords; localized culinary booths near exhaust louvers; conditioned lobby cultural showcase with clear 2000 mm bypass.
     * *3D View:* Dynamic civic trade expo floor with intuitive continuous crowd circulation and vibrant conditioned lobby gallery.
@@ -119,8 +119,10 @@ Prepare a **12-to-15 slide presentation deck** (using PowerPoint, Google Slides,
 #### Slide 9: Non-Structural Module 2 — Cultural Acoustic Architecture & Full-Height Drapery
 * **What to Produce in CADD / 3D:**
   * *Wall Detail Drawings & Material Swatches:*
-    * CNC-routed acoustic wall panels incorporating Basey *banig* weaving geometry (*Samat* diamond weave and *Lara* geometric herringbone; NRC $\ge 0.75$) mounted on upper bulkheads and side walls.
-    * Tactile natural *tikog* grass fiber inserts (*Fimbristylis umbellaris*) with micro-perforated MDF backing and rockwool core.
+    * **Stage Perimeter Walls:** Commercial Wallcrown Atmosphere Digest Wallpaper (Code: UW1062) in light beige (dried-*tikog*-inspired subtle linear texture).
+    * **Columns:** White MCM flexible wall cladding on base (+0.00 to +1,200 mm AFFL) textured like *banig* weave, paired with Flexiflute Primed panels painted in an oak wood tone on upper shafts (+1,200 to +4,685 mm AFFL).
+    * **Grid Line B Solid Wall Conversion:** Permanent solid acoustic wall converting exposed glass bays (between 1B–2B and 3B–4B). Main Hall face: staggered light beige fabric-wrapped acoustic panels (NRC ≥ 0.75) with integrated indirect LED cove lighting. Lobby face: custom CNC wood-carved relief feature mural inspired by Hadang Festival movement and roosters.
+    * **Flooring:** Commercial acoustic Luxury Vinyl Tile (LVT) with acoustic backing (A-xet Floor Coverings in BIANCO SNOW TERRAZZO).
     * **Full-Height Wand-Drawn Velour Drapery (+4,685 mm to floor):** Heavy acoustic velour drapery ($\text{NRC} \ge 0.70$) operated from floor level via a $2,700\text{ mm}$ rigid baton wand, featuring bi-parting splits and magnetic wall holdbacks preserving a $2,000\text{ mm}$ clear exit portal.
     * Kinetic stage proscenium feature celebrating the movement and plumage of the **Hadang / Sarakiki-Hadang Festival**.
   * *Ceiling Baffle Detail Drawings:*
@@ -337,7 +339,7 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 #### Block 2: Standardized Objective Walkthrough (10–25 Min)
 
 > **Facilitator (Shares screen; displays Slide 2 then moves smoothly through Slides 3 to 9):**  
-> *"Let us look at our slide deck. As shown on Slide 2, our typologies are not arbitrary. Based on the 12-year historical event audit of 129 verified events in the convention center, 48.8% of all bookings are Plenary assemblies, 25.6% are Classroom workshops, 14.0% are Banquets, and 11.6% are Exhibitions and culinary cookfests.*  
+> *"Let us look at our slide deck. As shown on Slide 2, our typologies are not arbitrary. Based on the 12-year historical event audit of 127 verified events in the convention center, 49.6% of all bookings are Plenary assemblies, 25.2% are Classroom workshops, 13.4% are Banquets, and 11.8% are Exhibitions and culinary cookfests.*  
 >  
 > *[Slide 3 - Scenario 1 Plenary]: Notice the comparison. On the left, Option A shows the current linear rows where attendees on the outer wings experience poor sightlines and everyone bottlenecks into the single center aisle. On the right, Option B introduces radial chevron seating angled at 15 to 30 degrees, opening direct sightlines with a C-value over 60 mm, providing dedicated BP 344 wheelchair stalls, and channeling exiting crowds directly toward exterior portals.*  
 >  
@@ -345,11 +347,11 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 >  
 > *[Slide 5 - Scenario 3 Banquet]: In Option A, based on our live observations of the PAGPASAMWAK Caravan (300 pax) and Wedding banquets, chair clearance shrinks to just 700 to 750 mm, camera tripods block the middle aisle, and ground truss towers steal 4 tables. Option B uses staggered diamond clusters with guaranteed 1800 mm service lanes, recovers 40 seats by lifting rigging to the ceiling, and provides an isolated, air-conditioned catering bypass in the 129 sqm lobby.*  
 >  
-> *[Slide 6 - Scenario 4 Exhibition]: In Option A, as observed during the Samar Investment Forum, booths crowd perimeter walls while trade tables in the lobby block entrance doors and the foyer becomes uncomfortably hot. Option B introduces central island modules in the main hall with a 2400 mm looped thoroughfare, and transforms the 129 sqm lobby into an active, air-conditioned cultural concourse (cooled by dual ACs at Col 1A/4A) with ceiling perimeter rigging and fabric dividers that showcase local crafts while leaving entrance doors 100% clear.*  
+> *[Slide 6 - Scenario 4 Exhibition]: In Option A, as observed during the Samar Investment Forum, booths crowd perimeter walls while trade tables in the lobby block entrance doors and the foyer becomes uncomfortably hot. Option B introduces the Zero-Stage Flat-Floor Mode (demounting the modular stage to reclaim 52.5 sqm of continuous floor area for 4 to 6 additional booths), central island modules in the main hall with a 2400 mm looped thoroughfare, and transforms the 129 sqm lobby into an active, air-conditioned cultural concourse (cooled by dual ACs at Col 1A/4A) with ceiling perimeter rigging and fabric dividers that showcase local crafts while leaving entrance doors 100% clear.*  
 >  
 > *[Slide 7 - Scenario 5 Subdivision]: In Option A, small events waste the entire 711 sqm hall. Option B introduces a ceiling-tracked operable partition wall with an STC of at least 45, enabling two concurrent 150-pax events with zero sound bleed.*  
 >  
-> *[Slides 8 & 9 - Technical Rigging & Culture]: Finally, notice the non-structural ceiling track grid eliminating ground truss towers, and the acoustic wall panels incorporating Basey banig weaves and waterfall ceiling baffles to absorb flutter echoes."*
+> *[Slides 8 & 9 - Technical Rigging & Culture]: Finally, notice the non-structural ceiling track grid eliminating ground truss towers, Wallcrown dried-tikog-inspired wallpaper, white MCM banig-weave column base, oak Flexiflute panels, staggered fabric acoustic panels with cove lighting, and waterfall ceiling baffles to absorb flutter echoes."*
 
 ---
 
@@ -379,7 +381,7 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 > *"Now let us turn to our multi-event attendees: [Call Informant A1 by name], having sat through long ceremonies in the current convention center, how do the proposed staggered sightlines and 900 mm row pitch compare to your lived experience? And [Call PWD representative or A2], do you feel the wheelchair stalls and egress paths are completely unobstructed?"*  
 >  
 > **Route C: CACO & Heritage Advocates (Cultural Resonance & Civic Dignity):**  
-> *"Finally, let us hear from our cultural and municipal representatives: [Call CACO officer or Artisan by name], regarding the abstracted Basey banig acoustic panels and waterfall ceiling baffles—do these maintain authentic Waray identity without becoming kitschy, and do they successfully replace the need for temporary plastic tarpaulins?"*
+> *"Finally, let us hear from our cultural and municipal representatives: [Call CACO officer or Artisan by name], regarding the Wallcrown dried-tikog wallpaper, MCM banig column cladding, Hadang CNC mural, and waterfall ceiling baffles—do these maintain authentic Waray identity without becoming kitschy, and do they successfully replace the need for temporary plastic tarpaulins?"*
 
 ---
 
@@ -391,7 +393,8 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 > 1. *First, from our planners: You emphasized that setting up radial 15-degree angles in Option B Plenary requires permanent floor markers or brass indicia so custodial staff don't have to guess or tape-measure.*  
 > 2. *Second, from catering and operations: Waiters carrying 10-plate banquet trays require a dedicated service corridor in the 129 sqm lobby to avoid colliding with arrival guest queues.*  
 > 3. *Third, from attendees: Seminar seating requires accessible overhead power drops so participants don't trail phone charger cables across aisles.*  
-> 4. *Fourth, from CACO: The Basey banig wall panels should include subtle informational plaques explaining the Lara and Samat weaves to visiting delegates.*  
+> 4. *Fourth, from CACO: The cultural wall treatments should include subtle informational plaques explaining the local weaving and festival heritage to visiting delegates.*  
+> 5. *Fifth, from operators & stylists: The exposed glass partitions on Grid Line B between the hall and lobby must be replaced with a solid acoustic wall to prevent constant ad-hoc tarpaulin taping during major events.*  
 >  
 > *Did I accurately and faithfully capture your feedback? Is there any critical operational detail that I missed or misinterpreted?*  
 > *(Wait for unanimous verbal affirmation or brief clarifications).*  

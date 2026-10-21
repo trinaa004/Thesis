@@ -169,7 +169,7 @@ For **every single event typology observed**, the study conducts the exact same 
 > In academic research, **naming the 4 typologies in Chapter 1 looks like you already decided the answer before doing the research.** A thesis panel will ask: *"How did you know there are four typologies before collecting data? You answered your own research question before doing the study!"*
 
 ### 4.1. The Research-Based Reframing
-In a true research-based study, the typologies are the **EMPIRICAL RESULT OF CHAPTER 4**, extracted from your 129-event longitudinal audit and live event observations:
+In a true research-based study, the typologies are the **EMPIRICAL RESULT OF CHAPTER 4**, extracted from your 127-event longitudinal audit and live event observations:
 
 * **Original (Presupposed / Flawed):**
   > *"To formulate standardized modular layout typologies (Plenary, Classroom, Banquet, Exhibition)..."*

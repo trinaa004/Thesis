@@ -23,21 +23,21 @@ The primary objective of this study was to formulate a site-specific, research-b
 2. **Operational Setup Bottlenecks & Turnaround Delays (SPOP Q1.2):**
    - Survey evaluations from professional event planners and venue operators (n = 12) rated baseline operational friction high, reporting that routine room turnovers require **4 to 12+ hours of intense manual labor** (83.3%).
    - Spatial trace mapping and physical empty hall audits identified systemic physical bottlenecks: (a) absence of dedicated furniture storage, forcing custodial crews to stack loose chairs in lobby corridors; (b) nominal 2000 mm perimeter double doors functionally halved to **1000 mm usable clear width** because only one leaf opens; (c) loading congestion concentrated along **Column Grid Line 4**, where flight cases continuously bump and scar door jambs; (d) total lack of overhead rigging points, causing coordinators to drill makeshift wall holes for tie-wire and leaving an exposed sub-ceiling plenum in Zone A near **Column 3B**; (e) loose continuous draperies lacking tiebacks, obscuring emergency sliding doors and forcing attendees to blindly search for exits; and (f) complete absence of illuminated Fire Exit signage (RA 9514) and restroom wayfinding signs.
-   - Archival audit of **129 verified event records (2014–2026)** confirmed severe **calendar compression**, documenting back-to-back changeovers with less than 16 to 24 hours between contrasting typologies during peak civic windows (e.g., October Charter Week).
+   - Archival audit of **127 verified event records (2014–2026)** confirmed severe **calendar compression**, documenting back-to-back changeovers with less than 16 to 24 hours between contrasting typologies during peak civic windows (e.g., October Charter Week).
 
 ---
 
 ### 5.1.2. Formulation & Comparative Validation of Modular Layout Typologies (SPOP Q2)
 1. **Empirical Extraction of Four Typologies:**
-   - Rather than assuming typologies a priori, classification of the 129 historical event records revealed four organic spatial patterns: **Plenary / Theatrical (48.8%)**, **Classroom / Training (25.6%)**, **Banquet / Social (14.0%)**, and **Exhibition / Cookfest (11.6%)**.
+   - Rather than assuming typologies a priori, classification of the 127 historical event records revealed four organic spatial patterns: **Plenary / Theatrical (49.6%)**, **Classroom / Training (25.2%)**, **Banquet / Social (13.4%)**, and **Exhibition / Cookfest (11.8%)**.
 2. **Anthropometric Dimensional Standardization (Anchored in 20_RRL.md):**
    - Derived from Neufert (2012) and Panero & Zelnik (1979), standardized spatial envelopes were established: 900 mm plenary seat pitch with 305 mm clear passage; 740–760 mm classroom table heights with 450–500 mm chair pull-backs; 1800 mm diameter (Ø 1800 mm) round banquet tables with 1620–1800 mm two-way catering service corridors; and 1500–2400 mm exhibition circulation avenues.
 3. **Scenario-Based FGD Validation (Panel N = 8–10):**
    - An Evaluative Focus Group Discussion—featuring Local Event Planners (n = 3–4), CACO Cultural Officers (n = 1–2), and Multi-Event Attendees (n = 3–4, each having attended ≥ 2 distinct events)—tested competing layout options using a 5-point rubric:
-     * **Scenario 1 (Plenary):** Option B (Radial Chevron Angled Seating) statistically outperformed Option A (Linear Rows) (**x̄ = 4.71 vs. 3.02**), providing unobstructed sightlines (C ≥ 60 mm) and faster radial egress.
+      * **Scenario 1 (Plenary):** Option B (Radial Chevron Angled Seating paired with a venue-provided demountable modular staging system) statistically outperformed Option A (Linear Rows & static concrete dais) (**x̄ = 4.71 vs. 3.02**), providing unobstructed sightlines (C ≥ 60 mm), adaptable stage elevation (300/600/900 mm), and faster radial egress.
      * **Scenario 2 (Classroom):** Option B (Modular Workshop Pods) outperformed Option A (Linear Rows) (**x̄ = 4.63 vs. 3.23**), optimizing peer interaction and facilitator mobility.
      * **Scenario 3 (Banquet):** Option B (Staggered Clusters with 2000 mm Perimeter Buffer) scored **x̄ = 4.62 vs. 2.98**, eliminating catering cart collisions.
-     * **Scenario 4 (Exhibition):** Option B (Central Island Modules) scored **x̄ = 4.52 vs. 2.99**, providing continuous looped crowd flow and overhead power.
+      * **Scenario 4 (Exhibition):** Option B (Central Island Modules in **Zero-Stage Flat-Floor Mode**) scored **x̄ = 4.52 vs. 2.99**, validating that completely demounting the modular stage **reclaims 52.5 sqm of continuous floor area** to house 4 to 6 additional trade booths with continuous looped crowd flow and overhead power.
      * **Scenario 5 (Subdivision):** Option B (Operable Acoustic Partition Wall, STC ≥ 45) scored **x̄ = 4.77 vs. 2.51**, validating the feasibility of simultaneous dual-event hosting.
 
 ---
@@ -45,7 +45,7 @@ The primary objective of this study was to formulate a site-specific, research-b
 ### 5.1.3. Future-Proofing & Samar-Calbayog Placemaking (SPOP Q3)
 1. **Future-Proof Technical Infrastructure & Spatial Modularity (SPOP Q3.1):**
    - Quantitative evaluation by attendees (N = 100) strongly endorsed the proposed non-structural technical infill framework:
-     * **Spatial Modularity Index (Cluster C):** **x̄ = 4.47 (SD = 0.62, Strongly Agree)**, prioritizing ergonomic cushioned seating (C3: x̄ = 4.61) and modular staging (C5: x̄ = 4.47).
+      * **Spatial Modularity Index (Cluster C):** **x̄ = 4.47 (SD = 0.62, Strongly Agree)**, prioritizing ergonomic cushioned seating (C3: x̄ = 4.61) and venue-provided modular staging (C5: x̄ = 4.47), which replaces the inflexible legacy concrete dais with demountable risers supporting on-demand assembly and zero-stage flat-floor space recovery.
      * **Technical Integration Index (Cluster E):** **x̄ = 4.43 (SD = 0.66, Strongly Agree)**, emphasizing ceiling-routed utility cables to eliminate floor tripods (E3: x̄ = 4.52) and banquet conversational acoustic clarity (E5: x̄ = 4.49).
      * **Universal Inclusivity & Longevity Index (Cluster F):** **x̄ = 4.56 (SD = 0.58, Strongly Agree)**, anchored by **Civic Infrastructure Pride (F3: x̄ = 4.72, SD = 0.45)**—the highest rated item in the study—and dedicated BP 344 PWD accessibility (F1: x̄ = 4.51).
    - The proposed interior design framework synthesizes these demands through three concrete technical interventions:
@@ -57,11 +57,11 @@ The primary objective of this study was to formulate a site-specific, research-b
    - Overall community endorsement for the proposed interior design framework (Clusters C, D, E, F) achieved a composite mean of **x̄ = 4.50 (SD = 0.62, Strongly Agree)**, dramatically contrasting with the existing baseline deficiency (x̄ = 2.44).
 2. **Culturally Grounded Acoustic Placemaking (SPOP Q3.2):**
    - Overwhelming community consensus was recorded for Samar cultural heritage integration (**Cluster D: x̄ = 4.54, SD = 0.63, Strongly Agree**), validating the **Person-Process-Place Model of Place Attachment (Scannell & Gifford, 2010)**:
-     * Authentic Samar Cultural Identity elevating memorability (D5: x̄ = 4.62, SD = 0.52).
-     * Abstracted geometric **Basey *banig* weaving patterns** (*Samat* and *Lara* weaves) on CNC-routed acoustic wall panels (D1: x̄ = 4.61, SD = 0.60, NRC ≥ 0.75) installed across upper bulkheads and side walls.
-     * Undulating curvilinear **Calbayog waterfall ceiling baffles** (D3: x̄ = 4.59, SD = 0.62, NRC ≥ 0.85) reducing room reverberation while honoring municipal geography.
-     * Tactile natural **tikog grass textures** (D2: x̄ = 4.54, SD = 0.67) and Waray geometric acoustic drapery (D4: x̄ = 4.32, SD = 0.73).
-     * Dynamic feature accents derived from the **Hadang / Sarakiki-Hadang Festival**, creating a dignified civic identity that eliminates the need for disposable vinyl tarpaulins.
+     * Regional cultural expressions elevating spatial memorability and civic pride (D5: x̄ = 4.62, SD = 0.52).
+     * Stage perimeter walls specified with commercial **Wallcrown Atmosphere Digest Wallpaper collection (Code: UW1062)** in light beige, featuring vertical linear textures inspired by dried *tikog* leaves.
+     * Interior column bases (+0.00 to +1,200 mm AFFL) clad in **white MCM (Modified Clay Material)** textured to resemble traditional *banig* weaving relief, paired with **Flexiflute Primed** fluted panels painted in oak wood tones on upper shafts (+1,200 to +4,685 mm AFFL).
+     * Grid Line B partition walls (between Columns 1B–2B and 3B–4B) converted from exposed glass into a permanent solid acoustic separation wall, featuring custom staggered light beige fabric-wrapped acoustic panels (NRC ≥ 0.75) with integrated LED cove lighting (Main Hall face) and a custom **CNC wood-carved relief feature mural** celebrating the kinetic movement and rooster (*manok*) iconography of the Hadang Festival (Lobby concourse face).
+     * Undulating curvilinear **Calbayog waterfall ceiling baffles** (D3: x̄ = 4.59, SD = 0.62, NRC ≥ 0.85) suspended with 24V LED cove illumination, complemented by neutral beige flame-retardant acoustic curtains (D4: x̄ = 4.32, SD = 0.73) and **A-xet acoustic LVT flooring in BIANCO SNOW TERRAZZO** to eliminate floor flutter reflections.
 
 ---
 
@@ -72,9 +72,9 @@ Based on the empirical findings, the study draws the following definitive conclu
 1. **Epistemological & Methodological Conclusion:**
    - This study proves that a Bachelor of Science in Interior Design thesis achieves scientific rigor when framed as an **Applied Design Experimentation study** rather than a commercial, project-based commission. By employing **Actor-Network Theory (Latour, 2005)** and **Gibson’s (1979) Affordance Theory**, the research demonstrates that spatial bottlenecks are not human errors; they are socio-technical frictions imposed by unyielding non-human actants (hard tiles, heavy tables, absent storage, sliding doors). 
 2. **Operational & Interior Architectural Conclusion:**
-   - Grounded in **Affordance Theory (Gibson, 1979)** and statutory non-structural interior scope under RA 10350, the study concludes that aging municipal convention venues do not require structural demolition or civil engineering reconstruction to achieve high-performance MICE functionality. By preserving the existing architectural shell and re-engineering the internal spatial affordances through an adaptable non-structural interior overlay—comprising standardized layout templates, mobile FF&E on transport dollies, a perimeter dropped soffit at +4,685 mm with concealed wand-drawn acoustic drapery and continuous Unistrut swagging rails, and floor alignment markers—operational turnaround time can be drastically reduced from **4–8+ hours down to under 90 minutes** while eliminating DIY wall damage and life-safety exit obstruction.
+   - Grounded in **Affordance Theory (Gibson, 1979)** and statutory non-structural interior scope under RA 10350, the study concludes that aging municipal convention venues do not require structural demolition or civil engineering reconstruction to achieve high-performance MICE functionality. By preserving the existing architectural shell and re-engineering the internal spatial affordances through an adaptable non-structural interior overlay—comprising standardized layout templates, a venue-provided demountable modular staging system replacing the static concrete dais, mobile FF&E on transport dollies, a perimeter dropped soffit at +4,685 mm with concealed wand-drawn acoustic drapery and continuous Unistrut swagging rails, and floor alignment markers—operational turnaround time can be drastically reduced from **4–8+ hours down to under 90 minutes** while eliminating DIY wall damage, life-safety exit obstruction, and cavernous floor space wastage.
 3. **Socio-Cultural Placemaking Conclusion:**
-   - Grounded in the **Theory of Place Attachment (Scannell & Gifford, 2010)**, the study concludes that cultural identity and corporate event versatility are not mutually exclusive. Contemporary geometric abstraction of regional crafts (Basey *banig*) and municipal geography (Calbayog waterfalls) into functional acoustic surfaces delivers dual performance: it provides technical sound absorption while fostering civic pride and place identity for the citizens of Samar.
+   - Grounded in the **Theory of Place Attachment (Scannell & Gifford, 2010)**, the study concludes that cultural identity and corporate event versatility are not mutually exclusive. Contemporary architectural abstraction of regional crafts (Basey *banig*, dried *tikog* textures) and municipal traditions (Calbayog waterfalls, Hadang movements) into commercial, fire-rated acoustic finishes delivers dual performance: it provides technical sound absorption and camera-optimized neutrality while fostering civic pride and place identity for the citizens of Samar.
 
 ---
 
@@ -89,6 +89,8 @@ Based on the findings and conclusions, the study puts forward the following acti
    - The LGU should phase out heavy, non-stackable plywood banquet tables and mismatched monobloc chairs. Future capital procurement should specify commercial-grade, lightweight flip-top nesting seminar tables, folding round banquet tables, and modular ganging assembly chairs equipped with dedicated wheeled transport dollies.
 3. **Implementation of Applied Floor Indicia:**
    - Custodial management should install flush, non-intrusive floor alignment markers (brass dots or contrasting resin joints) corresponding to the pre-calculated layout typologies, enabling utility crews to align seating rows accurately on the first pass without manual tape measurement.
+4. **Procurement of Venue-Provided Demountable Staging System:**
+   - The LGU should procure a commercial modular staging platform system (standardized 1.22 × 2.44 m interlocking aluminum/plywood risers with telescoping legs for 300 mm, 600 mm, and 900 mm elevations, accompanied by demountable BP 344 accessible ramps, steps, and wheeled storage carts). Custodial crews should be trained to configure the stage on-demand for formal assemblies or completely strike it down in under 45 minutes for flat-floor trade exhibitions and large banquets.
 
 ---
 

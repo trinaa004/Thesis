@@ -1,4 +1,4 @@
-﻿# 04: Scenario-Based Design Experimentation & Alternative Testing Protocol
+# 04: Scenario-Based Design Experimentation & Alternative Testing Protocol
 
 **Degree Program:** Bachelor of Science in Interior Design (BSID)  
 **Research Locale:** Calbayog Cultural Convention Center (840 sqm Envelope: 711 sqm Main Hall + 129 sqm Lobby)  
@@ -76,8 +76,8 @@ Linear vs. Chevron       Lecture vs. Pods Clusters       Grid vs. Staggered Zone
 ---
 
 ### Scenario 1: High-Density Civic Plenary Assembly & Convocations (500 Occupants & Scalable Tier 1)
-*Operational Demand:* Maximum legal occupant capacity under PD 1096 Table XII.1; unobstructed stage visibility; rapid life-safety evacuation (RA 9514); dynamic scalability down to compact ceremonies (such as the observed *TESDA Graduation*, 80â€“100 pax).
-*Empirical Grounding:* Triangulated between peak citywide convocations (500 pax) and the live-shadowed *TESDA Graduation* (80â€“100 pax, Oct 13, 2026), where loose chairs occupied only the front third of the hall, leaving the rear as an empty echoing cavern with church-like reverberation, while graduates suffered from heat while waiting in the unconditioned lobby.
+*Operational Demand:* Maximum legal occupant capacity under PD 1096 Table XII.1; unobstructed stage visibility; rapid life-safety evacuation (RA 9514); dynamic scalability down to compact ceremonies (such as the observed *TESDA Graduation*, 80–100 pax).
+*Empirical Grounding:* Triangulated between peak citywide convocations (500 pax) and the live-shadowed *TESDA Graduation* (80–100 pax, Oct 13, 2026), where loose chairs occupied only the front third of the hall, leaving the rear as an empty echoing cavern with church-like reverberation, while graduates suffered from heat while waiting in the unconditioned lobby.
 
 * **Alternative A: Traditional Parallel Linear Seating**
   - *Layout Description:* Straight horizontal seating banks divided by a single 1500 mm central aisle and two 1000 mm perimeter aisles.
@@ -106,7 +106,7 @@ Linear vs. Chevron       Lecture vs. Pods Clusters       Grid vs. Staggered Zone
 
 ### Scenario 3: Social Dining & Gala Banquet (150-350 Occupants)
 *Operational Demand:* 10-person round tables ($\varnothing 1800\text{ mm}$); formal dining ambiance; rapid wait-staff food service; ceremonial stage and dancefloor space; catering buffer in lobby.
-*Empirical Grounding:* Live shadowing across three distinct banquetsâ€”the *PAGPASAMWAK Legislative Caravan* (300 pax), *Stakeholder's Night* (200 pax), and a private *Wedding Event* (150 pax)â€”empirically confirmed severe status quo constraints: chair-to-chair spacing compressed to a tight $700\text{--}750\text{ mm}$, middle longitudinal aisles blocked by camera tripods, and outsourced aluminum crank-stand truss towers consuming floor space (loss of 40 seats) while obstructing sightlines to the stage.
+*Empirical Grounding:* Live shadowing across three distinct banquets—the *PAGPASAMWAK Legislative Caravan* (300 pax), *Stakeholder's Night* (200 pax), and a private *Wedding Event* (150 pax)—empirically confirmed severe status quo constraints: chair-to-chair spacing compressed to a tight $700\text{--}750\text{ mm}$, middle longitudinal aisles blocked by camera tripods, and outsourced aluminum crank-stand truss towers consuming floor space (loss of 40 seats) while obstructing sightlines to the stage.
 
 * **Alternative A: Rigid Rectangular Table Grid**
   - *Layout Description:* Round tables aligned in a strict, orthogonal $X\text{-}Y$ grid across the 711 sqm floor plate; heavy outsourced crank-stand trusses; unconditioned lobby holding.

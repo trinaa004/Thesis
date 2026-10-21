@@ -1,7 +1,7 @@
 # Master Defense Guide: Reconstructing Historical Occupant Loads & Defending the Pax-Driven Spatial Matrix
 
 > **Document Purpose:** Practical Oral Defense Guide and Academic Justification Manual for the BS Interior Design Thesis Panel Defense (*Calbayog Cultural Convention Center*).  
-> **Core Topic:** Defending the 129-Event Historical Occupant Capacity Scales and the Pax-Driven Spatial Arrangement Matrix without claiming ungrounded assumptions or citing fabricated protocol names.
+> **Core Topic:** Defending the 127-Event Historical Occupant Capacity Scales and the Pax-Driven Spatial Arrangement Matrix without claiming ungrounded assumptions or citing fabricated protocol names.
 
 ---
 

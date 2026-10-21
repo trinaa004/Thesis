@@ -1,6 +1,6 @@
  THESIS PROPOSAL ABSTRACT
 
-**Title**: An Interior Design Framework for the Calbayog Cultural Convention Center: Harmonizing Spatial Modularity, Local Samar Heritage, and Future-Proof Event Adaptability  
+**Title**: SPATIAL UTILIZATION ANALYSIS AND EVIDENCE-BASED INTERIOR DESIGN INTERVENTIONS FOR THE CALBAYOG CULTURAL CONVENTION CENTER: OPTIMIZING SPATIAL ADAPTABILITY AND SAMAR HERITAGE INTEGRATION FOR FLEXIBLE EVENT ENVIRONMENTS, HINAY-LA ST., BRGY. CAPOOCAN, CALBAYOG CITY, SAMAR  
 **Author**: [Student Name]  
 **Degree Program**: Bachelor of Science in Interior Design  
 **Institutional Affiliation**: [College / University Name]  

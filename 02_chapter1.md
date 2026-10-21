@@ -16,7 +16,7 @@ Specifically, the study addresses the following research questions:
 ---
 
 ## Research Objectives
-This study aims to identify the operational event typologies of the Calbayog Cultural Convention Center, evaluate their spatial and environmental challenges, and formulate evidence-based interior design interventions that enhance spatial modularity, operational efficiency, and cultural placemaking for both venue operators and event-goers. Specifically, it seeks to:
+This study aims to identify the operational event typologies of the Calbayog Cultural Convention Center, evaluate their spatial and environmental challenges, and formulate evidence-based interior design interventions that enhance spatial flexibility, operational efficiency, and cultural placemaking for both venue operators and event-goers. Specifically, it seeks to:
 
 1. To evaluate the baseline indoor environmental quality (IEQ) and operational spatial conditions of the Calbayog Cultural Convention Center's Main Hall & Lobby.
    1.1. Measure attendee satisfaction with existing interior lighting, acoustic speech intelligibility, and seating ergonomics.

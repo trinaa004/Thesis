@@ -20,8 +20,8 @@ The questionnaire will utilize a combination of 5-point Likert scales (ranging f
 ## 2. Semi-Structured Interviews
 A qualitative semi-structured interview guide will be developed to explore nuanced insights from key event planners and venue operators. The open-ended questions will focus on specific operational workflows, physical challenges encountered during event setup and teardown, desired acoustic and lighting controls, and cultural and natural heritage expression in public venues.
 
-## 3. On-Site Spatial and Event Lifecycle Observation Protocol
-The researcher will conduct direct, non-participatory spatial observations within the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Lobby). This instrument incorporates a two part protocol:
+## 3. Spatial and Dual-Modality Event Lifecycle Observation Protocol
+The researcher will conduct direct, non-participatory spatial observations within the 840 square meter interior envelope (711 sqm Main Hall and 129 sqm Lobby). This instrument incorporates a three-part spatial observation protocol:
 
 ### Part A: Static Architectural Envelope & Physical Facility Checklist
 Conducted during non-event and vacant hall periods to record baseline physical dimensions and structural clearances:
@@ -30,11 +30,19 @@ Conducted during non-event and vacant hall periods to record baseline physical d
 3. Overhead ceiling plane finishes, utility infrastructure, and rigging point availability.
 4. Physical condition, material wear, acoustic drapery condition, and presence or absence of localized cultural and natural heritage identity elements.
 
-### Part B: Multi-Phase Event Lifecycle Observation Protocol (Ingress, Live Operations, & Egress)
-Conducted during scheduled live events held at the convention center across contrasting event typologies (such as plenary conferences, social banquets, and commercial exhibitions) to document real-time operational dynamics across three distinct phases:
+### Part B: Primary Direct Live Event Lifecycle Observation Protocol (Ingress, Live Operations, & Egress)
+Conducted during scheduled live events held at the convention center across contrasting event typologies (n = 5 contemporary events: *PAGPASAMWAK Caravan*, *Samar Investment Forum & Gala*, *TESDA Graduation*, *Stakeholders' Night*, and *Wedding Banquet*) to document real-time operational dynamics across three distinct phases:
 1. **Ingress (Load-In & Setup Phase):** Unloading logistics at the loading entrance, outsourced FF&E hauling paths, ladder/scaffolding usage, floor cable management, setup duration/turnaround time, and spatial pinch points during hall preparation.
 2. **In-Session (Active Live Event Phase):** Lobby registration flow, attendee circulation patterns, main aisle vs. service lane congestion (waiter paths and server mobility), stage/screen sightline obstructions, live speech intelligibility and room echo, and thermal/ventilation performance under full occupant loads.
 3. **Egress (Teardown & Load-Out Phase):** Attendee exit flow and egress dispersal, furniture dismantling, stacking, and removal procedures, loading door vehicle access congestion, and post-event turnover speed.
+
+### Part C: Secondary Archival Photographic & Media Content Trace Observation Protocol (Zeisel, 2006; Groat & Wang, 2013)
+Applied to representative historical and recent exemplar events from the facility's 12-year longitudinal utilization ledger (N = 127 events, 2014–2026) where direct physical attendance was impossible due to chronological timing. Grounded in John Zeisel's (2006) Physical Trace & Photographic Observation framework and Groat & Wang's (2013) archival corroboration methodologies, this instrument systematically audits high-resolution archival photographs, official municipal press releases, LGU Public Information Office bulletins, and local media captions across five core observation dimensions:
+1. **Seating Array & Furniture Layout Traces:** Seating density, parallel linear vs. splayed geometries, chair push-back clearances, table cluster arrangements, and perimeter dead spaces.
+2. **Audio-Visual, Rigging & Utility Traces:** Footprints of ground-supported aluminum truss towers, tripod speaker stands, and trailing electrical cords taped across pedestrian aisles.
+3. **Acoustic & Interior Environmental Quality Traces:** Specular reflection surfaces, unpadded gypsum bulkheads, glazed porcelain floor tile reflectivity, and unconditioned lobby microclimates.
+4. **Cultural & Decorative Placemaking Traces:** Reliance on temporary, single-use printed vinyl tarpaulins and tape mountings versus permanent, localized Samar-Calbayog cultural craft finishes.
+5. **Circulation, Egress & Accessibility Traces:** Primary entrance portal obstructions, lobby holding area crowding, fire exit clearances, and compliance with Batas Pambansa Blg. 344 (BP 344) wheelchair seating integration.
 
 ## 4. Physical Environmental Measurement Instrument: Calibrated Sound Level Meter & Stage Pink Noise Protocol
 To capture objective physical baseline acoustic data and triangulate attendee survey ratings, an on-site physical sound level audit is conducted using a calibrated digital Sound Level Meter (Benetech GM1352; IEC 61672-1 Class 2 compliant) paired with a stage-mounted electro-acoustic sound source (JBL PartyBox portable high-output loudspeaker). The sound level meter operates across a 30 to 130 dBA measuring range with an accuracy of ±1.5 dB, 0.1 dB resolution, factory-calibrated A-frequency weighting (dBA) mirroring the human auditory response curve, and a 1/2-inch electret condenser microphone fitted with a high-density foam windscreen.

@@ -2,7 +2,7 @@
 ## Calbayog Cultural Convention Center — Archival Additions & Field Discoveries
 
 > **Document Purpose:** Working staging ledger to capture newly discovered past events and additional archival findings for the Calbayog Cultural Convention Center before merging into the master [41_Appendix_Historical_Event_Utilization_Ledger.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/41_Appendix_Historical_Event_Utilization_Ledger.md) and updating Chapter 4 tables.  
-> **Master Appendix Baseline Count:** 129 verified events (2014–2026).  
+> **Master Appendix Baseline Count:** 127 verified events (2014–2026).  
 > **Standard Spatial Typologies:** `Plenary / Theatrical` | `Classroom / Training` | `Banquet / Social` | `Exhibition / Trade / Interactive`
 
 ---
@@ -71,5 +71,5 @@ When categorizing newly added events, refer to the standard thesis typologies:
 ## 4. Automatic Integration Checklist (What Happens When You Finish)
 Once you paste your events here:
 - [ ] Chronological sorting and integration into [41_Appendix_Historical_Event_Utilization_Ledger.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/41_Appendix_Historical_Event_Utilization_Ledger.md).
-- [ ] Recalculation of total sample size ($N = 129 + n$).
+- [ ] Recalculation of total sample size ($N = 127 + n$).
 - [ ] Automatic update of Table 4.1 (Operational Era Trajectory) and Table 4.2 (Spatial Typology Distribution) in [04_chapter4_data_presentation.md](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/04_chapter4_data_presentation.md).
