@@ -46,7 +46,7 @@ In Phase 1, you establish the baseline through empirical mixed-methods diagnosti
 ### C. Experimental Intervention (Independent Variables)
 In Phase 2, you formulate the design intervention grounded in **Habraken’s (1972) Open Building Theory** (treating the building shell as fixed "Support" and the interior fit-out as kinetic "Infill"):
 1. **$IV_1$ — Standardized Modular Layout Typologies:** Four distinct configurations (Plenary, Classroom, Banquet, Exhibition) with pre-calculated clearances.
-2. **$IV_2$ — Kinetic Spatial Infill:** Mobile folding acoustic partitions and an overhead non-structural track-and-rigging grid.
+2. **$IV_2$ — Demountable Modular Infill:** A venue-provided demountable modular staging system (supporting Zero-Stage Flat-Floor recovery) and an overhead non-structural track-and-rigging grid.
 3. **$IV_3$ — Cultural Acoustic Surface Assemblies:** Perimeter acoustic wall claddings abstracting Samar Basey *banig* weaving (*tikog* grass textures) with laboratory-certified ratings ($\text{NRC} \ge 0.75$) and suspended ceiling baffles reflecting Calbayog waterfall fluid geometry ($\text{NRC} \ge 0.85$).
 
 ### D. Post-Test & Testing Mechanism (Dependent Variables)

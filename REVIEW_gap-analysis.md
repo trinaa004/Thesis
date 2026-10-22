@@ -120,7 +120,7 @@ The REC form is the binding document. If approval was granted for 10 and 20 were
 
 References are currently scattered across three files (`00_definitionofterms.md`, `32_Respondents.md`, `37_Survey&Interview.md`) with no master list. Sources cited in the RRL but listed nowhere include:
 
-Sung & Lee (2015), Rogers & Wynn-Moylan (2022), Sharma (2025), Allied Market Research (2019), Lee & Fenich (2016), Lee & Lee (2017), Anas et al. (2020), FXCollaborative (2022), Van der Wagen & White (2017), Habibi (2025), Chojnacki et al. (2023, 2024), Cat (2023), AV Alliance (2024), Syma (2023), Jain (2015), Waida (2021), Aymankuy (2006), Bhandari (2016), Cailles (2024), Baradas (1968), NCCA (2004), Kockler (1989), Habraken (1972), Scannell & Gifford (2010), Archer (1995), Fulgar (2024), ASM Global (2024), Ayuba & Agah (2018), Garado et al. (2026), Wagas (2016).
+Sung & Lee (2015), Rogers & Wynn-Moylan (2022), Sharma (2025), Allied Market Research (2019), Lee & Fenich (2016), Lee & Lee (2017), Anas et al. (2020), FXCollaborative (2022), Van der Wagen & White (2017), Habibi (2025), Chojnacki et al. (2023, 2024), Cat (2023), AV Alliance (2024), Syma (2023), Waida (2021), Aymankuy (2006), Bhandari (2016), Cailles (2024), Baradas (1968), NCCA (2004), Kockler (1989), Habraken (1972), Scannell & Gifford (2010), Archer (1995), Fulgar (2024), ASM Global (2024), Ayuba & Agah (2018), Garado et al. (2026), Wagas (2016).
 
 > **Fix:** Build one master APA reference list covering every in-text citation across all chapters. Note that the two most load-bearing citations in the theoretical framework — **Habraken (1972)** and **Scannell & Gifford (2010)** — currently have no entry anywhere.
 

@@ -53,10 +53,10 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
    - *Tier 2/3 Arterial Looped Trade Fair:* 15–20 repeatable $2,000 \times 2,000\text{ mm}$ or $3,000 \times 3,000\text{ mm}$ shell-scheme display modules with $2,400\text{ mm}$ main crowd thoroughfares and direct egress paths under 45 meters (RA 9514).
    - *Artisanal Showcase / Culinary Cookfest:* Central-island vendor display layout facilitating safe utility hookups and continuous visitor flow.
 
-5. **Multi-Zone Spatial Subdivision Mode (Scenario 5):**
-   - *Dual Concurrent Occupancy:* Deployment of a ceiling-tracked kinetic acoustic partition wall ($\text{STC} \ge 45$) dividing the 711 sqm Main Hall into two acoustically isolated venues (e.g., Zone A hosting a 100-pax training seminar while Zone B simultaneously hosts a 150-pax luncheon banquet).
 
-6. **Lobby / Pre-Function Sub-System (129 sqm):**
+
+
+5. **Lobby / Pre-Function Sub-System (129 sqm):**
    - Dedicated registration and reception counter module with queuing stanchion paths.
    - Pre-function socializing/cocktail standing nodes ($0.28\text{ m}^2\text{/person}$ waiting allowance).
    - Universal PWD step-free staging zone directly connecting to the Main Hall portals.
@@ -65,7 +65,7 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 
 ---
 
-7. **Venue-Provided Demountable Staging System (Replacing Fixed Concrete Dais):**
+6. **Venue-Provided Demountable Staging System (Replacing Fixed Concrete Dais):**
    - *Subfloor Leveling & Spatial Continuity:* The legacy 52.5 sqm fixed concrete stage (+940 mm AFFL) is leveled down to the main hall slab level (+0.00 AFFL), enabling the continuous **A-xet Bianco Snow Terrazzo acoustic LVT** to span the entire 711 sqm floor plate unbroken all the way to Grid Line F.
    - *Standardized Modular Staging Units:* Standardized commercial interlocking $1,220 \times 2,440\text{ mm}$ (4'×8') aluminum-framed staging risers with telescoping legs, modular steps, demountable BP 344 accessible ramp (1:12 slope), and flame-retardant perimeter skirting.
    - *Dual Operational Staging Affordances:*
