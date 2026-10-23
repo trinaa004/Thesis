@@ -57,19 +57,19 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
 #### Slide 3: Typology 1 (Plenary Assembly)  -  Tri-Scale Architecture Overview
 * **Slide Contents:**
   * Typology Profile: 49.6% historical frequency ($f = 63$ of 127 events).
-  * The Tri-Scale Matrix: Scenario 1A (Peak: 450-500p), Scenario 1B (Mid: 200-300p), Scenario 1C (Compact: 80-100p).
+  * The Tri-Scale Matrix: Scenario 1A (Peak: 250-300p), Scenario 1B (Mid: 150-200p), Scenario 1C (Compact: 50-100p).
   * Core Design Challenge: Bimodal occupant loads causing severe sightline decay ($C < 25$ mm) and door bottlenecks at peak, versus echoing cathedral voids ($RT_{60} > 2.50$ s) during under-occupied sessions.
 
-#### Slide 4: Scenario 1A  -  Peak Civic Convocations (450-500 Occupants)
-* **Empirical Grounding:** Triangulated with the *ECCD Centers Moving-Up Ceremony* (Event #64, ~450-500 pax) and *Charter Day Civic Assemblies*.
+#### Slide 4: Scenario 1A  -  Peak Civic Convocations (250-300 Occupants)
+* **Empirical Grounding:** Triangulated with the *ECCD Centers Moving-Up Ceremony* (Event #64, ~250-300 pax; verified operational peak) and *Charter Day Civic Assemblies*.
 * **What to Produce in CADD / 3D:**
   * **Option A (Left):**
-    * *2D Plan:* Straight linear rows of 450+ plastic monobloc chairs filling the 711 sqm hall; single 5500 mm processional center aisle; row pitch $< 750\text{ mm}$ with compressed passage ($< 250\text{ mm}$).
-    * *Visual Callouts:* Red sightline cones showing outer rows at $> 45^\circ$ angle; red crowd convergence bottleneck arrows at exit doors; zero dedicated BP 344 wheelchair stalls; 5-7 hours manual chair placement.
+    * *2D Plan:* Straight linear rows of 250–300 plastic monobloc chairs filling the front two-thirds of the 711 sqm hall; central processional aisle measuring ~1800–2400 mm; row pitch $< 750\text{ mm}$ with compressed passage ($< 250\text{ mm}$).
+    * *Visual Callouts:* Red sightline cones showing outer rows at $> 45^\circ$ angle; red crowd convergence bottleneck arrows at exit doors; zero dedicated BP 344 wheelchair stalls; 2.5–3.5 hours manual chair placement.
     * *3D View:* Low eye-level perspective from rear row showing audience heads completely blocking the stage ($C < 25\text{ mm}$).
   * **Option B (Right - Proposed):**
-    * *2D Plan:* Radial Continental Chevron Seating Blocks ($15^\circ\text{ to }30^\circ$ splay toward stage center) with 900 mm row pitch, 305 mm clear seat passage, dual 1500 mm radial aisles leading directly to perimeter exit doors, and 4 dedicated BP 344 wheelchair bays ($760 \times 1220\text{ mm}$).
-    * *Visual Callouts:* Green unobstructed sightline vectors with guaranteed clearance ($C \ge 60\text{ mm}$); modular staging at 900 mm elevation with integrated 1:12 accessible ramp; rolling chair dollies aligned to brass floor studs reducing setup to 1.5 hours.
+    * *2D Plan:* Scaled Radial Continental Chevron Seating Blocks ($15^\circ\text{ to }30^\circ$ splay toward stage center; 250–300 seats) with 900 mm row pitch, 305 mm clear seat passage, dual 1500 mm radial aisles leading directly to perimeter exit doors, and 4 dedicated BP 344 wheelchair bays ($760 \times 1220\text{ mm}$).
+    * *Visual Callouts:* Green unobstructed sightline vectors with guaranteed clearance ($C \ge 60\text{ mm}$); modular staging at 600 or 900 mm elevation with integrated 1:12 accessible ramp; rolling chair dollies aligned to brass floor studs reducing setup to < 1 hour.
     * *3D View:* Eye-level perspective from rear row showing unobstructed visibility over seated heads.
 
 #### Slide 5: Scenario 1B  -  Mid-Scale Civic Assembly (200-300 Occupants)
@@ -319,7 +319,7 @@ To make the evaluation seamless in a Google Meet environment, build a **Google F
 
 #### Typology 1: Plenary Assembly & Civic Convocations (49.6%, f = 63)
 
-##### Scenario 1A: Peak Civic Convocations (450-500 Occupants)  -  Maximum Capacity & Life Safety
+##### Scenario 1A: Peak Civic Convocations (250-300 Occupants)  -  Maximum Operational Capacity & Life Safety
 * **Item 1A.1. Option A: Traditional Parallel Linear Seating (Status Quo Baseline)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
 * **Item 1A.2. Option B: Radial Continental Chevron Seating Blocks (Proposed Modular)**  
@@ -527,9 +527,9 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 > *"Let us look at our slide deck. As shown on Slide 2, our typologies are strictly derived from the 12-year longitudinal event audit of 127 verified events in the convention center: 49.6% Plenary assemblies, 25.2% Classroom workshops, 13.4% Banquets, and 11.8% Exhibitions and culinary showcases. Because each typology operates at multiple occupant scales, we evaluate three capacity tiers - Compact, Mid-Scale, and Peak - yielding twelve operational scenarios.*  
 >  
 > *[Slides 3-6: Plenary Convocations]:*  
-> * *Scenario 1A (Peak: 450-500p): Option A linear seating suffers severe sightline decay ($C < 25$ mm) beyond Row 6, with zero BP 344 bays. Option B radial chevron seating guarantees $C \ge 60$ mm sightlines, provides 4 dedicated BP 344 stalls, and channels egress directly to exit doors.*  
-> * *Scenario 1B (Mid: 200-300p): Option A loose monobloc chairs drift and camera tripods block center aisles, while co-programmed art easels choke side exit corridors to $< 900$ mm. Option B interlocked chevron seating incorporates dedicated perimeter AV pockets, soffit hanging tracks preserving $\ge 1500$ mm egress avenues, and Basey banig acoustic wall absorption.*  
-> * *Scenario 1C (Compact: 80-100p): Option A isolates 80 attendees in an echoing cavern ($RT_{60} > 2.50$ s) while graduates wait in the unconditioned lobby. Option B subdivides the hall at Grid Line D using mobile acoustic screens ($RT_{60} \le 0.95$ s) and activates the air-conditioned lobby for pre-function holding.*  
+> * *Scenario 1A (Peak: 250-300p): Option A linear seating (250-300 seats) suffers severe sightline decay ($C < 25$ mm) beyond Row 6, with zero BP 344 bays. Option B radial chevron seating guarantees $C \ge 60$ mm sightlines, provides 4 dedicated BP 344 stalls, and channels egress directly to exit doors.*  
+> * *Scenario 1B (Mid: 150-200p): Option A loose monobloc chairs drift and camera tripods block center aisles, while co-programmed art easels choke side exit corridors to $< 900$ mm. Option B interlocked chevron seating incorporates dedicated perimeter AV pockets, soffit hanging tracks preserving $\ge 1500$ mm egress avenues, and Basey banig acoustic wall absorption.*  
+> * *Scenario 1C (Compact: 50-100p): Option A isolates 50-80 attendees in an echoing cavern ($RT_{60} > 2.50$ s) while graduates wait in the unconditioned lobby. Option B subdivides the hall at Grid Line D using mobile acoustic screens ($RT_{60} \le 0.95$ s) and activates the air-conditioned lobby for pre-function holding.*  
 >  
 > *[Slides 7-10: Classroom Workshops]:*  
 > * *Scenario 2A (Full-Hall: 160-200p): Option A linear desks compress row clearance to $< 750$ mm with taped floor cord hazards. Option B utilizes 24-28 collaborative modular seating clusters on casters with a 1500 mm central roaming lane and overhead ceiling power reels.*  

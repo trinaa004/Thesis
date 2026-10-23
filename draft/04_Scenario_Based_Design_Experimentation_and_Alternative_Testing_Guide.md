@@ -79,29 +79,29 @@ To resolve the bimodal and multi-scalar operational demands documented in the 12
 
 ### Typology 1: Plenary Assembly & Civic Convocations (49.6%, f = 63)
 
-#### Scenario 1A: Peak Civic Convocations (450-500 Occupants)  -  Maximum Capacity & Life Safety
-* *Operational Demand:* Maximum legal occupant capacity under PD 1096 Table XII.1 ($0.65\text{ m}^2/\text{pax}$); unobstructed stage sightlines ($C \ge 60\text{ mm}$); rapid emergency egress (RA 9514); dignified wheelchair inclusion (BP 344).
-* *Empirical Grounding:* Triangulated with the *ECCD Centers Moving-Up Ceremony* (Event #64, ~450-500 pax) and *Charter Day Civic Assemblies*.
+#### Scenario 1A: Peak Civic Convocations (250-300 Occupants)  -  Maximum Operational Capacity & Life Safety
+* *Operational Demand:* Maximum operational plenary seating capacity under PD 1096 Table XII.1 ($0.65\text{ m}^2/\text{pax}$); unobstructed stage sightlines ($C \ge 60\text{ mm}$); rapid emergency egress (RA 9514); dignified wheelchair inclusion (BP 344). *(Note: While statutory building envelope permits 500 occupants theoretically, empirical plenary convocations peak at 250–300 participants).*
+* *Empirical Grounding:* Triangulated with the *ECCD Centers Moving-Up Ceremony* (Event #64; verified operational peak at ~250-300 pax) and *Charter Day Civic Assemblies*.
 * * **Option A: Traditional Parallel Linear Seating (Status Quo Baseline)**
-  - *Layout Description:* 450+ loose monobloc chairs in straight parallel rows across the 711 sqm hall, separated by a single 5500 mm processional center aisle; lateral row passage compressed to $< 250\text{ mm}$.
-  - *Operational Deficits:* Rear rows suffer severe sightline decay ($C < 25\text{ mm}$ beyond row 6), forcing attendees to stand; extreme bottleneck at doors during mass egress; zero dedicated BP 344 wheelchair stalls; 5 to 7 hours of manual chair placement.
+  - *Layout Description:* 250–300 loose monobloc chairs in straight parallel rows across the front two-thirds of the 711 sqm hall, separated by a central processional aisle; lateral row passage compressed to $< 250\text{ mm}$.
+  - *Operational Deficits:* Rear rows suffer severe sightline decay ($C < 25\text{ mm}$ beyond row 6), forcing attendees to stand along side walls; bottlenecks at doors during mass egress; zero dedicated BP 344 wheelchair stalls; 2.5 to 3.5 hours of manual chair placement.
 * * **Option B: Radial Continental Chevron Seating Blocks (Proposed Modular)**
-  - *Layout Description:* Seating banks angled at $15^\circ\text{ to }30^\circ$ toward stage center with staggered row offsets (900 mm pitch); dual 1500 mm radial aisles leading directly to perimeter exit doors; 4 dedicated BP 344 wheelchair bays ($760 \times 1220\text{ mm}$).
-  - *Operational Advantages:* Sightline clearance $C \ge 60\text{ mm}$ guarantees view over seated heads; radial avenues cut evacuation time by 35%; gangable nesting chairs on rolling dollies aligned to brass floor studs reduce setup to 1.5 hours; modular staging set at 900 mm with accessible 1:12 ramp.
+  - *Layout Description:* Seating banks angled at $15^\circ\text{ to }30^\circ$ toward stage center with staggered row offsets (900 mm pitch; 250–300 seats); dual 1500 mm radial aisles leading directly to perimeter exit doors; 4 dedicated BP 344 wheelchair bays ($760 \times 1220\text{ mm}$).
+  - *Operational Advantages:* Sightline clearance $C \ge 60\text{ mm}$ guarantees view over seated heads; radial avenues cut evacuation time by 35%; gangable nesting chairs on rolling dollies aligned to brass floor studs reduce setup to < 1 hour; modular staging set at 600 mm or 900 mm with accessible 1:12 ramp.
 
-#### Scenario 1B: Mid-Scale Civic Assembly (200-300 Occupants)  -  Intermediate Civic Program
+#### Scenario 1B: Mid-Scale Civic Assembly (150-200 Occupants)  -  Intermediate Civic Program
 * *Operational Demand:* Structured stage visibility; comfortable aisle circulation; prevention of loose chair drifting; integrated media broadcast points.
-* *Empirical Grounding:* Triangulated with the landmark *Samar-wide Artists Kolektib Gathering* (Event #40; 295 registered artists) and *Liga ng mga Barangay Assembly* (Event #108; ~200 pax).
-* * **Option A: Front Two-Thirds Loose Monobloc Seating & Perimeter Easels (Status Quo Baseline)**
-  - *Layout Description:* 200-300 unlinked monobloc chairs clustered in the front two-thirds of the hall; narrow irregular center aisle (1000-1200 mm); rear hall plate left bare; rented wooden art easels pushed against perimeter walls.
+* *Empirical Grounding:* Triangulated with the *Liga ng mga Barangay Assembly* (Event #108; ~200 pax) and civic symposiums.
+* * **Option A: Front-Half Loose Monobloc Seating & Perimeter Easels (Status Quo Baseline)**
+  - *Layout Description:* 150-200 unlinked monobloc chairs clustered in the front half of the hall; narrow irregular center aisle (1000-1200 mm); rear hall plate left bare; rented wooden art easels pushed against perimeter walls.
   - *Operational Deficits:* Unlinked chairs shift and scatter during ingress; media camera tripods and audio snakes obstruct center aisles; vocal sound echoes off unpadded rear drywall; **co-programmed art exhibition easels choke lateral egress corridors to $< 900$ mm and block side emergency sliding doors**.
 * * **Option B: Scaled Continental Chevron Seating with Dedicated AV Pockets & Perimeter Art Hanging (Proposed Modular)**
-  - *Layout Description:* Scaled continental chevron seating bank (250-300 seats); dedicated perimeter media tripod zones; 2 integrated BP 344 wheelchair bays; modular stage configured at 600 mm or 900 mm; continuous perimeter hanging rails in dropped soffit (+4,685 mm AFFL) and mobile double-sided Basey *banig* acoustic art screens.
-  - *Operational Advantages:* Interlocked chairs maintain orderly aisles; overhead audio cabling removes floor trip hazards; Basey *banig* wall panels absorb vocal reflections; **integrated perimeter hanging tracks preserve guaranteed $\ge 1500$ mm clear egress avenues**; 1-hour setup time.
+  - *Layout Description:* Scaled continental chevron seating bank (150-200 seats); dedicated perimeter media tripod zones; 2 integrated BP 344 wheelchair bays; modular stage configured at 600 mm; continuous perimeter hanging rails in dropped soffit (+4,685 mm AFFL) and mobile double-sided Basey *banig* acoustic art screens.
+  - *Operational Advantages:* Interlocked chairs maintain orderly aisles; overhead audio cabling removes floor trip hazards; Basey *banig* wall panels absorb vocal reflections; **integrated perimeter hanging tracks preserve guaranteed $\ge 1500$ mm clear egress avenues**; < 45-min setup time.
 
-#### Scenario 1C: Compact Commencements & Seminars (80-100 Occupants)  -  Under-Occupancy & Acoustic Intimacy
+#### Scenario 1C: Compact Commencements & Seminars (50-100 Occupants)  -  Under-Occupancy & Acoustic Intimacy
 * *Operational Demand:* Intimate visual scale; acoustic reverberation reduction ($RT_{60} \le 0.95\text{ s}$); dignified processional holding concourse.
-* *Empirical Grounding:* Live shadowing of the *TESDA Graduation* (Oct 13, 2026; 80-100 pax) and *Sangguniang Panlungsod Public Hearings*.
+* *Empirical Grounding:* Live shadowing of the *TESDA Graduation* (Oct 13, 2026; 80-100 pax) and *Sangguniang Panlungsod Public Hearings* (Events #31, #85; 50–100 pax).
 * * **Option A: Front Third Cluster in Cavernous Hall (Status Quo Baseline)**
   - *Layout Description:* 80-100 loose chairs clustered in front of the monolithic 940 mm concrete stage; rear 75% of hall left as an empty, echoing void.
   - *Operational Deficits:* Severe cathedral flutter echo ($RT_{60} > 2.50\text{ s}$); graduates suffer thermal heat (>28Â°C) waiting in the unconditioned lobby before processional march; visual feeling of emptiness.

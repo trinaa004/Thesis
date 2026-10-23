@@ -27,7 +27,7 @@ For each selected event type, observations are recorded across **five standardiz
 
 ---
 
-## 2. Event Type 1: Scenario 1A (Mass Civic Convocations & Graduations | Tier 4 Peak Plenary)
+## 2. Event Type 1: Scenario 1A (Peak Civic Convocations & Graduations | Tier P3 Peak Plenary)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** Early Childhood Care and Development (ECCD) Centers Recognition Rites cum Moving-Up Ceremonies (Barangays Cacaransan, Capoocan, Pagbalican, and San Policarpo I & II)
@@ -35,7 +35,7 @@ For each selected event type, observations are recorded across **five standardiz
 * **Master Ledger Index:** Event #64 (and Event #63) in Category 1 & 2 / Ledger
 * **Organizing Proponents:** City Government of Calbayog, City Social Welfare and Development Office (CSWDO), and Calbayog ECCD Program
 * **Programmed Spatial Setup:** Plenary / Theatrical Mass Assembly
-* **Estimated Occupant Scale:** Tier 4 Peak Civic Capacity (~400–500 occupants: young moving-up pupils, teachers, parents, guardians, and city officials)
+* **Estimated Occupant Scale:** Tier P3 Peak Civic Capacity (~250–300 occupants: young moving-up pupils, teachers, parents, guardians, and city officials; verified operational peak for plenary sessions)
 * **Archival Verification Sources:**
   - City Government of Calbayog Official PIO Photo Log: [Calbayog PIO Facebook Post](https://www.facebook.com/100084402231943/posts/647086221448113)
   - Companion Moving-Up Ceremony Session Archives: [Calbayog PIO Link](https://www.facebook.com/100084402231943/posts/646332164856852)
@@ -436,20 +436,27 @@ For each selected event type, observations are recorded across **five standardiz
 ### Structured Observational Audit (Researcher Personal Notes)
 
 #### Dimension 1: Seating & Furniture Arrangement Traces
-* **Observed Spatial Configuration:** 18 to 22 employer booths arranged strictly along the perimeter walls, leaving the center of the hall as an unorganized pedestrian dead zone where crowds milled without orientation.
-* **Dead Stage Space:** The 52.5 sqm concrete stage platform was utilized solely to hold a few sound speakers and an empty banner, wasting 7.4% of prime venue floor area that could have housed additional employers.
+* **Central Plenary Orientation Assembly (180 Seats):** The center floor plate is arranged into three distinct banks of 5 columns by 12 rows of plastic monobloc chairs (totaling 180 orientation seats) facing the stage LED wall, separated by two processional walking aisles. The front row starts approximately 9 meters away from the stage dais, eliminating vertical neck strain for seated jobseekers despite the elevated 940 mm concrete platform.
+* **Perimeter Employer Interview Grid (22 Booths in Main Hall):** To leave the center floor open for the 180-seat plenary assembly, 22 four-seater interview booths (each seating 2 recruiters on one side and 2 applicants opposite) are pushed completely flush against the east and west perimeter walls (11 booths along each perimeter side).
+* **VIP Dais & Technical Control Station:** A long draped VIP table is positioned directly in front of the stage for municipal dignitaries (City Mayor, PESO directors, DOLE officials). The live audio-visual technician table is consolidated along the perimeter wall nearest to the electrical room.
+* **Lobby Concourse Overflow (4 Large Booths):** Four larger interview tables (2 on each flank) are deployed in the 129 sqm Lobby to accommodate 3 recruiters each, accompanied by cramped applicant waiting queues with restricted clearances (~300 mm). Across the entire facility, 26 active employer stations are accommodated (22 in Main Hall + 4 in Lobby).
 
 #### Dimension 2: Audio-Visual, Rigging & Utility Traces
-* **Floor Cable Traps:** Employers' interview laptops and desktop printers required electrical connections, resulting in spiderwebs of yellow extension cords taped across the perimeter floor tiles.
+* **Unadorned Ceiling vs. Decorated Stage:** The high-bay ceiling is left completely bare without decorative swagging or overhead trusses. The stage features an active high-definition LED video wall flanked by decorative fabric drapery.
+* **Clean Floor Wiring Management:** Trailing cables in central aisles are minimized or routed along perimeter baseboards, keeping main pedestrian paths clear of loose wire trip hazards.
+* **Lack of Display Rigging & Signage Anchors:** Employer booths lack portable banner stands and overhead rigging tracks; promotional posters and company signs are taped directly onto glass walls and curtain fabrics.
 
 #### Dimension 3: Acoustic & Indoor Environmental Quality (IEQ) Traces
-* **Ambient Noise Cacophony:** Hundreds of simultaneous interview conversations created high ambient chatter, compounded by hard tile and drywall reflections.
+* **Defective Lobby Lighting & Daylight Reliance:** Most ceiling light fixtures in the 129 sqm Lobby are defective or burned out; staff tied curtains back to admit exterior daylight for interview paperwork.
+* **Lobby Thermal Stress:** The 129 sqm Lobby remains completely unconditioned, causing heat accumulation during peak morning applicant queues.
+* **Stage Dais Height Disconnect:** While the 9-meter setback alleviates neck strain, the 940 mm concrete stage height creates an elevated, detached VIP platform.
 
 #### Dimension 4: Cultural & Decorative Placemaking Traces
-* **Ad-hoc Vinyl Clutter:** Each employer hung custom tarpaulins using packaging tape and nails on painted gypsum bulkheads, leaving adhesive residue, peeling paint, and drywall gouges.
+* **Makeshift Signage Adhesion:** Taping paper flyers and plastic tarpaulins directly onto perimeter glass walls and tied fabric curtains leaves adhesive residue and creates an informal visual aesthetic.
 
 #### Dimension 5: Circulation, Egress & Accessibility Traces
-* **Entrance Door Leaf Blocked (RA 9514 Violation):** To control jobseeker registration queues, PESO registration tables in the 129 sqm Lobby were pushed directly against the glass entry facade, **completely blocking one of the two main entry/exit double door leaves**. This cut emergency egress capacity in half and created severe crowd crushing at the entrance.
+* **Emergency Sliding Exits Blocked (RA 9514 Violation):** Pushing 22 interview booths flush against perimeter walls directly obstructs access to the hall's four lateral sliding emergency exit doors, preventing rapid egress.
+* **Lobby Waiting Area Bottlenecks:** Applicant waiting seating in the 129 sqm lobby compresses circulation to ~300 mm clearance, causing pedestrian congestion at the main double doors.
 
 ---
 
@@ -462,9 +469,9 @@ The empirical physical traces audited across these single-function and compound 
 
 | Scenario & Typology Classification | Audited Event Type | Documented Physical Traces (Option A Status Quo Baseline) | Proposed Interior Remediation (Option B Modular Framework) |
 | :--- | :--- | :--- | :--- |
-| **Scenario 1A: Peak Plenary** (450–500 pax) | **Event Type 1: ECCD Moving-Up Ceremony** (Event #64) | 450+ loose unlinked Monobloc chairs; single 5500 mm center aisle bottleneck; sightline C < 25 mm; warm unconditioned lobby holding. | Radial continental chevron rows (15°–30° splay, C ≥ 60 mm); dual 1500 mm radial egress avenues; 4 BP 344 PWD stalls; dual AC units in lobby. |
-| **Scenario 1B: Mid Plenary** (200–300 pax) | **Event Type 1B: Samar Artists Assembly** (Event #40) | Unlinked chairs drifting; camera tripods in center aisle; vocal echo off unpadded rear drywall. | Scaled chevron seating bank; dedicated perimeter AV tripod pockets ($1800 \times 2400$ mm); Basey *banig* acoustic panels. |
-| **Scenario 1C: Compact Plenary** (80–100 pax) | **Event Type 1C: TESDA Graduation** (Shadowed Live) | Front third clustered; rear 75% echoing cavern ($RT_{60} > 2.50$ s); graduates overheated in unconditioned lobby (> 28°C). | Mobile Basey *banig* acoustic screens at Grid Line D ($RT_{60} \le 0.95$ s); modular stage at 600 mm; air-conditioned lobby holding concourse (22–24°C). |
+| **Scenario 1A: Peak Plenary** (250–300 pax) | **Event Type 1: ECCD Moving-Up Ceremony** (Event #64; verified operational peak) | 250–300 loose unlinked Monobloc chairs; central aisle bottleneck; sightline C < 25 mm; warm unconditioned lobby holding. | Radial continental chevron rows (15°–30° splay, C ≥ 60 mm); dual 1500 mm radial egress avenues; 4 BP 344 PWD stalls; dual AC units in lobby. |
+| **Scenario 1B: Mid Plenary** (150–200 pax) | **Event Type 1B: Samar Artists Assembly / Barangay Conclaves** (Events #40, #108) | Unlinked chairs drifting; camera tripods in center aisle; vocal echo off unpadded rear drywall. | Scaled chevron seating bank; dedicated perimeter AV tripod pockets ($1800 \times 2400$ mm); Basey *banig* acoustic panels. |
+| **Scenario 1C: Compact Plenary** (50–100 pax) | **Event Type 1C: TESDA Graduation** (Shadowed Live; 80–100 pax) | Front third clustered; rear 75% echoing cavern ($RT_{60} > 2.50$ s); graduates overheated in unconditioned lobby (> 28°C). | Mobile Basey *banig* acoustic screens at Grid Line D ($RT_{60} \le 0.95$ s); modular stage at 600 mm; air-conditioned lobby holding concourse (22–24°C). |
 | **Scenario 2A: Full Training** (160–200 pax) | **Event Type 2: Culture-Based Governance Training** (Event #21) | Rigid parallel desks; row push-back $< 750$ mm; facilitator gridlock; webs of taped floor power cables; 6+ hr manual setup. | Full-Hall Scaled Modular Seating / Chevron Rows: 24–28 collaborative table clusters on casters; 1500 mm facilitator spine; overhead ceiling power drops (< 45 min setup). |
 | **Scenario 2B: Mid Training** (80–120 pax) | **Event Type 3: BPW Planning Workshop with Mayor Uy** (Event #95) | Linear desks clustered forward; facilitators squeeze sideways past attendees; loose floor cords; echoing vacant rear half. | Zoned Collaborative Seating Clusters: 12–15 modular clusters flanking a 1500 mm roaming lane; mobile acoustic screens isolating rear hall; overhead power drops. |
 | **Scenario 2C: Compact Training** (30–60 pax) | **Event Type 2C: Compact Innovation Workshop** (Event #3) | Forward seating cluster in cavernous hall; lack of localized small-group acoustic isolation. | Collaborative modular seating layout forward; mobile Basey *banig* partitions; ceiling power drops. |
@@ -475,4 +482,4 @@ The empirical physical traces audited across these single-function and compound 
 | **Scenario 4B: Hybrid 2 (Training + Product Showcase)** (30–60 pax) | **Hybrid Type H2: DTI Creative Entrepreneurship Training** (Event #3) | 53 participants crammed in front 30%; rear 70% makeshift craft display with loose cords; **129 sqm Lobby 100% unused and bypassed**. | Collaborative modular seating layout forward; dedicated mobile craft display tables with overhead power reels; **129 sqm Lobby activated for reception & break buffets** (< 20 min setup). |
 | **Scenario 4C: Hybrid 3 (Cookfest + Judging Plenary)** (100–180 pax) | **Hybrid Type H3: Annual Calbayog Tinapa 101 Cookfest** (Events #9, #48, #125) | 13 perimeter cooking booths; severe spectator crush around single dish display table during judging; stage wasted for LED clock; hot lobby. | **Zoned Demonstration Hub:** Perimeter cooking booths with fire-rated washable mats; central elevated radial judging hub with queue stanchions and radial tiered spectator seating; **129 sqm Lobby transformed into air-conditioned cultural tinapa history gallery**. |
 | **Scenario 4D: Hybrid 4 (Banquet Gala + Concourse Expo & Concessionaires)** (150–200 pax) | **Hybrid Type H4: Samar Investment Forum & Investor's Gala** (Event #123) | Lobby jammed with 4 large booths ($2.0 \times 2.7$ m); display table blocks exit door leaf (RA 9514 violation); **municipal agro-industrial stalls & concessionaires expelled onto outdoor driveway**. | **Dual-Zone Concourse Retrofit (Module 4):** Dual ACs cool lobby to 22–24°C; fabric divider tracks organize 8–10 stalls with strict 2000 mm exit buffer; **100% indoor containment of all municipal exhibits & concessionaires**. |
-| **Companion Career Hybrid: Career Expo & Job Fair** (350–500 visitors) | **Public Employment Career Caravan & Job Fair** (Events #30, #53, #71) | Wall perimeter booths; center dead space; registration tables block lobby entrance door leaf (RA 9514 violation); 52.5 sqm stage dead space. | **Zero-Stage Flat-Floor Mode**: Modular stage struck down (+52.5 sqm floor reclaimed) for 22–26 island booths; continuous 2400 mm looped thoroughfare; overhead drops; clear doors. |
+| **Companion Career Hybrid: Career Expo & Job Fair** (350–500 visitors) | **Public Employment Career Caravan & Job Fair** (Events #30, #53, #71, #99) | 22 perimeter booths flush to walls blocking side emergency exits (RA 9514); 180 central orientation seats; 4 larger lobby booths with cramped waiting (300 mm); unconditioned lobby with broken lights and daylight reliance. | **Zero-Stage Flat-Floor Mode**: Modular stage struck down (+52.5 sqm floor reclaimed) for 22–26 island booths; continuous 2400 mm looped thoroughfare; dual lobby ACs (22–24°C) with upgraded task lighting; all side exits kept 100% clear. |

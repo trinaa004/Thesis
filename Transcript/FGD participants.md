@@ -193,7 +193,7 @@ The following table summarizes the nine FGD panel members, their professional li
 
 ### 3.2 The Target Facility Envelope & Known Friction Points
 To evaluate the proposed designs, you should keep the physical reality of the building in mind:
-* **The Space:** The interior comprises an **$840\text{ sqm}$ total floor envelope**, divided into a **$711\text{ sqm}$ Main Plenary Hall** and a **$129\text{ sqm}$ Entrance Lobby / Pre-Function Concourse**. The ceiling height is $5.39\text{ m}$ to the suspended plasterboard ceiling and $6.20\text{ m}$ to the lower roof truss chord. The building has an official maximum life-safety assembly capacity of **$500\text{ occupants}$**.
+* **The Space:** The interior comprises an **$840\text{ sqm}$ total floor envelope**, divided into a **$711\text{ sqm}$ Main Plenary Hall** and a **$129\text{ sqm}$ Entrance Lobby / Pre-Function Concourse**. The ceiling height is $5.39\text{ m}$ to the suspended plasterboard ceiling and $6.20\text{ m}$ to the lower roof truss chord. The building has an official theoretical maximum life-safety assembly egress capacity of **$500\text{ occupants}$** under building and fire safety codes (PD 1096 / RA 9514), while empirical field observation confirms that practical operational plenary convocations peak at **250 to 300 participants**.
 * **The History:** Built in 2014 by converting an unfinished, open-air municipal bus terminal into an enclosed convention facility.
 * **The Documented Friction Points (The Problems You Already Know):**
   1. *Long Setup & Teardown Delays:* Major events take 8 to 12 hours (or up to 2 days) to set up, largely because external suppliers must manually haul aluminum trusses, construct scaffolding, and tape dozens of extension cords to the floor.
@@ -229,9 +229,9 @@ Throughout the slide presentation, you will be shown side-by-side comparisons of
 The design framework organizes the convention center's 127 historical events into **4 Primary Functional Typologies**, each evaluated across **3 Capacity Scales (Peak, Mid-Scale, and Compact)**:
 
 1. **Typology 1: Plenary Assembly (Theatrical Convocations, Graduations, Civic Summits)**
-   - *Scenario 1A (Peak: 450–500 pax):* Maximum civic assembly (e.g., ECCD moving-up ceremonies, charter day). *Focus: Sightlines, aisle flow, door bottlenecks, wheelchair stalls.*
-   - *Scenario 1B (Mid: 200–300 pax):* Mid-size assemblies (e.g., Liga ng mga Barangay, Samar Artists conclave). *Focus: Chair alignment stability, camera tripod zones, acoustic intimacy.*
-   - *Scenario 1C (Compact: 80–100 pax):* Small commencements and hearings (e.g., TESDA graduation). *Focus: Hall subdivision using mobile screens, elimination of cavernous echo, conditioned lobby holding.*
+   - *Scenario 1A (Peak: 250–300 pax):* Peak civic assembly (e.g., ECCD Centers Moving-Up Ceremony Event #64, verified at ~250–300 pax; Samar Artists Conclave Event #40, 295 pax). *Focus: Unobstructed sightlines (C ≥ 60 mm), dual radial aisles, door bottlenecks, 4 BP 344 wheelchair stalls.*
+   - *Scenario 1B (Mid: 150–200 pax):* Mid-size civic convocations (e.g., Liga ng mga Barangay Event #108, civic symposiums). *Focus: Chair alignment stability, camera tripod zones, acoustic intimacy.*
+   - *Scenario 1C (Compact: 50–100 pax):* Small commencements and hearings (e.g., TESDA Graduation, SP Public Hearings). *Focus: Hall subdivision using mobile screens, elimination of cavernous echo, conditioned lobby holding.*
 2. **Typology 2: Classroom / Institutional Training (Workshops, Seminars, DepEd Conclaves)**
    - *Scenario 2A (Full-Hall: 160–200 pax):* Large-scale instructional lectures. *Focus: Central facilitator coaching spine, flip-top nesting tables, ceiling power drops.*
    - *Scenario 2B (Mid-Scale: 80–120 pax):* Interactive capacity-building workshops. *Focus: Collaborative table clusters (6–8 pax), roaming aisles, no tripping over floor cords.*
