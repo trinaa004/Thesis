@@ -226,7 +226,8 @@
 ### 2. In-Session Phase (Active Event Operations)
 * Guest entry flow was okay, even though they only utilized one of the main entry/exit doors; the registration table was by the door and only one side of the lobby was being utilized for concessionaires with snacks.
 * Inside is spacious; there seems to be a large empty floor area space in the center of the main hall where the ceiling focal point is located, and the banquet tables surround this.
-* Catering tables were placed on the sides instead of behind the tables because that space was allocated for more tables for the guests.
+* Catering and buffet tables were placed along the perimeter of the main hall instead of behind the guest tables, specifically to maximize floor space at the back of the venue for additional guest dining tables.
+* Because the facility provides no dedicated back-of-house (BOH) space or staging pantry for catering to handle and prep their food, the catering staff had to set up their own improvised food preparation and staging outpost right on the hall perimeter. This open prep area was used to store and manage all their excess equipment and supplies—including extra stacks of plates, racks of cups and glasses, replenishment trays, dishware crates, and food backups that were not yet displayed on the active buffet lines.
 * Tables were placed by the stage for VIP guests, insinuating that the stage would only be used for presentation purposes because the LED wall, decor, and stage lighting took up most of the stage space. This also indicated that the floor area would be used primarily for the event.
 * They also placed a decorated walkway from the lobby to the main hall; they made the ceiling lower for that walkway and added lights.
 * Fairy lights were added to the ceiling that was covered up.

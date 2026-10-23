@@ -2,7 +2,7 @@
 
 ## 1. Research Respondents
 
-To ensure a comprehensive evaluation of both operational venue logistics and overall public attendee experience, data for this study will be gathered from two primary respondent groups possessing direct experience with the Calbayog City Convention Center. The inclusion of these two distinct stakeholder groups ensures that both expert operational requirements and public user needs inform the formulation of the interior design framework.
+To ensure a comprehensive evaluation of both operational venue logistics and overall public attendee experience, data for this study will be gathered from two primary respondent groups possessing direct experience with the Calbayog City Convention Center. The inclusion of these two distinct stakeholder groups ensures that both expert operational requirements and public user needs inform the formulation of evidence-based interior design interventions.
 
 The first respondent group consists of professional event planners, event coordinators, venue managers, and logistical operators who have organized, managed, or executed events—such as conferences, trade shows, social galas, exhibitions, or municipal summits—inside the convention center. This group represents the operational stakeholders of the venue. Their domain expertise will be leveraged to evaluate operational logistics, setup and teardown turnaround times, spatial bottlenecks, Furniture, Fixtures, and Equipment (FF&E) reconfigurability, and overhead ceiling rigging requirements.
 
@@ -37,7 +37,7 @@ Following the quantitative survey analysis, a qualitative phase will involve sem
 
 ## 4. Post-Design Validation Focus Group Discussion (FGD) Sub-Sample
 
-Following the completion of the interior design synthesis, an Evaluative Focus Group Discussion (FGD) is conducted to empirically validate the unbuilt design framework, 2D layout typologies, and 3D digital renderings (Tremblay, Hevner, & Berndt, 2010; Zeisel, 2006). 
+Following the completion of the interior design synthesis, an Evaluative Focus Group Discussion (FGD) is conducted to empirically validate the evidence-based interior design interventions, 2D layout typologies, and 3D digital renderings (Tremblay, Hevner, & Berndt, 2010; Zeisel, 2006). 
 
 The validation FGD utilizes a **purposive nested sub-sample of 7 to 10 participants** recruited directly from the Phase 1 respondent pool who have consented to follow-up evaluation. In focus group research methodology, a cohort of 6 to 10 participants represents the optimal group size for complex evaluative inquiries, offering adequate operational diversity while preventing chaotic dialogue and conversational fragmentation (Krueger & Casey, 2014; Stewart & Shamdasani, 2014). The panel intentionally incorporates balanced representation across key stakeholder roles:
 

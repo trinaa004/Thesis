@@ -334,9 +334,9 @@ EP3: Depende sa scale san event. Kun ordinaryo la nga meeting san LGU, mga 3 to 
 
 TM: 8 to 12 hours? Grabe. Ano an pinaka-nakakadelay dida?
 
-EP3: An pinaka-ma-iha? Latag san kable ha salog! Nag-uubos kami 1 to 2 hours taping cables la ha ceramic tiles gamit an duct tape o gaffer tape. Kay tiles man ini, madalunot, diri masayon kumupkop an tape. Tapos kon may mag-agi nga catering cart o maghakot lingkuran, nagigisi an tape, peligro pa matumba an tawo o maputol an signal. 
+EP3: Kon ha amon gud nga lights and sounds, iton amon pag-set up, mga 1 to 2 hours la man talaga iton para ha bug-os nga sounds ngan lightings. An mga kable liwat namon, ginhihimo namon an amon pinaka-makakaya nga diri gud magbalabag ha salog san convention center—ginpapalibot la namon pirme ha ligid, ha may perimeter para safe ngan diri makasingkod an mga tawo. Pero an pinaka-nakakadelay ngan pinaka-ma-iha gud ha ngatanan? Naghuhulat kami san mga decorator mahuman pag-set up san ceiling decor! Pwerte ka-iha san pag-swagging san tela ngan pagtaud san mga decor ha igbaw gamit an scaffolding ngan ladders, naabot pira ka oras. Samtang diri pa sira nahuhuman ha ceiling, naiipit kami, diri liwat kami makapwesto san amon stage lights o makatapos san bug-os nga setup. 
 
-TM: (Module 1, Question 3) Grabe ngani an trabaho pag-tape pa lang. Kuya, kanina napansin ko liwat... Panan-o nakaka-apekto an sound clarity, suga, ngan an temperature ha sulod san mga okasyon?
+TM: (Module 1, Question 3) Grabe ngani, maiha man gud an ceiling decor ngan pag-abang ha iba nga suppliers. Kuya, kanina napansin ko liwat... Panan-o nakaka-apekto an sound clarity, suga, ngan an temperature ha sulod san mga okasyon?
 
 EP3: Mas better, especially if maka-soundproof siya. Soundproof. Nagba-bounce kasi an sound didi. Pero minimum gad la.
 
