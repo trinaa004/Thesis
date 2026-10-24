@@ -28,7 +28,7 @@ The finalized title consists of four scientifically formulated, interconnected c
 > 
 > The first half of our title—**Spatial Utilization Analysis**—reflects our rigorous empirical baseline: auditing twelve years of municipal event history across 127 verified events, conducting in-situ acoustic reverberation decay testing ($RT_{60} = 2.53\text{ seconds}$), logging diurnal noise and thermal loads, and shadowing live event lifecycles. 
 > 
-> The second half—**Evidence-Based Interior Design Interventions**—proves that every single spatial proposal we present—from our 1,500 mm radial chevron egress corridors and demountable modular staging to our perimeter dual-service dropped soffits, suspended waterfall baffles, and Basey *banig* acoustic wall panels—is directly dictated by empirical data, statutory life-safety mandates (PD 1096, BP 344, RA 9514), and stakeholder validation. The title accurately states our scientific methodology and its tangible interior architectural deliverables."*
+> The second half—**Evidence-Based Interior Design Interventions**—proves that every single spatial proposal we present—from our 1,500 mm V-shaped chevron egress corridors and demountable modular staging to our perimeter dual-service dropped soffits, suspended waterfall baffles, and Basey *banig* acoustic wall panels—is directly dictated by empirical data, statutory life-safety mandates (PD 1096, BP 344, RA 9514), and stakeholder validation. The title accurately states our scientific methodology and its tangible interior architectural deliverables."*
 
 ### 2. Panel Question on Geographic Precision: Hinay-la St., Brgy. Capoocan
 > **Panel Question**: *"Why is the specific street and barangay address included in the main title?"*

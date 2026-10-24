@@ -38,20 +38,20 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 *Standardized spatial configurations tailored specifically to the 711 sqm Main Hall and 129 sqm Lobby. Grounded in the 127-event longitudinal ledger, Module 1 articulates 4 master typologies across scalable occupancy tiers (Tiers 1 to 4: 50 to 500 pax) and dual-event spatial subdivision, providing ready-to-execute floor plans that eliminate on-site spatial confusion.*
 
 1. **Plenary / Theatrical Assembly Typology (Civic Convocations & Graduations):**
-   - *Tier 4 Peak Assembly (400–500 Occupants):* Radial continental chevron seating layouts ($15^\circ–30^\circ$ splay), strict $840–900\text{ mm}$ pitch, $1,500\text{ mm}$ radial egress aisles ensuring unimpeded life-safety egress (PD 1096 / RA 9514), unobstructed stage sightlines ($C \ge 60\text{ mm}$), and 4 integrated $760 \times 1,220\text{ mm}$ BP 344 wheelchair bays.
+   - *Tier 4 Peak Assembly (400–500 Occupants):* V-shaped (chevron) theater rows (straight or $\le 15^\circ$ V, staggered seats), strict $840–900\text{ mm}$ pitch, $1,500–1,800\text{ mm}$ center aisles plus side egress aisles ensuring unimpeded life-safety egress (PD 1096 / RA 9514), unobstructed stage sightlines ($C \ge 60\text{ mm}$), and 4 integrated $760 \times 1,220\text{ mm}$ BP 344 wheelchair bays, each with a companion seat beside it.
    - *Tier 2 Mid-Scale Plenary (200–300 Occupants):* Forward-focused seating layouts with buffered rear acoustic perimeters, preventing small audiences from feeling overwhelmed in the cavernous hall.
 
 2. **Classroom / Seminar Typology (LGU Workshops & Educational Summits):**
    - *Tier 2 Chevron Training Rows (150–250 Occupants):* 740–760 mm table height; 450–500 mm chair clearance behind tables; 400–450 mm service passage; modesty panels with integrated wire drop raceways connecting to overhead ceiling power drops.
-   - *Tier 1 Collaborative Workshop Pods (50–120 Occupants):* Reconfigurable 6-to-8 pax collaborative team pods and U-shapes with $\ge 1,500\text{ mm}$ roaming spines, designed for intensive LGU training, DTI creative sessions, and digital edit-a-thons.
+   - *Tier 1 Cabaret Workshop Clusters (50–120 Occupants):* Cabaret round tables ($\varnothing 1,800\text{ mm}$, 6–7 seats on the far arc so no one sits with their back to the front) and U-shapes with $\ge 1,800\text{ mm}$ roaming gaps, designed for intensive LGU training, DTI creative sessions, and digital edit-a-thons.
 
 3. **Banquet / Gala Typology (Civic Dining, Weddings & Social Celebrations):**
-   - *Tier 3 Large Gala & Nuptial Banquet (250–350 Occupants):* 10-person round tables ($\varnothing 1,800\text{ mm}$) arranged in staggered diamond clusters with dedicated $1,800\text{ mm}$ waiter service lanes, perimeter buffet buffers, and elevated ceremonial dais.
+   - *Tier 3 Large Gala & Nuptial Banquet (250–350 Occupants):* 10-person round tables ($\varnothing 1,800\text{ mm}$) arranged on a $3.6\text{ m}$ centre-to-centre grid (diamond stagger optional) with dedicated $1,800\text{ mm}$ waiter service lanes, buffet lines and crew pockets in the rear-hall corners (Grid B side, not the guest-arrival lobby), and elevated ceremonial dais.
    - *Tier 2 Intimate Dining / Fellowship Banquet (150–200 Occupants):* Spacious central dining layout with integrated dance floor / presentation zones, eliminating overcrowding.
 
 4. **Exhibition / Trade Fair Typology (Regional Ecotourism & Product Fairs):**
    - *Tier 2/3 Arterial Looped Trade Fair:* 15–20 repeatable $2,000 \times 2,000\text{ mm}$ or $3,000 \times 3,000\text{ mm}$ shell-scheme display modules with $2,400\text{ mm}$ main crowd thoroughfares and direct egress paths under 45 meters (RA 9514).
-   - *Artisanal Showcase / Culinary Cookfest:* Central-island vendor display layout facilitating safe utility hookups and continuous visitor flow.
+   - *Artisanal Showcase / Culinary Cookfest:* Cooking stations along both side walls (1.0 m cook zone + 0.75 m table, then a 2.4 m crowd aisle) facing central theater rows, with the judging table on a 300 mm front dais, facilitating safe utility hookups and continuous visitor flow.
 
 
 
@@ -67,9 +67,9 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 
 6. **Venue-Provided Demountable Staging System (Replacing Fixed Concrete Dais):**
    - *Subfloor Leveling & Spatial Continuity:* The legacy 52.5 sqm fixed concrete stage (+940 mm AFFL) is leveled down to the main hall slab level (+0.00 AFFL), enabling the continuous **A-xet Bianco Snow Terrazzo acoustic LVT** to span the entire 711 sqm floor plate unbroken all the way to Grid Line F.
-   - *Standardized Modular Staging Units:* Standardized commercial interlocking $1,220 \times 2,440\text{ mm}$ (4'×8') aluminum-framed staging risers with telescoping legs, modular steps, demountable BP 344 accessible ramp (1:12 slope), and flame-retardant perimeter skirting.
+   - *Standardized Modular Staging Units:* Standardized commercial interlocking $1,220 \times 2,440\text{ mm}$ (4'×8') aluminum-framed staging risers with telescoping legs, modular steps, BP 344 stage access (a demountable 1:12 ramp, 3.6 m run, for 300 mm daises; a platform lift in the stage-recess side gap for 600 mm stages), and flame-retardant perimeter skirting.
    - *Dual Operational Staging Affordances:*
-     - **Stage-Deployed Mode (Plenary / Theatrical / Ceremonial / Weddings):** The venue supplies and custom-configures the modular stage to required dimensions (compact $6.0 \times 3.0\text{ m}$ up to full $11.0 \times 4.2\text{ m}$) and elevations (300 mm for intimate seminars, 600 mm for banquets, 900 mm for 500-pax theatrical assemblies).
+     - **Stage-Deployed Mode (Plenary / Theatrical / Ceremonial / Weddings):** The venue supplies and custom-configures the modular stage to required dimensions (default $3 \times 3$ decks $= 7.32 \times 3.66\text{ m}$ centred in the $11.11 \times 4.20\text{ m}$ stage recess, leaving $\approx 1.9\text{ m}$ each side for stairs and a lift or ramp; $3 \times 2$ decks $= 7.32 \times 2.44\text{ m}$ only for a lectern with no ramp; forward decks for dance programs) and elevations (300 mm for compact ceremonies, trainings, and presentation daises; 600 mm for peak plenaries and banquets with awards or performances; 900 mm avoided, since its 1:12 ramp would need about 10.8 m of run).
      - **Zero-Stage Flat-Floor Mode (Exhibitions / Trade Fairs / Large Banquets / Flat Arena):** For events not requiring an elevated stage, the risers are completely demounted and stowed onto rolling stage caddies in back-of-house storage. This **instantly reclaims 52.5 sqm of continuous floor area**, allowing 4 to 6 additional trade booths or 30 to 40 additional banquet dining seats with zero dead space.
 
 8. **Embedded Anthropometric Clearance Ruleset & First-Time Accuracy Protocol:**
@@ -125,7 +125,8 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 - **Concealed Overhead Cable Management:**
   - Dedicated overhead power and AV signal raceways with drop-down junction boxes, eliminating 2 hours of floor cable taping across egress routes (PEC / RA 9514).
 - **Integrated Dimmable Smart Lighting Tracks (CIBSE / IESNA / ASEAN MICE Standard):**
-  - High-efficacy 3-circuit dimmable LED tracks delivering controllable **300 to 500 lux** for plenary assemblies and classroom note-taking ($\text{UGR} \le 19$).
+  - High-efficacy 3-circuit dimmable LED tracks delivering controllable **300 to 500 lux** (4000 K) for plenary assemblies and **400 to 500 lux** for classroom note-taking ($\text{UGR} \le 19$), dimming to 100–200 lux warm (2700–3000 K) for banquets, with **300 to 750 lux** accent (CRI ≥ 90) on exhibits.
+  - Stage front wash on the overhead grid batten nearest the stage whenever people on stage are photographed or filmed (graduations, awards, performances, weddings).
   - Automated DALI/DMX preset scenes (Plenary, Audio-Visual Presentation, Banquet Gala, and Stage Accent) with CCT tuning, eliminating forced 100% outsourcing of rental lights.
 - **Illuminated Emergency Exit Signage (RA 9514 Compliance):**
   - Code-compliant surface/recessed photoluminescent illuminated LED exit signage equipped with self-contained 90-minute battery backup power packs above all 4 side exits on Grids 1 and 4, and above Main Lobby portals on Grids A & B.

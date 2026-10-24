@@ -130,7 +130,7 @@ The panel purposefully represents the full operational and human lifecycle of th
 * **Relationship to the Thesis Study:**
   - P7 represents the core public attendee population that frequently occupies the facility during full-hall civic gatherings (300 to 500 occupants).
   - P7 is acutely aware of attendee discomfort: the stifling heat that builds up in seating zones positioned far from the perimeter split-type air conditioners, the narrow seat rows that trap attendees in their seats, the inability to hear speakers clearly from the rear of the hall due to muddied sound reflections, and the long, chaotic queues at the lobby main entrance during simultaneous registration and food distribution.
-  - P7's evaluation provides empirical grounding on whether the proposed radial chevron seating blocks, wider cross-aisles, and dedicated pre-function concourse zones actually improve the real-world comfort and dignity of everyday Calbayognon citizens.
+  - P7's evaluation provides empirical grounding on whether the proposed V-shaped (chevron) theater rows, wider cross-aisles, and dedicated pre-function concourse zones actually improve the real-world comfort and dignity of everyday Calbayognon citizens.
 
 ---
 
@@ -152,7 +152,7 @@ The panel purposefully represents the full operational and human lifecycle of th
 * **Relationship to the Thesis Study:**
   - P9 represents professional corporate attendees who demand high interior environmental quality (IEQ), intuitive wayfinding, and seamless technological connectivity during business convocations.
   - Furthermore, P9 serves as the panel's designated evaluator for **Universal Design and Physical Accessibility under Batas Pambansa Bilang 344 (BP 344 - Accessibility Law)** and the Fire Code of the Philippines (RA 9514).
-  - P9 has witnessed attendees with mobility impairments and senior citizens struggle with the convention center's lack of wheelchair ramps to the stage, the total absence of dedicated accessible seating bays, and the physical obstacle course required to access the restrooms (which are blocked by stage stairs or force occupants to walk outside through side exit doors). P9 evaluates whether Option B's $1500\text{ mm}$ clear accessible routes, 1:12 stage ramps, and integrated wheelchair stalls deliver genuine, uncompromised inclusivity.
+  - P9 has witnessed attendees with mobility impairments and senior citizens struggle with the convention center's lack of wheelchair ramps to the stage, the total absence of dedicated accessible seating bays, and the physical obstacle course required to access the restrooms (which are blocked by stage stairs or force occupants to walk outside through side exit doors). P9 evaluates whether Option B's $1500\text{ mm}$ clear accessible routes, 1:12 stage ramps or platform lifts, and integrated wheelchair stalls with companion seats deliver genuine, uncompromised inclusivity.
 
 ---
 
@@ -214,12 +214,12 @@ Throughout the slide presentation, you will be shown side-by-side comparisons of
 │ OPTION A: THE STATUS QUO BASELINE        │ OPTION B: PROPOSED INTERIOR INTERVENTION    │
 ├──────────────────────────────────────────┼─────────────────────────────────────────────┤
 │ • What is currently done in Calbayog     │ • The newly proposed evidence-based design  │
-│ • Straight, rigid monobloc seating rows  │ • Angled radial chevron seating blocks      │
+│ • Straight, rigid monobloc seating rows  │ • V-shaped (chevron) theater rows           │
 │ • Flat floor with blocked stage views    │ • Staggered rows with clear sightlines      │
 │ • Floor cable webs and ground trusses    │ • Overhead motorized utility battens/drops  │
 │ • 940 mm immovable concrete stage        │ • Modular, height-adjustable stage risers   │
 │ • Bare painted drywall (cathedral echo)  │ • Basey banig acoustic wall cladding        │
-│ • Unconditioned, congested lobby holding │ • Conditioned lobby with bypass corridors   │
+│ • Unconditioned, congested lobby holding │ • Conditioned lobby kept clear for arrivals │
 └──────────────────────────────────────────┴─────────────────────────────────────────────┘
 ```
 
@@ -229,21 +229,21 @@ Throughout the slide presentation, you will be shown side-by-side comparisons of
 The design framework organizes the convention center's 127 historical events into **4 Primary Functional Typologies**, each evaluated across **3 Capacity Scales (Peak, Mid-Scale, and Compact)**:
 
 1. **Typology 1: Plenary Assembly (Theatrical Convocations, Graduations, Civic Summits)**
-   - *Scenario 1A (Peak: 250–300 pax):* Peak civic assembly (e.g., ECCD Centers Moving-Up Ceremony Event #64, verified at ~250–300 pax; Samar Artists Conclave Event #40, 295 pax). *Focus: Unobstructed sightlines (C ≥ 60 mm), dual radial aisles, door bottlenecks, 4 BP 344 wheelchair stalls.*
+   - *Scenario 1A (Peak: 250–300 pax):* Peak civic assembly (e.g., ECCD Centers Moving-Up Ceremony Event #64, verified at ~250–300 pax; Samar Artists Conclave Event #40, 295 pax). *Focus: Unobstructed sightlines (C ≥ 60 mm), 1.8 m center processional aisle, 600 mm stage with platform lift, door bottlenecks, 4 BP 344 wheelchair bays with companion seats.*
    - *Scenario 1B (Mid: 150–200 pax):* Mid-size civic convocations (e.g., Liga ng mga Barangay Event #108, civic symposiums). *Focus: Chair alignment stability, camera tripod zones, acoustic intimacy.*
    - *Scenario 1C (Compact: 50–100 pax):* Small commencements and hearings (e.g., TESDA Graduation, SP Public Hearings). *Focus: Hall subdivision using mobile screens, elimination of cavernous echo, conditioned lobby holding.*
 2. **Typology 2: Classroom / Institutional Training (Workshops, Seminars, DepEd Conclaves)**
-   - *Scenario 2A (Full-Hall: 160–200 pax):* Large-scale instructional lectures. *Focus: Central facilitator coaching spine, flip-top nesting tables, ceiling power drops.*
-   - *Scenario 2B (Mid-Scale: 80–120 pax):* Interactive capacity-building workshops. *Focus: Collaborative table clusters (6–8 pax), roaming aisles, no tripping over floor cords.*
+   - *Scenario 2A (Full-Hall: 160–200 pax):* Large-scale instructional lectures. *Focus: Classroom rows (straight or chevron) of flip-top nesting tables with a 1.5 m center aisle, 300 mm dais with ramp, ceiling power drops.*
+   - *Scenario 2B (Mid-Scale: 80–120 pax):* Interactive capacity-building workshops. *Focus: Cabaret round-table clusters (7 seats on the far arc, no backs to the front), roaming aisles, no tripping over floor cords.*
    - *Scenario 2C (Compact: 30–60 pax):* Focused training sessions. *Focus: Front intimate instructional zone, active lobby registration, acoustic clarity.*
 3. **Typology 3: Banquet / Social Celebrations (Civic Galas, Hermana Night, Weddings, Debuts)**
-   - *Scenario 3A (Full Gala: 250–300 pax max statutory safe capacity):* Grand awards banquets and weddings. *Focus: Enforcement of the statutory 1.40 sqm/pax building code limit; dual banquet templates (Round Diamond vs. Rectangular Communal with processional aisle); overhead rigging recovering 40 seats.*
+   - *Scenario 3A (Full Gala: 250–300 pax ergonomic capacity ceiling):* Grand awards banquets and weddings. *Focus: Ergonomic table spacing (1,620–1,800 mm clear between Ø1,800 mm tables, 3.6 m centres), well within the 1.40 sqm/pax building code load factor; dual banquet templates (Round Tables vs. Rectangular Communal with processional aisle); buffets in the rear-hall corners; overhead rigging recovering 40 seats.*
    - *Scenario 3B (Mid-Scale: 180–220 pax):* Social dinners and anniversaries. *Focus: 1620–1800 mm catering service corridors, waitstaff tray clearance without bumping chairs.*
    - *Scenario 3C (Compact: 80–150 pax):* Intimate banquets and reunions. *Focus: Central dining cluster, dedicated dance floor clearing, mobile decorative buffet screen.*
 4. **Typology 4: Exhibition / Showcase (Trade Fairs, Agro-Industrial Expos, Culinary Cookfests)**
    - *Scenario 4A (Mega Expo: 20–26 Booths):* Commercial trade fairs. *Focus: "Zero-Stage Flat-Floor Mode" (stage struck down to reclaim 52.5 sqm of prime floor space); 2400 mm looped walkways; overhead power drops.*
    - *Scenario 4B (Mid-Scale: 14–18 Booths):* Municipal showcases (e.g., Samar Investment Forum). *Focus: 100% indoor containment of municipal agro-stalls, eliminating outdoor driveway spillover; dual-zone air-conditioned lobby.*
-   - *Scenario 4C (Boutique Cookfest: 10–14 Stations):* Culinary competitions (e.g., Tinapa 101 Cookfest). *Focus: Perimeter cooking counters with central radial judging hub; lobby activated as a cultural Tinapa history gallery.*
+   - *Scenario 4C (Boutique Cookfest: 10–14 Stations):* Culinary competitions (e.g., Tinapa 101 Cookfest). *Focus: Cooking counters along both side walls with the judging table on a 300 mm front dais facing central theater rows; lobby activated as a cultural Tinapa history gallery.*
 
 ---
 
@@ -291,7 +291,7 @@ While all participants may comment on any aspect of the designs, we encourage yo
 * **If you are a Performing Artist or Musician (P8):**  
   Look at the stage performance area. Is there enough space for an orchestra, choir, or dance ensemble to perform comfortably without spilling onto the floor? Does the acoustic treatment prevent microphone squeal and muddiness?
 * **If you are an Accessibility & Universal Design Evaluator (P9):**  
-  Check every layout against BP 344. Are wheelchair bays integrated directly into the main seating layouts rather than isolated at the back? Is the stage accessible via a gentle 1:12 slope ramp? Are primary egress corridors at least $1500\text{ mm}$ wide and completely free of steps, cords, and furniture obstructions?
+  Check every layout against BP 344. Are wheelchair bays integrated directly into the main seating layouts rather than isolated at the back? Is the stage accessible via a gentle 1:12 slope ramp (300 mm daises) or a platform lift (600 mm stages)? Are primary egress corridors at least $1500\text{ mm}$ wide and completely free of steps, cords, and furniture obstructions?
 
 ---
 
