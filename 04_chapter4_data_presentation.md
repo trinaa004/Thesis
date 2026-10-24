@@ -458,31 +458,336 @@ Table 4.5d establishes an empirical spatial baseline by documenting the observed
 #### Table 4.5d. Functional Activity Area Observational Distribution Matrix
 *Empirical spatial baseline documenting functional sub-zone locations, equipment footprints, and operational frictions observed on-site vs. evidence-based interior design interventions.*
 
-| Functional Activity Sub-Zone | Designated Location in CCCC Envelope (Grid Coordinates) | Spatial Footprint (% of Envelope) | Observed Baseline Setup & Equipment Footprint | Documented Logistical & Circulation Frictions | Recommended Modular Ergonomic Clearances & Architectural Countermeasures | Visual Diagram Reference |
+| Functional Activity Sub-Zone | Designated Location in CCCC Envelope (Grid Coordinates) | Spatial Footprint (% of Envelope) | Observed Baseline Setup & Equipment Footprint | Documented Logistical & Circulation Frictions | Recommended Modular Ergonomic Clearances & Architectural Countermeasures | Zone Type in Event Diagrams |
 | :--- | :--- | :---: | :--- | :--- | :--- | :---: |
-| **1. Front-of-House (FOH) Technical Audio-Visual & Production Control Zone** | Rear perimeter or lateral corridor (Observed between Grid D4–E4, Grid B lateral edge, or center floor) | ~15–25 sqm (2.1%–3.5% of Hall) | Heavy steel flight cases, digital audio mixing console (32-channel), DMX lighting controller, laptop video switchers, amplifier racks, speaker monitors, and loose tripod stands. | • Positioned arbitrarily near electrical room (D4–E4) or blocking primary walking paths.<br>• Media camera tripods set up directly in the 2000 mm center aisle, narrowing passage to < 900 mm.<br>• Heavy audio snakes and power cords taped across ceramic tile aisles with duct tape, creating severe tripping hazards and tearing underfoot.<br>• Tech operators lack elevated sightlines over standing crowds; prone to sound feedback. | • **Integrated FOH Control Riser:** Modular demountable 200 mm riser platform placed at rear acoustic center.<br>• **Perimeter Cable Raceways & Drop Reels:** Concealed surface-mounted perimeter raceways and overhead retractable cord reels (Module 3) eliminating floor-taped cabling.<br>• **Dedicated Media Tripod Bays:** 1200 mm × 1200 mm recessed floor bays clear of pedestrian aisles (Panero & Zelnik, 1979). | `[Figure 4.4 / 4.5 Callout A]` |
-| **2. Primary Guest Assembly & Dining Plate** | Central open floor plate (Grid Lines B to E, Columns 2 to 3) | ~400–500 sqm (56.3%–70.3% of Hall) | **Banquet:** 20 to 35 round tables (Ø 1800 mm, 8–10 seats each); rented monobloc or banquet chairs with covers.<br>**Plenary:** 300 to 500 plastic monobloc chairs arranged in tight forward-facing linear rows.<br>**Trusses:** 2 to 4 ground-supported aluminum crank-stand truss towers. | • Substandard chair-to-chair spacing (700–750 mm) severely restricting guest ingress/egress.<br>• Ground truss lifters occupy 36 sqm of prime floor plate, penalizing the venue by 4 full banquet tables (**loss of 40 guest seats**).<br>• Flat unraked floor causes severe stage sightline blockage (C-value < 25 mm).<br>• Zero designated PWD wheelchair bays; wheelchairs relegated to doorway margins. | • **Standardized Table Pitch:** Standardized 1800 mm minimum table-to-table clearance (Neufert, 2012).<br>• **Overhead Suspension:** Motorized Unistrut ceiling hoists (Module 3) eliminating floor lifters and recovering 40 guest seats.<br>• **Staggered Theater Rows:** Straight or ≤ 15° V-shaped (chevron) rows with staggered seats optimizing audience sightlines (C ≥ 60 mm).<br>• **Integrated BP 344 Bays:** Four designated 760 × 1220 mm accessible bays with companion seats. | `[Figure 4.4 / 4.5 Callout B]` |
-| **3. Catering, Buffet Staging & Food Service Dispatch Zone** | Lateral perimeter walls (Grid Line 1 and/or Grid Line 4) and Lobby threshold | ~60–90 sqm (8.4%–12.7% of Hall) | Dual linear rectangular buffet tables (1200 × 2400 mm units) with chafing warmers; insulated Cambro hotboxes, dish bussing carts, water dispensers, and auxiliary plate replenishment racks. | • Buffet queues extend 15–20 meters, crossing primary guest circulation paths and blocking side exits.<br>• Catering waitstaff carrying heavy 10-plate banquet trays forced to "dodge and weave" through diner chairs due to absence of dedicated service corridors.<br>• Water, grease, and sauce spills on slick ceramic tiles create critical slip-and-fall hazards.<br>• Lack of visual and olfactory buffer between food holding bins and guest dining area. | • **1800 mm Catering Service Bypass Lane:** Dedicated, unobstructed perimeter service corridor (Panero & Zelnik, 1979) linking the nearest side door (Grid 4 loading doors) to buffet lines and crew pockets in the rear-hall corners (Grid B side), sized at 8–15% of the hall plate for full banquets and kept out of the guest-arrival lobby.<br>• **Acoustic & Slip-Resistant Flooring:** A-xet Bianco Snow Terrazzo acoustic LVT providing high slip resistance (R10) and dampening dish clatter.<br>• **Concealed Food Prep Screens:** Modular, movable aesthetic screens shielding hotbox staging from dining guests. | `[Figure 4.4 Callout C]` |
-| **4. Stage Platform & Ceremonial Presentation Dais** | Front elevation (Grid Lines E to F) elevated above finished floor level | 52.5 sqm (Zone 3 dais) + 20–30 sqm floor spillover | Monolithic concrete dais elevated at fixed +940 mm AFFL (11.11 m width × 4.20 m depth); rigid concrete side stairs; large rental P3/P4 LED video wall (6.0 × 3.0 m); master lectern; ceremonial floral displays. | • Static 4.20 m depth is severely compressed once 6.0 m LED wall and stage lighting are placed, leaving < 1.5 m usable front depth.<br>• Cultural dance ensembles (*PAGPASAMWAK*) and keynote VIPs forced down onto bare hall floor.<br>• Immovable concrete stairs prevent flush scaffolding placement during event styling.<br>• Absence of accessible ramps violates BP 344 and excludes PWD speakers and graduates.<br>• Fixed dais acts as unusable dead space during flat-floor expos and trade fairs. | • **Demountable Modular Staging:** Interchangeable 1.22 × 2.44 m stage decks with adjustable telescoping legs (300 mm / 600 mm AFFL).<br>• **Dynamic Platform Expansion:** Capability to extend stage depth to 6.10 m for cultural dance or retract completely to reclaim 52.5 sqm of continuous flat floor space.<br>• **Modular BP 344 Stage Access:** For 300 mm stages, a straight 1:12 non-skid ramp (1200 mm width, 3.6 m run) in the recess side gap; for 600 mm stages, a platform lift in the recess side gap; 900 mm stages are avoided (a 10.8 m ramp run). Together these provide dignified, universal stage access. | `[Figure 4.4 / 4.5 Callout D]` |
-| **5. Pre-Function Reception, Registration & Ingress Buffer Zone** | Front foyer concourse (Grid Lines A to B, Zone 1) | 129 sqm (15.4% of total facility) | Rented folding tables for registration and delegate kit distribution; pop-up banner stands; vendor commercial display booths (e.g., jewelry, snacks); guest queue crowds. | • Registration tables placed directly across the second double entrance door reduce ingress to a single 1000 mm open leaf, causing severe doorway choke points.<br>• Completely unconditioned thermal envelope (> 28°C to 31°C) causing guest heat stress and perspiration before entering the main hall.<br>• Unconditioned envelope and lack of modular partition screens forces secondary trade fair overflow (*Samar Investment Forum*) onto the exterior driveway apron and sidewalk, blocking emergency exits and causing vehicular safety conflicts (RA 9514 violation).<br>• Zero seating provisions; senior citizens and waiting graduates forced to stand for hours.<br>• Lingering commercial booths left in lobby obstruct ingress for subsequent event bookings. | • **Absolute 2000 mm Doorway Standoff Buffer:** Mandatory clearance rule forbidding any furniture within 2.0 m of exit portals.<br>• **Dual-Zone Concourse Retrofit (Module 4):** Installation of two 3.0 HP split-type AC units at Columns 1A and 4A maintaining 22°C–24°C, converting the lobby into an air-conditioned secondary exhibition concourse (8 stalls of 2 × 2 m with a 3.9 m aisle) and permanently eliminating exterior driveway displacement.<br>• **Mobile Registration & Lounge Pods:** Mobile reception kiosks on casters paired with modular upholstered bench seating (Module 1). | `[Figure 4.4 / 4.5 Callout E]` |
-| **6. Back-of-House (BOH) & Restroom Service Circulation Axis** | Rear service corridor (Grid Lines E to G, Zone 4) and lateral building axes | ~45–60 sqm (6.3%–8.4% of envelope) | Narrow 955 mm backstage corridor; electrical distribution panels; unventilated utility storage; shared municipal restrooms. | • Complete absence of directional wayfinding signage forces attendees to wander across the active stage to locate restrooms.<br>• Dark backstage passage congested with high-voltage feeder cables, creating electrocution and tripping risks for performers and guests.<br>• Shared service corridor mixes catering waste disposal with bridal/VIP holding paths. | • **Illuminated ADA/BP 344 Wayfinding:** High-contrast, illuminated directional signage directing guests to restrooms without stage crossing.<br>• **Service Corridor Partitioning:** High-durability acoustic wall claddings and cable management bridges segregating service gear from public access paths.<br>• **Emergency Egress Lighting:** RA 9514 battery-backed exit illumination along perimeter doors. | `[Figure 4.4 / 4.5 Callout F]` |
+| **1. Front-of-House (FOH) Technical Audio-Visual & Production Control Zone** | Rear perimeter or lateral corridor (Observed between Grid D4–E4, Grid B lateral edge, or center floor) | ~15–25 sqm (2.1%–3.5% of Hall) | Heavy steel flight cases, digital audio mixing console (32-channel), DMX lighting controller, laptop video switchers, amplifier racks, speaker monitors, and loose tripod stands. | • Positioned arbitrarily near electrical room (D4–E4) or blocking primary walking paths.<br>• Media camera tripods set up directly in the 2000 mm center aisle, narrowing passage to < 900 mm.<br>• Heavy audio snakes and power cords taped across ceramic tile aisles with duct tape, creating severe tripping hazards and tearing underfoot.<br>• Tech operators lack elevated sightlines over standing crowds; prone to sound feedback. | • **Integrated FOH Control Riser:** Modular demountable 200 mm riser platform placed at rear acoustic center.<br>• **Perimeter Cable Raceways & Drop Reels:** Concealed surface-mounted perimeter raceways and overhead retractable cord reels (Module 3) eliminating floor-taped cabling.<br>• **Dedicated Media Tripod Bays:** 1200 mm × 1200 mm recessed floor bays clear of pedestrian aisles (Panero & Zelnik, 1979). | Type A · Figs. 4.1–4.14 |
+| **2. Primary Guest Assembly & Dining Plate** | Central open floor plate (Grid Lines B to E, Columns 2 to 3) | ~400–500 sqm (56.3%–70.3% of Hall) | **Banquet:** 20 to 35 round tables (Ø 1800 mm, 8–10 seats each); rented monobloc or banquet chairs with covers.<br>**Plenary:** 300 to 500 plastic monobloc chairs arranged in tight forward-facing linear rows.<br>**Trusses:** 2 to 4 ground-supported aluminum crank-stand truss towers. | • Substandard chair-to-chair spacing (700–750 mm) severely restricting guest ingress/egress.<br>• Ground truss lifters occupy 36 sqm of prime floor plate, penalizing the venue by 4 full banquet tables (**loss of 40 guest seats**).<br>• Flat unraked floor causes severe stage sightline blockage (C-value < 25 mm).<br>• Zero designated PWD wheelchair bays; wheelchairs relegated to doorway margins. | • **Standardized Table Pitch:** Standardized 1800 mm minimum table-to-table clearance (Neufert, 2012).<br>• **Overhead Suspension:** Motorized Unistrut ceiling hoists (Module 3) eliminating floor lifters and recovering 40 guest seats.<br>• **Staggered Theater Rows:** Straight or ≤ 15° V-shaped (chevron) rows with staggered seats optimizing audience sightlines (C ≥ 60 mm).<br>• **Integrated BP 344 Bays:** Four designated 760 × 1220 mm accessible bays with companion seats. | Type B · Figs. 4.1–4.14 |
+| **3. Catering, Buffet Staging & Food Service Dispatch Zone** | Lateral perimeter walls (Grid Line 1 and/or Grid Line 4) and Lobby threshold | ~60–90 sqm (8.4%–12.7% of Hall) | Dual linear rectangular buffet tables (1200 × 2400 mm units) with chafing warmers; insulated Cambro hotboxes, dish bussing carts, water dispensers, and auxiliary plate replenishment racks. | • Buffet queues extend 15–20 meters, crossing primary guest circulation paths and blocking side exits.<br>• Catering waitstaff carrying heavy 10-plate banquet trays forced to "dodge and weave" through diner chairs due to absence of dedicated service corridors.<br>• Water, grease, and sauce spills on slick ceramic tiles create critical slip-and-fall hazards.<br>• Lack of visual and olfactory buffer between food holding bins and guest dining area. | • **1800 mm Catering Service Bypass Lane:** Dedicated, unobstructed perimeter service corridor (Panero & Zelnik, 1979) linking the nearest side door (Grid 4 loading doors) to buffet lines and crew pockets in the rear-hall corners (Grid B side), sized at 8–15% of the hall plate for full banquets and kept out of the guest-arrival lobby.<br>• **Acoustic & Slip-Resistant Flooring:** A-xet Bianco Snow Terrazzo acoustic LVT providing high slip resistance (R10) and dampening dish clatter.<br>• **Concealed Food Prep Screens:** Modular, movable aesthetic screens shielding hotbox staging from dining guests. | Type C · Figs. 4.1–4.14 |
+| **4. Stage Platform & Ceremonial Presentation Dais** | Front elevation (Grid Lines E to F) elevated above finished floor level | 52.5 sqm (Zone 3 dais) + 20–30 sqm floor spillover | Monolithic concrete dais elevated at fixed +940 mm AFFL (11.11 m width × 4.20 m depth); rigid concrete side stairs; large rental P3/P4 LED video wall (6.0 × 3.0 m); master lectern; ceremonial floral displays. | • Static 4.20 m depth is severely compressed once 6.0 m LED wall and stage lighting are placed, leaving < 1.5 m usable front depth.<br>• Cultural dance ensembles (*PAGPASAMWAK*) and keynote VIPs forced down onto bare hall floor.<br>• Immovable concrete stairs prevent flush scaffolding placement during event styling.<br>• Absence of accessible ramps violates BP 344 and excludes PWD speakers and graduates.<br>• Fixed dais acts as unusable dead space during flat-floor expos and trade fairs. | • **Demountable Modular Staging:** Interchangeable 1.22 × 2.44 m stage decks with adjustable telescoping legs (300 mm / 600 mm AFFL).<br>• **Dynamic Platform Expansion:** Capability to extend stage depth to 6.10 m for cultural dance or retract completely to reclaim 52.5 sqm of continuous flat floor space.<br>• **Modular BP 344 Stage Access:** For 300 mm stages, a straight 1:12 non-skid ramp (1200 mm width, 3.6 m run) in the recess side gap; for 600 mm stages, a platform lift in the recess side gap; 900 mm stages are avoided (a 10.8 m ramp run). Together these provide dignified, universal stage access. | Type D · Figs. 4.1–4.14 |
+| **5. Pre-Function Reception, Registration & Ingress Buffer Zone** | Front foyer concourse (Grid Lines A to B, Zone 1) | 129 sqm (15.4% of total facility) | Rented folding tables for registration and delegate kit distribution; pop-up banner stands; vendor commercial display booths (e.g., jewelry, snacks); guest queue crowds. | • Registration tables placed directly across the second double entrance door reduce ingress to a single 1000 mm open leaf, causing severe doorway choke points.<br>• Completely unconditioned thermal envelope (> 28°C to 31°C) causing guest heat stress and perspiration before entering the main hall.<br>• Unconditioned envelope and lack of modular partition screens forces secondary trade fair overflow (*Samar Investment Forum*) onto the exterior driveway apron and sidewalk, blocking emergency exits and causing vehicular safety conflicts (RA 9514 violation).<br>• Zero seating provisions; senior citizens and waiting graduates forced to stand for hours.<br>• Lingering commercial booths left in lobby obstruct ingress for subsequent event bookings. | • **Absolute 2000 mm Doorway Standoff Buffer:** Mandatory clearance rule forbidding any furniture within 2.0 m of exit portals.<br>• **Dual-Zone Concourse Retrofit (Module 4):** Installation of two 3.0 HP split-type AC units at Columns 1A and 4A maintaining 22°C–24°C, converting the lobby into an air-conditioned secondary exhibition concourse (8 stalls of 2 × 2 m with a 3.9 m aisle) and permanently eliminating exterior driveway displacement.<br>• **Mobile Registration & Lounge Pods:** Mobile reception kiosks on casters paired with modular upholstered bench seating (Module 1). | Type E · Figs. 4.1–4.14 |
+| **6. Back-of-House (BOH) & Restroom Service Circulation Axis** | Rear service corridor (Grid Lines E to G, Zone 4) and lateral building axes | ~45–60 sqm (6.3%–8.4% of envelope) | Narrow 955 mm backstage corridor; electrical distribution panels; unventilated utility storage; shared municipal restrooms. | • Complete absence of directional wayfinding signage forces attendees to wander across the active stage to locate restrooms.<br>• Dark backstage passage congested with high-voltage feeder cables, creating electrocution and tripping risks for performers and guests.<br>• Shared service corridor mixes catering waste disposal with bridal/VIP holding paths. | • **Illuminated ADA/BP 344 Wayfinding:** High-contrast, illuminated directional signage directing guests to restrooms without stage crossing.<br>• **Service Corridor Partitioning:** High-durability acoustic wall claddings and cable management bridges segregating service gear from public access paths.<br>• **Emergency Egress Lighting:** RA 9514 battery-backed exit illumination along perimeter doors. | Type F · Figs. 4.1–4.14 |
 
 ---
 
-#### 4.2.5.1. Spatial Breakdown & Field Layout Guide: Banquet & Social Gala Typology
+#### 4.2.5.1. Event-Specific Zoning Diagrams: Protocol B Live Shadowed Events (Figures 4.1–4.5)
 
-To provide a concrete empirical blueprint of how these activity zones interact during complex celebratory gatherings, Figure 4.4 illustrates the operational layout of the Calbayog Cultural Convention Center during a representative **250-to-300 pax Banquet and Gala Event** (synthesizing observations from *PAGPASAMWAK*, *Stakeholders' Night*, *Samar Investor's Gala*, and *Hermana Night*).
+Table 4.5d describes the six functional zone types in general terms. In practice, each booking divided the 840 sqm envelope in its own way: some events used the stage while others draped it off, some ran the lobby as a gallery or trade fair while others left it empty, and some created zones found in no other event (a processional route, a central focal clearing, an exterior overflow). Figures 4.1 to 4.14 therefore map the zones of each observed event on the CCCC floor plan, one diagram per event. Each figure is followed by a zone legend giving the label used on the diagram, the zone type, its location in the envelope, and what was observed there. Zones that an event did not use, or whose position was not recorded, are noted below the legend rather than drawn.
 
-##### [INSERT BANQUET DIAGRAM HERE]
-```markdown
-![Figure 4.4: Empirical Activity Zoning and Functional Sub-Areas — Banquet & Gala Setup](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/images/Figure4_4_Banquet_Functional_Zoning.png)
-```
-*Figure 4.4. Spatial zoning plan and circulation mapping of the Calbayog Cultural Convention Center during a Banquet & Gala setup, detailing the spatial allocation and interface between the Primary Guest Dining Plate, Lateral Buffet Staging, FOH Audio-Visual Console, and Stage Platform.*
+*Zone type codes follow Table 4.5d: **A** = front-of-house lights, sound & technical positions; **B** = guest seating or dining area; **C** = catering & buffet; **D** = stage & presentation area; **E** = lobby reception, registration & holding; **F** = back-of-house, loading & service access; **X** = event-specific zone (exhibits, concessionaires, processional routes, focal features, aisles, vacant floor).*
 
 ---
+
+##### Observed Event 1: PAGPASAMWAK Legislative Caravan (Figure 4.1)
+*October 5–6, 2026 · Sangguniang Panlungsod / LGU Calbayog · ~300 pax · Banquet in the Main Hall + walkthrough gallery in the Lobby · Option A baseline for Scenario 3A*
+
+**[INSERT FIGURE 4.1 HERE — Zoning Diagram: PAGPASAMWAK Legislative Caravan]**
+
+*Figure 4.1. Functional zoning of the Calbayog Cultural Convention Center during the PAGPASAMWAK Legislative Caravan (October 6, 2026; ~300 pax), showing the lobby registration, concessionaire, photo and gallery zones, the Main Hall banquet seating and two-sided buffet lines, the stage and the floor-level presentation area in front of it, and the tech booth near the electrical room.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Registration area** | E | Lobby, directly in front of the second main entry/exit double door | Registration from 8:00 am. Blocked the second door, leaving one door for all arrivals and for the departing crowd. |
+| **Z2. Concessionaires** | X | Lobby | Coffee and food stalls. |
+| **Z3. Photo-taking area** | X | Lobby | Photo backdrop for guests. |
+| **Z4. Walkthrough civic gallery** | X | Lobby, opposite side from the concessionaires | Pop-up partition boards and photo displays; the zone that took the most setup labor. Visitors browsing it crowded the single open door at egress. |
+| **Z5. Guest banquet seating** | B | Main Hall floor plate | 6-seater round tables with tablecloths; monobloc chairs with fabric covers. |
+| **Z6. Buffet lines** | C | Main Hall, along both sides | Long queues on both sides; waiters had to "dodge and weave" between diners. |
+| **Z7. Stage** | D | Existing concrete stage | Held the LED screens and decor; used with the podium only in parts of the program. Too shallow for the production number. |
+| **Z8. Floor-level presentation & performance area** | D | Hall floor directly in front of the stage | Low platform for the VIP/presenters' table; podium moved here mid-program; production number performed here. |
+| **Z9. Lights & sound tech booth** | A | Left side of the hall, near the electrical room | Controlled the outsourced lighting and audio. |
+| **Z10. Speaker & lighting positions** | A | Both sides of the stage; outsourced trusses at the stage; tops of the AC units at Column Grids C and D | Speakers flanked the stage; moving-head spotlights sat on the stage floor and on the AC units. |
+
+---
+
+##### Observed Event 2: Samar Investment Forum & Investor's Gala (Figure 4.2)
+*October 10–12, 2026 · Province of Samar & LGU Calbayog · Forum 150–200 pax; Gala 80–100 pax · Banquet-plenary in the Main Hall + trade fair in the Lobby · Option A baseline for Scenario 4D*
+
+The evening Investor's Gala ran on the same layout as the daytime forum after a 3.5-hour reset, so one diagram covers both parts. The same event was also audited in Protocol C (Event #123), so Figure 4.2 serves both records.
+
+**[INSERT FIGURE 4.2 HERE — Zoning Diagram: Samar Investment Forum & Investor's Gala]**
+
+*Figure 4.2. Functional zoning of the CCCC during the Samar Investment Forum and Investor's Gala (October 12, 2026), showing the lobby trade fair and its blocked door leaf, the exterior driveway overflow, the in-hall registration, the round-table seating with the livestream camera position in the centre walkway, the stage with side LED screens, the ground-supported lighting truss, and the right-side loading doors.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Lobby trade fair** | X | Lobby | 4 large booths (2.0 m deep × 2.7 m wide), 2 on each side; opposite them, 5 display tables on one side and a long and a short table on the other. Unconditioned (> 28 °C). |
+| **Z2. Door obstruction points** | E | Lobby, at both main door leaves | One display table blocked the second door leaf; the "Palawan Gold" jewelry table at the remaining door drew crowds into the doorway. Flow became one-way, and all egress converged on the single open door. |
+| **Z3. Exterior overflow stalls** | X | Outside the envelope: vehicular driveway and drop-off sidewalk | Municipal agro-industrial exhibits and snack concessionaires under pop-up canopies. Drawn as an overflow callout (outside the interior scope). |
+| **Z4. Registration area** | E | Main Hall, near the lobby entrance | Enough room for the queue to build up. |
+| **Z5. Guest seating** | B | Main Hall floor plate | 6-seater round tables with white cushioned steel seats; 2 m centre walkway; 700–750 mm chair-to-chair; paths wide enough for one-way traffic only. |
+| **Z6. Livestream camera position** | A | 2 m centre walkway | Camera tripods blocked the walkway at the start of the program. |
+| **Z7. Stage & side LED screens** | D | Existing stage, with an LED screen on each side | Used throughout the forum; the side screens relayed the speaker to rows whose view was blocked. |
+| **Z8. Ground-supported lighting truss** | A | Main Hall floor, centre | Crank-stand truss carrying hanging spotlights, floods and PARs; blocked rear sightlines; struck last (by 1:00 am). Further spotlights sat on the AC units at Column Grid C. |
+| **Z9. Loading zone** | F | Right-side sliding doors (Grid Line 4) | Main load-in route; curtains had no tiebacks and were knotted by hand to keep the doorways open. |
+| **Z10. Curtained side exits** | X | Perimeter sliding doors, both sides | Hidden behind drapery with no fire exit signs; attendees did not know these were exits. |
+
+*Not recorded: catering and tech booth positions; these are omitted from the diagram.*
+
+---
+
+##### Observed Event 3: TESDA Graduation Ceremony (Figure 4.3)
+*October 13, 2026 · DOLE / TESDA · 80–100 pax · Plenary ceremony + post-ceremony guest dinner · Option A baseline for Scenario 1C*
+
+**[INSERT FIGURE 4.3 HERE — Zoning Diagram: TESDA Graduation Ceremony]**
+
+*Figure 4.3. Functional zoning of the CCCC during the TESDA Graduation Ceremony (October 13, 2026; 80–100 pax), showing the graduates' holding area in the otherwise unused lobby, the processional route, the registration table, the front-half seating before the stage, the vacant rear-left floor, and the 26-seat dinner table at the rear right.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Graduate holding area** | E | Lobby | Graduates waited here until 5:40 pm in the unconditioned lobby; otherwise unused. Booth tables from the previous event were still being cleared. |
+| **Z2. Processional route** | X | Lobby → middle entrance → centre aisle | Graduates marched from the lobby to their seats. |
+| **Z3. Registration table** | E | Main Hall, centre-right side | Arrivals went from the middle entrance straight to this table, then to the seats. |
+| **Z4. Audience & graduate seating** | B | Front half of the Main Hall, two blocks at Points A and B directly before the stage | Monobloc chairs with fabric covers in theater rows; clear sightlines. |
+| **Z5. Stage** | D | Existing concrete stage | LED wall, artificial-flower decor and a few lights; graduates went up on the left and exited on the right. |
+| **Z6. Guest dinner area** | B | Rear right of the Main Hall | 26-seat banquet table set for the post-ceremony guest dinner; 26 chairs moved here after the ceremony. |
+| **Z7. Vacant floor** | X | Rear left and rear half of the Main Hall | Empty throughout; contributed to the strong "church echo". |
+| **Z8. Side exit in use** | X | Centre-right side door | Used by people stepping out while waiting. |
+
+*Not used: catering during the ceremony (none). Not recorded: tech booth position. Built-in house lights were used; no truss.*
+
+---
+
+##### Observed Event 4: Stakeholders' Night (Figure 4.4)
+*October 14–15, 2026 · City Government of Calbayog · 200 pax · Gala dinner · Option A baseline for Scenario 3B*
+
+**[INSERT FIGURE 4.4 HERE — Zoning Diagram: Stakeholders' Night]**
+
+*Figure 4.4. Functional zoning of the CCCC during Stakeholders' Night (October 15, 2026; 200 pax), showing the lobby registration and concessionaires, the decorated entry walkway, the open central focal area under the chandelier, the surrounding banquet tables, the VIP tables before the stage, and the perimeter buffet lines with the caterers' improvised prep outpost.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Registration area** | E | Lobby, by the one main door in use | Only one of the two main doors was used; guest entry was still orderly. |
+| **Z2. Concessionaires** | X | One side of the lobby | Snack stalls; the other side of the lobby was unused. |
+| **Z3. Decorated entry walkway** | X | Lobby-to-hall entrance | Tunnel with a lowered decorative ceiling and lights linking the lobby to the hall. |
+| **Z4. Central focal area** | X | Centre of the Main Hall | Open circular floor under the ceiling focal point and chandelier, hung from an outsourced aluminum truss. |
+| **Z5. Guest banquet seating** | B | Main Hall, around the focal area and filling the rear | 6-seater round tables with covered monobloc chairs. |
+| **Z6. VIP tables** | B | Hall floor in front of the stage | Moved off the stage because the LED wall, decor and lights filled it. |
+| **Z7. Stage** | D | Existing concrete stage | LED wall, decor and stage lighting; presentation only. |
+| **Z8. Buffet lines** | C | Along the perimeter walls of the Main Hall | Placed on the sides instead of behind the tables to free the rear for more dining tables; ample space around them. |
+| **Z9. Catering prep & staging outpost** | C | Hall perimeter, beside the buffet lines | Improvised for lack of any BOH pantry; held plate stacks, glass racks, crates, replenishment trays and food reserves. |
+
+*Not recorded: lights & sound crew position. The whole ceiling was draped in fabric with fairy lights.*
+
+---
+
+##### Observed Event 5: Wedding Ceremony & Nuptial Banquet (Figures 4.5a–4.5b)
+*October 15–17, 2026 · Private client · 150 pax · Ceremony converting to banquet reception · Option A baseline for Scenario 3C*
+
+The hall changed layout mid-event: the ceremony ended at 4:30 pm and its chairs were moved to the round tables. The figure therefore has two panels.
+
+**[INSERT FIGURE 4.5a HERE — Zoning Diagram: Wedding, Ceremony Layout]**
+
+**[INSERT FIGURE 4.5b HERE — Zoning Diagram: Wedding, Reception Layout]**
+
+*Figure 4.5. Functional zoning of the CCCC during the Wedding Event (October 17, 2026; 150 pax): (a) ceremony layout and (b) reception layout, showing the lobby holding area with its snack and photo booth sides, the framed entryway, the central ceremony platform under the truss-supported ceiling feature, the ceremony seating and its conversion to round-table banquet seating, the couple's dais, the draped-off stage, and the loading doors.*
+
+| Zone | Type | Panel | Location | Observed Use & Notes |
+| :--- | :---: | :---: | :--- | :--- |
+| **Z1. Lobby guest holding** | E | a | Lobby | No seating and no AC; guests waited from about 2:00 pm, visibly sweating and fanning themselves. |
+| **Z2. Snacks & drinks** | X | a, b | Left side of the lobby | Refreshment station. |
+| **Z3. Photo booth** | X | a, b | Right side of the lobby | Photo booth area. |
+| **Z4. Framed entryway** | X | a, b | Foyer-to-hall entrance | The wide opening was framed narrower with decorative overlays. |
+| **Z5. Ceremony platform & ceiling focal point** | D | a | Centre of the Main Hall | Circular platform under the fabric ceiling feature, held up by aluminum truss uprights that blocked rear views of the couple. |
+| **Z6. Ceremony seating** | B | a | Around the platform | Plenary-type chairs; removed after 4:30 pm and moved to the round tables. |
+| **Z7. Reception seating** | B | b | Main Hall floor plate | 6-seater round tables; wide aisles gave good guest and waiter circulation. |
+| **Z8. Couple's dais** | D | b | Front of the hall | Couple's loveseat; its lighting was struck at 9:20 pm. |
+| **Z9. Stage (not used)** | D | a, b | Existing concrete stage | Fully draped so the bride remained the sole focus. |
+| **Z10. Loading zone** | F | a, b | Nearest left-side entry (load-in); right-side entry (load-out to trucks) | Only one door was used at load-in; items piled up there and flight cases struck the narrow frame. Several sliding doors did not work. |
+
+*Not recorded precisely: catering stations, tech booth and media positions (media packed gear along the perimeter).*
+
+---
+
+#### 4.2.5.2. Event-Specific Zoning Diagrams: Protocol C Archival Events (Figures 4.6–4.14)
+
+These diagrams are reconstructed from archival photographs and captions (Section 4.2.4.5), so they show only what the photographs and captions confirm. Zones that the archive could not confirm are noted as unverified. The Samar Investment Forum (Event #123) was both shadowed live and audited in the archive; its zoning appears in Figure 4.2.
+
+---
+
+##### Archival Event 1: ECCD Centers Moving-Up Ceremony (Figure 4.6)
+*April 22, 2025 · CSWDO & ECCD Calbayog · Event #64 · ~250–300 pax · Plenary · Option A baseline for Scenario 1A*
+
+**[INSERT FIGURE 4.6 HERE — Zoning Diagram: ECCD Centers Moving-Up Ceremony]**
+
+*Figure 4.6. Functional zoning of the CCCC during the ECCD Centers Moving-Up Ceremony (April 22, 2025; ~250–300 pax), reconstructed from archival photographs, showing the wall-to-wall audience seating, the single central aisle, the standing spectator edges, and the tarpaulin-dressed stage.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Audience seating** | B | Nearly the full Main Hall | Loose monobloc chairs in straight, parallel rows; rows drifted as chairs shifted. |
+| **Z2. Central aisle** | X | Hall centre line, ~5.5 m clear | The only aisle; likely gridlock at the hall-to-lobby transition during dispersal. |
+| **Z3. Standing spectator edges** | X | Side walls and aisle edges | Parents stood or leaned into the aisles to photograph children beyond Row 6. |
+| **Z4. Stage** | D | Existing concrete stage | Vinyl tarpaulin backdrop on a rented wooden frame with balloon arches; floor lamps beside the backdrop; cables hidden behind it. |
+| **Z5. Hall-to-lobby transition** | E | Main entrance doors | Probable dispersal pinch point (inferred from the layout). |
+
+*Not observed: wheelchair or stroller positions (no bays were provided). Unverified: lobby use.*
+
+---
+
+##### Archival Event 2: Liga ng mga Barangay City-wide Council Meeting (Figure 4.7)
+*July 29, 2026 · Liga ng mga Barangay, DILG & LGU Calbayog · Event #108 · ~200 pax · Plenary · Option A baseline for Scenario 1B*
+
+**[INSERT FIGURE 4.7 HERE — Zoning Diagram: Liga ng mga Barangay Council Meeting]**
+
+*Figure 4.7. Functional zoning of the CCCC during the Liga ng mga Barangay City-wide Council Meeting (July 29, 2026; ~200 pax), reconstructed from archival photographs, showing the two delegate seating blocks, the floor-level dignitary table and podium, the front buffer, the stage used as an LED plinth, and the vacant rear half.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Delegate seating** | B | Front ~45% of the Main Hall | Two blocks of 8 seats × 12 rows (192); straight, unstaggered rows with no cross aisles. |
+| **Z2. Central & perimeter aisles** | X | Between the blocks and along both side walls | The only egress routes; the furthest seat is 4 chairs from an aisle. |
+| **Z3. Dignitary table & floor podium** | D | Hall floor, front centre, facing the audience; podium to the right of the table | 10-seat rectangular table; the A/V signal cable ran along the table edge to the podium laptop. |
+| **Z4. Front buffer** | X | Between the dignitary table and Row 1, ~2.4 m | Used for roll calls and facilitator movement; also where wheelchair users would sit. |
+| **Z5. Stage** | D | Existing concrete stage | Used only as a plinth for the LED wall. |
+| **Z6. Loudspeaker** | A | Right side of the stage | Single point-source speaker; no hired technicians; the left block heard less. |
+| **Z7. Vacant rear floor** | X | Rear half of the Main Hall | Empty; added to the flutter echo. |
+
+---
+
+##### Archival Event 3: National Training on Culture-Based Governance for LGUs (Figure 4.8)
+*April 25–27, 2024 · USTGS-CCCPET, NCCA-PCEP, DILG-LGA & PLGU Samar · Event #21 · ~160–200 pax · Full-hall classroom training · Option A baseline for Scenario 2A*
+
+**[INSERT FIGURE 4.8 HERE — Zoning Diagram: National Training on Culture-Based Governance]**
+
+*Figure 4.8. Functional zoning of the CCCC during the National Training on Culture-Based Governance for LGUs (April 2024; ~160–200 pax), reconstructed from archival photographs, showing the two banks of training tables, the side-wall catering, the stage with its cloth-wrapped LED truss, and the flanking floor speakers.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Training tables** | B | Main Hall, two banks either side of the centre aisle | 24 ten-seat rectangular tables (12 per bank) in 7 rows × 4 columns; Rows 1 and 7 hold two tables in the middle; 240 seats. |
+| **Z2. Central & perimeter aisles** | X | Centre line and side walls | Wide; fluid movement to the main doors and side exits. |
+| **Z3. Buffet & catering** | C | Along both side walls | Spread the meal queues along the flanks and kept the rear entrance clear. |
+| **Z4. Stage** | D | Existing concrete stage | Podium beside the screen; a rented truss, wrapped in cloth, raised an enlarged LED wall. |
+| **Z5. Speakers** | A | Floor-mounted, one on each side of the stage | Balanced sound across both banks; cables run along the perimeter and table bases. |
+
+*Unverified: lobby use.*
+
+---
+
+##### Archival Event 4: Planning Workshop for Barangay Population Workers (Figure 4.9)
+*December 12, 2024 · City Population Office & LGU Calbayog · Event #95 · ~80–120 pax · Mid-scale classroom workshop · Option A baseline for Scenario 2B*
+
+**[INSERT FIGURE 4.9 HERE — Zoning Diagram: Barangay Population Workers Planning Workshop]**
+
+*Figure 4.9. Functional zoning of the CCCC during the Planning Workshop for Barangay Population Workers (December 12, 2024; ~80–120 pax), reconstructed from archival photographs, showing the workshop tables across the full hall depth, the central aisle and side walkways, and the stage with its LED wall.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Workshop tables** | B | Full depth of the Main Hall, front to rear | Forward-facing rectangular tables with loose monobloc chairs. |
+| **Z2. Central aisle & side walkways** | X | Centre line and side walls | Wide; no side-stepping needed; cables kept to the perimeter. |
+| **Z3. Stage & LED wall** | D | Existing concrete stage | Presenter lectern and LED wall for slides. |
+| **Z4. Speakers** | A | Front of the hall | Venue loudspeakers. |
+
+*Not shown in the archive: lobby use and catering.*
+
+---
+
+##### Archival Event 5: Knights of Columbus Council 3288 Hermana Night 2026 (Figure 4.10)
+*September 6, 2026 · K of C Council 3288 & Hermana Mayor Committee · Event #118 · ~450–500 pax · Formal ceremonial banquet · Option A baseline for Scenario 3A (Template 3A-2)*
+
+The archival record includes a text schematic of this layout (Figure C.3 in the archival observation file); Figure 4.10 redraws it on the CCCC plan.
+
+**[INSERT FIGURE 4.10 HERE — Zoning Diagram: Hermana Night 2026]**
+
+*Figure 4.10. Functional zoning of the CCCC during Hermana Night 2026 (September 6, 2026; ~450–500 pax), reconstructed from archival photographs, showing the central processional aisle, the east and west communal dining sections, the column-side lighting stands, the stage, and the buffet and registration zones at the main entrance.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Central processional aisle** | X | Centre line from the main lobby doors to the stage, 2.4–3.0 m clear | Route for the *carroza* and the Honor Guard sword-arch salutes. |
+| **Z2. East dining section** | B | Between the aisle and the east wall | Rectangular 10-pax communal tables parallel to the aisle; ~1400 mm pitch, ≤ 300 mm between pushed-back chairs; outer row against the wall. |
+| **Z3. West dining section** | B | Between the aisle and the west wall | Same as Z2. |
+| **Z4. Perimeter lighting stands** | A | Beside the structural columns along both side walls | T-bar light stands that narrowed side paths to < 900 mm. |
+| **Z5. Stage** | D | Existing concrete stage | Dignitary head table and LED backdrop; no ramp. |
+| **Z6. Buffet staging** | C | Beside the main entrance double doors | Dinner queues backed up across the threshold into the lobby. |
+| **Z7. Registration** | E | Beside the main entrance double doors | Shared the doorway with the buffet queue, congesting the main exit. |
+| **Z8. Lobby holding** | E | Lobby | Unconditioned (> 28 °C); took the queue overflow. |
+
+*Not provided: wheelchair bays (users were placed at the head of the aisle or near door thresholds).*
+
+---
+
+##### Archival Event 6: Samar-wide Artists Kolektib Gathering (Figure 4.11)
+*November 18, 2024 / February 27, 2024 · CACO & LGU Calbayog · Event #40 · ~200–295 pax · Classroom workshop + indoor tent exhibition (no dining) · Option A baseline for Scenario 4A*
+
+**[INSERT FIGURE 4.11 HERE — Zoning Diagram: Samar-wide Artists Kolektib Gathering]**
+
+*Figure 4.11. Functional zoning of the CCCC during the Samar-wide Artists Kolektib Gathering (~200–295 pax), reconstructed from archival photographs, showing the front-half workshop tables and centre-aisle microphone, the floor podium, the stage used as an LED plinth, and the tent exhibitions in the rear half and the lobby.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Workshop tables** | B | Front half of the Main Hall | 12 rectangular tables, 2 rows × 6 columns, 11 seats each (132); cramped together; front ends left empty to face the stage. |
+| **Z2. Central aisle & mic stand** | X | 1.0 m aisle splitting the tables 3 + 3 | Wired microphone on a floor stand with its cable across the aisle. |
+| **Z3. Floor podium** | D | Hall floor in front of the stage | Speaker's podium. |
+| **Z4. Stage** | D | Existing concrete stage | Plinth for the LED wall; T-light stands; back wall draped. |
+| **Z5. Hall exhibition** | X | Rear half of the Main Hall | Six 3 × 3 m pop-up tents, three per side (54 sqm); artworks hung on the tent frames; shadows under the canopies; pinched routes to the rear exits. |
+| **Z6. Lobby exhibition** | X | Lobby, both sides | Four 3 × 3 m tents, two per side, crowding the entrance. |
+| **Z7. Side perimeter walkways** | X | Along both side walls of the front half | Wide enough for passage. |
+
+*Not used: dining or buffet.*
+
+---
+
+##### Archival Event 7: DTI Samar Creative Entrepreneurship Training (Figure 4.12)
+*June 23, 2025 · DTI Samar, PTTC & LGU Calbayog · Event #3 · 53 participants (~70–90 total) · Training + craft display · Option A baseline for Scenarios 2C and 4B*
+
+**[INSERT FIGURE 4.12 HERE — Zoning Diagram: DTI Samar Creative Entrepreneurship Training]**
+
+*Figure 4.12. Functional zoning of the CCCC during the DTI Samar Creative Entrepreneurship Training (June 23, 2025; 53 participants), reconstructed from archival photographs, showing the front-third training seating, the improvised craft gallery in the rear, the side tech booth, the stage LED wall, and the unused lobby.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Training seating** | B | Front ~30% of the Main Hall | Continuous linear folding tables in forward rows; ~1.0 m centre aisle; < 750 mm push-back. |
+| **Z2. Improvised craft gallery** | X | Rear ~70% of the Main Hall | Display tables of wood laser engravings and paintings; loose extension cords to the rear tables. |
+| **Z3. Tech booth** | A | Side of the hall, near the electrical room | Audio and visual controls. |
+| **Z4. Stage & LED wall** | D | Existing concrete stage | LED wall used for presentations. |
+| **Z5. Lobby (unused)** | E | Lobby | Bypassed for the whole event. |
+
+---
+
+##### Archival Event 8: Annual Calbayog Tinapa 101 Cookfest (Figure 4.13)
+*2016, 2024 and 2026 editions · City Tourism Office, CACO & Tinapa Producers Association · Events #9, #48, #125 · 13 cooking groups, judging panel, ~150–200 spectators · Cookfest + judging · Option A baseline for Scenario 4C*
+
+**[INSERT FIGURE 4.13 HERE — Zoning Diagram: Tinapa 101 Cookfest]**
+
+*Figure 4.13. Functional zoning of the CCCC during the Tinapa 101 Cookfest, reconstructed from archival photographs and video, showing the perimeter cooking stations, the visitor aisles, the central spectator seating, the single dish display table, the judges' table beside the stage, and the lobby registration.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Cooking stations** | X | Along the perimeter walls, set off from the wall | 13 teams on portable butane stoves; no exhaust hoods, so smoke lingered. |
+| **Z2. Visitor aisles** | X | Between the stations and the seating | Visitors gathered here to watch the cooking. |
+| **Z3. Spectator seating** | B | Centre of the Main Hall | Plenary theater-type seats for the judging phase. |
+| **Z4. Dish display table** | X | ~2.4 m in front of the first row | Single long table; every guest converged here during the dish showcase (crush hazard). |
+| **Z5. Judges' table** | X | Next to the stage, parallel to it and to the display table | Two-seat rectangular table. |
+| **Z6. Stage** | D | Existing concrete stage | Used only for the LED countdown clock. |
+| **Z7. Registration** | E | Lobby | Registration booths; main door kept clear; lobby unconditioned and otherwise underused. |
+
+---
+
+##### Archival Event 9: LGU-PESO Mega Employment Caravan & Career Expo (Figure 4.14)
+*2024–2025 editions · PESO, DOLE Samar & LGU Calbayog · Events #30, #53, #71, #99 · 400–500 jobseekers, 26 employers · Orientation assembly + interview booths · Companion reference for Typology 4 (Zero-Stage Flat-Floor Mode)*
+
+**[INSERT FIGURE 4.14 HERE — Zoning Diagram: PESO Mega Employment Caravan & Career Expo]**
+
+*Figure 4.14. Functional zoning of the CCCC during the LGU-PESO Mega Employment Caravan and Career Expo (400–500 jobseekers), reconstructed from archival photographs, showing the central orientation seating, the perimeter interview booths, the VIP table and stage, the tech table, and the lobby interview tables and waiting queue.*
+
+| Zone | Type | Location | Observed Use & Notes |
+| :--- | :---: | :--- | :--- |
+| **Z1. Orientation seating** | B | Centre of the Main Hall | Three banks of 5 × 12 monobloc chairs (180) facing the LED wall, with two aisles; front row ~9 m from the stage. |
+| **Z2. Perimeter interview booths** | X | Flush against the east and west walls, 11 per side | 22 four-seat booths (2 recruiters, 2 applicants); blocked the four side sliding exits. |
+| **Z3. VIP table** | B | In front of the stage | Draped table for the Mayor, PESO and DOLE officials. |
+| **Z4. Stage** | D | Existing concrete stage | LED wall with fabric drapery. |
+| **Z5. Tech table** | A | Perimeter wall nearest the electrical room | Audio-visual technician. |
+| **Z6. Lobby interview tables & waiting queue** | E | Lobby, two tables per flank | Four 3-recruiter tables; applicant queues left ~300 mm clearance and congested the main doors. Most lobby lights were defective, so curtains were tied back for daylight. |
+
+---
+
+#### 4.2.5.3. Cross-Event Composite Field Measurements by Typology
+
+The diagrams above record which zones each booking created. The three records below pool the field measurements taken across events of the same typology, so that recurring dimensions (table pitch, aisle widths, stage depth, FOH footprint) can be read in one place. Callout letters follow the zone types of Table 4.5d.
+
+##### A. Banquet & Social Gala Composite (see Figures 4.1, 4.2, 4.4, 4.5 and 4.10)
+
+The record below pools observations from *PAGPASAMWAK*, *Stakeholders' Night*, the *Samar Investor's Gala*, and *Hermana Night* for a representative **250-to-300 pax Banquet and Gala Event**.
 
 > ### 📋 Descriptive Layout Guide & Field Observation Record: Banquet & Gala Setup
-> *(This structured documentation block records the empirical spatial dimensions, furniture footprints, and circulation clearances observed on site. Planners and researchers can verify and cross-reference field measurements alongside Figure 4.4).*
+> *(This structured documentation block records the empirical spatial dimensions, furniture footprints, and circulation clearances observed on site. Planners and researchers can verify and cross-reference field measurements alongside Figures 4.1, 4.2, 4.4, 4.5 and 4.10).*
 >
 > ---
 >
@@ -519,22 +824,12 @@ To provide a concrete empirical blueprint of how these activity zones interact d
 > - **Grid Location & Allocation:** 129 sqm Lobby concourse (Grid Lines A to B).
 > - **Observed Dynamics:** Registration desk set up across the western entrance portal blocked 50% of ingress capacity; unconditioned lobby space (> 29°C) caused thermal discomfort during 45-minute cocktail holding window.
 
----
+##### B. Plenary, Conference & Convocation Composite (see Figures 4.2, 4.3 and 4.6)
 
-#### 4.2.5.2. Spatial Breakdown & Field Layout Guide: Plenary, Conference & Convocation Typology
-
-To document the contrasting spatial behavior of forward-facing civic assemblies, Figure 4.5 illustrates the operational layout of the convention center during a **350-to-500 pax Plenary / Convocation Setup** (synthesizing observations from the *Samar Investment Forum*, *TESDA Graduation Ceremony*, and archival *ECCD Moving-Up Ceremony*).
-
-##### [INSERT PLENARY DIAGRAM HERE]
-```markdown
-![Figure 4.5: Empirical Activity Zoning and Functional Sub-Areas — Plenary & Convocation Setup](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/images/Figure4_5_Plenary_Functional_Zoning.png)
-```
-*Figure 4.5. Spatial zoning plan and circulation mapping of the Calbayog Cultural Convention Center during a Plenary & Convocation setup, showing the layout of the Forward Assembly Seating Plate, Center Processional Aisle, Elevated Speaker Dais, and Rear Technical Mixing Position.*
-
----
+The record below pools observations from the *Samar Investment Forum*, the *TESDA Graduation Ceremony*, and the archival *ECCD Moving-Up Ceremony* for a representative **350-to-500 pax Plenary / Convocation Setup**.
 
 > ### 📋 Descriptive Layout Guide & Field Observation Record: Plenary & Convocation Setup
-> *(This structured documentation block records the empirical spatial dimensions, seating pitches, and sightline parameters observed on site. Planners and researchers can verify and cross-reference field measurements alongside Figure 4.5).*
+> *(This structured documentation block records the empirical spatial dimensions, seating pitches, and sightline parameters observed on site. Planners and researchers can verify and cross-reference field measurements alongside Figures 4.2, 4.3 and 4.6).*
 >
 > ---
 >
@@ -567,22 +862,12 @@ To document the contrasting spatial behavior of forward-facing civic assemblies,
 > #### E. Lobby Pre-Function Holding & Registration Buffer (Callout E)
 > - **Observed Dynamics:** 129 sqm Lobby concourse funneled arriving attendees through two linear verification desks. Arriving crowds backed up out of the building onto the exterior sidewalk during peak morning registration surges.
 
----
+##### C. Exhibition & Multi-Use Hybrid Composite (see Figures 4.2, 4.13 and 4.14)
 
-#### 4.2.5.3. Spatial Breakdown & Field Layout Guide: Exhibition & Multi-Use Hybrid Typology (Supplementary Template)
-
-To support future empirical documentation of commercial fairs, trade expos, and culinary showcases (*Tinapa 101 Cookfest*, *Mega Job Fair*, and *Samar Investment Trade Concourse*), Figure 4.6 provides a structured template for recording exhibition activity zoning:
-
-##### [INSERT EXHIBITION / HYBRID DIAGRAM HERE]
-```markdown
-![Figure 4.6: Empirical Activity Zoning and Functional Sub-Areas — Exhibition & Hybrid Setup](file:///C:/Users/Trina/OneDrive/Desktop/thesis%201/New%20Thesis/images/Figure4_6_Exhibition_Hybrid_Zoning.png)
-```
-*Figure 4.6. Spatial zoning plan and pedestrian thoroughfare layout of the Calbayog Cultural Convention Center during an Exhibition & Commercial Trade setup, illustrating booth configurations, arterial pedestrian corridors, and demonstration stages.*
-
----
+The record below provides a structured template for recording exhibition activity zoning, drawing on the *Tinapa 101 Cookfest*, the *Mega Job Fair*, and the *Samar Investment Trade Concourse*.
 
 > ### 📋 Descriptive Layout Guide & Field Observation Record: Exhibition & Trade Setup
-> *(This structured documentation block records the empirical spatial dimensions, booth modules, and circulation widths observed on site. Planners and researchers can verify and cross-reference field measurements alongside Figure 4.6).*
+> *(This structured documentation block records the empirical spatial dimensions, booth modules, and circulation widths observed on site. Planners and researchers can verify and cross-reference field measurements alongside Figures 4.2, 4.13 and 4.14).*
 >
 > ---
 >
@@ -1095,6 +1380,238 @@ Field investigations and archival trace observations (Section 4.2.4.5) reveal th
    - When event clients demand 450 to 500 occupants (as documented in Option A during *Hermana Night 2026*), event coordinators are forced into dangerous compromises that break these ergonomic clearance standards: table-to-table pitch is collapsed to ~1400 mm, leaving pulled chair clearances under 300 mm, banquet tables are jammed against exit doors, and buffet queues block primary egress portals.
    - **Methodological & Design Significance:** The inability of Option B to accommodate 500 banquet occupants is **not a design limitation, but an empirical architectural finding**: it mathematically and physically proves that the Calbayog Cultural Convention Center is severely undersized for 500 banquet diners. Option B upholds life safety and human dignity by establishing 250–300 pax as the rigid ergonomic operational ceiling, while utilizing interior design interventions (overhead rigging recovering 40 seats; buffet lines and crew pockets in the rear-hall corners, leaving the 129 sqm lobby clear for guest arrival) to maximize capacity to its absolute safe physical limit.
 
+#### 4.5.2.3. Option B Design Outputs: Scenario Layout Plates & Module Drawings (Figures 4.15–4.30)
+
+The templates specified in Table 4.14 were presented to the FGD panel (Section 4.5.3) as drawn outputs in the evaluative slide deck (Slides 4–22). Each scenario slide set an Option A plan and photograph against an Option B dimensioned 2D CADD floor plan and an eye-level 3D render. Figures 4.15 to 4.27 reproduce the Option B outputs for the thirteen presented scenarios, and Figures 4.28 to 4.30 reproduce the drawings of the three non-structural modules. The Option A side of each comparison is documented by the event zoning diagrams in Section 4.2.5, cross-referenced under each plate.
+
+---
+
+##### Scenario 1A: Peak Civic Convocation, 250–300 pax (Figure 4.15; FGD Slide 4)
+
+**[INSERT FIGURE 4.15a HERE — Option B 2D Plan: Scenario 1A]**
+
+**[INSERT FIGURE 4.15b HERE — Option B 3D Render: Scenario 1A]**
+
+*Figure 4.15. Option B for Scenario 1A, Peak Civic Convocation: (a) dimensioned plan of V-shaped (chevron) theater rows for ≈ 290 occupants; (b) eye-level render from the rear row.*
+
+- **Plan:** Straight or ≤ 15° V theater rows, 2 blocks × 12 staggered seats (500 mm), 12 rows = 288 seats + 4 BP 344 wheelchair bays (760 × 1220 mm) with companion seats; 900 mm row pitch (≥ 305 mm clear passage); 1800 mm centre processional aisle and ≈ 3650 mm side aisles to the exits; 600 mm modular stage (3 × 3 decks, 7.32 × 3.66 m) set back 2.5 m from the first row, platform lift in the recess side gap; main L/R speakers flown beside the stage; FOH behind the last row; snack-pack tables at the lobby end walls, 2.0 m off the doors.
+- **Render:** Rear-row view showing head clearance (C ≥ 60 mm), ceiling baffles, stage front wash and clear side-aisle exits.
+- **Option A baseline:** Figure 4.6 (ECCD Moving-Up Ceremony).
+
+---
+
+##### Scenario 1B: Mid-Scale Civic Assembly, 150–200 pax (Figure 4.16; FGD Slide 5)
+
+**[INSERT FIGURE 4.16a HERE — Option B 2D Plan: Scenario 1B]**
+
+**[INSERT FIGURE 4.16b HERE — Option B 3D Render: Scenario 1B]**
+
+*Figure 4.16. Option B for Scenario 1B, Mid-Scale Civic Assembly: (a) dimensioned plan of staggered theater rows for 200 occupants; (b) eye-level render of the seating and stage.*
+
+- **Plan:** Straight or ≤ 15° V theater rows, 2 blocks × 10 staggered seats, 10 rows = 200; 1500 mm centre aisle and ≈ 4800 mm side aisles; perimeter media tripod pockets; 2 BP 344 bays with companion seats; 600 mm stage (3 × 3 decks for the officials' table) with platform lift; one buffet line behind mobile screens in the rear third; flown L/R speakers; Basey *banig* acoustic wall panels.
+- **Render:** Orderly seating with clear central sightlines, dedicated AV pockets and warm acoustic wall finishes.
+- **Option A baseline:** Figure 4.7 (Liga ng mga Barangay Council Meeting).
+
+---
+
+##### Scenario 1C: Compact Commencement & Seminar, 50–100 pax (Figure 4.17; FGD Slide 6)
+
+**[INSERT FIGURE 4.17a HERE — Option B 2D Plan: Scenario 1C]**
+
+**[INSERT FIGURE 4.17b HERE — Option B 3D Render: Scenario 1C]**
+
+*Figure 4.17. Option B for Scenario 1C, Space-Subdivided Intimate Mode: (a) dimensioned plan with mobile acoustic screens enclosing the front 250 sqm; (b) eye-level render of the enclosed ceremonial chamber.*
+
+- **Plan:** Mobile Basey *banig* acoustic screens across Grid Line D enclosing the front 250 sqm, with 1500 mm openings at both side aisles; theater rows 2 blocks × 7, 7 rows = 98; 1500 mm centre aisle; 300 mm stage set back 2.0 m with a straight 3.6 m ramp in the recess side gap; merienda behind the screen line in the rear hall; one flown speaker pair; air-conditioned lobby holding (dual ACs at Columns 1A and 4A).
+- **Render:** Intimate chamber lit by the front-zone house circuits and a stage front wash, with the cooled lobby holding area.
+- **Option A baseline:** Figure 4.3 (TESDA Graduation Ceremony).
+
+---
+
+##### Scenario 2A: Full-Hall Mass Institutional Training, 160–200 pax (Figure 4.18; FGD Slide 8)
+
+**[INSERT FIGURE 4.18a HERE — Option B 2D Plan: Scenario 2A]**
+
+**[INSERT FIGURE 4.18b HERE — Option B 3D Render: Scenario 2A]**
+
+*Figure 4.18. Option B for Scenario 2A, Full-Hall Classroom Rows: (a) dimensioned plan of 192 seats at flip-top tables; (b) eye-level render of the training hall.*
+
+- **Plan:** Classroom rows (straight or chevron), 2 blocks × 4 flip-top nesting tables (1800 × 450 mm, 3 seats each) on lockable casters, 8 rows = 192 at 1400 mm row pitch; 1500 mm centre aisle and ≈ 2600 mm side aisles; 300 mm dais (3 × 3 decks) with 3.6 m ramp, first row at 3.2 m; ceiling power drops at row ends; 2 buffet lines behind a screen line in the rear ~15 m; flown L/R speakers.
+- **Render:** Spacious classroom with clear facilitator aisles and evenly lit desks (400–500 lx, 4000 K, UGR ≤ 19).
+- **Option A baseline:** Figure 4.8 (National Training on Culture-Based Governance).
+
+---
+
+##### Scenario 2B: Mid-Scale Departmental Workshop, 80–120 pax (Figure 4.19; FGD Slide 9)
+
+**[INSERT FIGURE 4.19a HERE — Option B 2D Plan: Scenario 2B]**
+
+**[INSERT FIGURE 4.19b HERE — Option B 3D Render: Scenario 2B]**
+
+*Figure 4.19. Option B for Scenario 2B, Cabaret Workshop Layout: (a) dimensioned plan of about 17 cabaret round tables; (b) eye-level render of the workshop.*
+
+- **Plan:** About 17 Ø 1800 mm round tables × 7 seats on the far arc (≈ 119), 5 across × 4 rows at 3.6 m centres with ≥ 1800 mm gaps for facilitator roaming; no stage (presenter on the floor, 2.0 m to the first tables); one buffet line behind mobile acoustic screens isolating the rear hall; overhead power drops; 400–500 lx; one flown speaker pair with wireless mics.
+- **Render:** Active seminar with clear mobility paths and acoustic wall claddings.
+- **Option A baseline:** Figure 4.9 (Barangay Population Workers Planning Workshop).
+
+---
+
+##### Scenario 2C: Compact Innovation Workshop, 30–60 pax (Figure 4.20; FGD Slide 10)
+
+**[INSERT FIGURE 4.20a HERE — Option B 2D Plan: Scenario 2C]**
+
+**[INSERT FIGURE 4.20b HERE — Option B 3D Render: Scenario 2C]**
+
+*Figure 4.20. Option B for Scenario 2C, Cabaret Seating with Craft Display and Active Lobby: (a) dimensioned plan; (b) eye-level render of the workshop and lit craft tables.*
+
+- **Plan:** 8 Ø 1800 mm round tables × 7 seats (56) in the front zone, no stage; mobile craft display tables (300–750 lx, CRI ≥ 90); mobile Basey *banig* screens shielding the rear hall; overhead power drops; lobby used for registration and break buffets, kept 2.0 m off both doors.
+- **Render:** Intimate workshop with clear circulation lanes, lit craft display tables, active lobby and warm architectural lighting.
+- **Option A baseline:** Figure 4.12 (DTI Samar Creative Entrepreneurship Training).
+
+---
+
+##### Scenario 3A: Full-Capacity Civic Gala, Safe Max 250–300 pax (Figure 4.21; FGD Slide 12)
+
+**[INSERT FIGURE 4.21a HERE — Option B 2D Plan: Template 3A-1, Round-Table Grid]**
+
+**[INSERT FIGURE 4.21b HERE — Option B 2D Plan: Template 3A-2, Rectangular Processional]**
+
+**[INSERT FIGURE 4.21c HERE — Option B 3D Render: Scenario 3A]**
+
+*Figure 4.21. Option B for Scenario 3A, Dual Modular Banquet Templates: (a) Template 3A-1, square-grid round tables (max 300 pax); (b) Template 3A-2, rectangular communal tables along a processional aisle (max 240–280 pax); (c) eye-level render of the banquet hall.*
+
+- **Plan (a), Template 3A-1:** 30 ten-person Ø 1800 mm round tables on a square grid at 3.6 m centres, 5 across × 6 rows (diamond stagger optional); 1800 mm table-to-table clearance; 2000 mm perimeter lane clear of chairs; 1500–1800 mm waiter lanes; 600 mm stage (3 × 3 decks plus forward decks for dance) set back 2.5 m, with platform lift.
+- **Plan (b), Template 3A-2:** 3 rows of 600 mm-wide communal tables on each side at 2.2–2.4 m centres (rows ≈ 14 m long with a 1.2 m cross gap; ≈ 0.6 m per diner), parallel to a 2400–3000 mm central processional aisle from the lobby doors to the 600 mm stage (platform lift); 1500 mm lateral service lanes; lighting wash along the aisle.
+- **Both templates:** Overhead battens replace the 4 ground trusses and column T-bars (recovering 40 seats); flown L/R speakers plus a delay pair at mid-hall; 2 buffet lines and 2 crew pockets in the rear-hall corners (≈ 72 sqm), crew entering through the Grid 4 side door; lobby kept clear for guest arrival.
+- **Render:** Banquet hall with wide service avenues, warm 100–200 lx scenes with a stage wash, an unobstructed ceremonial aisle and no floor trip hazards.
+- **Option A baseline:** Figure 4.10 (Hermana Night 2026) and Figure 4.1 (PAGPASAMWAK Legislative Caravan).
+
+---
+
+##### Scenario 3B: Mid-Scale Fellowship Banquet, 180–220 pax (Figure 4.22; FGD Slide 13)
+
+**[INSERT FIGURE 4.22a HERE — Option B 2D Plan: Scenario 3B]**
+
+**[INSERT FIGURE 4.22b HERE — Option B 3D Render: Scenario 3B]**
+
+*Figure 4.22. Option B for Scenario 3B, Scaled Banquet Grid with Service Bypass: (a) dimensioned plan of 20 round tables; (b) eye-level render of the banquet.*
+
+- **Plan:** 20 round tables × 10, 5 across × 4 rows at 3.6 m centres (diamond stagger optional), ≥ 1620 mm clearances; 1800 mm waiter lanes; 2 buffet lines in the rear-hall corners; 600 mm stage with platform lift (awards) or 300 mm with 3.6 m ramp (no performances); warm light, stage wash and flown speakers on the overhead rigging (delay pair optional).
+- **Render:** Balanced dining layout with clear presentation sightlines and open service avenues.
+- **Option A baseline:** Figure 4.4 (Stakeholders' Night).
+
+---
+
+##### Scenario 3C: Intimate Nuptial Reception & Milestone Banquet, 80–150 pax (Figure 4.23; FGD Slide 14)
+
+**[INSERT FIGURE 4.23a HERE — Option B 2D Plan: Scenario 3C]**
+
+**[INSERT FIGURE 4.23b HERE — Option B 3D Render: Scenario 3C]**
+
+*Figure 4.23. Option B for Scenario 3C, Concentrated Cluster with Dance Floor: (a) dimensioned plan; (b) eye-level render of the reception.*
+
+- **Plan:** 12 to 15 round tables concentrated in the central zone with a 2000 mm perimeter buffer; 6 × 6 m dance floor with a DJ/band booth (2.4 × 1.8 m) at its edge; no stage, or a 300 mm couple's dais (3.6 m ramp if used); one buffet line behind mobile Basey folding screens at a rear corner; décor hung from the overhead grid; flown speakers; air-conditioned lobby for the photobooth and guestbook.
+- **Render:** Warm reception with a defined dance floor, 100–200 lx warm overhead scenes and the photobooth foyer.
+- **Option A baseline:** Figure 4.5 (Wedding Ceremony & Nuptial Banquet).
+
+---
+
+##### Scenario 4A (Hybrid H1): Classroom Assembly + Indoor Exhibition Showcase, 130–200 pax (Figure 4.24; FGD Slide 16)
+
+**[INSERT FIGURE 4.24a HERE — Option B 2D Plan: Scenario 4A]**
+
+**[INSERT FIGURE 4.24b HERE — Option B 3D Render: Scenario 4A]**
+
+*Figure 4.24. Option B for Scenario 4A, Cabaret Assembly with Basey Screen Exhibition: (a) dimensioned plan of the front-half cabaret seating, rear-half exhibition islands and lobby stalls; (b) eye-level render of both halves.*
+
+- **Plan:** Front half: 19–20 Ø 1800 mm cabaret rounds × 7 seats (≈ 133) facing a 300 mm dais (3 × 3 decks) with 3.6 m ramp; overhead utility drops and wireless audio; 400–500 lx. Rear half: double-sided Basey *banig* exhibition screen islands replacing the 3 × 3 m tents, on a 2400 mm main loop with 1500 mm side aisles, track-lit at 300–750 lx (CRI ≥ 90); ≥ 1500 mm perimeter exit avenues. Lobby: air-conditioned concourse with perimeter display tracks and artisan stalls, 2000 mm door buffer; no catering (optional coffee station at an end wall).
+- **Render:** Cabaret workshop forward of the dais, flowing into a track-lit exhibition pavilion in the rear.
+- **Option A baseline:** Figure 4.11 (Samar-wide Artists Kolektib Gathering).
+
+---
+
+##### Scenario 4B (Hybrid H2): Collaborative Training + Artisanal Craft Showcase, 30–60 pax (Figure 4.25; FGD Slide 17)
+
+**[INSERT FIGURE 4.25a HERE — Option B 2D Plan: Scenario 4B]**
+
+**[INSERT FIGURE 4.25b HERE — Option B 3D Render: Scenario 4B]**
+
+*Figure 4.25. Option B for Scenario 4B, Training with Craft Display Tables: (a) dimensioned plan; (b) eye-level render of the workshop and showcase.*
+
+- **Plan:** The Scenario 2C layout (8 Ø 1800 mm rounds × 7 = 56, facing the LED wall, no stage) plus dedicated mobile craft display tables along the perimeter buffer (300–750 lx, CRI ≥ 90) with overhead power drops; mobile Basey *banig* screens shielding the rear hall; lobby used for registration and break buffets, kept 2.0 m off both doors.
+- **Render:** Intimate workshop with lit craft display tables, clear circulation lanes and the active lobby.
+- **Option A baseline:** Figure 4.12 (DTI Samar Creative Entrepreneurship Training).
+
+---
+
+##### Scenario 4C (Hybrid H3): Interactive Culinary Cookfest + Judging, 100–180 pax (Figure 4.26; FGD Slide 18)
+
+**[INSERT FIGURE 4.26a HERE — Option B 2D Plan: Scenario 4C]**
+
+**[INSERT FIGURE 4.26b HERE — Option B 3D Render: Scenario 4C]**
+
+*Figure 4.26. Option B for Scenario 4C, Zoned Demonstration Hub: (a) dimensioned plan of the side-wall cooking stations, central theater rows, front judging dais and lobby gallery; (b) eye-level render of the cookfest.*
+
+- **Plan:** Cooking stations along both side walls (1.0 m cook zone + 0.75 m table, then a 2.4 m crowd aisle) on fire-rated washable mats, drapery tied back from the stoves (indoor butane stoves need a BFP permit); central theater rows, 2 blocks × 11, 7 rows ≈ 154, 1.5 m centre aisle; judging table on the 300 mm modular stage (3.6 m ramp) fed by a stanchioned dish queue (0.9 m per person + 1.2 m bypass); stations lit at 300–750 lx (CRI ≥ 90); flown speakers; lobby air-conditioned as a tinapa history gallery with wand-drawn fabric dividers.
+- **Render:** Organized culinary competition with clear judging avenues and the cooled lobby gallery.
+- **Option A baseline:** Figure 4.13 (Tinapa 101 Cookfest).
+
+---
+
+##### Scenario 4D (Hybrid H4): Dual-Zone Banquet + Concourse Expo & Concessionaires, 150–200 pax (Figure 4.27; FGD Slide 19)
+
+**[INSERT FIGURE 4.27a HERE — Option B 2D Plan: Scenario 4D]**
+
+**[INSERT FIGURE 4.27b HERE — Option B 3D Render: Scenario 4D]**
+
+*Figure 4.27. Option B for Scenario 4D, Dual-Zone Concourse Retrofit: (a) dimensioned plan of the Main Hall banquet and the air-conditioned lobby expo; (b) eye-level render of the concourse and hall.*
+
+- **Plan:** Lobby: dual split-type ACs (Columns 1A and 4A, 22–24 °C); wand-drawn fabric divider tracks organizing 8 stalls of 2 × 2 m (4 on the Grid A wall, 2 on each end wall; 3.9 m aisle) lit at 300–750 lx; 2000 mm egress buffer clear of both door leaves. Main Hall: 20 round tables × 10 at 3.6 m centres with 1800 mm service corridors; 2 buffet lines and crew pockets in the rear-hall corners; registration just inside the hall entrance, ≥ 2.0 m from the threshold; 300 mm stage (3 × 3 decks, 3.6 m ramp); warm light and stage wash; flown speakers in the hall only; drapery on baton wands with magnetic tiebacks clear of the side exits.
+- **Render:** Climate-controlled lobby expo with organized banquet dining and an active presentation dais.
+- **Option A baseline:** Figure 4.2 (Samar Investment Forum & Investor's Gala).
+
+---
+
+##### Module 2: Cultural Acoustic Architecture & Full-Height Drapery (Figure 4.28; FGD Slide 21)
+
+**[INSERT FIGURE 4.28a HERE — Interior Elevations & Wall Finish Schedule]**
+
+**[INSERT FIGURE 4.28b HERE — Waterfall Ceiling Baffle Detail]**
+
+*Figure 4.28. Module 2, Cultural Acoustic Architecture: (a) interior elevations and wall finish schedule; (b) suspended waterfall ceiling baffle detail.*
+
+- **Elevations & schedule:** Stage perimeter in Wallcrown Atmosphere Digest wallpaper (UW1062, light beige, dried-*tikog* texture); columns with white MCM *banig*-weave cladding at the base (+0 to +1,200 mm AFFL) and oak-toned Flexiflute panels above (+1,200 to +4,685 mm AFFL); Grid Line B solid acoustic wall replacing the glass, with fabric-wrapped acoustic panels (NRC ≥ 0.75) and LED cove on the hall face and the CNC Hadang Festival relief mural on the lobby face; A-xet Bianco Snow Terrazzo acoustic LVT floor; flame-retardant beige drapery (+4,685 mm to floor) on 2,700 mm baton wands with magnetic holdbacks keeping 2,000 mm exits clear.
+- **Baffle detail:** Curvilinear PET felt baffles modeled on Calbayog's waterfalls (NRC ≥ 0.85) with 24V cove lighting; modeled RT60 drops from 2.53 s to 0.92 s.
+
+---
+
+##### Module 3: Overhead Rigging Grid, Perimeter Dropped Soffit & Smart Lighting (Figure 4.29; FGD Slide 20)
+
+**[INSERT FIGURE 4.29a HERE — Reflected Ceiling Plan: Overhead Rigging Grid]**
+
+**[INSERT FIGURE 4.29b HERE — Section: Perimeter Dropped Soffit at +4,685 mm AFFL]**
+
+**[INSERT FIGURE 4.29c HERE — Before-and-After Diagram: Ground Truss Elimination]**
+
+*Figure 4.29. Module 3, Overhead Rigging Grid: (a) reflected ceiling plan; (b) perimeter dropped soffit section; (c) before-and-after comparison of floor truss and cable clutter.*
+
+- **RCP:** Unistrut/box-truss track grid at +5,390 mm AFFL; motorized chain hoists; 3-circuit DALI/DMX dimmable tracks; line-array pick points (main L/R beside the stage, optional delay pair at mid-hall); ceiling utility reels; FOH zone 2.4 × 1.8 m + 1.2 m clearance at centre-rear; illuminated 90-minute battery-backed exit signs (RA 9514).
+- **Soffit section:** 705 mm plenum drop with inward linear 24V LED cove wash and a concealed 150 × 180 mm dual pocket holding Channel A (wand curtain track) and Channel B (Unistrut P1000 swagging rail).
+- **Before-and-after:** Removal of 4 ground truss towers (40 seats recovered), floor speaker stands and taped cabling.
+
+---
+
+##### Module 4: Flexible Lobby Cultural Concourse & Dual AC Retrofit (Figure 4.30; FGD Slide 22)
+
+**[INSERT FIGURE 4.30a HERE — 2D Lobby Plan]**
+
+**[INSERT FIGURE 4.30b HERE — Lobby Sections]**
+
+*Figure 4.30. Module 4, Lobby Cultural Concourse: (a) 129 sqm lobby plan; (b) lobby sections.*
+
+- **Plan:** Two split-type inverter AC units at Columns 1A and 4A on existing wall outlets (> 28 °C down to 22–24 °C); ceiling-recessed perimeter curtain tracks with wand-drawn fabric dividers for registration, VIP holding, or up to 8 craft stalls of 2 × 2 m; 2000 mm exit path kept clear of both doors.
+- **Sections:** Step-free threshold from the entry doors into the Main Hall, finished in A-xet Bianco Snow Terrazzo LVT.
+
 ---
 
 ### 4.5.3. Post-Design Evaluative Focus Group Discussion (FGD) Methodology
@@ -1129,7 +1646,7 @@ Because planners, attendees, and cultural officers interact with the space throu
 ### 4.5.4. Scenario-Based Alternative Testing Matrix & Rubric Scoring
 Stakeholders were presented with scaled 2D CADD drawings, reflected ceiling plans, and photorealistic 3D Enscape perspective views via synchronized Google Meet screen sharing, comparing **Option A (Conventional Status Quo Baseline)** versus **Option B (Proposed Modular Reconfigurable Framework)** across **twelve operational scenarios (4 Typologies × 3 Scales: Compact, Mid, Peak)**. 
 
-Each participant independently evaluated the configurations using a **5-point Likert Scenario Evaluation Rubric** before engaging in moderated thematic dialogue. Table 4.15 presents the comparative scoring synthesis:
+Each participant independently evaluated the configurations using a **5-point Likert Scenario Evaluation Rubric** before engaging in moderated thematic dialogue. The Option B plan and render evaluated for each scenario appear in Figures 4.15–4.27 (Section 4.5.2.3), and the Option A baseline evidence in the event zoning diagrams of Figures 4.1–4.14 (Section 4.2.5). Table 4.15 presents the comparative scoring synthesis:
 
 #### Table 4.15. FGD Scenario-Based Comparative Rubric Scoring Matrix (12-Scenario Tri-Scale Architecture)
 *Evaluated on a 5-point scale: 5 = Highly Optimized / Superior; 4 = Acceptable / Functional; 3 = Moderately Deficient; 2 = Severe Bottleneck; 1 = Critically Deficient / Unusable.*
