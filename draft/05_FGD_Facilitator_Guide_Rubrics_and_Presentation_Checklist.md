@@ -69,20 +69,20 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
     * *3D View:* Low eye-level perspective from rear row showing audience heads completely blocking the stage ($C < 25\text{ mm}$).
   * **Option B (Right - Proposed):**
     * *2D Plan:* Scaled Radial Continental Chevron Seating Blocks ($15^\circ\text{ to }30^\circ$ splay toward stage center; 250–300 seats) with 900 mm row pitch, 305 mm clear seat passage, dual 1500 mm radial aisles leading directly to perimeter exit doors, and 4 dedicated BP 344 wheelchair bays ($760 \times 1220\text{ mm}$).
-    * *Visual Callouts:* Green unobstructed sightline vectors with guaranteed clearance ($C \ge 60\text{ mm}$); modular staging at 600 or 900 mm elevation with integrated 1:12 accessible ramp; rolling chair dollies aligned to brass floor studs reducing setup to < 1 hour.
+    * *Visual Callouts:* Green unobstructed sightline vectors with guaranteed clearance ($C \ge 60\text{ mm}$); modular staging at 600 or 900 mm elevation with integrated 1:12 accessible ramp; rolling chair dollies deploying loose stackable chairs aligned to dimensioned layout guides reducing setup to < 1 hour.
     * *3D View:* Eye-level perspective from rear row showing unobstructed visibility over seated heads.
 
-#### Slide 5: Scenario 1B  -  Mid-Scale Civic Assembly (200-300 Occupants)
-* **Empirical Grounding:** Triangulated with the landmark *Samar-wide Artists Kolektib Gathering* (Event #40; 295 registered artists) and *Liga ng mga Barangay Assembly* (Event #108; ~200 pax).
+#### Slide 5: Scenario 1B  -  Mid-Scale Civic Assembly (150-200 Occupants)
+* **Empirical Grounding:** Triangulated with the *Liga ng mga Barangay Assembly* (Event #108; ~200 pax) and regional civic symposiums.
 * **What to Produce in CADD / 3D:**
   * **Option A (Left):**
-    * *2D Plan:* 200-300 unlinked monobloc chairs clustered loosely in front two-thirds of hall; narrow irregular center aisle (1000-1200 mm); rear hall plate left bare; rented wooden art easels pushed against perimeter walls.
-    * *Visual Callouts:* Red shifting arrows showing chairs drifting out of alignment; media tripods and audio snakes blocking center aisle; flutter echo reflecting off bare rear drywall; **co-programmed art exhibition easels choking lateral egress corridors to $< 900$ mm and blocking side emergency doors**.
-    * *3D View:* Disorganized seating with camera tripods obstructing walkways and art easels crowding exit avenues.
+    * *2D Plan:* 150-200 unlinked monobloc chairs clustered loosely in front half of hall; narrow irregular center aisle (1000-1200 mm); rear hall plate left bare; unbaffled drywall reflects sound; absence of cross-aisles.
+    * *Visual Callouts:* Red shifting arrows showing chairs drifting out of alignment; media tripods and audio snakes blocking center aisle; flutter echo reflecting off bare rear drywall; asymmetrical sound from single stage-side loudspeaker.
+    * *3D View:* Disorganized seating with camera tripods obstructing walkways and bare rear hall void.
   * **Option B (Right - Proposed):**
-    * *2D Plan:* Scaled Continental Chevron Seating Bank (250-300 seats); dedicated perimeter media tripod zones; 2 integrated BP 344 wheelchair stalls; modular stage set at 600 mm or 900 mm; continuous perimeter hanging rails in dropped soffit (+4,685 mm AFFL) and mobile double-sided Basey *banig* acoustic art screens.
-    * *Visual Callouts:* Interlocked nesting chairs maintaining orderly aisles; overhead audio cabling eliminating floor trip hazards; Basey *banig* wall panels absorbing vocal reflections; **integrated perimeter hanging tracks preserving guaranteed $\ge 1500$ mm clear egress avenues**; 1-hour setup.
-    * *3D View:* Clean, structured seating layout with dedicated AV pockets, unobstructed sightlines, and dignified perimeter art gallery under warm cove lighting.
+    * *2D Plan:* Scaled Continental Radial Chevron Loose Seating Array (150-200 seats); dedicated perimeter media tripod zones; 2 integrated BP 344 wheelchair stalls; modular stage set at 600 mm; Basey *banig* acoustic wall absorption.
+    * *Visual Callouts:* Standard loose chairs aligned to dimensioned column-grid layout templates maintaining orderly aisles; overhead audio cabling eliminating floor trip hazards; Basey *banig* wall panels absorbing vocal reflections; clear $\ge 1500$ mm egress avenues; < 45-min setup.
+    * *3D View:* Clean, structured seating layout with dedicated AV pockets, unobstructed sightlines, and dignified acoustic wall finishes under warm cove lighting.
 
 #### Slide 6: Scenario 1C  -  Compact Commencements & Seminars (80-100 Occupants)
 * **Empirical Grounding:** Live shadowing of the *TESDA Graduation* (Oct 13, 2026; 80-100 pax) and *Sangguniang Panlungsod Public Hearings*.
@@ -141,11 +141,17 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
 #### Slide 11: Typology 3 (Banquet / Dining)  -  Tri-Scale Architecture Overview
 * **Slide Contents:**
   * Typology Profile: 13.4% historical frequency ($f = 17$ of 127 events).
-  * The Tri-Scale Matrix: Scenario 3A (Full Gala: 250-300p), Scenario 3B (Mid Banquet: 180-220p), Scenario 3C (Intimate Nuptial: 80-150p).
+  * The Tri-Scale Matrix: Scenario 3A (Full Gala: Safe Max 250-300p), Scenario 3B (Mid Banquet: 180-220p), Scenario 3C (Intimate Nuptial: 80-150p).
   * Core Design Challenge: Waiter tray collisions due to compressed table pitch ($< 1400$ mm), floor-standing ground truss towers stealing 40 seats, and unconditioned lobby causing food contamination and guest thermal distress.
+  * **Identification of Dual Banquet Table Geometries:**
+    * *Format A (Round Banquet Tables, $\varnothing 1800\text{ mm}$, 8–10 pax):* Diamond clusters optimized for civic awards galas and wedding banquets.
+    * *Format B (Rectangular Linear Communal Tables, $450/600 \times 1800\text{ mm}$ in 10-pax clusters):* Oriented strictly parallel to a continuous 2400–3000 mm central ceremonial processional aisle for dignitary processional marches and grand ceremonial entrances (grounded in *PAGPASAMWAK Gala*).
+  * **The Standards Compliance vs. Client Pax Demand (Capacity Ceiling) Paradigm:**
+    * PD 1096 Section 1207 and RA 9514 mandate $1.40\text{ m}^2/\text{occupant}$ for dining assembly. Deducting the 52.5 sqm stage, radial egress paths ($\ge 1500\text{ mm}$), and catering buffers leaves a net functional dining footprint of ~420–450 sqm, establishing **250 to 300 occupants as the true statutory and ergonomic maximum ceiling** for the 711 sqm Main Hall.
+    * Contrasting Option A's 500-pax client demand (which forces chair clearances $\le 300\text{ mm}$ and blocks exit doors) against Option B's code-compliant 300-pax maximum ceiling—proving that 500 pax is an illegal over-capacity condition and that interior flexibility recovers 40 seats via overhead rigging to legally maximize capacity to 300 pax.
 
 #### Slide 12: Scenario 3A  -  Full-Capacity Civic Gala (Safe Max 250-300 Occupants) — Option A vs. Option B (Dual Modular Templates)
-* **Empirical Grounding:** Live shadowing of the *PAGPASAMWAK Legislative Gala* (Event #121; 300 pax), *Stakeholders' Gala* (Event #124), and personal photographic trace audit of *Hermana Night 2026* (Event #118; ~450–500 pax client demand / over-capacity anomaly).
+* **Empirical Grounding:** Live shadowing of the *PAGPASAMWAK Legislative Gala* (Event #121; 300 pax) and *Stakeholders' Gala* (Event #124).
 * **What to Produce in CADD / 3D:**
   * **Option A (Left - Status Quo Over-Capacity Baseline):**
     * *2D Plan:* Dense linear rectangular banquet grid ($450/600 \times 1800\text{ mm}$ in 10-person communal clusters) oriented parallel to central aisle or orthogonal round table grid attempting to fit 450–500 diners; tight ~1400 mm table pitch; rented perimeter column T-bar light stands; 4 heavy outsourced aluminum crank-stand ground truss towers (36 sqm); unconditioned lobby holding concourse; dinner buffet queue backed up into main lobby double doors, blocking one exit leaf.
@@ -154,7 +160,7 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
   * **Option B (Right - Proposed Standards-Compliant Dual Modular Templates):**
     * *2D Plans (Dual Modular Templates):*
       * **Template 3A-1 (Round Diamond Banquet, Max 300 pax):** 25–30 ten-person round tables ($\varnothing 1800\text{ mm}$) arranged in staggered diamond clusters with guaranteed $1620\text{ mm to }1800\text{ mm}$ clearances between table perimeters; 2000 mm perimeter waiter thoroughfare.
-      * **Template 3A-2 (Rectangular Processional Banquet, Max 240–280 pax):** 24–28 communal tables ($450/600 \times 1800\text{ mm}$) arranged strictly parallel to a continuous 2400–3000 mm central ceremonial processional aisle for religious *carrozas* and sword-arch honors; 1500 mm lateral service avenues.
+      * **Template 3A-2 (Rectangular Processional Banquet, Max 240–280 pax):** 24–28 communal tables ($450/600 \times 1800\text{ mm}$) arranged strictly parallel to a continuous 2400–3000 mm central ceremonial processional aisle for dignitary processional marches, legislative delegations, and color guards; 1500 mm lateral service avenues.
       * *Overhead Rigging & Lobby Staging:* Motorized overhead lighting battens (Module 3; zero ground trusses and column T-bars, **recovering 40 guest seats**); dedicated catering bypass through the conditioned 129 sqm Lobby (cooled by dual ACs at Col 1A/4A).
     * *Visual Callouts:* Safe 300-occupant legal capacity ceiling under PD 1096 ($1.40\text{ m}^2/\text{pax}$); overhead rigging recovers 40 guest seats; central processional aisle accommodates ceremonial pageantry without bumping guests; isolated food replenishing staging lane; $< 2$ hours setup via fold-and-roll table dollies.
     * *3D View:* Elegant gala atmosphere with spacious service avenues, warm ceiling lighting scenes, unobstructed ceremonial aisle, and zero floor trip hazards.
@@ -189,17 +195,17 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
   * The Tri-Scale Matrix: Scenario 4A (Mega Trade: 20-26 Booths / Zero-Stage / 350-500p), Scenario 4B (Mid Expo: 14-18 Booths / 200-350p), Scenario 4C (Boutique Cookfest: 10-14 Stations / 100-180p).
   * Core Design Challenge: Static 52.5 sqm concrete stage wasting 7.4% of hall footprint, trade tables pushed into lobby blocking entrance door leaves (RA 9514 violation), and absence of structured judging flow or dedicated cultural culinary exhibition infrastructure during cookfests.
 
-#### Slide 16: Scenario 4A  -  Mega Civic Trade Fair & Job Fair (20-26 Booths / Zero-Stage / 350-500 Visitors)
-* **Empirical Grounding:** Triangulated with the *Calbayog City LGU-PESO Mega Employment Caravan & Job Fair* (Events #30, #71, #99; 400-500 jobseekers and employers) and *COVID-19 Relief Staging Hub* (Events #17, #18).
+#### Slide 16: Scenario 4A (Hybrid Type H1)  -  Classroom Assembly + Indoor Tent Exhibition Showcase (130-200 Occupants)
+* **Empirical Grounding:** Triangulated with the *Samar-wide Artists Kolektib Gathering & Regional Cultural Arts Exhibition* (Event #40; ~200-295 registered delegates) and companion flat-floor job fairs (*PESO Mega Employment Caravan*, Events #30, #71).
 * **What to Produce in CADD / 3D:**
   * **Option A (Left):**
-    * *2D Plan:* 15 to 20 booths pushed against perimeter walls; trade tables in unconditioned lobby pushed against glass entry, **blocking one of the double entrance leaves** (RA 9514 violation); webs of taped electrical cables; static 52.5 sqm concrete stage platform sits as dead space.
-    * *Visual Callouts:* Red congestion bottlenecks along walls; entrance door leaf blocked; loose cords across walkways; 52.5 sqm stage dead space.
-    * *3D View:* Crowded wall perimeter booths with empty dead center and cable clutter.
+    * *2D Plan:* Front half of Main Hall contains 12 rectangular tables arranged in 2 rows × 6 columns, seating 11 pax per table (5 on each long side, 1 at back end, front end empty facing stage = 132 seated participants); tables are linear, unstaggered, and cramped forward; a 1.0 m center aisle splits the tables into 3 columns on each side, obstructed by a wired microphone on a floor stand whose cable crosses directly across the central walkway; elevated concrete stage (+940 mm AFFL) is used solely as an LED wall plinth, with the speaker's podium down on the flat floor, portable T-lights on the stage, and decorative drapery covering the back wall. Rear half contains six 3 × 3 m outdoor pop-up display tents (3 on each side). Lobby contains four 3 × 3 m display tents (2 on each side). Exhibits display paintings, crafts, clothing, landscaping, bags, and instruments, with posters hung directly on tent frames. *Note: No dining or buffet area.*
+    * *Visual Callouts:* Red crowding arrows at cramped front tables; red tripping hazard indicator at center aisle mic cord; bulky 3x3m outdoor tent frames blocking rear floor plate and pinching lobby circulation; elevated concrete stage dead space.
+    * *3D View:* Cramped front classroom tables facing stage LED wall with floor podium, transitioning to dark, bulky outdoor display tents in the rear half and lobby.
   * **Option B (Right - Proposed):**
-    * *2D Plan:* **Zero-Stage Flat-Floor Mode**: Modular staging platforms completely struck down and stowed backstage, **reclaiming the entire 52.5 sqm stage footprint** to accommodate 22-26 vendor booths ($2000 \times 2000\text{ mm}$) in central back-to-back island modules; continuous **2400 mm looped arterial thoroughfare**; retractable overhead utility drops (220V); air-conditioned 129 sqm Lobby cultural concourse with guaranteed 2000 mm clear exit bypass.
-    * *Visual Callouts:* Stage reclamation adds 4 to 6 vendor booths; continuous loop traffic eliminates dead-ends; overhead drops remove all floor cables; entrance doors 100% unobstructed.
-    * *3D View:* Dynamic civic trade floor with intuitive continuous crowd circulation and vibrant lobby concourse.
+    * *2D Plan:* Front half: Collaborative modular training pods (6–8 pax) on lockable casters with a 1500 mm center roaming spine and overhead retractable utility drops (zero floor wire hazard); clear sightlines ($C \ge 60$ mm). Rear half: Standardized mobile double-sided Basey *banig* exhibition screens and modular display panels replacing bulky 3×3m outdoor tents, properly illuminated by overhead track lighting (300–500 lux); preserving guaranteed $\ge 1500$ mm perimeter exit avenues. Lobby: Air-conditioned dual-zone concourse (22–24°C) with perimeter display tracks housing organized cultural artisan stalls with a 2000 mm door buffer under RA 9514. Stage: Reconfigured modular dais at 600 mm with accessible BP 344 ramp (or Zero-Stage Flat-Floor Mode for flat trade fairs reclaiming 52.5 sqm).
+    * *Visual Callouts:* 100% floor cord decoupling; zero outdoor tents inside; clear $\ge 1500$ mm egress avenues; professional track lighting.
+    * *3D View:* Active collaborative workshop pods forward facing the presentation dais, seamless transition to an elegant exhibition pavilion in the rear featuring warm overhead track lighting on textured Basey *banig* art screens, and clear circulation avenues throughout.
 
 #### Slide 17: Scenario 4B  -  Mid-Scale Civic Trade Fair & Community Expo (14-18 Booths / 200-350 Flow)
 * **Empirical Grounding:** Live shadowing of the *Samar Investment Forum Trade Fair* (Oct 11-12, 2026; 15 booths) and community agri-livestock expos (Event #62).
@@ -394,10 +400,10 @@ To make the evaluation seamless in a Google Meet environment, build a **Google F
 
 #### Typology 4: Exhibition / Trade Fair & Cultural Showcases (11.8%, f = 15)
 
-##### Scenario 4A: Mega Civic Trade Fair & Job Fair (20-26 Booths / Zero-Stage / 350-500 Visitors)  -  Flat Floor Reclaim
-* **Item 4A.1. Option A: Perimeter Wall Booths & Blocked Lobby Door Leaf (Status Quo Baseline)**  
+##### Scenario 4A: Hybrid 1 - Classroom Assembly + Indoor Tent Exhibition Showcase (130-200 Occupants; Event #40) & Flat-Floor Trade Mode
+* **Item 4A.1. Option A: Cramped Front Classroom Tables (132 Seated), Center Mic Cable Hazard, & Ten Indoor 3x3m Tents (Status Quo Baseline)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
-* **Item 4A.2. Option B: Zero-Stage Flat-Floor Mega Trade Layout (Proposed Modular)**  
+* **Item 4A.2. Option B: Modular Classroom Pods + Mobile Basey Exhibition Screens Replacing Tents + Overhead Drops (Proposed Modular)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
 * *Scenario 4A Specific Comments / Observations:* [Paragraph Text]
 
@@ -528,7 +534,7 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 >  
 > *[Slides 3-6: Plenary Convocations]:*  
 > * *Scenario 1A (Peak: 250-300p): Option A linear seating (250-300 seats) suffers severe sightline decay ($C < 25$ mm) beyond Row 6, with zero BP 344 bays. Option B radial chevron seating guarantees $C \ge 60$ mm sightlines, provides 4 dedicated BP 344 stalls, and channels egress directly to exit doors.*  
-> * *Scenario 1B (Mid: 150-200p): Option A loose monobloc chairs drift and camera tripods block center aisles, while co-programmed art easels choke side exit corridors to $< 900$ mm. Option B interlocked chevron seating incorporates dedicated perimeter AV pockets, soffit hanging tracks preserving $\ge 1500$ mm egress avenues, and Basey banig acoustic wall absorption.*  
+> * *Scenario 1B (Mid: 150-200p): Option A loose monobloc chairs drift, camera tripods block center aisles, and rear hall sits empty with flutter echo. Option B template-aligned radial chevron loose seating incorporates dedicated perimeter AV pockets, Basey banig acoustic wall absorption, and preserves clear 1500 mm egress avenues.*  
 > * *Scenario 1C (Compact: 50-100p): Option A isolates 50-80 attendees in an echoing cavern ($RT_{60} > 2.50$ s) while graduates wait in the unconditioned lobby. Option B subdivides the hall at Grid Line D using mobile acoustic screens ($RT_{60} \le 0.95$ s) and activates the air-conditioned lobby for pre-function holding.*  
 >  
 > *[Slides 7-10: Classroom Workshops]:*  
@@ -537,12 +543,12 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 > * *Scenario 2C (Compact: 30-60p): Option A crams 50 participants forward while 70% of the hall is dead space and the lobby is completely unused and bypassed. Option B deploys a collaborative modular seating layout with dedicated mobile craft display tables and activates the 129 sqm lobby for break buffets and registration.*  
 >  
 > *[Slides 11-14: Banquet Dining]:*  
-> * *Scenario 3A (Full Gala: 250-300p): Option A orthogonal grid compresses table pitch to 1400 mm, causes waiter tray collisions, and loses 40 seats to floor ground trusses. Option B staggered diamond clusters guarantee 1800 mm service lanes, recover 40 seats via motorized overhead rigging, and utilize an air-conditioned lobby catering bypass.*  
-> * *Scenario 3B (Mid: 180-220p): Option A rigid grid constricts waiter transit. Option B diamond clusters with 1620 mm clearances provide direct service lanes.*  
-> * *Scenario 3C (Intimate: 80-150p): Option A scatters tables awkwardly across 711 sqm. Option B concentrates diamond clusters around an open dance floor clearing with Basey folding screens and an air-conditioned reception foyer.*  
+> * *Scenario 3A (Full Gala: Safe Max 250-300p vs. 500p Status Quo):* Option A attempts to cram 450-500 diners wall-to-wall, compressing table pitch to 1400 mm, leaving under 300 mm behind chairs, causing waiter tray collisions, losing 40 seats to four bulky ground truss towers (36 sqm), and blocking exit doors. Option B enforces the statutory capacity ceiling under the National Building Code (PD 1096 Section 1207: 1.40 m²/person dining factor) and Fire Code (RA 9514), proving that 500 diners is an illegal fire hazard and that 250-300 occupants is the true safe physical limit of the 711 sqm hall. Option B's dual templates (Template 3A-1 diamond round clusters and Template 3A-2 rectangular processional layout with a 2.4-to-3.0-meter central ceremonial aisle) guarantee 1800 mm service lanes, recover 40 seats via motorized overhead rigging, and utilize the conditioned lobby for an isolated catering bypass. Setup drops from 12 hours to under 2 hours.  
+> * *Scenario 3B (Mid: 180-220p):* Option A rigid grid constricts waiter transit. Option B diamond clusters with 1620 mm clearances provide direct service lanes.  
+> * *Scenario 3C (Intimate: 80-150p):* Option A scatters tables awkwardly across 711 sqm. Option B concentrates diamond clusters around an open dance floor clearing with Basey folding screens and an air-conditioned reception foyer.  
 >  
 > *[Slides 15-18: Exhibition & Trade]:*  
-> * *Scenario 4A (Mega Trade: 20-26 Booths / 350-500 Flow): Option A blocks entrance door leaves with trade tables and wastes 52.5 sqm on a static concrete stage. Option B introduces the Zero-Stage Flat-Floor Mode (demounting the stage to reclaim 52.5 sqm for 4-6 additional booths), central island modules with a 2400 mm looped thoroughfare, and ceiling utility drops.*  
+> * *Scenario 4A (Classroom + Indoor Tent Exhibit: 130-200p / Event #40): Option A crams 12 linear tables (132 seated) forward, leaving a center-aisle mic wire trip hazard, while the rear hall and lobby are jammed with ten 3x3m outdoor display tents with posters pinned to frames. Option B introduces collaborative modular classroom pods forward with overhead utility drops (zero floor wire hazard), mobile double-sided Basey banig exhibition screens replacing bulky outdoor tents, and an active air-conditioned lobby concourse (with companion Zero-Stage Flat-Floor Mode for mega job fairs).*  
 > * *Scenario 4B (Mid Expo: 14-18 Booths / 200-350 Flow): Option A jams 4 large booths ($2.0 \times 2.7$ m) in the lobby, blocks one exit door leaf with tables, and expels municipal agro-industrial stalls and concessionaires onto the outdoor driveway. Option B provides an air-conditioned dual-zone concourse with 100% indoor exhibit containment and an active 300 mm demonstration dais.*  
 > * *Scenario 4C (Boutique Cookfest: 10-14 Stations / 100-180p): Option A packs spectators facing a single table with crowd crush during judging. Option B provides zoned perimeter cooking stations, a central elevated radial judging hub, and transforms the 129 sqm Lobby into an air-conditioned cultural tinapa history gallery with fabric dividers.*  
 >  
@@ -587,7 +593,7 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 > **Facilitator (Oral Member-Checking Summary):**  
 > *"We are at the 110-minute mark. To ensure scientific rigor and trustworthiness (Lincoln & Guba, 1985), I will now summarize the primary operational critiques and recommendations that you have shared today:  
 >  
-> 1. *First, from planners: Setting up radial 15-degree chevron angles in Scenario 1A requires permanent brass indicia floor pins so custodial crews do not have to pull tape measures.*  
+> 1. *First, from planners: Setting up radial 15-degree chevron angles in Scenario 1A requires standardized dimensioned layout template sheets calibrated to structural column gridlines so custodial crews do not have to pull tape measures or mark the terrazzo floor.*  
 > 2. *Second, from catering and operations: Waiters carrying 10-plate banquet trays in Scenario 3A require the dedicated 1800 mm lobby service bypass to isolate food replenishments from VIP arrival traffic.*  
 > 3. *Third, from attendees: Training participants in Scenario 2A require overhead ceiling power drop reels with multi-socket splitters to support high laptop loads without floor cable hazard.*  
 > 4. *Fourth, from CACO: The cultural wall treatments should include subtle laser-etched interpretive plaques explaining the local weaving and festival heritage to visiting delegates.*  
@@ -646,7 +652,7 @@ Once the Google Meet session ends and your Google Form is submitted by all 8-10 
 ### 2. Generating Table 4.16 (Problem-to-Design Traceability Matrix)
 1. Read through the qualitative open-ended text fields in Section 4 of the Google Form and the transcribed Google Meet audio recording.
 2. Group stakeholder critiques into four categories:
-   * *Planners Critique:* Eyeballing radial angles during Plenary setup $\rightarrow$ **Applied Revision:** Brass floor joint indicia markers.
+   * *Planners Critique:* Eyeballing radial angles during Plenary setup $\rightarrow$ **Applied Revision:** Standardized dimensioned layout manual calibrated to structural column gridlines (Grids A–G / 1–4).
    * *Catering Critique:* Waiter tray bottlenecks at registration $\rightarrow$ **Applied Revision:** Dedicated 1800 mm lobby service bypass lane.
    * *Attendees Critique:* Phone/laptop charging cords in middle rows $\rightarrow$ **Applied Revision:** Overhead ceiling drop power umbilical reels.
    * *CACO Critique:* Lack of artisan identification $\rightarrow$ **Applied Revision:** Laser-etched Samar weaving wayfinding plaques.

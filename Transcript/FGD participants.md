@@ -279,7 +279,7 @@ While all participants may comment on any aspect of the designs, we encourage yo
 ```
 
 * **If you are an Event Planner, Stylist, or Coordinator (P1, P2, P4):**  
-  Look closely at the setup logistics. Will rolling chair dollies and flush floor indicia really speed up chair placement? Does the $1800\text{ mm}$ banquet service lane prevent waitstaff tray collisions? Is the demountable modular staging system easy to assemble and reconfigure compared to the fixed concrete stage?
+  Look closely at the setup logistics. Will rolling chair dollies and dimensioned layout guides really speed up chair placement? Does the $1800\text{ mm}$ banquet service lane prevent waitstaff tray collisions? Is the demountable modular staging system easy to assemble and reconfigure compared to the fixed concrete stage?
 * **If you are a Venue Operator or Booking Manager (P2):**  
   Look at the back-of-house storage. Will the nested tables and modular platforms fit into the existing storage rooms? Does the activated lobby concourse reduce foyer congestion? Can the LGU maintain these interior materials easily over 5 to 10 years?
 * **If you are an Audio-Visual Engineer or Stage Technician (P3):**  
@@ -291,7 +291,7 @@ While all participants may comment on any aspect of the designs, we encourage yo
 * **If you are a Performing Artist or Musician (P8):**  
   Look at the stage performance area. Is there enough space for an orchestra, choir, or dance ensemble to perform comfortably without spilling onto the floor? Does the acoustic treatment prevent microphone squeal and muddiness?
 * **If you are an Accessibility & Universal Design Evaluator (P9):**  
-  Check every layout against BP 344. Are wheelchair bays integrated directly into the main seating banks rather than isolated at the back? Is the stage accessible via a gentle 1:12 slope ramp? Are primary egress corridors at least $1500\text{ mm}$ wide and completely free of steps, cords, and furniture obstructions?
+  Check every layout against BP 344. Are wheelchair bays integrated directly into the main seating layouts rather than isolated at the back? Is the stage accessible via a gentle 1:12 slope ramp? Are primary egress corridors at least $1500\text{ mm}$ wide and completely free of steps, cords, and furniture obstructions?
 
 ---
 

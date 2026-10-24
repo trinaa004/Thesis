@@ -50,7 +50,7 @@ For each selected event type, observations are recorded across **five standardiz
 #### Dimension 1: Seating & Furniture Arrangement Traces
 * **Observed Spatial Configuration:** Wall-to-wall grid of loose, unlinked plastic Monobloc chairs arranged in straight, parallel rows nearly filling the entire 711 sqm Main Plenary Hall floor plate.
 * **Sightline Obstructions:** Because the hall floor is entirely flat, parents and families seated beyond Row 6 endure severe visual sightline blockages (C-value estimated under 25 mm). Parents are observed standing up or leaning into aisles to photograph their children on stage.
-* **Chair Shifts & Alignment:** Because individual chairs lack interlocking or ganging mechanisms, rows become misaligned as attendees adjust their seats, compressing row passage clearance down to under presumably 250 mm.
+* **Chair Shifts & Alignment:** Because individual loose chairs are arranged without standardized alignment guides, rows become misaligned as attendees adjust their seats, compressing row passage clearance down to under presumably 250 mm.
 
 #### Dimension 2: Audio-Visual, Rigging & Utility Traces
 * **Stage Lighting:** The only stage lighting were the floor lamps by the backdrop decor on the stage.
@@ -68,7 +68,53 @@ For each selected event type, observations are recorded across **five standardiz
 
 ---
 
-## 3. Event Type 2: Scenario 2A (Full-Hall Mass Institutional Training | Tier 3 Classroom)
+## 3. Event Type 1B: Scenario 1B (Mid-Scale Civic Assembly & Council Meetings | Tier P2 Mid Plenary)
+
+### Event Identification & Archival Metadata
+* **Event Title:** Liga ng mga Barangay Regular City-wide Council Meeting & Civic Plenary Session
+* **Event Date:** July 29, 2026
+* **Master Ledger Index:** Event #108 in Category 1 & 2 / Ledger
+* **Organizing Proponents:** Liga ng mga Barangay (Calbayog City Chapter), Department of the Interior and Local Government (DILG), and City Government of Calbayog
+* **Programmed Spatial Setup:** Plenary / Theatrical Civic Council Assembly
+* **Estimated Occupant Scale:** Tier P2 Mid-Scale Civic Capacity (192 seated delegates in audience + 10-person dignitary dais table = ~200 total occupants)
+* **Archival Verification Sources:**
+  - City Government of Calbayog Official PIO Photo Log & Press Release: [Calbayog PIO Link](https://www.facebook.com/100064566857040/posts/1460592819436266)
+  - Calbayog Journal Public Affairs Coverage: [Calbayog Journal Photo Archives]
+
+### Textual & Caption Context
+> *"LIGA NG MGA BARANGAY CITY-WIDE PLENARY CONVOCATION -- Punong Barangays, barangay administrators, and local governance officials from all 157 barangays of Calbayog City convene at the Calbayog Cultural Convention Center for their regular legislative council assembly. Key agenda items include community peace and order, municipal tax collection incentives, and disaster preparedness initiatives."*
+
+---
+
+### Structured Observational Audit (Researcher Personal Notes)
+
+#### Dimension 1: Seating & Furniture Arrangement Traces
+* **Observed Spatial Configuration:** Plenary theater-style seating arranged into **two symmetrical linear seating sections** separated by a central processional aisle. Seating rows are strictly linear and unstaggered (chairs placed directly behind one another in parallel rows).
+* **Seating Matrix & Occupant Calculation:** Each seating section is laid out in **12 continuous rows deep by 8 columns (seats) wide** ($8 \times 12 = 96$ chairs per section $\times 2\text{ sections} = \mathbf{192\text{ seated audience delegates}}$).
+* **Dignitary Head Table & Floor Podium:** A long **10-seater rectangular table** is positioned on the flat hall floor at the front center close to the stage, facing the audience for city officials, DILG representatives, and Liga leadership. The speaker's **podium is positioned on the floor to the right of the table**, rather than elevated on the stage dais.
+* **Front Clearance Buffer:** A generous clearance of approximately **2.40 meters (2,400 mm)** is maintained between the front 10-seater dignitary table and the first row of audience seating, providing ample space for dignitary roll calls and facilitator movement.
+* **Absence of Cross Aisles:** There are **zero intermediate cross aisles** breaking the 12-row depth. Each section forms an unbroken continuous block of 12 rows.
+* **Seat Clearances:** Lateral seat-to-seat clearance and back-to-back row pitch are adequate for seated occupants, but the use of loose monobloc chairs without standardized layout guides leaves individual chairs susceptible to gradual alignment drifting as attendees enter and exit.
+
+#### Dimension 2: Audio-Visual, Rigging & Utility Traces
+* **Stage Dais Utilization as LED Wall Plinth:** The permanent elevated concrete stage (940 mm AFFL) is **not occupied by presenters or dignitaries**. It is utilized exclusively as an elevated platform to support the large central LED presentation wall. This stage height effectively lifts the video display, ensuring that slide presentations and ordinances are raised above attendees' heads and remain completely visible from the rear rows without line-of-sight blockage.
+* **Audio Setup & Lack of Hired Technicians:** Audio amplification relies entirely on **a single point-source loudspeaker mounted on the right side of the stage**. No professional audio technicians or sound mixing personnel were hired; the event operates on a basic municipal plug-and-play PA setup.
+* **Utility & Cabling Traces:** A singular running audio/video signal wire extends along the front center 10-seater table connecting to the presentation laptop on the floor podium. Because this cable is routed neatly along the front table boundary rather than across active pedestrian aisles, it does not present a major tripping hazard.
+
+#### Dimension 3: Acoustic & Indoor Environmental Quality (IEQ) Traces
+* **Asymmetrical Sound Distribution:** Relying on a single loudspeaker on the right side of the stage creates an unbalanced acoustic sound field across the 23.7-meter hall width. Attendees seated in the left seating section experience noticeable volume drop-off and diminished speech clarity compared to delegates seated on the right flank.
+* **Cavernous Envelope Echo:** Because 192 delegates occupy only the front 45% of the 711 sqm hall plate, the vacant rear half (Grid Lines E to G) and unpadded gypsum upper bulkheads generate noticeable vocal flutter echoes ($RT_{60} > 2.0\text{ s}$), requiring the single speaker to be driven at high levels to overcome room reverberation.
+
+#### Dimension 4: Cultural & Decorative Placemaking Traces
+* **Presentation Scenography:** Presentation visuals are delivered digitally through the stage-mounted LED wall. The surrounding architectural shell consists of generic painted drywall and masonry bulkheads, lacking permanent Waray, Calbayog, or Samar civic/cultural architectural identity.
+
+#### Dimension 5: Circulation, Egress & Accessibility Traces
+* **Egress via Central & Perimeter Aisles:** Because there are no transverse cross aisles, all 192 seated delegates must egress exclusively through the central aisle or the outer perimeter wall lanes. With 8 seats per row in each bank, the furthest seat is 4 chairs away from an aisle, complying with PD 1096 Section 1207 standard seating limits ($\le 7$ seats from an aisle).
+* **Universal Accessibility (BP 344):** No dedicated wheelchair companion parking stalls ($760 \times 1,220\text{ mm}$) are integrated into the 12-row seating grid. Mobility-impaired participants are forced to locate in the 2.4 m front buffer area or along the perimeter wall aisles.
+
+---
+
+## 4. Event Type 2: Scenario 2A (Full-Hall Mass Institutional Training | Tier 3 Classroom)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** National Training on Culture-Based Governance for Local Government Units
@@ -89,63 +135,78 @@ For each selected event type, observations are recorded across **five standardiz
 ### Structured Observational Audit (Researcher Personal Notes)
 
 #### Dimension 1: Seating & Furniture Arrangement Traces
-* **Observed Spatial Configuration:** Dense parallel rows of standard 3-seater folding tables ($450 \times 1,800\text{ mm}$) filling the hall floor plate facing the stage LED presentation wall.
-* **Row Pitch Compression:** Spacing between table rows was compressed to under 750 mm. Participants seated in middle seats were physically trapped once adjacent chairs were occupied, unable to exit without asking entire rows to stand.
-* **Facilitator Coaching Gridlock:** Facilitators and resource speakers were unable to walk down the rows to provide hands-on coaching, remaining stranded at the front lectern.
+* **Observed Spatial Configuration & Table Matrix:** A high-capacity workshop layout consisting of exactly **24 ten-seater rectangular tables** arranged into two symmetrical banks (**12 tables on each side** of the central aisle).
+* **Grid Architecture (7 Rows × 4 Columns):** The tables are organized in **7 linear rows and 4 columns** across the hall width (2 table columns in the East bank, 2 table columns in the West bank). In the front row (Row 1) and rear row (Row 7), two tables are positioned in the middle between the flanking columns.
+* **Capacity Scaling:** At 10 seats per table, the layout accommodates a total seated capacity of **240 seats** ($24 \times 10 = 240\text{ pax}$), providing generous seating capacity for the documented ~160–200 delegates and facilitators.
+* **Spacious Aisles & Comfortable Circulation:** Despite hosting a substantial assembly of attendees, the layout maintains **generous, spacious aisles with comfortable room to move around**. Delegates have ample clearance to navigate between rows, stand, and interact without physical congestion or chair crowding.
+* **Side Catering Alignment:** Buffet and catering service tables are stationed along the **perimeter side walls** rather than at the back of the hall, keeping the rear entrance area open and distributing meal queues along the hall flanks.
+* **Elevated Stage Podium:** The speaker's podium/lectern is positioned directly on the **elevated stage platform** to the side of the presentation screen.
 
 #### Dimension 2: Audio-Visual, Rigging & Utility Traces
-* **Hazardous Web of Floor Power Cords:** To power laptops for 160–200 delegates drafting cultural development plans, power strips and heavy industrial extension cords were duct-taped across ceramic tile floor walkways. Technicians spent over 2 hours taping cables, which remained visible trip hazards throughout the 3-day conference.
+* **Rented Stage Truss for Enlarged LED Wall:** To elevate a significantly larger LED presentation wall for visual viewing across all 7 rows, organizers rented an auxiliary aluminum truss support structure mounted directly on the stage.
+* **Cloth Scenographic Concealment:** The stage truss supports were neatly wrapped and concealed with draped cloth fabric, providing a clean visual finish and hiding the bare metal framework.
+* **Bilateral Audio Setup:** Sound reinforcement is delivered via **two floor-mounted loudspeakers stationed on each side of the stage platform** (one on stage left, one on stage right), providing balanced sound distribution across both table banks.
+* **Absence of Floor Hazards:** Cable routing from the stage AV setup, floor speakers, and podium is managed cleanly along the perimeter boundaries and table bases; no loose extension cords or taped cable webs cross active pedestrian aisles.
 
 #### Dimension 3: Acoustic & Indoor Environmental Quality (IEQ) Traces
-* **Muddy Speech Intelligibility:** Vocal instructions from the sound system reflected harshly off unbaffled upper gypsum bulkheads, muddying rapid technical lecture delivery.
+* **Pre-Curtain Architectural Envelope Baseline (April 2024):** Held in April 2024, this older baseline event predates the LGU's installation of perimeter acoustic wall curtains. The perimeter walls and upper gypsum bulkheads consist of bare painted masonry.
+* **Ceiling Fabric Baffle Status:** The ceiling retained only its original suspended fabric sound baffles, providing moderate acoustic absorption overhead.
 
 #### Dimension 4: Cultural & Decorative Placemaking Traces
-* **Generic Bureaucratic Setting:** Despite being a high-level national training on culture-based governance, the physical interior offered zero architectural storytelling of Samar heritage or local craft traditions.
+* **Presentation Scenography:** Presentation aesthetics are driven primarily by the large digital LED presentation screen and cloth-concealed stage trussing, supplemented by official agency pull-up banners.
+* **Architectural Shell:** The permanent interior envelope remains a generic municipal shell lacking integrated Samar craft motifs, Basey *banig* textures, or Calbayog regional cultural expressions.
 
 #### Dimension 5: Circulation, Egress & Accessibility Traces
-* **Severe Turnaround Burden:** Hauling, aligning, and cabling 60+ heavy folding tables and 200 chairs took custodial crews over 6 hours of manual labor.
+* **Unobstructed Egress & Flow:** Wide central and perimeter aisles ensure fluid pedestrian movement toward the double entrance doors and lateral sliding emergency exits.
+* **Lobby Concourse Utilization Status:** Archival photography documents plenary lectures and side catering fully contained within the 711 sqm Main Hall; whether the 129 sqm Lobby was actively utilized or bypassed remains unverified due to the event's age and available archival photography.
+* **Universal Accessibility (BP 344):** The spacious aisle clearances and flat-floor setup provide easy physical navigation around the 10-seater tables, though dedicated wheelchair companion parking bays remain un-demarcated.
 
 ---
 
-## 4. Event Type 3: Scenario 2B (Mid-Scale Departmental Workshop | Tier 2 Classroom)
+## 5. Event Type 3: Scenario 2B (Mid-Scale Departmental Workshop | Tier 2 Classroom)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** Planning Workshop for Barangay Population Workers (BPWs) General Assembly
 * **Event Date:** December 12, 2024
 * **Master Ledger Index:** Event #95 in Category 2 / Ledger
-* **Organizing Proponents:** City Population Office (CPO) and City Government of Calbayog (with Mayor Raymund C. Uy)
+* **Organizing Proponents:** City Population Office (CPO) and City Government of Calbayog (Executive Leadership & Municipal Administration)
 * **Programmed Spatial Setup:** Classroom / Departmental Strategy Workshop
 * **Estimated Occupant Scale:** Tier 2 Mid-Scale Workshop (~80–120 Barangay Population Workers and health coordinators)
 * **Archival Verification Sources:**
-  - City Government of Calbayog Official Release: [Mayor Uy Commits Full Support to Barangay Population Workers](https://calbayog.gov.ph/mayor-uy-commits-full-support-to-barangay-population-workers/)
+  - City Government of Calbayog Official Release: [Municipal Leadership Commits Full Support to Barangay Population Workers](https://calbayog.gov.ph/mayor-uy-commits-full-support-to-barangay-population-workers/)
   - Calbayog PIO Photo Log: [Calbayog PIO Link](https://www.facebook.com/100090744381505/posts/598712199830254)
 
 ### Textual & Caption Context
-> *"CALBAYOG CITY -- Mayor Raymund C. Uy committed the City Government's full support to Barangay Population Workers (BPWs) during their annual planning workshop and assembly at the Calbayog Cultural Convention Center. The workshop focused on harmonizing barangay health demographics, family welfare initiatives, and localized community planning targets."*
+> *"CALBAYOG CITY -- The City Mayor committed the City Government's full support to Barangay Population Workers (BPWs) during their annual planning workshop and assembly at the Calbayog Cultural Convention Center. The workshop focused on harmonizing barangay health demographics, family welfare initiatives, and localized community planning targets."*
 
 ---
 
 ### Structured Observational Audit (Researcher Personal Notes)
 
 #### Dimension 1: Seating & Furniture Arrangement Traces
-* **Observed Spatial Configuration:** Forward-facing linear tables clustered tightly in the front half of the hall (Grids B–D), while the rear 50% of the hall plate sat as an echoing vacant void.
-* **Circulation Squeeze:** Narrow side walkways forced workshop facilitators and Mayor Uy to squeeze sideways past seated attendees when distributing workshop handouts and reviewing barangay survey forms.
+* **Observed Spatial Configuration:** Workshop seating and tables span the full depth of the 711 sqm Main Plenary Hall, extending from the front presentation area all the way to the rear perimeter and side walkways.
+* **Spacious Circulation Paths:** The central aisle and flanking side walkways are wide and spacious, providing generous, unencumbered clearance for attendees, facilitators, and city officials to move freely throughout the hall without physical bottlenecks or side-stepping.
+* **Seating Stability & Alignment:** Forward-facing rectangular workshop tables paired with standard loose plastic monobloc chairs provide linear work surfaces across the floor plate, though unlinked seating remains susceptible to gradual shifting during group activity.
 
 #### Dimension 2: Audio-Visual, Rigging & Utility Traces
-* **Taped Extension Cords:** Multi-socket power strips ran loosely across central walkways from perimeter wall outlets to power organizers' laptops and tabulation printers.
+* **Active Stage LED Display Wall:** The elevated concrete stage platform features a large, active central LED video wall utilized to project demographic presentations, workshop modules, and municipal program slides, eliminating the need for temporary pinned vinyl banners.
+* **Clean Floor Utility Routing:** Power routing and signal cables are contained along perimeter boundaries and behind presentation tables; zero multi-socket power strips or extension cords cross the central pedestrian walkways.
+* **Sound Reinforcement:** Audio amplification is delivered through front-mounted venue loudspeakers, projecting speech from the presenter lectern across the open floor plate.
 
 #### Dimension 3: Acoustic & Indoor Environmental Quality (IEQ) Traces
-* **Cavernous Disconnect:** The vacant rear half of the room acted as a reverberant echo chamber, reflecting amplified microphones back into the front training zone.
+* **Open Envelope Acoustic Propagation:** Speech and presentation audio radiate across the entire unpartitioned 711 sqm volume. Acoustic reflections occur off the smooth, unpadded masonry walls and polished ceramic floor tiles.
+* **Thermal & Lighting Distribution:** The centralized air-conditioning blowers and overhead high-bay lighting operate across the complete, undivided hall volume to service the distributed workshop seating array.
 
 #### Dimension 4: Cultural & Decorative Placemaking Traces
-* **Temporary Banners:** The stage backdrop consisted of a single vinyl tarpaulin banner pinned to the rear wall, with no localized architectural framing.
+* **Digital Scenography Focus:** Visual presentation is focused entirely on the digital content of the stage LED wall. There are zero permanent Waray cultural motifs, Basey woven textures, or Calbayog architectural craft expressions integrated into the hall envelope.
 
 #### Dimension 5: Circulation, Egress & Accessibility Traces
-* **Under-Occupancy Spatial Wastage:** 80–120 participants occupied less than half the hall, but because no acoustic partitions were available, the entire 711 sqm envelope had to be fully air-conditioned and illuminated, resulting in high municipal operational waste.
+* **Unobstructed Egress Corridors:** Wide side walkways and the main central aisle provide direct, continuous pedestrian transit from all seating rows directly toward the primary lobby entrance double doors and lateral perimeter exit portals.
+* **Universal Accessibility (BP 344):** The spacious aisle layout accommodates barrier-free wheelchair transit along the perimeter and central pathways, though loose monobloc seating lacks permanently demarcated, designated PWD parking bays with international accessibility symbology.
 
 ---
 
-## 5. Event Type 4: Scenario 3A (Civic-Religious Banquet Gala | Tier 2/3 Banquet)
+## 6. Event Type 4: Scenario 3A (Civic-Religious Banquet Gala | Tier 2/3 Banquet)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** Knights of Columbus Council 3288 Honor Guard: Hermana Night 2026
@@ -167,7 +228,7 @@ For each selected event type, observations are recorded across **five standardiz
 #### Dimension 1: Seating & Furniture Arrangement Traces
 * **Observed Spatial Configuration & Table Geometry:** High-density rectangular X-Y grid of linear banquet tables combining standard rectangular venue tables ($450/600 \times 1,800\text{ mm}$) into 10-person communal banquet units (5 seats on each long side). Crucially, the tables are arranged **parallel to the central processional aisle** (running front-to-back toward the stage).
 * **Wide Central Processional Aisle:** A dedicated central ceremonial corridor measuring approximately **2,400 to 3,000 mm in clear width** runs straight down the center line of the hall from the main entrance lobby double doors directly to the stage platform. This prominent spine was specifically mandated to allow the religious float (*carroza*) to enter the hall and maneuver with ease, and to provide the ceremonial runway for the Knights of Columbus Honor Guard sword-arch salutes.
-* **Table Pitch & Seated Clearance Compression:** Because this 2.4-to-3.0-meter central artery consumed a significant portion of the hall's 24.3-meter width, the remaining banquet tables in the East and West seating banks were forced into extreme lateral compression. Table-to-table pitch is compressed down to roughly **1,400 mm** (far below the 1,800 mm statutory/ergonomic benchmark). When Monobloc chairs are occupied and pushed back during dining, usable service passage between backs of chairs collapses to **300 mm or less ($\le 300\text{ mm}$)**. Guests must tuck themselves in tightly to allow anyone to pass.
+* **Table Pitch & Seated Clearance Compression:** Because this 2.4-to-3.0-meter central artery consumed a significant portion of the hall's 24.3-meter width, the remaining banquet tables in the East and West dining sections were forced into extreme lateral compression. Table-to-table pitch is compressed down to roughly **1,400 mm** (far below the 1,800 mm statutory/ergonomic benchmark). When Monobloc chairs are occupied and pushed back during dining, usable service passage between backs of chairs collapses to **300 mm or less ($\le 300\text{ mm}$)**. Guests must tuck themselves in tightly to allow anyone to pass.
 * **Side Perimeter Compression:** The wide central aisle requirement simultaneously forced the outermost rows of banquet tables directly against the side perimeter walls, completely eliminating standard perimeter service buffers.
 
 #### Dimension 2: Audio-Visual, Rigging & Utility Traces
@@ -225,7 +286,7 @@ For each selected event type, observations are recorded across **five standardiz
 │ └───────────────┘   └───────────────┘  │   └───────────────┘   └───────────────┘       │
 │                                        │                                               │
 │   ◄─────────────────────────────────►  │   ◄─────────────────────────────────►         │
-│      EAST SEATING BANK (~230 pax)      │      WEST SEATING BANK (~230 pax)             │
+│      EAST DINING SECTION (~230 pax)    │      WEST DINING SECTION (~230 pax)           │
 │    (Compressed pitch, tray collision)  │    (Compressed pitch, tray collision)         │
 │                                        │                                               │
 │                         CENTRAL PROCESSIONAL ARTERIAL                                  │
@@ -253,46 +314,58 @@ For each selected event type, observations are recorded across **five standardiz
 
 ---
 
-## 6. Hybrid Type H1: Scenario 4A (Plenary Assembly + Peripheral Fine Art Gallery | Tier 2)
+## 7. Hybrid Type H1: Scenario 4A (Classroom Workshop Assembly + Zoned Indoor Tent Exhibition & Cultural Arts Showcase | Tier 2)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** Samar-wide Artists Kolektib Gathering & Regional Cultural Arts Exhibition
-* **Event Date:** November 18, 2024
+* **Event Date:** November 18, 2024 / February 27, 2024
 * **Master Ledger Index:** Event #40 in Category 1 & 4 / Ledger
 * **Organizing Proponents:** City Arts and Culture Office (CACO), Samar Island Cultural Heritage Network, and LGU Calbayog
-* **Programmed Spatial Setup:** Plenary Keynote Assembly + Concurrent Perimeter Fine Art Gallery
-* **Estimated Occupant Scale:** Tier 2 Mid-Scale Assembly (295 registered visual artists, performers, and cultural advocates)
+* **Programmed Spatial Setup:** Classroom / Creative Workshop Assembly (Front 50% of Main Hall) + Zoned Indoor Tent Exhibition & Showcase (Rear 50% of Main Hall & 129 sqm Lobby). *Note: No dining or buffet area.*
+* **Estimated Occupant Scale:** Tier 2 Mid-Scale Assembly (132 seated workshop delegates at tables + exhibitors, facilitators, and visiting cultural advocates; ~200–295 total participants)
 * **Archival Verification Sources:**
   - Official CACO Event Post & Photographic Album: [Calbayog CACO Heritage Documentation]
   - City Government of Calbayog Event Photo Log: [Calbayog PIO Link]
 
 ### Textual & Caption Context
-> *"SAMAR-WIDE ARTISTS KOLEKTIB GATHERING -- Over 290 visual artists, cultural bearers, and literary writers from across Western, Eastern, and Northern Samar converged at the Calbayog Cultural Convention Center for a regional solidarity assembly and visual art showcase. The event blended keynote cultural presentations from the stage with an extensive exhibition of regional paintings and sculptures."*
+> *"SAMAR-WIDE ARTISTS KOLEKTIB GATHERING -- Over 290 visual artists, cultural bearers, and literary writers from across Western, Eastern, and Northern Samar converged at the Calbayog Cultural Convention Center for a regional solidarity assembly, creative masterclasses, and visual art showcase. The event blended keynote cultural presentations and intensive workshop discussions from the stage with an extensive indoor exhibition of regional paintings, crafts, clothing, landscaping, bags, and instruments."*
 
 ---
 
 ### Structured Observational Audit (Researcher Personal Notes)
 
 #### Dimension 1: Seating & Furniture Arrangement Traces
-* **Observed Spatial Configuration:** Approximately 250 to 300 loose Monobloc chairs clustered in the front two-thirds of the hall facing the stage. Chairs were unlinked, resulting in meandering, irregular center and side aisles (ranging from 1,000 to 1,200 mm).
-* **Perimeter Art Gallery Encroachment:** Rented three-legged wooden easels displaying visual art pieces were lined along both perimeter side walls. Because the hall has an 8400 mm clear width between column faces, these easels encroached significantly into the lateral egress avenues, narrowing side corridors to under 900 mm and directly obstructing side emergency exit doors.
+* **Observed Spatial Configuration (Front Half of Main Hall):** Classroom/workshop-style seating configuration utilizing 12 rectangular venue tables arranged in **two rows deep by six columns wide** ($2\text{ rows} \times 6\text{ columns} = 12\text{ tables}$). There is **no dining or buffet area** set up inside the hall.
+* **Central Aisle & Column Split:** A **1.0-meter wide central aisle** divides the tables into two symmetrical blocks of **three columns each** (3 columns on the West flank, 3 columns on the East flank).
+* **Table Capacity & Seating Geometry:** Each rectangular table accommodates **11 people** (5 seats along each long side, and 1 seat at the rear end). The **front end facing the stage is kept completely empty** so that no seated participant has their back turned to the presentation stage.
+* **Table Orientation & Sightlines:** Rectangular tables are oriented **vertically** (long sides perpendicular to the stage, facing inward toward each other). This orientation allows seated attendees along the long flanks to turn comfortably toward the front stage LED wall. However, the row alignment is strictly **linear and unstaggered** (tables placed directly behind one another).
+* **Seating Density & Clearance Compression:** The tables in the front half of the Main Hall are **visibly cramped together longitudinally and laterally** to preserve sufficient floor area for the large display tents in the rear half of the hall. While the side perimeter aisles along the walls remain wide enough for pedestrian passage, back-to-back clearance between the front and rear rows is compressed.
+* **Aisle Tripping Hazard:** A **wired microphone on a floor stand** is positioned directly in the 1.0-meter central aisle, and its microphone cable crosses straight across the active walkway to the floor sound feed, creating a prominent tripping hazard for attendees and facilitators moving up and down the room.
 
 #### Dimension 2: Audio-Visual, Rigging & Utility Traces
-* **Aisle Tripod Obstructions:** Center camera tripods and sound console snake cables were placed directly in the main center walkway to capture keynote speakers on stage, forcing attendees to step over cabling.
-* **Lighting Mismatch:** Artwork mounted on perimeter easels was illuminated solely by ambient ceiling high-bay floodlights, causing intense glare on varnished oil canvases and severe shadow washouts.
+* **Stage Dais Utilization as LED Wall Plinth:** The permanent elevated concrete stage (940 mm AFFL) is **not occupied by presenters, panel tables, or dignitaries**. It is utilized exclusively as an elevated plinth to support the large central LED presentation wall and backdrop visual display.
+* **Floor Speaker's Podium:** The speaker's **podium is stationed down on the flat floor area right by the front of the stage**, rather than elevated on the stage platform.
+* **Stage Scenography & Lighting:** Portable **T-lights (T-bar lighting stands)** are erected on the stage platform to provide wash illumination. The rear architectural backdrop wall of the stage is entirely covered with hanging decorative drapery to mask the bare wall.
+* **Audio Cabling Hazard:** In addition to the stage feeds, the wired microphone stand in the 1.0-meter center aisle has an exposed audio snake crossing the central pedestrian spine with zero cable covers or floor ramps.
 
 #### Dimension 3: Acoustic & Indoor Environmental Quality (IEQ) Traces
-* **Acoustic Flutter:** Vocal keynotes reflected off the bare rear drywall (Grids E–G), producing audible flutter echoes during open-floor open-mic plenary sessions.
+* **Speech Propagation in Divided Envelope:** Spoken keynote lectures and masterclass workshops originating from the floor podium and the center aisle microphone reverberate across the unbaffled upper volume (+3,640 mm to +5,390 mm AFFL). High-frequency vocal energy reflects off the hard porcelain tile floors, requiring elevated PA volume that causes acoustic spillover into the rear exhibition half.
+* **Thermal & Lighting Variations:** Attendees in the front half experience standard air conditioning from the ceiling diffusers, but the rear half of the hall suffers from localized lighting shadows cast by the canopies of the large display tents.
 
-#### Dimension 4: Cultural & Decorative Placemaking Traces
-* **Display Deficit:** Despite showcasing premier Samar artistic identity, the venue lacked permanent gallery hanging infrastructure, forcing reliance on unstable rented easels that could easily be tipped over by passing attendees.
+#### Dimension 4: Cultural & Exhibition Showcase Traces (Rear Half of Main Hall & Lobby)
+* **Rear Half Display Tents:** The entire rear half of the Main Hall is dedicated to an extensive cultural and artisanal exhibition. Each exhibit booth is housed within its own **standard $3 \times 3\text{ meter}$ ($3000 \times 3000\text{ mm}$) outdoor-style pop-up display tent** (arranged with **three tents on each side**, totaling 6 display tents in the hall).
+* **Lobby Concourse Display Tents:** Additional display tents are deployed throughout the 129 sqm Lobby concourse, positioned on **both sides of the lobby** (**two display tents on each side**, totaling 4 display tents in the lobby).
+* **Exhibited Disciplines & Materials:** The exhibition booths display a rich variety of regional Samar artistic and creative works, including **paintings, handmade crafts, indigenous clothing, landscaping arrangements, woven bags, and traditional musical instruments**.
+* **Display Mounting Technique:** Because the venue lacks permanent picture hanging tracks or dedicated modular display panels, promotional posters, didactic summaries, and regional artworks are **hung directly onto the metal frames and fabric walls of the $3 \times 3\text{ m}$ display tents** for each booth.
 
 #### Dimension 5: Circulation, Egress & Accessibility Traces
-* **Fire Exit Corridor Pinching:** The placement of display easels along the East and West walls violated RA 9514 clear egress width standards ($\ge 1,100\text{ mm}$), creating severe life-safety bottlenecks at side emergency sliding doors.
+* **Walkway Bottlenecks & Egress Constriction:** While the front side perimeter walkways remain wide enough, deploying bulky $3 \times 3\text{ m}$ outdoor display tents inside the enclosed hall consumes 54 sqm of floor plate in the rear half and severely pinches circulation toward the rear perimeter emergency exit doors. In the lobby, the four $3 \times 3\text{ m}$ tents crowd the entrance foyer, squeezing incoming and exiting pedestrian traffic.
+* **Tripping Hazards:** The trailing microphone cable crossing the 1.0-meter central aisle poses an ongoing safety liability during active open-floor sessions and breaks.
+* **Accessibility Deficits:** Zero designated BP 344 wheelchair stations exist at the 12 workshop tables, and the 940 mm concrete stage remains inaccessible due to the lack of an integrated ramp.
 
 ---
 
-## 7. Hybrid Type H2: Scenario 4B (Classroom Training + Artisanal Craft Showcase | Tier 1/2)
+## 8. Hybrid Type H2: Scenario 4B (Classroom Training + Artisanal Craft Showcase | Tier 1/2)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** DTI Samar Creative Entrepreneurship Training: Transforming Creative Talents into Sustainable Businesses
@@ -333,7 +406,7 @@ For each selected event type, observations are recorded across **five standardiz
 
 ---
 
-## 8. Hybrid Type H3: Scenario 4C (Interactive Culinary Cookfest + Radial Plenary Judging | Tier 2)
+## 9. Hybrid Type H3: Scenario 4C (Interactive Culinary Cookfest + Radial Plenary Judging | Tier 2)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** Annual Calbayog Tinapa 101 Culinary Cookfest & Food Expo
@@ -372,7 +445,7 @@ For each selected event type, observations are recorded across **five standardiz
 
 ---
 
-## 9. Hybrid Type H4: Scenario 4D (Dual-Zone Banquet Gala + Concourse Promotional Expo & Concessionaires | Tier 2)
+## 10. Hybrid Type H4: Scenario 4D (Dual-Zone Banquet Gala + Concourse Promotional Expo & Concessionaires | Tier 2)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** Samar Investment Forum Trade Fair & Investor's Gala
@@ -417,7 +490,7 @@ For each selected event type, observations are recorded across **five standardiz
 
 ---
 
-## 10. Companion Reference: Public Employment Career Expo & Job Fair (Hybrid Orientation & Interview Assembly)
+## 11. Companion Reference: Public Employment Career Expo & Job Fair (Hybrid Orientation & Interview Assembly)
 
 ### Event Identification & Archival Metadata
 * **Event Title:** Calbayog City LGU-PESO Mega Employment Caravan & Fiesta Career Expo
@@ -470,15 +543,15 @@ The empirical physical traces audited across these single-function and compound 
 | Scenario & Typology Classification | Audited Event Type | Documented Physical Traces (Option A Status Quo Baseline) | Proposed Interior Remediation (Option B Modular Framework) |
 | :--- | :--- | :--- | :--- |
 | **Scenario 1A: Peak Plenary** (250–300 pax) | **Event Type 1: ECCD Moving-Up Ceremony** (Event #64; verified operational peak) | 250–300 loose unlinked Monobloc chairs; central aisle bottleneck; sightline C < 25 mm; warm unconditioned lobby holding. | Radial continental chevron rows (15°–30° splay, C ≥ 60 mm); dual 1500 mm radial egress avenues; 4 BP 344 PWD stalls; dual AC units in lobby. |
-| **Scenario 1B: Mid Plenary** (150–200 pax) | **Event Type 1B: Samar Artists Assembly / Barangay Conclaves** (Events #40, #108) | Unlinked chairs drifting; camera tripods in center aisle; vocal echo off unpadded rear drywall. | Scaled chevron seating bank; dedicated perimeter AV tripod pockets ($1800 \times 2400$ mm); Basey *banig* acoustic panels. |
+| **Scenario 1B: Mid Plenary** (150–200 pax) | **Event Type 1B: Liga ng mga Barangay Regular Council Meeting** (Event #108) | 2 symmetrical linear sections (12 rows x 8 cols = 192 seats); 2.4m front clearance; 10-seater floor table & floor podium; stage used only as LED wall lift; single right-side speaker; no cross aisle. | Scaled radial chevron loose seating array ($15^\circ\text{–}30^\circ$, C ≥ 60 mm); dual 1500 mm radial aisles; dedicated perimeter AV tripod pockets ($1800 \times 2400$ mm); Basey *banig* acoustic wall absorption. |
 | **Scenario 1C: Compact Plenary** (50–100 pax) | **Event Type 1C: TESDA Graduation** (Shadowed Live; 80–100 pax) | Front third clustered; rear 75% echoing cavern ($RT_{60} > 2.50$ s); graduates overheated in unconditioned lobby (> 28°C). | Mobile Basey *banig* acoustic screens at Grid Line D ($RT_{60} \le 0.95$ s); modular stage at 600 mm; air-conditioned lobby holding concourse (22–24°C). |
-| **Scenario 2A: Full Training** (160–200 pax) | **Event Type 2: Culture-Based Governance Training** (Event #21) | Rigid parallel desks; row push-back $< 750$ mm; facilitator gridlock; webs of taped floor power cables; 6+ hr manual setup. | Full-Hall Scaled Modular Seating / Chevron Rows: 24–28 collaborative table clusters on casters; 1500 mm facilitator spine; overhead ceiling power drops (< 45 min setup). |
-| **Scenario 2B: Mid Training** (80–120 pax) | **Event Type 3: BPW Planning Workshop with Mayor Uy** (Event #95) | Linear desks clustered forward; facilitators squeeze sideways past attendees; loose floor cords; echoing vacant rear half. | Zoned Collaborative Seating Clusters: 12–15 modular clusters flanking a 1500 mm roaming lane; mobile acoustic screens isolating rear hall; overhead power drops. |
+| **Scenario 2A: Full Training** (160–200 pax) | **Event Type 2: Culture-Based Governance Training** (Event #21) | 24 ten-seater tables (7 rows × 4 cols, 12 per side; 240 seats); spacious aisles & comfortable circulation; side catering along walls; stage podium; cloth-concealed stage truss for enlarged LED wall; 2 floor speakers; pre-curtain baseline. | Full-Hall Scaled Modular Seating / Chevron Rows: 24–28 collaborative table clusters on casters; 1500 mm facilitator spine; overhead ceiling power drops (< 45 min setup). |
+| **Scenario 2B: Mid Training** (80–120 pax) | **Event Type 3: BPW Planning Workshop & General Assembly** (Event #95) | Full-depth linear seating array reaching rear perimeter and side walkways; spacious central and side aisles; stage LED wall display; zero walkway cable hazards; unpadded open envelope acoustic reflections. | Zoned Collaborative Seating Clusters: 12–15 modular clusters flanking a 1500 mm roaming lane; mobile acoustic screens isolating rear hall; overhead power drops. |
 | **Scenario 2C: Compact Training** (30–60 pax) | **Event Type 2C: Compact Innovation Workshop** (Event #3) | Forward seating cluster in cavernous hall; lack of localized small-group acoustic isolation. | Collaborative modular seating layout forward; mobile Basey *banig* partitions; ceiling power drops. |
 | **Scenario 3A: Full Civic Gala** (250–300 pax safe ceiling) | **Event Type 4: Knights of Columbus Hermana Night** (Event #118) | Rectangular tables parallel to center aisle; pitch compressed to 1400 mm ($\le 300$ mm clearance); column T-bar lights pinching paths; buffet blocking doors; **500-pax over-capacity hazard**. | **Dual-Template Modular Framework (300 Pax Max Capacity Ceiling):**<br>• *Template 3A-1 (Round Diamond Clusters):* 30 tables of 10 = 300 pax max; 1800 mm pitch.<br>• *Template 3A-2 (Rectangular Processional Rows):* 24–28 tables of 10 = 240–280 pax max; 2400 mm central ceremonial aisle for carrozas/sword arches.<br>Overhead motorized rigging recovers 40 seats; lobby catering bypass. |
 | **Scenario 3B: Mid Banquet** (180–220 pax) | **Event Type 3B: Charter Day Stakeholders' Gala** (Event #124) | Rigid orthogonal grid; chair gaps compressed to 700–750 mm; column lights block pathways; center camera tripods obstruct waiters. | Scaled Diamond Clusters (20 tables, 200 pax); guaranteed 1620 mm clearances; dedicated 1800 mm waiter service lanes; overhead rigging eliminates floor stands. |
 | **Scenario 3C: Intimate Nuptial** (80–150 pax) | **Event Type 3C: Private Nuptial Celebration** (Event #78) | 12–15 round tables dispersed awkwardly in huge hall; ground trusses erected on floor; buffet spills into hot lobby (> 28°C). | Concentrated Diamond Cluster + Dance Floor Clearing ($6 \times 6$ m); mobile Basey screens isolate buffet; air-conditioned lobby photobooth foyer. |
-| **Scenario 4A: Hybrid 1 (Plenary + Art Gallery)** (200–300 pax) | **Hybrid Type H1: Samar-wide Artists Kolektib Gathering** (Event #40) | Unlinked chairs drifting; camera tripods in center aisle; **perimeter art easels choking side corridors to < 900 mm and blocking emergency exits**. | Scaled chevron seating bank; dedicated perimeter AV pockets; **perimeter dropped soffit hanging rails + mobile Basey *banig* art screens preserving $\ge 1500$ mm egress avenues**. |
+| **Scenario 4A: Hybrid 1 (Classroom + Indoor Tent Exhibit)** (130–200 pax) | **Hybrid Type H1: Samar-wide Artists Kolektib Gathering** (Event #40) | Front half: 12 linear tables (132 seated) cramped forward; 1.0 m center aisle with mic wire tripping hazard; stage used only for LED wall; rear half: 6 outdoor 3x3m tents; lobby: 4 outdoor 3x3m tents (paintings, crafts, clothing, landscaping, bags, instruments); no buffet. | **Zoned Dual-Module Layout:** Modular collaborative classroom pods (6–8 pax) on casters forward with overhead power/mic drops (zero floor wire hazard); **mobile double-sided Basey *banig* exhibition screens replacing bulky 3x3m outdoor tents** with overhead LED track lighting; air-conditioned lobby concourse with 2000 mm door buffer. |
 | **Scenario 4B: Hybrid 2 (Training + Product Showcase)** (30–60 pax) | **Hybrid Type H2: DTI Creative Entrepreneurship Training** (Event #3) | 53 participants crammed in front 30%; rear 70% makeshift craft display with loose cords; **129 sqm Lobby 100% unused and bypassed**. | Collaborative modular seating layout forward; dedicated mobile craft display tables with overhead power reels; **129 sqm Lobby activated for reception & break buffets** (< 20 min setup). |
 | **Scenario 4C: Hybrid 3 (Cookfest + Judging Plenary)** (100–180 pax) | **Hybrid Type H3: Annual Calbayog Tinapa 101 Cookfest** (Events #9, #48, #125) | 13 perimeter cooking booths; severe spectator crush around single dish display table during judging; stage wasted for LED clock; hot lobby. | **Zoned Demonstration Hub:** Perimeter cooking booths with fire-rated washable mats; central elevated radial judging hub with queue stanchions and radial tiered spectator seating; **129 sqm Lobby transformed into air-conditioned cultural tinapa history gallery**. |
 | **Scenario 4D: Hybrid 4 (Banquet Gala + Concourse Expo & Concessionaires)** (150–200 pax) | **Hybrid Type H4: Samar Investment Forum & Investor's Gala** (Event #123) | Lobby jammed with 4 large booths ($2.0 \times 2.7$ m); display table blocks exit door leaf (RA 9514 violation); **municipal agro-industrial stalls & concessionaires expelled onto outdoor driveway**. | **Dual-Zone Concourse Retrofit (Module 4):** Dual ACs cool lobby to 22–24°C; fabric divider tracks organize 8–10 stalls with strict 2000 mm exit buffer; **100% indoor containment of all municipal exhibits & concessionaires**. |

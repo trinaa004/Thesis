@@ -29,7 +29,7 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 - 4 Scalable Typologies (50-500pax)   - Basey banig geometric panels        - Overhead unistrut & hoists
 - Pre-calculated Anthropometrics      - Tikog grass textures                - 3-Circuit DALI dimmable tracks
 - 900mm pitch & 1800mm waiter lanes   - Waterfall curvilinear baffles       - Concealed power & AV drops
-- BP 344 wheelchair stalls & indicia  - Sarakiki-Hadang stage proscenium    - Programmed scene presets
+- BP 344 wheelchair stalls & layout manual  - Sarakiki-Hadang stage proscenium    - Programmed scene presets
 ```
 
 ---
@@ -38,8 +38,8 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
 *Standardized spatial configurations tailored specifically to the 711 sqm Main Hall and 129 sqm Lobby. Grounded in the 127-event longitudinal ledger, Module 1 articulates 4 master typologies across scalable occupancy tiers (Tiers 1 to 4: 50 to 500 pax) and dual-event spatial subdivision, providing ready-to-execute floor plans that eliminate on-site spatial confusion.*
 
 1. **Plenary / Theatrical Assembly Typology (Civic Convocations & Graduations):**
-   - *Tier 4 Peak Assembly (400–500 Occupants):* Radial chevron continental seating banks ($15^\circ–30^\circ$ splay), strict $840–900\text{ mm}$ pitch, $1,500\text{ mm}$ radial egress aisles ensuring unimpeded life-safety egress (PD 1096 / RA 9514), unobstructed stage sightlines ($C \ge 60\text{ mm}$), and 4 integrated $760 \times 1,220\text{ mm}$ BP 344 wheelchair bays.
-   - *Tier 2 Mid-Scale Plenary (200–300 Occupants):* Forward-focused seating banks with buffered rear acoustic perimeters, preventing small audiences from feeling overwhelmed in the cavernous hall.
+   - *Tier 4 Peak Assembly (400–500 Occupants):* Radial continental chevron seating layouts ($15^\circ–30^\circ$ splay), strict $840–900\text{ mm}$ pitch, $1,500\text{ mm}$ radial egress aisles ensuring unimpeded life-safety egress (PD 1096 / RA 9514), unobstructed stage sightlines ($C \ge 60\text{ mm}$), and 4 integrated $760 \times 1,220\text{ mm}$ BP 344 wheelchair bays.
+   - *Tier 2 Mid-Scale Plenary (200–300 Occupants):* Forward-focused seating layouts with buffered rear acoustic perimeters, preventing small audiences from feeling overwhelmed in the cavernous hall.
 
 2. **Classroom / Seminar Typology (LGU Workshops & Educational Summits):**
    - *Tier 2 Chevron Training Rows (150–250 Occupants):* 740–760 mm table height; 450–500 mm chair clearance behind tables; 400–450 mm service passage; modesty panels with integrated wire drop raceways connecting to overhead ceiling power drops.
@@ -80,7 +80,7 @@ Spatial Modularity & Layouts          Cultural Acoustic Overlays             Ove
     - *Egress Corridors & Perimeter Setbacks:* Minimum **$1,200\text{ mm} \text{ to } 1,800\text{ mm}$** clear buffer from all perimeter walls and primary exit doors, guaranteeing that furniture placement never encroaches upon fire exit paths (RA 9514).
     - *Absolute 2,000 mm Door Clearance Buffer:* Strict operational rule in the Layout Manual forbidding temporary exhibition booths (e.g., trade fair tables like the observed *Palawan Gold* display), camera tripods, or stacked furniture within $2,000\text{ mm}$ of any active entry or exit door portal.
     - *Maximum Egress Travel Distance:* All layout configurations guarantee direct egress lines strictly under **$45.0\text{ meters}$** travel distance (RA 9514 unsprinklered threshold).
-    - *Floor Indicia System:* Discrete photoluminescent brass boundary studs embedded directly into tile joints at strategic column grid intersections, serving as permanent alignment references so utility crews align rows accurately on the first pass without measuring tapes while providing low-level emergency evacuation guidance.
+    - *Standardized Layout Guidance:* Dimensioned layout templates calibrated directly to structural column gridlines (Grids A–G / 1–4), serving as clear spatial references so utility crews align rows accurately on the first pass without measuring tapes or permanent floor scars.
 
 ---
 
@@ -155,7 +155,7 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 | Regulatory Standard | Legal Mandate | Specific Application in Calbayog Framework |
 | :--- | :--- | :--- |
 | **NBCP (PD 1096) Table XII.1** | $0.65\text{ m}^2/\text{pax}$ (Concentrated Assembly); $1.40\text{ m}^2/\text{pax}$ (Less concentrated); $1.80\text{ m}^2/\text{pax}$ (Classroom); $2.80\text{ m}^2/\text{pax}$ (Exhibition/Stores). | Pre-calculates exact maximum occupant limits per typology to prevent hazardous overcrowding. |
-| **NBCP (PD 1096) Sec. 1207(t)** | Aisle widths $\ge 800\text{ mm}$ (single side), $1000\text{–}1200\text{ mm}$ (double side); Row pitch $\ge 840\text{ mm}$ (standardized to $900\text{ mm}$). | Establishes mandatory minimum aisle passages between seating banks. |
+| **NBCP (PD 1096) Sec. 1207(t)** | Aisle widths $\ge 800\text{ mm}$ (single side), $1000\text{–}1200\text{ mm}$ (double side); Row pitch $\ge 840\text{ mm}$ (standardized to $900\text{ mm}$). | Establishes mandatory minimum aisle passages between seating sections. |
 | **BP 344 (Accessibility Law)** | Clear path $\ge 1200\text{ mm}$; Turning node $1500 \times 1500\text{ mm}$; Wheelchair stall $760 \times 1220\text{ mm}$; Ramp slope $\le 1:12$. | Guarantees barrier-free navigation from Lobby through Main Hall and up to the modular stage. |
 | **Fire Code (RA 9514)** | Max exit travel distance $\le 45\text{ m}$ (unsprinklered); Outward-swinging doors with panic hardware for assembly $>50$. | All four layout typologies maintain direct, unobstructed egress avenues strictly under 45 meters. |
 | **DOT PAS (MC 2023-0003) & ASEAN MICE Standard** | Unobstructed sightlines; clear ceiling height; 300–500 lux task lighting; acoustic reverberation control. | Ceiling tracks provide 300–500 lux; acoustic wall/ceiling baffles control ambient reverberation. |
@@ -185,7 +185,7 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 > 
 > My framework resolves this through **three non-structural master modules matching the three core pillars of my study**:
 > 
-> 1. **First, Module 1: A Pax-Driven Spatial Modularity & Scalable Layout Manual** providing dimensioned CADD floor plans across four operational typologies—Plenary (up to 500 occupants), Classroom, Banquet, and Exhibition—scalable across four occupancy tiers (50 to 500 pax) and dual-event spatial subdivision. It directly embeds non-negotiable anthropometric clearances (900 mm row pitch, 1,800 mm waiter service lanes, and BP 344 stations), an absolute 2,000 mm door clearance buffer, and brass floor alignment indicia so the utility crew sets up accurately on the very first pass.
+> 1. **First, Module 1: A Pax-Driven Spatial Modularity & Scalable Layout Manual** providing dimensioned CADD floor plans across four operational typologies—Plenary (up to 500 occupants), Classroom, Banquet, and Exhibition—scalable across four occupancy tiers (50 to 500 pax) and dual-event spatial subdivision. It directly embeds non-negotiable anthropometric clearances (900 mm row pitch, 1,800 mm waiter service lanes, and BP 344 stations), an absolute 2,000 mm door clearance buffer, and standardized column-grid layout guides so the utility crew sets up accurately on the very first pass without floor markings.
 > 2. **Second, Module 2: Samar-Calbayog Cultural Acoustic Overlays** that solve the hall's severe reverberation (measured RT60 = 2.53 seconds) using Basey *banig* wall panels and suspended waterfall ceiling baffles. Along the perimeter, we introduce a dropped ceiling soffit at +4,685 mm AFFL with a concealed dual-service pocket housing **Full-Height Wand-Drawn Acoustic Velour Drapery**. Curtains glide smoothly from +4,685 mm to the floor using 2.7-meter baton wands operated safely from floor level without ladders, with magnetic holdbacks locking curtains back to preserve a full 2,000 mm clear egress portal at every exit door (RA 9514).
 > 3. **Third, Module 3: An Overhead Ceiling Utility & Dimmable Smart Lighting Grid** featuring unistrut channels, motorized hoists, concealed cable raceways, DALI/DMX dimmable smart lighting tracks, inward 24V linear LED cove lighting washing the waterfall baffles, and illuminated 90-minute battery-backed Fire Exit signage. Most importantly, Channel B of the +4,685 mm soffit pocket integrates a **continuous Unistrut P1000 swagging rail**: decorators snap carabiners into hidden eyebolts for tensioned ceiling swags and festival bunting, completely eliminating 100% of the DIY wall drilling, screws, and tie-wire scars documented in our baseline audit.
 > 
@@ -204,7 +204,7 @@ When this thesis is completed, the "Framework" takes physical and visual form th
 > 2. On the perimeter edge, it conceals a recessed $150\times180\text{ mm}$ dual-service pocket. Inside, we integrated two parallel hidden channels:
 >    - **Channel A** houses our **Full-Height Acoustic Velour Drapery** on an architectural track. Using a discreet 2.7-meter fiberglass baton wand hidden behind the lead pleat, custodial staff effortlessly glide curtains from floor level without ladders. Curtains split at every exit door and snap to neodymium magnetic wall anchors, leaving a full 2,000 mm clear egress portal.
 >    - **Channel B** houses a continuous heavy-duty **Unistrut P1000 rigging rail** anchored directly to primary roof steel. When coordinators install radial ceiling fabric swagging for a gala, they clip carabiners into hidden eyebolts. The fabric emerges seamlessly from the soffit shadow gap, eliminating 100% of the DIY nails, drywall screws, and tie-wire scars.
-> 3. For life safety, we specified illuminated 90-minute battery-backed exit signs and photoluminescent floor indicia under RA 9514, with a mandatory 2,000 mm no-furniture door buffer.
+> 3. For life safety, we specified illuminated 90-minute battery-backed exit signs under RA 9514, with a mandatory 2,000 mm no-furniture door buffer.
 > 4. Finally, for exterior fenestration, we formally provide an **Administrative Handover Recommendation in Chapter 5** advising the Calbayog City Engineering Office to replace the non-compliant sliding exterior doors with code-mandated outward-swinging commercial double doors with panic hardware.
 > 
 > This completely eliminates setup guesswork, preserves the building shell, and upholds life safety while remaining strictly within the non-structural interior design scope of RA 10350."*
