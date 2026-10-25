@@ -6,9 +6,59 @@
 
 While metropolitan literature prioritizes massive multi-hall complexes, a critical research gap exists in adapting mid-scale provincial civic venues that must achieve rapid multi-event modularity and localized cultural placemaking within a single shared envelope.
 
+### 1.1 Facility Facts
+
+| **840 m²** | **5.39 m** | **500** | **2009** | **127** |
+| :---: | :---: | :---: | :---: | :---: |
+| interior floor area<br>711 hall + 129 lobby | ceiling height<br>6.20 m to truss chord | max occupants<br>plenary, code limit | opened as convention center<br>former municipal bus station | recorded events<br>2014–2026 |
+
+*Source: Ch. 4 §4.1.1; Appendix A (ledger).*
+
+### 1.2 Baseline Conditions
+
+**1. Empty hall.** A 711 m² column-free floor enclosed by hard glass and gypsum walls, with a fixed 940 mm concrete stage and no ceiling rigging points. Bare, the hall echoes for 2.53 s, more than double the 0.80–1.10 s target for clear speech.
+
+**2. Banquet.** Round tables fill the floor while buffet lines and caterers' prep stations crowd the side walls, since the hall has no back-of-house pantry. Ceiling décor and lighting hang from rented trusses that suppliers haul in and build for every event.
+
+**3. Plenary session.** Loose monobloc chairs are set in straight rows with a single central aisle facing a tarpaulin- or LED-dressed stage. Sound from one speaker reaches the far side weakly, and the empty rear floor adds to the echo.
+
+**4. Lobby exhibition.** Booths and tents crowd the 129 m² lobby, which has no air-conditioning (above 28 °C). Only one door leaf opens, so visitors and emergency egress share a single 1.0 m doorway with no marked fire exits.
+
+*Same envelope, four setups, each built from scratch with rented gear: the source of the 4- to 12-hour turnarounds.*
+
+*Source: Ch. 4 §4.1.1, §4.2.5 (observed and archival events), Table 4.8b (RT60 audit).*
+
 ---
 
-## 2. Existing Envelope Circulation & Operational Bottleneck Audit Map
+## 2. Scope and Limitations
+
+```
+┌─ OUT OF SCOPE ───────────────────────────────────────────────────┐
+│ Building shell · facade · columns · roof trusses                 │
+│ Outdoors · parking · offices · BOH kitchen · restrooms           │
+│ New theater or museum wings (met by modular setups)              │
+│ MEP / HVAC / acoustic / rigging engineering (interfaces only)    │
+│ Rental fees · budgets · marketing · staffing policy              │
+│                                                                  │
+│   ┌─ IN SCOPE: 840 m² INTERIOR ────────────────────────────────┐ │
+│   │ Main Hall 711 m²  +  Lobby 129 m²                          │ │
+│   │                                                            │ │
+│   │ 1  Layout templates: 4 typologies, 50–500 pax              │ │
+│   │ 2  FF&E density and capacity guides                        │ │
+│   │ 3  Spatial ruleset: PD 1096 · BP 344 · RA 9514             │ │
+│   │ 4  Samar heritage acoustic finishes                        │ │
+│   │ 5  Rigging track · modular stage · mobile FF&E             │ │
+│   └────────────────────────────────────────────────────────────┘ │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+**Method limit:** an unbuilt proposal cannot undergo post-occupancy evaluation, so the design is validated through a stakeholder FGD instead.
+
+*Source: Ch. 1, Scope and Limitations of the Study.*
+
+---
+
+## 3. Existing Envelope Circulation & Operational Bottleneck Audit Map
 
 **Drawing Title:** Baseline Spatial Circulation, Egress Deficits & Operational Bottlenecks Map  
 **Drawing Scale:** 1:150 to 1:200 (Metric Floor Plan on Board)  
@@ -17,7 +67,7 @@ While metropolitan literature prioritizes massive multi-hall complexes, a critic
 
 ---
 
-### 2.1 Drawing Annotation Legend & Circulation Vector Key
+### 3.1 Drawing Annotation Legend & Circulation Vector Key
 
 | Graphic Symbol | Vector / Marker Name | Linework & Color Specification | Operational Meaning on Plan (1:150–1:200) |
 | :---: | :--- | :--- | :--- |
@@ -28,7 +78,7 @@ While metropolitan literature prioritizes massive multi-hall complexes, a critic
 
 ---
 
-### 2.2 Numbered Spatial Marker Callouts (Direct Presentation Board Cards)
+### 3.2 Numbered Spatial Marker Callouts (Direct Presentation Board Cards)
 
 #### [1] Front Entrance Double-Door Throttle (Grid A / Main Entry Portal)
 * **Audited Architectural Baseline:** The building's main public entrance along Grid Line A features a nominal 2,000 mm frameless glass double-leaf portal. On-site field audits confirm that **only one door leaf can be unlocked and opened**, restricting the active pedestrian entrance to a narrow **1,000 mm clear opening**. During major events, this remaining portal is further constricted by registration reception tables and vendor display booths placed immediately adjacent to the threshold.
@@ -82,7 +132,7 @@ While metropolitan literature prioritizes massive multi-hall complexes, a critic
 
 ---
 
-### 2.3 Triangulation Synthesis Matrix: Non-Human Actants vs. Spatial Frictions
+### 3.3 Triangulation Synthesis Matrix: Non-Human Actants vs. Spatial Frictions
 
 | Marker | Audited Spatial Location | Rigid Non-Human Actant (Actor-Network Theory) | Resulting Operational Frictions & Human Frustration | Multi-Method Empirical Source Triangulation |
 | :---: | :--- | :--- | :--- | :--- |
@@ -95,7 +145,7 @@ While metropolitan literature prioritizes massive multi-hall complexes, a critic
 
 ---
 
-### 2.4 Presentation Board Layout & Drafting Specifications
+### 3.4 Presentation Board Layout & Drafting Specifications
 
 When drafting this diagram for your physical presentation board (AutoCAD, Revit, SketchUp, Photoshop, or InDesign):
 
@@ -116,7 +166,7 @@ When drafting this diagram for your physical presentation board (AutoCAD, Revit,
 
 ---
 
-## 3. Acoustic Node Audit Map & Reverberation Comparison Bar
+## 4. Acoustic Node Audit Map & Reverberation Comparison Bar
 
 **Drawing / Diagram Title:** Baseline Acoustic Decay (RT60) Node Map & Benchmark Comparison Bar  
 **Field Audit Standards:** ISO 3382-2:2008 (Interrupted Pink Noise Method) | IEC 61672-1 Class 2 Sound Level Meter (Benetech GM1352)  
@@ -124,7 +174,7 @@ When drafting this diagram for your physical presentation board (AutoCAD, Revit,
 
 ---
 
-### 3.1 Plan Dot Labels: 8-Point Spatial Listening Grid (P-1 to P-8)
+### 4.1 Plan Dot Labels: 8-Point Spatial Listening Grid (P-1 to P-8)
 
 Place circular node dots on the 1:150–1:200 floor plan with the following decay values:
 
@@ -141,7 +191,7 @@ Place circular node dots on the 1:150–1:200 floor plan with the following deca
 
 ---
 
-### 3.2 Acoustic Benchmark Horizontal Bar Chart Data
+### 4.2 Acoustic Benchmark Horizontal Bar Chart Data
 
 #### Visual Chart Representation (Reverberation Decay vs. Optimal Speech Target)
 
@@ -208,10 +258,9 @@ If board space is tight and you only want **one macro comparison bar**:
    * Label this band: *“Optimal Speech Clarity Zone (0.80–1.10 s)”*.
 4. **Data Callout Labels:** Display the exact numerical value in bold (e.g., `2.53 s`, `3.00 s`) at the right tip of each bar.
 
-
 ---
 
-### 3.3 Graphic Layout Guide for Presentation Board
+### 4.3 Graphic Layout Guide for Presentation Board
 
 * **Dot Graphic on Plan:** 4.0 mm diameter colored circle with white text.
   * Nodes **P-1 to P-6** (Main Hall): **Red Dot** (`HEX #D32F2F`) ➔ **Critical Reverberation Zone (2.17 s – 3.00 s)**.
@@ -222,7 +271,7 @@ If board space is tight and you only want **one macro comparison bar**:
 
 ---
 
-## 4. Attendee Baseline IEQ Satisfaction Horizontal Bar Chart (Objective 1.1)
+## 5. Attendee Baseline IEQ Satisfaction Horizontal Bar Chart (Objective 1.1)
 
 **Chart Title:** Attendee Baseline Indoor Environmental Quality (IEQ) Satisfaction Assessment  
 **Sample Population:** $N = 100$ Civic, Institutional, and Private Event Attendees  
@@ -231,7 +280,7 @@ If board space is tight and you only want **one macro comparison bar**:
 
 ---
 
-### 4.1 5-Point Evaluation Scale & Verbal Interpretation Band
+### 5.1 5-Point Evaluation Scale & Verbal Interpretation Band
 
 | Scale Range | Quantitative Interval | Verbal Interpretation | Operational Assessment on Site | Bar Color Coding |
 | :---: | :---: | :--- | :--- | :---: |
@@ -246,7 +295,7 @@ If board space is tight and you only want **one macro comparison bar**:
 
 ---
 
-### 4.2 Visual Horizontal Bar Chart (Worst at Top; 1.0–5.0 Scale)
+### 5.2 Visual Horizontal Bar Chart (Worst at Top; 1.0–5.0 Scale)
 
 ```
 [IEQ Dimension / Indicator]            Mean (x̄)  1.0      2.0      3.0      4.0      5.0
@@ -268,7 +317,7 @@ BENCHMARK TARGET THRESHOLD           : ≥ 3.40   |                    : [██
 
 ---
 
-### 4.3 Exact Chart Data Matrix (Copy-Paste for Adobe Illustrator / Excel / Figma / Canva)
+### 5.3 Exact Chart Data Matrix (Copy-Paste for Adobe Illustrator / Excel / Figma / Canva)
 
 Use this structured dataset to directly generate the horizontal bar chart for your board:
 
@@ -283,7 +332,7 @@ Use this structured dataset to directly generate the horizontal bar chart for yo
 
 ---
 
-### 4.4 Presentation Board Summary Callout Card
+### 5.4 Presentation Board Summary Callout Card
 
 * **Empirical Diagnostic Finding:** All five IEQ indicators land in the negative/deficient rating band ($x̄ < 2.70$), producing a composite satisfaction score of only **$x̄ = 2.44$ ($SD = 0.89$)**.
 * **Primary Occupant Grievance:** **Thermal Comfort ($x̄ = 2.08$)** represents the most severe failure; attendees endure suffocating conditions during full-capacity events due to failing perimeter AC units and a completely unconditioned 129 m² Lobby.
@@ -291,14 +340,8 @@ Use this structured dataset to directly generate the horizontal bar chart for yo
 * **Speech Masking:** Hard architectural surfaces generate reverberant blurring, restricting speech intelligibility satisfaction to $x̄ = 2.57$.
 
 ---
-Typology split from the 127-event
-ledger: Plenary 62 (48.8%) ·
-Classroom 32 (25.2%) · Banquet
-17 (13.4%) · Exhibition / hybrid 16
-(12.6%). Optional: events per era
-(16 · 5 · 34 · 72).
 
-### 4.5 Graphic Layout & Drafting Specifications for Presentation Board
+### 5.5 Graphic Layout & Drafting Specifications for Presentation Board
 
 1. **Orientation & Ordering:** Horizontal Bar Chart with **Worst Performance at the Top** (Thermal Comfort $2.08$ at top, descending to Lighting $2.69$, anchored by Composite $2.44$ at the base).
 2. **X-Axis Scale Bounds:**
@@ -314,7 +357,7 @@ Classroom 32 (25.2%) · Banquet
 
 ---
 
-## 5. Live Event Shadowing Case Studies: Primary Operational Failures (Protocol B)
+## 6. Live Event Shadowing Case Studies: Primary Operational Failures (Protocol B)
 
 **Board Element:** 5 Compact Photographic Diagnostic Cards  
 **Methodology:** Protocol B Live Event Shadowing (On-Site Ingress, In-Session & Egress Audits, Oct 5–17, 2026)  
@@ -367,7 +410,7 @@ Classroom 32 (25.2%) · Banquet
 
 ---
 
-### 5.1 Graphic Presentation Board Card Layout Specifications
+### 6.1 Graphic Presentation Board Card Layout Specifications
 
 * **Card Format:** 5 horizontal or vertical modular cards grouped in a neat row or grid labeled *“Empirical Failure Evidence (Protocol B Live Shadowing)”*.
 * **Card Dimensions on Board:** ~70 mm wide × 100 mm tall (for vertical card layout) or 120 mm wide × 55 mm tall (for horizontal card layout).
@@ -380,7 +423,7 @@ Classroom 32 (25.2%) · Banquet
 
 ---
 
-## 6. Longitudinal 127-Event Utilization Profile & Stacked Bar Data (2014–2026)
+## 7. Longitudinal 127-Event Utilization Profile & Stacked Bar Data (2014–2026)
 
 **Diagram Title:** 127-Event Historical Utilization Split & Operational Trajectory  
 **Data Scope:** Master Longitudinal Event Ledger (2014–2026, $N = 127$ Verified Historical Bookings)  
@@ -388,7 +431,7 @@ Classroom 32 (25.2%) · Banquet
 
 ---
 
-### 6.1 Visual 100% Stacked Bar Diagrams
+### 7.1 Visual 100% Stacked Bar Diagrams
 
 #### Bar A: Spatial Layout Typology Distribution (N = 127 Events)
 ```
@@ -411,7 +454,7 @@ Classroom 32 (25.2%) · Banquet
 
 ---
 
-### 6.2 Exact Stacked Bar Data Matrices (For Adobe Illustrator / Excel / Canva / InDesign)
+### 7.2 Exact Stacked Bar Data Matrices (For Adobe Illustrator / Excel / Canva / InDesign)
 
 #### Table A: Typology Split Data (Chapter 4 Table 4.2)
 Use this dataset to plot the **100% Stacked Horizontal Typology Bar**:
@@ -439,7 +482,7 @@ Use this dataset to plot the **4-Era Longitudinal Growth Stacked Bar / Trend**:
 
 ---
 
-### 6.3 Presentation Board Key Takeaway Callout Card
+### 7.3 Presentation Board Key Takeaway Callout Card
 
 * **Empirical Validation of Module 1:** The 4 proposed modular layout typologies are not speculative; they represent **100.0% of the facility's 12-year operational history**.
 * **Plenary & Training Dominance (74.0% Combined):** Almost three-quarters of all facility bookings require forward-focused seating, making speech acoustics ($RT_{60} \le 1.10\text{ s}$), unobstructed sightlines, and rapid chair resets the highest priority.
@@ -447,7 +490,7 @@ Use this dataset to plot the **4-Era Longitudinal Growth Stacked Bar / Trend**:
 
 ---
 
-### 6.4 Graphic Layout & CAD Drafting Specifications
+### 7.4 Graphic Layout & CAD Drafting Specifications
 
 1. **Bar Dimensions on Board:**
    * Length: Full-width ribbon (e.g., 180–220 mm wide across the diagnostic panel).
@@ -459,11 +502,11 @@ Use this dataset to plot the **4-Era Longitudinal Growth Stacked Bar / Trend**:
 
 ---
 
-## 7. Modular Operational Scenarios & Layout Test Suite (Objective 2: FGD Evaluative Stimuli)
+## 8. Modular Operational Scenarios & Layout Test Suite (Objective 2: FGD Evaluative Stimuli)
 
 **Board Element:** 13 Dimensioned Operational Layout Cards + 1 Companion Mega Mode  
 **Primary References:** Chapter 4 Section 4.5.2 & Table 4.14; Evaluative FGD Deck (`draft/06_FGD_Presentation_Slide_Deck_and_Visual_Scenarios_Guide.md` Slides 4–19); Chapter 4 Table 4.15  
-**Triangulated Spatial Defect Tags Fixed:**  
+**Triangulated Spatial Defect Tags Fixed (Mapped from Section 3):**  
 * **D1:** Front Entrance Double-Door Throttle & Queue Choke (Grid A)  
 * **D2:** Ingress Delivery Collision Axis / Lack of BOH Bay (Grids A–B)  
 * **D3:** Restroom Circulation Detour & Stage Crossing (Grids E–G)  
@@ -473,7 +516,7 @@ Use this dataset to plot the **4-Era Longitudinal Growth Stacked Bar / Trend**:
 
 ---
 
-### 7.1 Master Scenario Specifications & Operational Benchmark Matrix
+### 8.1 Master Scenario Specifications & Operational Benchmark Matrix
 
 | Scenario Code | Operational Typology & Capacity Scale Tier | Target Pax Scale | Key Anthropometric Clearances (Table 4.14) | Setup Turnaround (Opt. A → Opt. B) | Primary Bottlenecks & Defect Tags Fixed | Evaluated FGD Score (Table 4.15) |
 | :---: | :--- | :---: | :--- | :---: | :---: | :---: |
@@ -494,17 +537,17 @@ Use this dataset to plot the **4-Era Longitudinal Growth Stacked Bar / Trend**:
 
 ---
 
-### 7.2 Individual Scenario Presentation Board Callout Cards (Direct Board Text)
+### 8.2 Individual Scenario Presentation Board Callout Cards (Direct Board Text)
 
 #### Scenario 1A: Peak Civic Convocations (FGD Slide 4)
 * **Metrics:** 250–300 pax max · 1,800 mm centre processional aisle, 3,650 mm side exit aisles, 900 mm row pitch ($C \ge 60$ mm) · 2.5–3.5 h → < 1 h · Fixes D1, D4, D6.
-* **Caption (47 words):** Staggered theater rows eliminate flat-floor sightline decay for 290 occupants facing a 600 mm modular stage with platform lift. Four integrated BP 344 wheelchair bays ensure universal egress. Rolling dollies speed setup, while flown audio and wide side aisles maintain unhindered fire exit access.
+* **Caption (47 words):** Staggered V-chevron theater rows eliminate flat-floor sightline decay for 290 occupants facing a 600 mm modular stage with platform lift. Four integrated BP 344 wheelchair bays ensure universal egress. Rolling dollies speed setup, while flown audio and wide side aisles maintain unhindered fire exit access.
 
 ---
 
 #### Scenario 1B: Mid-Scale Civic Assembly (FGD Slide 5)
 * **Metrics:** 150–200 pax · 1,500 mm centre aisle, 4,800 mm side aisles, 1,800 × 2,400 mm AV media pockets · 2–3 h → < 45 min · Fixes D4, D5, D6.
-* **Caption (48 words):** Staggered theater rows provide unobstructed sightlines (60 mm) on a 600 mm stage with platform lift and two BP 344 bays. Dedicated perimeter AV pockets and ceiling cabling eliminate aisle trip hazards. Pre-calculated column-grid guides prevent row drifting, while Basey banig wall panels absorb speech reflections.
+* **Caption (48 words):** Staggered theater rows provide unobstructed sightlines ($C \ge 60$ mm) on a 600 mm stage with platform lift and two BP 344 bays. Dedicated perimeter AV pockets and ceiling cabling eliminate aisle trip hazards. Pre-calculated column-grid guides prevent row drifting, while Basey banig wall panels absorb speech reflections.
 
 ---
 
@@ -580,7 +623,7 @@ Use this dataset to plot the **4-Era Longitudinal Growth Stacked Bar / Trend**:
 
 ---
 
-### 7.3 Graphic Layout Specifications for Presentation Board Scenario Plates
+### 8.3 Graphic Layout Specifications for Presentation Board Scenario Plates
 
 1. **Card Layout & Scale:**
    * **Drawing Arrangement:** Group into 4 typology zones (Plenary: 1A–1C; Classroom: 2A–2C; Banquet: 3A–3C; Hybrid: 4A–4D).
@@ -591,9 +634,3 @@ Use this dataset to plot the **4-Era Longitudinal Growth Stacked Bar / Trend**:
    * **Caption:** 7.0 pt Regular Sans-Serif (leading at 9.5 pt), maintaining uniform ~47–49 word density.
 3. **Color-Coded Vector & Defect Callout Tags on Plans:**
    * Use red circle tags (`[D1]` to `[D6]`) to pinpoint where conventional status quo failures occur, and green check indicators (`✓`) highlighting the evidence-based modular remediation on the Option B plates.
-
-
-
-
-
-
