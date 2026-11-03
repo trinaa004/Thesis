@@ -21,7 +21,7 @@
    - [3.1 Executive Purpose & Reassurance](#31-executive-purpose--reassurance)
    - [3.2 The Target Facility Envelope & Known Friction Points](#32-the-target-facility-envelope--known-friction-points)
    - [3.3 The Core Comparative Framework: Option A vs. Option B](#33-the-core-comparative-framework-option-a-vs-option-b)
-   - [3.4 The 4 Operational Typologies & 12 Scenarios](#34-the-4-operational-typologies--12-scenarios)
+   - [3.4 The 4 Operational Typologies & 13 Scenarios](#34-the-4-operational-typologies--13-scenarios)
    - [3.5 How to Use the 5-Point Evaluation Rubric](#35-how-to-use-the-5-point-evaluation-rubric)
    - [3.6 Role-Differentiated Viewing Guidelines ("Your Specific Lens")](#36-role-differentiated-viewing-guidelines-your-specific-lens)
    - [3.7 Ethics, Audio Recording & Data Privacy (RA 10173)](#37-ethics-audio-recording--data-privacy-ra-10173)
@@ -225,7 +225,7 @@ Throughout the slide presentation, you will be shown side-by-side comparisons of
 
 ---
 
-### 3.4 The 4 Operational Typologies & 12 Scenarios
+### 3.4 The 4 Operational Typologies & 13 Scenarios
 The design framework organizes the convention center's 127 historical events into **4 Primary Functional Typologies**, each evaluated across **3 Capacity Scales (Peak, Mid-Scale, and Compact)**:
 
 1. **Typology 1: Plenary Assembly (Theatrical Convocations, Graduations, Civic Summits)**
@@ -304,7 +304,7 @@ While all participants may comment on any aspect of the designs, we encourage yo
 
 # Part 4: Verbatim Discussion Transcript Record
 
-*(The full, verbatim chronological transcript of the 120-minute Evaluative Focus Group Discussion session conducted over Google Meet—capturing stakeholder deliberations, role-differentiated questioning exchanges, scenario critiques, and consensus syntheses across all 12 operational scenarios—is recorded below).*
+*(The full, verbatim chronological transcript of the 120-minute Evaluative Focus Group Discussion session conducted over Google Meet—capturing stakeholder deliberations, role-differentiated questioning exchanges, scenario critiques, and consensus syntheses across all 13 operational scenarios—is recorded below).*
 
 ```
 SESSION TRANSCRIPTION LOG:

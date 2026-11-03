@@ -59,12 +59,12 @@ To satisfy Miss Kirah's strict mandate for a **Research-Based / Applied Experime
 
 ---
 
-## 3. The 12 Operational Scenarios & Comparative Layout Alternatives (Tri-Scale Architecture)
+## 3. The 13 Operational Scenarios & Comparative Layout Alternatives (Tri-Scale & Compound Hybrid Architecture)
 
-To resolve the bimodal and multi-scalar operational demands documented in the 12-year longitudinal event audit ($N = 127$; 2014–2026), the proposed interior design framework establishes a **Tri-Scale Testing Matrix (Compact, Mid-Scale, Peak)** across all four functional typologies (4 Typologies x 3 Scales = 12 Operational Scenarios):
+To resolve the bimodal and multi-scalar operational demands documented in the 12-year longitudinal event audit ($N = 127$; 2014–2026), the proposed interior design framework establishes an operational testing matrix across the functional typologies (Tri-Scale Architecture for Typologies 1 to 3, and 4 compound hybrid configurations for Typology 4, yielding 13 Operational Scenarios):
 
 ```
-                       [ THE 12-SCENARIO TRI-SCALE OPERATIONAL TEST MATRIX ]
+                       [ THE 13-SCENARIO OPERATIONAL TEST MATRIX ]
                                                  â”‚
          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
          â–¼                       â–¼                               â–¼                       â–¼
@@ -184,14 +184,14 @@ To resolve the bimodal and multi-scalar operational demands documented in the 12
 
 ### Typology 4: Exhibition / Trade Fair & Cultural Showcases (11.8%, f = 15)
 
-#### Scenario 4A: Hybrid 1  -  Classroom Assembly + Indoor Tent Exhibition Showcase (130-200 Occupants; Event #40) & Zero-Stage Flat-Floor Mega Mode
+#### Scenario 4A: Hybrid 1  -  Classroom Assembly + Indoor Tent Exhibition Showcase (130-200 Occupants; Event #40)
 * *Operational Demand:* Balanced zoning for concurrent classroom training and multi-disciplinary craft showcase; elimination of bulky outdoor tents inside the hall; unhindered perimeter emergency egress; overhead power/mic line drops.
-* *Empirical Grounding:* Triangulated with the *Samar-wide Artists Kolektib Gathering & Regional Cultural Arts Exhibition* (Event #40; ~200-295 registered delegates) and companion mega flat-floor career fairs (*PESO Employment Caravan*, Events #30, #71, #99).
+* *Empirical Grounding:* Triangulated with the *Samar-wide Artists Kolektib Gathering & Regional Cultural Arts Exhibition* (Event #40; ~200-295 registered delegates).
 * * **Option A: Cramped Front Classroom Tables (132 Seated), Center Mic Cable Hazard, & Ten Indoor 3x3m Tents (Status Quo Baseline)**
   - *Layout Description:* Front half contains 12 rectangular tables arranged in 2 rows × 6 columns seating 11 pax per table (5 on each long side, 1 at back end, front end empty facing stage = 132 seated participants); tables are linear, unstaggered, and cramped forward; a 1.0 m center aisle splits the tables into 3 columns on each side, obstructed by a wired microphone on a floor stand whose cable crosses directly across the central walkway; elevated concrete stage (+940 mm AFFL) is used solely as an LED wall plinth, with the speaker's podium down on the flat floor, portable T-lights on the stage, and decorative drapery covering the back wall. Rear half contains six 3 × 3 m outdoor pop-up display tents (3 on each side). Lobby contains four 3 × 3 m display tents (2 on each side). Exhibits display paintings, crafts, clothing, landscaping, bags, and instruments, with posters hung directly on tent frames. *Note: No dining or buffet area.*
   - *Operational Deficits:* Front tables cramped forward; 1.0 m center aisle obstructed by mic cable tripping hazard; bulky outdoor tents deployed indoors waste floor space, create dark shadow pockets under canopies, and restrict rear emergency exits; unconditioned lobby crowded by tents; elevated concrete stage underutilized.
 * * **Option B: Cabaret Classroom Rounds + Mobile Basey Exhibition Screens Replacing Tents + Overhead Drops (Proposed Modular)**
-  - *Layout Description:* Front half: Cabaret classroom of 19–20 round tables ($\varnothing 1800\text{ mm}$) × 7 seats on the far arc (≈ 133 seated) at 400–500 lx, with overhead retractable utility drops (zero floor wire hazard) and flown mains for the front half; clear sightlines (cabaret seating passes the $C \ge 60$ mm check at any stage height in this hall). Rear half: Standardized mobile double-sided Basey *banig* exhibition screens and modular display panels replacing bulky 3×3m outdoor tents, set as screen islands on a 2400 mm main loop with 1500 mm side aisles and properly illuminated by overhead track lighting (300–750 lux, CRI ≥ 90); no catering (coffee station at a lobby end wall if needed); preserving guaranteed $\ge 1500$ mm perimeter exit avenues. Lobby: Air-conditioned dual-zone concourse (22–24°C) with perimeter display tracks housing organized cultural artisan stalls with a 2000 mm door buffer under RA 9514. Stage: Reconfigured modular dais at 300 mm (3 × 3 decks) with an accessible BP 344 1:12 ramp (3.6 m run) in the recess side gap (or Zero-Stage Flat-Floor Mode for flat trade fairs reclaiming 52.5 sqm).
+  - *Layout Description:* Front half: Cabaret classroom of 19–20 round tables ($\varnothing 1800\text{ mm}$) × 7 seats on the far arc (≈ 133 seated) at 400–500 lx, with overhead retractable utility drops (zero floor wire hazard) and flown mains for the front half; clear sightlines (cabaret seating passes the $C \ge 60$ mm check at any stage height in this hall). Rear half: Standardized mobile double-sided Basey *banig* exhibition screens and modular display panels replacing bulky 3×3m outdoor tents, set as screen islands on a 2400 mm main loop with 1500 mm side aisles and properly illuminated by overhead track lighting (300–750 lux, CRI ≥ 90); no catering (coffee station at a lobby end wall if needed); preserving guaranteed $\ge 1500$ mm perimeter exit avenues. Lobby: Air-conditioned dual-zone concourse (22–24°C) with perimeter display tracks housing organized cultural artisan stalls with a 2000 mm door buffer under RA 9514. Stage: Reconfigured modular dais at 300 mm (3 × 3 decks) with an accessible BP 344 1:12 ramp (3.6 m run) in the recess side gap (modular stage decks can also be fully stowed in backstage storage when a zero-stage flat-floor configuration is required, reclaiming 52.5 sqm).
   - *Operational Advantages:* 100% floor cord decoupling; zero outdoor tents inside; clear $\ge 1500$ mm egress avenues; professional track lighting; setup cut from 5–6h to < 1h.
 
 #### Scenario 4B: Mid-Scale Civic Trade Fair & Community Expo (14-18 Booths / 200-350 Community Flow)  -  Circulation Balance
@@ -216,7 +216,7 @@ To resolve the bimodal and multi-scalar operational demands documented in the 12
   - *Layout Description:* 13 cooking stations with portable butane stoves pushed against perimeter walls; spectators packed into unzoned center theater chairs facing a single linear dish presentation table set 2.4 m away; static 52.5 sqm stage used solely to hold an LED timer clock; unconditioned lobby concourse (>28°C).
   - *Operational Deficits:* Severe spectator crush and bottleneck around single dish display table during judging; massive 52.5 sqm stage is completely wasted; unconditioned, stuffy lobby (>28°C); absence of dedicated culinary history showcase.
 * * **Option B: Zoned Demonstration Hub & Lobby Cultural Gallery (Proposed Modular)**
-  - *Layout Description:* Demonstration cooking stations arranged along both side walls (1.0 m cook zone + 0.75 m table, then a 2.4 m crowd aisle) with fire-rated washable floor mats, lit at 300–750 lx (CRI ≥ 90), with drapery tied back from the stoves (BFP permit required for indoor butane stoves); spectator theater rows in the centre (2 blocks × 11 seats, 1500 mm centre aisle, 7 rows ≈ 154) facing a judging table on a 300 mm front dais (modular stage, 3 × 3 decks, 3.6 m ramp) used for judging and awards; dish queue to the dais with stanchions at 0.9 m per person + 1.2 m bypass; flown mains for the emcee; **129 sqm Lobby transformed into an air-conditioned gallery showcasing the history of tinapa in Calbayog City and its cultural and economic significance, partitioned with wand-drawn fabric dividers**.
+  - *Layout Description:* Demonstration cooking stations arranged along both side walls (1.0 m cook zone + 0.75 m table, then a 2.4 m crowd aisle) with fire-rated washable floor mats, lit at 300–750 lx (CRI ≥ 90), with drapery tied back from the stoves (BFP permit required for indoor butane stoves); spectator theater rows in the centre (1 block × 11 seats, 10 rows ≈ 110, 2.5 m side aisle) facing a judging table on a 300 mm front dais (modular stage, 3 × 3 decks, with movable platform lift at the side) used for judging and awards; dish queue to the dais with stanchions at 0.9 m per person + 1.2 m bypass; flown mains for the emcee; **129 sqm Lobby transformed into an air-conditioned gallery showcasing the history of tinapa in Calbayog City and its cultural and economic significance, partitioned with wand-drawn fabric dividers**.
   - *Operational Advantages:* Front judging dais with a stanchioned dish queue eliminates spectator crushes; seated theater rows give spectators a clear line-of-sight to the judging dais; stage is actively utilized for judging and awards; 129 sqm lobby concourse serves as an air-conditioned cultural tinapa history gallery; setup completed in $< 45$ minutes.
 
 ---
@@ -288,7 +288,7 @@ Here is how this scenario-based testing framework flows seamlessly through your 
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │ **CHAPTER 4 (Data Presentation & Analysis):**                                          │
 │ • Section 4.5 presents the **FGD Scenario Testing Results**:                           │
-│   - Comparative score tables (Option A vs Option B across Scenarios 1A–4C across the 12-scenario tri-scale matrix). │
+│   - Comparative score tables (Option A vs Option B across Scenarios 1A–4D across the 13-scenario matrix). │
 │   - Thematic synthesis of stakeholder critique during moderated discussion.            │
 │   - The **Problem-to-Design Refinement Matrix** documenting adjustments made based on  │
 │     stakeholder feedback.                                                              │
@@ -309,7 +309,7 @@ Here is how this scenario-based testing framework flows seamlessly through your 
 > 
 > In this study, I did not simply present a single, take-it-or-leave-it aesthetic design. Instead, I established a rigorous testing protocol:
 > 
-> 1. **First, I identified the twelve operational scenarios across three capacity tiers (Compact, Mid-Scale, Peak)** demanded by the facility's 12-year booking history across all four typologies (Plenary, Classroom, Banquet, and Exhibition).
+> 1. **First, I identified the thirteen operational scenarios (Typologies 1 to 3 across 3 capacity tiers, and Typology 4 across 4 compound hybrid configurations)** demanded by the facility's 12-year booking history across all four typologies (Plenary, Classroom, Banquet, and Exhibition).
 > 2. **Second, for each scenario, I formulated competing spatial layout alternatives**—such as comparing Traditional Linear Seating against V-Shaped (Chevron) Theater Rows for 500-occupant plenary assemblies, and comparing Orthogonal Grids against Zoned Diamond Clusters for banquets.
 > 3. **Third, I empirically tested these alternatives in Phase 3** through an Evaluative Focus Group Discussion with 7 to 10 key stakeholders—including event planners, custodial staff, and attendees—using a structured 5-point rubric measuring turnaround speed, anthropometric clearances, sightline C-values, and BP 344 egress compliance.
 > 

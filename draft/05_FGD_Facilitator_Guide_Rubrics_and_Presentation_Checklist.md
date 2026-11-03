@@ -22,7 +22,7 @@
 
 To conduct a valid, scientific evaluative FGD (Tremblay, Hevner, & Berndt, 2010; Zeisel, 2006; Sanoff, 2000), you cannot simply show raw architectural blueprints or decorative 3D glamour shots. You must present **side-by-side comparative stimuli**: showing **Option A (Conventional Status Quo)** versus **Option B (Proposed Modular Reconfigurable Framework)** across each operational scenario.
 
-Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides, or Canva) exported to a high-resolution PDF for seamless screen sharing over Google Meet, structured across the 12-scenario tri-scale matrix.
+Prepare a **24-slide presentation deck** (using PowerPoint, Google Slides, or Canva) exported to a high-resolution PDF for seamless screen sharing over Google Meet, structured across the 13-scenario matrix (tri-scale and compound hybrids).
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -51,7 +51,7 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
 #### Slide 2: Locale Envelope, 127-Event Evidence & Lobby Interventions
 * **Slide Contents:**
   * **Envelope Summary Graphic:** 840 sqm total footprint (711 sqm Main Plenary Hall + 129 sqm Lobby concourse; clear height: 5.39 m plasterboard plane, 6.20 m to lower truss chord; max capacity: 500 occupants).
-  * **Empirical Grounding:** Summary chart from Chapter 4 Table 4.2 ($N = 129$ longitudinal events, 2014–2026) triangulated with live operational shadowing across 5 verified events (*TESDA Graduation* 80–100 pax, *Samar Investment Forum* 150–200 pax mixed-use, *Wedding Event* 150 pax, *PAGPASAMWAK Caravan* 300 pax mixed-use, and *Stakeholder's Night* 200 pax).
+  * **Empirical Grounding:** Summary chart from Chapter 4 Table 4.2 ($N = 127$ longitudinal events, 2014–2026) triangulated with live operational shadowing across 5 verified events (*TESDA Graduation* 80–100 pax, *Samar Investment Forum* 150–200 pax mixed-use, *Wedding Event* 150 pax, *PAGPASAMWAK Caravan* 300 pax mixed-use, and *Stakeholder's Night* 200 pax).
   * **129 sqm Lobby Upgrade Callouts:** Addition of two dedicated split-type AC units mounted on Grid Lines 1 and 4 at Columns 1A and 4A (utilizing existing electrical wall sockets) to eliminate documented lobby heat, paired with overhead perimeter ceiling rigging points with wand-drawn fabric dividers to create an active pop-up cultural showcase without blocking exit doors.
   * **Scope Reminder Box:** Non-structural interior fit-out (modular furniture, surface acoustic claddings, ceiling track grids, interior wayfinding). Exterior civil structure, roof framing, and parking are out of scope.
 #### Slide 3: Typology 1 (Plenary Assembly)  -  Tri-Scale Architecture Overview
@@ -189,14 +189,14 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
     * *Visual Callouts:* Creates intimate, cohesive celebration hub; eliminates floor clutter; air-conditioned lobby provides dignified guest arrival; setup in $< 1$ hour.
     * *3D View:* Warm, celebratory wedding reception ambiance with defined dance floor and photobooth foyer.
 
-#### Slide 15: Typology 4 (Exhibition / Trade)  -  Tri-Scale Architecture Overview
+#### Slide 15: Typology 4 (Compound Multi-Use Hybrid Typologies)  -  Overview
 * **Slide Contents:**
-  * Typology Profile: 11.8% historical frequency ($f = 15$ of 127 events).
-  * The Tri-Scale Matrix: Scenario 4A (Mega Trade: 20-26 Booths / Zero-Stage / 350-500p), Scenario 4B (Mid Expo: 14-18 Booths / 200-350p), Scenario 4C (Boutique Cookfest: 10-14 Stations / 100-180p).
+  * Typology Profile: 12.6% historical frequency ($f = 16$ of 127 events).
+  * The Compound Hybrid Matrix: Scenario 4A (Hybrid H1: Classroom + Tent Showcase, 130–200p), Scenario 4B (Hybrid H2: Training + Craft Showcase, 30–60p), Scenario 4C (Hybrid H3: Cookfest + Plenary Judging, 100–180p), Scenario 4D (Hybrid H4: Banquet + Concourse Expo, 150–200p).
   * Core Design Challenge: Static 52.5 sqm concrete stage wasting 7.4% of hall footprint, trade tables pushed into lobby blocking entrance door leaves (RA 9514 violation), and absence of structured judging flow or dedicated cultural culinary exhibition infrastructure during cookfests.
 
 #### Slide 16: Scenario 4A (Hybrid Type H1)  -  Classroom Assembly + Indoor Tent Exhibition Showcase (130-200 Occupants)
-* **Empirical Grounding:** Triangulated with the *Samar-wide Artists Kolektib Gathering & Regional Cultural Arts Exhibition* (Event #40; ~200-295 registered delegates) and companion flat-floor job fairs (*PESO Mega Employment Caravan*, Events #30, #71).
+* **Empirical Grounding:** Triangulated with the *Samar-wide Artists Kolektib Gathering & Regional Cultural Arts Exhibition* (Event #40; ~200-295 registered delegates).
 * **What to Produce in CADD / 3D:**
   * **Option A (Left):**
     * *2D Plan:* Front half of Main Hall contains 12 rectangular tables arranged in 2 rows × 6 columns, seating 11 pax per table (5 on each long side, 1 at back end, front end empty facing stage = 132 seated participants); tables are linear, unstaggered, and cramped forward; a 1.0 m center aisle splits the tables into 3 columns on each side, obstructed by a wired microphone on a floor stand whose cable crosses directly across the central walkway; elevated concrete stage (+940 mm AFFL) is used solely as an LED wall plinth, with the speaker's podium down on the flat floor, portable T-lights on the stage, and decorative drapery covering the back wall. Rear half contains six 3 × 3 m outdoor pop-up display tents (3 on each side). Lobby contains four 3 × 3 m display tents (2 on each side). Exhibits display paintings, crafts, clothing, landscaping, bags, and instruments, with posters hung directly on tent frames. *Note: No dining or buffet area.*
@@ -207,8 +207,32 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
     * *Visual Callouts:* 100% floor cord decoupling; zero outdoor tents inside; clear $\ge 1500$ mm egress avenues; professional track lighting.
     * *3D View:* Cabaret classroom rounds forward facing the presentation dais, seamless transition to an elegant exhibition pavilion in the rear featuring warm overhead track lighting on textured Basey *banig* art screens, and clear circulation avenues throughout.
 
-#### Slide 17: Scenario 4B  -  Mid-Scale Civic Trade Fair & Community Expo (14-18 Booths / 200-350 Flow)
-* **Empirical Grounding:** Live shadowing of the *Samar Investment Forum Trade Fair* (Oct 11-12, 2026; 15 booths) and community agri-livestock expos (Event #62).
+#### Slide 17: Scenario 4B (Hybrid Type H2)  -  Collaborative Classroom Training + Artisanal Craft Showcase (30-60 Occupants)
+* **Empirical Grounding:** Triangulated with the *DTI Samar Creative Entrepreneurship Training* (Event #3; 53 entrepreneurs) and *Waray Wikipedia Cultural Edit-a-thon* (Event #4).
+* **What to Produce in CADD / 3D:**
+  * **Option A (Left):**
+    * *2D Plan:* 53 participants crammed into linear folding desks in front 30% of hall; rear 70% left as an echoing vacant void used as an uncoordinated craft display with loose cords; **129 sqm Lobby completely unused and bypassed**.
+    * *Visual Callouts:* Front cramming; rear 70% makeshift craft clutter; **129 sqm lobby 100% unused and bypassed**; bare masonry reflects vocal sound; heavy folding tables stacked against walls; 4 hours setup.
+    * *3D View:* Cramped linear training desks forward with dark vacant void behind and loose cables.
+  * **Option B (Right - Proposed):**
+    * *2D Plan:* Same layout as Scenario 2C plus craft display tables: 8 $\varnothing 1800\text{ mm}$ round tables × 7 seats (56) in the front zone facing the LED wall, no stage; dedicated mobile craft display tables (300–750 lx, CRI ≥ 90) along perimeter buffer with overhead ceiling power drops; mobile Basey *banig* screens shielding rear hall; 129 sqm Lobby activated for registration and break buffets, kept 2.0 m off both doors.
+    * *Visual Callouts:* 100% floor cord decoupling via overhead cord reels; intimate acoustic chamber (modeled $RT_{60} \le 0.95$ s); active lobby concourse; setup completed in $< 20$ minutes by 2 workers.
+    * *3D View:* Intimate creative workshop layout with clear circulation lanes, lighted craft display tables, active lobby concourse, and warm architectural lighting.
+
+#### Slide 18: Scenario 4C (Hybrid Type H3)  -  Interactive Culinary Cookfest + Radial Plenary Judging (100-180 Occupants)
+* **Empirical Grounding:** Triangulated with the *Annual Calbayog Tinapa 101 Culinary Cookfest* (Events #9, #48, #125; 13 cooking groups + judges + spectators, ~150 pax) and *Rotary Surgical/Medical Mission* (Event #42).
+* **What to Produce in CADD / 3D:**
+  * **Option A (Left):**
+    * *2D Plan:* 13 cooking stations with portable butane stoves pushed against perimeter walls; spectators packed into unzoned center theater chairs facing a single linear dish presentation table set 2.4 m away; static 52.5 sqm stage used solely to hold an LED timer clock; unconditioned lobby concourse (>28°C).
+    * *Visual Callouts:* Severe spectator crush and bottleneck around single dish display table during judging; massive 52.5 sqm stage is completely wasted; unconditioned, stuffy lobby (>28°C); absence of dedicated culinary history showcase.
+    * *3D View:* Crowded, stuffy hall with dense spectator crush around a solitary judging table.
+  * **Option B (Right - Proposed):**
+    * *2D Plan:* Zoned Demonstration Hub & Lobby Cultural Gallery: Demonstration cooking stations arranged along both side walls (1.0 m cook zone + 0.75 m table, then a 2.4 m crowd aisle) with fire-rated washable floor mats, lit at 300–750 lx (CRI ≥ 90), with drapery tied back from the stoves (BFP permit required for indoor butane stoves); spectator theater rows in the centre (1 block × 11 seats, 10 rows ≈ 110, 2.5 m side aisle) facing a judging table on a 300 mm front dais (modular stage, 3 × 3 decks, with movable platform lift at the side) used for judging and awards; dish queue to the dais with stanchions at 0.9 m per person + 1.2 m bypass; flown mains for the emcee; **129 sqm Lobby transformed into an air-conditioned gallery showcasing the history of tinapa in Calbayog City and its cultural and economic significance, partitioned with wand-drawn fabric dividers**.
+    * *Visual Callouts:* Front judging dais with a stanchioned dish queue eliminates spectator crushes; seated theater rows give spectators a clear line-of-sight to the judging dais; stage is actively utilized for judging and awards; 129 sqm lobby concourse serves as an air-conditioned cultural tinapa history gallery; setup completed in $< 45$ minutes.
+    * *3D View:* High-energy culinary competition layout with organized spectator seating, clear judging lines, and inspiring cultural tinapa history gallery in the cooled lobby.
+
+#### Slide 19: Scenario 4D (Hybrid Type H4)  -  Dual-Zone Main Hall Banquet + Concourse Promotional Expo & Concessionaires (150-200 Occupants)
+* **Empirical Grounding:** Live shadowing of the *Samar Investment Forum Trade Fair & Investor's Gala* (Oct 10-12, 2026; Event #123; 15 booths).
 * **What to Produce in CADD / 3D:**
   * **Option A (Left):**
     * *2D Plan:* 
@@ -218,29 +242,17 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
     * *Visual Callouts:* Disconnected visitor flow; extreme lobby heat (>28°C); **secondary main exit door leaf blocked by trade table (direct RA 9514 Section 10.2.5.2 violation)**; municipal agro-industrial stalls and concessionaires displaced to outdoor driveway exposed to rain and passing traffic.
     * *3D View:* Stuffy, congested lobby with blocked double door leaf and outdoor pop-up tents along vehicular driveway.
   * **Option B (Right - Proposed):**
-    * *2D Plan:* Dual-Zone Concourse & 100% Indoor Exhibit Containment: Dual split-type ACs (Cols 1A & 4A) in 129 sqm Lobby maintain 22°–24°C; wand-drawn fabric divider tracks organize 8 indoor stalls of 2 × 2 m (4 on the Grid A wall, 2 on each end wall, along a 3.9 m aisle; 3 × 3 m tents do not fit) lit at 300–750 lux, with strict 2000 mm exit buffer clear of both entry/exit double door leaves; Main Hall configured with 16 display stalls (perimeter + dual-island) or banquet layout (20 ten-person round tables at 3.6 m centres, warm lighting plus stage wash) + 300 mm demo dais (3 × 3 decks) with a 3.6 m ramp; for banquet use, 2 buffet lines + crew pockets in the rear-hall corners (not the lobby) and registration just inside the hall entrance, ≥ 2000 mm from the threshold; flown mains in the hall only.
+    * *2D Plan:* Dual-Zone Concourse & 100% Indoor Exhibit Containment: Dual split-type ACs (Cols 1A & 4A) in 129 sqm Lobby maintain 22°–24°C; wand-drawn fabric divider tracks organize 8 indoor stalls of 2 × 2 m (4 on the Grid A wall, 2 on each end wall, along a 3.9 m aisle; 3 × 3 m tents do not fit) lit at 300–750 lux, with strict 2000 mm exit buffer clear of both entry/exit double door leaves; Main Hall configured with banquet layout (20 ten-person round tables at 3.6 m centres, warm lighting plus stage wash) + 300 mm demo dais (3 × 3 decks) with a 3.6 m ramp; 2 buffet lines + crew pockets in the rear-hall corners (not the lobby) and registration just inside the hall entrance, ≥ 2000 mm from the threshold; flown mains in the hall only.
     * *Visual Callouts:* Smooth, intuitive pedestrian traffic; active demonstration stage engages buyers; **100% indoor containment of all municipal exhibits and concessionaires**; zero outdoor driveway displacement; both entrance/exit doors 100% unobstructed; $< 1$-hour setup.
-    * *3D View:* Professional community expo with active demonstration stage and air-conditioned, fully contained lobby concourse.
+    * *3D View:* Professional community expo with active presentation dais, organized banquet dining, and air-conditioned, fully contained lobby concourse.
 
-#### Slide 18: Scenario 4C  -  Boutique Cultural Showcase & Live Culinary Cookfest (10-14 Stations / 100-180 Occupants)
-* **Empirical Grounding:** Triangulated with the *Annual Calbayog Tinapa 101 Culinary Cookfest* (Events #9, #48, #125; 13 cooking groups + judges + spectators, ~150 pax) and *Rotary Surgical/Medical Mission* (Event #42).
-* **What to Produce in CADD / 3D:**
-  * **Option A (Left):**
-    * *2D Plan:* 13 cooking stations with portable butane stoves pushed against perimeter walls; spectators packed into unzoned center theater chairs facing a single linear dish presentation table set 2.4 m away; static 52.5 sqm stage used solely to hold an LED timer clock; unconditioned lobby concourse (>28°C).
-    * *Visual Callouts:* Severe spectator crush and bottleneck around single dish display table during judging; massive 52.5 sqm stage is completely wasted; unconditioned, stuffy lobby (>28°C); absence of dedicated culinary history showcase.
-    * *3D View:* Crowded, stuffy hall with dense spectator crush around a solitary judging table.
-  * **Option B (Right - Proposed):**
-    * *2D Plan:* Zoned Demonstration Hub & Lobby Cultural Gallery: Demonstration cooking stations arranged along both side walls (1.0 m cook zone + 0.75 m table, then a 2.4 m crowd aisle) with fire-rated washable floor mats, lit at 300–750 lx (CRI ≥ 90), with drapery tied back from the stoves (BFP permit required for indoor butane stoves); spectator theater rows in the centre (2 blocks × 11 seats, 1500 mm centre aisle, 7 rows ≈ 154) facing a judging table on a 300 mm front dais (modular stage, 3 × 3 decks, 3.6 m ramp) used for judging and awards; dish queue to the dais with stanchions at 0.9 m per person + 1.2 m bypass; flown mains for the emcee; **129 sqm Lobby transformed into an air-conditioned gallery showcasing the history of tinapa in Calbayog City and its cultural and economic significance, partitioned with wand-drawn fabric dividers**.
-    * *Visual Callouts:* Front judging dais with a stanchioned dish queue eliminates spectator crushes; seated theater rows give spectators a clear line-of-sight to the judging dais; stage is actively utilized for judging and awards; 129 sqm lobby concourse serves as an air-conditioned cultural tinapa history gallery; setup completed in $< 45$ minutes.
-    * *3D View:* High-energy culinary competition layout with organized spectator seating, clear judging lines, and inspiring cultural tinapa history gallery in the cooled lobby.
-
-#### Slide 19: Non-Structural Module 3  -  Overhead Utility Grid, Perimeter Dropped Soffit, & Smart Lighting
+#### Slide 20: Non-Structural Module 3  -  Overhead Utility Grid, Perimeter Dropped Soffit, & Smart Lighting
 * **What to Produce in CADD / 3D:**
   * *Reflected Ceiling Plan (RCP):* Dimensioned structural steel unistrut/box truss track system suspended at $+5,390\text{ mm}$ AFFL (deck level); perimeter dropped ceiling soffit at $+4,685\text{ mm}$ AFFL ($705\text{ mm}$ plenum drop) with inward-facing linear 24V LED cove wash and downward concealed dual-service pocket ($150\times180\text{ mm}$) housing the full-height wand curtain track (Channel A) and continuous Unistrut P1000 swagging rail (Channel B).
   * *Schematic Sections:* Motorized chain hoists, standardized 3-circuit DALI/DMX dimmable lighting tracks, audio line-array pick points, ceiling utility reels, and illuminated 90-minute battery-backed Fire Exit signs (RA 9514).
   * *Before-and-After Diagram:* Shows the elimination of 4 bulky ground truss towers (instantly reclaiming 40 guest seats), floor speaker tripod stands, and taped floor cabling across walkways.
 
-#### Slide 20: Non-Structural Module 2  -  Cultural Acoustic Architecture & Full-Height Drapery
+#### Slide 21: Non-Structural Module 2  -  Cultural Acoustic Architecture & Full-Height Drapery
 * **What to Produce in CADD / 3D:**
   * *Wall Detail Drawings & Material Swatches:*
     * **Stage Perimeter Walls:** Commercial Wallcrown Atmosphere Digest Wallpaper (Code: UW1062) in light beige (dried-*tikog*-inspired subtle linear texture).
@@ -253,20 +265,20 @@ Prepare a **19-to-22 slide presentation deck** (using PowerPoint, Google Slides,
     * Suspended curvilinear PET acoustic felt baffles mimicking Calbayog's cascading waterfalls (Tarangban, Bangon, Mapaso falls; NRC $\ge 0.85$) washed by the inward LED cove light.
   * *3D Close-up Renderings:* Photorealistic interior views showing how acoustic claddings provide dignified civic identity, eliminating the need for temporary vinyl tarpaulins.
 
-#### Slide 21: Non-Structural Module 4  -  Flexible Lobby Cultural Concourse & Dual AC Retrofit
+#### Slide 22: Non-Structural Module 4  -  Flexible Lobby Cultural Concourse & Dual AC Retrofit
 * **What to Produce in CADD / 3D:**
   * *2D Lobby Plan & Sections:* 129 sqm Lobby concourse outfitted with two 2.5 HP split-type inverter AC units mounted on Grid Lines 1 and 4 at Columns 1A and 4A (drawing power from existing 220V wall outlets), reducing ambient heat from >28Â°C to 22-24Â°C.
   * *Overhead Perimeter Track & Fabric Dividers:* Ceiling-recessed curtain tracks along perimeter walls with lightweight wand-drawn sheer/opaque fabric dividers, allowing dynamic partitioning into registration, VIP holding, or artisanal craft booths without impeding emergency exit doors.
   * *Step-Free Threshold & Terrazzo Flooring:* Flush transition from entry doors into main plenary hall, finished with A-xet Bianco Snow Terrazzo LVT.
 
-#### Slide 22: Digital Rubric Instructions & QR Code / Chat Link
+#### Slide 23: Digital Rubric Instructions & QR Code / Chat Link
 * **Slide Contents:**
-  * Prominent text: *"Time for Independent Silent Rubric Scoring (12-15 Minutes  -  12 Scenarios)"*
-  * Direct Google Meet chat message link to the Google Form (Sections 1, 2 [12 Scenarios], 3, and 4)
+  * Prominent text: *"Time for Independent Silent Rubric Scoring (12-15 Minutes  -  13 Scenarios)"*
+  * Direct Google Meet chat message link to the Google Form (Sections 1, 2 [13 Scenarios], 3, and 4)
   * Large, high-contrast QR code on screen (for mobile scoring)
-  * Brief instructions: *"Please complete all 12 operational scenarios in Section 2 in silence before we unmute for group discussion. Be honest, critical, and objective!"*
+  * Brief instructions: *"Please complete all 13 operational scenarios in Section 2 in silence before we unmute for group discussion. Be honest, critical, and objective!"*
 
-#### Slide 23: Guided Thematic Discussion Route
+#### Slide 24: Guided Thematic Discussion Route
 * **Slide Contents:**
   * Overview of Discussion Blocks (120-Minute Teleconference Framework):
     1. *Block 1: Turnaround Times & Furniture Logistics (Planners & Venue Operators focus)*
@@ -314,11 +326,11 @@ To make the evaluation seamless in a Google Meet environment, build a **Google F
 
 ---
 
-### Section 2: Scenario-Based Comparative Rubric (Option A vs. Option B  -  12-Scenario Tri-Scale Architecture)
+### Section 2: Scenario-Based Comparative Rubric (Option A vs. Option B  -  13 Operational Scenarios Across 4 Typologies)
 *(Feeds directly into Chapter 4 Table 4.15)*
 
 *Section Description:*  
-*Please rate each layout alternative on a 5-point scale across all twelve tri-scale operational scenarios:*  
+*Please rate each layout alternative on a 5-point scale across all thirteen operational scenarios (Typologies 1 to 3 across 3 scales, and Typology 4 across 4 compound hybrid configurations):*  
 **5 = Highly Optimized / Superior | 4 = Acceptable / Functional | 3 = Moderately Deficient | 2 = Severe Bottleneck | 1 = Critically Deficient / Unusable**
 
 ---
@@ -398,28 +410,35 @@ To make the evaluation seamless in a Google Meet environment, build a **Google F
 
 ---
 
-#### Typology 4: Exhibition / Trade Fair & Cultural Showcases (11.8%, f = 15)
+#### Typology 4: Compound Multi-Use Hybrid Typologies (12.6%, f = 16)
 
-##### Scenario 4A: Hybrid 1 - Classroom Assembly + Indoor Tent Exhibition Showcase (130-200 Occupants; Event #40) & Flat-Floor Trade Mode
+##### Scenario 4A: Hybrid Type H1 - Classroom Assembly + Indoor Tent Exhibition Showcase (130-200 Occupants; Event #40)
 * **Item 4A.1. Option A: Cramped Front Classroom Tables (132 Seated), Center Mic Cable Hazard, & Ten Indoor 3x3m Tents (Status Quo Baseline)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
-* **Item 4A.2. Option B: Cabaret Classroom Rounds + Mobile Basey Exhibition Screens Replacing Tents + Overhead Drops (Proposed Modular)**  
+* **Item 4A.2. Option B: Cabaret Classroom Rounds + Mobile Basey Banig Exhibition Screens + Overhead Utility Drops (Proposed Modular)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
 * *Scenario 4A Specific Comments / Observations:* [Paragraph Text]
 
-##### Scenario 4B: Mid-Scale Civic Trade Fair & Community Expo (14-18 Booths / 200-350 Community Flow)  -  Circulation Balance
-* **Item 4B.1. Option A: Lobby Cramming, Blocked Exit Leaf, & Driveway Spillover (Status Quo Baseline)**  
+##### Scenario 4B: Hybrid Type H2 - Collaborative Classroom Training + Artisanal Craft Showcase (30-60 Occupants; Event #3)
+* **Item 4B.1. Option A: Front Desk Cramming (53 Pax), Rear Echo Void Craft Clutter, & Bypassed Unconditioned Lobby (Status Quo Baseline)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
-* **Item 4B.2. Option B: Dual-Zone Concourse & 100% Indoor Exhibit Containment (Proposed Modular)**  
+* **Item 4B.2. Option B: Cabaret Workshop Rounds (56 Pax) + Perimeter Lit Craft Tables + Basey Banig Screen Acoustic Chamber & Activated Lobby (Proposed Modular)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
 * *Scenario 4B Specific Comments / Observations:* [Paragraph Text]
 
-##### Scenario 4C: Boutique Cultural Showcase & Live Culinary Cookfest (10-14 Stations / 100-180 Occupants)  -  Judging Ergonomics & Cultural Placemaking
-* **Item 4C.1. Option A: Perimeter Wall Cooking & Central Spectator Jam (Status Quo Baseline)**  
+##### Scenario 4C: Hybrid Type H3 - Interactive Culinary Cookfest + Radial Plenary Judging (100-180 Occupants; Events #9, #48, #125)
+* **Item 4C.1. Option A: Perimeter Cooking Bottlenecks, Spectator Crush at Solitary Dish Table, & Unconditioned Lobby (Status Quo Baseline)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
-* **Item 4C.2. Option B: Zoned Demonstration Hub & Lobby Cultural Tinapa Gallery (Proposed Modular)**  
+* **Item 4C.2. Option B: Zoned Demonstration Perimeter + Central Seated Plenary (110 Seats) + Raised Judging Dais & Lobby Tinapa History Gallery (Proposed Modular)**  
   *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
 * *Scenario 4C Specific Comments / Observations:* [Paragraph Text]
+
+##### Scenario 4D: Hybrid Type H4 - Dual-Zone Main Hall Banquet + Concourse Promotional Expo & Concessionaires (150-200 Occupants; Event #123)
+* **Item 4D.1. Option A: Blocked Second Main Double-Door Leaf, Non-AC Lobby Overheating, & Municipal Concessionaires Expelled to Driveway (Status Quo Baseline)**  
+  *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
+* **Item 4D.2. Option B: Dual-Zone Concourse (22-24°C) with 2000 mm Door Buffer + 100% Indoor Exhibit Containment & Flown Sound Banquet (Proposed Modular)**  
+  *Rating (Linear Scale 1 to 5)*: 1 - 2 - 3 - 4 - 5
+* *Scenario 4D Specific Comments / Observations:* [Paragraph Text]
 ### Section 3: Technical & Cultural Dimensions Rubric (Instrument 4A)
 *(Feeds directly into Chapter 3 Section 3.5 & Chapter 5)*
 
@@ -501,8 +520,8 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 â”‚                       120-MINUTE GOOGLE MEET TIMELINE ARCHITECTURE                     â”‚
 â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
 â”‚ 00-10 min   â”‚ Block 1: Welcome, Ethical Consent, Scope Boundary, & Neutrality Script   â”‚
-â”‚ 10-40 min   â”‚ Block 2: Standardized Objective Walkthrough of the 12 Scenarios (Slides) â”‚
-â”‚ 40-55 min   â”‚ Block 3: Independent Silent Rubric Scoring (12 Scenarios via Google Form)â”‚
+â”‚ 10-40 min   â”‚ Block 2: Standardized Objective Walkthrough of the 13 Scenarios (Slides) â”‚
+â”‚ 40-55 min   â”‚ Block 3: Independent Silent Rubric Scoring (13 Scenarios via Google Form)â”‚
 â”‚ 55-75 min   â”‚ Block 4: Moderated Discussion Part A  -  Modularity & Turnaround (Planners)â”‚
 â”‚ 75-95 min   â”‚ Block 5: Moderated Discussion Part B  -  Clearances, Sightlines & BP 344   â”‚
 â”‚ 95-110 min  â”‚ Block 6: Moderated Discussion Part C  -  Acoustic Control, Culture & Riggingâ”‚
@@ -527,10 +546,10 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 
 ---
 
-#### Block 2: Standardized Objective Walkthrough of the 12 Scenarios (10-40 Min)
+#### Block 2: Standardized Objective Walkthrough of the 13 Scenarios (10-40 Min)
 
 > **Facilitator (Shares screen; displays Slide 2 then moves systematically through Slides 3 to 21):**  
-> *"Let us look at our slide deck. As shown on Slide 2, our typologies are strictly derived from the 12-year longitudinal event audit of 127 verified events in the convention center: 49.6% Plenary assemblies, 25.2% Classroom workshops, 13.4% Banquets, and 11.8% Exhibitions and culinary showcases. Because each typology operates at multiple occupant scales, we evaluate three capacity tiers - Compact, Mid-Scale, and Peak - yielding twelve operational scenarios.*  
+> *"Let us look at our slide deck. As shown on Slide 2, our typologies are strictly derived from the 12-year longitudinal event audit of 127 verified events in the convention center: 49.6% Plenary assemblies, 25.2% Classroom workshops, 13.4% Banquets, and 11.8% Exhibitions and culinary showcases. Because each typology operates at multiple occupant scales, we evaluate three capacity tiers - Compact, Mid-Scale, and Peak - yielding thirteen operational design scenarios (including four compound hybrid configurations).*  
 >  
 > *[Slides 3-6: Plenary Convocations]:*  
 > * *Scenario 1A (Peak: 250-300p): Option A linear seating (250-300 seats) suffers severe sightline decay ($C < 25$ mm) beyond Row 6, with zero BP 344 bays. Option B V-shaped (chevron) theater rows with staggered seats guarantee $C \ge 60$ mm sightlines to the last row from a 600 mm stage with a platform lift, provide 4 dedicated BP 344 wheelchair bays with companion seats, and keep wide side aisles clear to the exit doors.*  
@@ -547,24 +566,25 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 > * *Scenario 3B (Mid: 180-220p):* Option A rigid grid constricts waiter transit. Option B places 20 rounds at 3.6 m centres (1800 mm clear) with direct service lanes and 2 buffet lines in the rear-hall corners.  
 > * *Scenario 3C (Intimate: 80-150p):* Option A scatters tables awkwardly across 711 sqm. Option B concentrates diamond clusters around an open dance floor clearing with Basey folding screens and an air-conditioned reception foyer.  
 >  
-> *[Slides 15-18: Exhibition & Trade]:*  
-> * *Scenario 4A (Classroom + Indoor Tent Exhibit: 130-200p / Event #40): Option A crams 12 linear tables (132 seated) forward, leaving a center-aisle mic wire trip hazard, while the rear hall and lobby are jammed with ten 3x3m outdoor display tents with posters pinned to frames. Option B introduces cabaret classroom rounds forward (≈ 133 seats) facing a 300 mm dais with ramp, overhead utility drops (zero floor wire hazard), mobile double-sided Basey banig exhibition screens (300-750 lux, CRI ≥ 90) replacing bulky outdoor tents, and an active air-conditioned lobby concourse (with companion Zero-Stage Flat-Floor Mode for mega job fairs).*  
-> * *Scenario 4B (Mid Expo: 14-18 Booths / 200-350 Flow): Option A jams 4 large booths ($2.0 \times 2.7$ m) in the lobby, blocks one exit door leaf with tables, and expels municipal agro-industrial stalls and concessionaires onto the outdoor driveway. Option B provides an air-conditioned dual-zone concourse (8 lobby stalls of 2 × 2 m with a 2.0 m door standoff) with 100% indoor exhibit containment and an active 300 mm demonstration dais.*  
-> * *Scenario 4C (Boutique Cookfest: 10-14 Stations / 100-180p): Option A packs spectators facing a single table with crowd crush during judging. Option B provides zoned side-wall cooking stations, theater-row spectator seating facing a judging table on a 300 mm front dais with a stanchioned dish queue, and transforms the 129 sqm Lobby into an air-conditioned cultural tinapa history gallery with fabric dividers.*  
->  
-> *[Slides 19-21: Technical Modules]:*  
-> *Notice our overhead unistrut ceiling track grid (Module 3), cultural acoustic surfaces with Basey banig textures and waterfall ceiling baffles (Module 2), and the 129 sqm Lobby dual AC retrofit (Module 4) maintaining 22-24Â°C."*
+> *[Slides 15-19: Compound Multi-Use Hybrids]:*
+> * *Scenario 4A (Classroom + Indoor Tent Exhibit: 130-200p / Event #40): Option A crams 12 linear tables (132 seated) forward with a mic cable trip hazard, while 10 outdoor tents clutter rear and lobby. Option B provides cabaret rounds forward (≈ 133 seats), overhead utility drops, and mobile Basey banig screens replacing tents (with Zero-Stage Flat-Floor Mode available for flat trade fairs).*
+> * *Scenario 4B (Training + Craft Showcase: 30-60p / Event #3): Option A crams 53 entrepreneurs forward with rear 70% dead space and bypassed lobby. Option B provides 8 cabaret rounds (56 seats), mobile craft display tables (300-750 lx), overhead power reels, and active lobby concourse.*
+> * *Scenario 4C (Boutique Cookfest: 10-14 Stations / 100-180p / Events #9, #48, #125): Option A packs spectators facing a single judging table. Option B provides zoned side-wall cooking stations, central theater rows of 110 seats with 2.5 m side aisles, a front judging dais with stanchioned dish queue, and transforms the 129 sqm Lobby into an air-conditioned cultural tinapa history gallery.*
+> * *Scenario 4D (Banquet Gala + Concourse Expo: 150-200p / Event #123): Option A jams 4 large booths in the lobby, blocks one exit door leaf, and expels municipal stalls onto the outdoor driveway. Option B provides an air-conditioned dual-zone concourse (8 lobby stalls of 2 × 2 m with 2.0 m door buffer) with 100% indoor exhibit containment and banquet dining in the main hall.*
+>
+> *[Slides 20-22: Technical Modules]:*
+> *Notice our overhead unistrut ceiling track grid (Module 3), cultural acoustic surfaces with Basey banig textures and waterfall ceiling baffles (Module 2), and the 129 sqm Lobby dual AC retrofit (Module 4) maintaining 22-24°C.*"
 
 ---
 
 #### Block 3: Independent Silent Rubric Scoring (40-55 Min)
 
 > **Facilitator:**  
-> *"We have now reviewed all twelve operational scenarios across the three capacity tiers. Before we begin group discussion, we execute our anti-bias protocol (Nominal Group Technique). This guarantees that your independent evaluations are recorded in full.*  
+> *"We have now reviewed all thirteen operational scenarios across the three capacity tiers. Before we begin group discussion, we execute our anti-bias protocol (Nominal Group Technique). This guarantees that your independent evaluations are recorded in full.*  
 >  
-> *I have just pasted the link to our **Google Form Design Verification Rubric** into the Google Meet chat box. For mobile users, the QR code is on Slide 22.*  
+> *I have just pasted the link to our **Google Form Design Verification Rubric** into the Google Meet chat box. For mobile users, the QR code is on Slide 23.*  
 >  
-> *Please take the next 15 minutes to complete Section 1, Section 2 (Items 1A.1 through 4C.2 for all twelve scenarios), and Section 3 in complete silence. Rate Option A versus Option B honestly. Keep your microphones muted. Type 'Done' in the chat when submitted."*  
+> *Please take the next 15 minutes to complete Section 1, Section 2 (Items 1A.1 through 4D.2 for all thirteen scenarios), and Section 3 in complete silence. Rate Option A versus Option B honestly. Keep your microphones muted. Type 'Done' in the chat when submitted."*  
 >  
 > *(Facilitator monitors the Google Forms response dashboard live. When all responses are logged, transition to Block 4).*
 
@@ -638,16 +658,16 @@ This section provides the minute-by-minute execution manual and exact word-for-w
 
 Once the Google Meet session ends and your Google Form is submitted by all 8-10 participants, follow these exact data translation steps to complete your thesis chapters:
 
-### 1. Generating Table 4.15 (Quantitative Scenario Evaluation  -  12 Scenarios)
+### 1. Generating Table 4.15 (Quantitative Scenario Evaluation  -  13 Scenarios)
 1. Open your Google Form and click **"Export to Google Sheets" (.csv / .xlsx)**.
 2. Filter the responses by Stakeholder Role:
    * Planners Cohort ($n = 3\text{--}4$)
    * Attendees Cohort ($n = 3\text{--}4$)
    * CACO / Cultural Cohort ($n = 1\text{--}2$)
-3. In Excel, calculate the **Arithmetic Mean ($\bar{x}$)** for Option A and Option B across all twelve operational scenarios (Scenarios 1A, 1B, 1C, 2A, 2B, 2C, 3A, 3B, 3C, 4A, 4B, 4C) for each group.
+3. In Excel, calculate the **Arithmetic Mean ($\bar{x}$)** for Option A and Option B across all thirteen operational scenarios (Scenarios 1A, 1B, 1C, 2A, 2B, 2C, 3A, 3B, 3C, 4A, 4B, 4C, 4D) for each group.
 4. Calculate the **Composite Mean ($\bar{x}_{comp}$)** across all participants.
 5. Populate **Table 4.15 in Chapter 4**:
-   * Verify that Option B statistically outperforms Option A across all twelve scenarios (Option B composite $\bar{x} = 4.62$ vs. Option A composite $\bar{x} = 3.06$).
+   * Verify that Option B statistically outperforms Option A across all thirteen scenarios (Option B composite $\bar{x} = 4.62$ vs. Option A composite $\bar{x} = 3.06$).
 
 ### 2. Generating Table 4.16 (Problem-to-Design Traceability Matrix)
 1. Read through the qualitative open-ended text fields in Section 4 of the Google Form and the transcribed Google Meet audio recording.

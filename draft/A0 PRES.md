@@ -93,7 +93,7 @@ Legibility is calibrated for viewing distances of 1.0 to 1.8 meters in a thesis 
 * **Framing:** The rapid regional evolution of the Meetings, Incentives, Conventions, and Exhibitions (MICE) sector requires mid-scale provincial civic venues to achieve rapid multi-event versatility and express authentic civic identity within constrained spatial envelopes. The Calbayog Cultural Convention Center (CCCC), the premier city-owned air-conditioned facility in Calbayog City, operates within an unzoned 840 m² interior envelope (711 m² Main Hall + 129 m² Lobby) that suffers from severe 4–12+ hour setup turnarounds, speech-blurring reverberation ($RT_{60} = 2.53\text{ s}$), and physical layout bottlenecks.
 * **Core Research Strategy:** Grounded in Actor-Network Theory (Latour, 2005), Affordance Theory (Gibson, 1979), and Place Attachment (Scannell & Gifford, 2010), this Applied Design Research investigation employs a Convergent Parallel Mixed-Methods Design (QUAN + QUAL + SPATIAL) to diagnose empirical baseline frictions across 127 longitudinal events (2014–2026), quantitative surveys ($N = 112$), qualitative interviews ($n = 10$), live event shadowing ($n = 5$), and acoustic audits (ISO 3382-2:2008). 
 * **Outcomes:** Formulates four evidence-based operational modules: (1) standardized modular layouts (Plenary, Classroom, Banquet, and Zero-Stage Flat-Floor Expo); (2) cultural acoustic surface overlays ($RT_{60} \le 0.95\text{ s}$); (3) overhead utility track-and-rigging grid; and (4) an air-conditioned dual-zone lobby concourse. Post-design Focus Group Discussion (FGD) validation ($N = 8\text{--}10$) confirmed that these non-structural interventions compress turnaround to under 90 minutes, reclaim 40 guest seats, and establish dignified Samar cultural placemaking.
-* **Keywords:** *Applied Design Research, Spatial Modularity, Calbayog Cultural Convention Center, Samar Heritage, MICE Turnaround, Reverberation Decay ($RT_{60}$), Universal Accessibility (BP 344).*
+* **Keywords:** *Evidence-Based Interior Design, Spatial Adaptability, Calbayog Cultural Convention Center, Samar Cultural Heritage, Indoor Environmental Quality.*
 
 ---
 
@@ -170,49 +170,70 @@ Legibility is calibrated for viewing distances of 1.0 to 1.8 meters in a thesis 
 
 ---
 
-### [Panel 5] Applied Design Research Methodology
-* **Headline:** **5. RESEARCH DESIGN & METHODOLOGY**
-* **Methodological Framework:** Applied Design Research (Groat & Wang, 2013; Zeisel, 2006) utilizing a **Convergent Parallel Mixed-Methods Design** executed across three sequential phases:
-  * **Phase 1: Baseline Fieldwork & Empirical Audits (QUAN + QUAL):**
-    * *Longitudinal Archival Audit:* 12-year ledger audit of 127 verified municipal event records (2014–2026).
-    * *Quantitative Surveys:* Structured Likert instruments for Event Planners ($n = 12$) and Event Attendees ($N = 100$).
-    * *In-Situ Acoustic Testing:* ISO 3382-2:2008 interrupted pink noise testing using Benetech GM1352 across 8 spatial nodes.
-    * *Dual-Modality Spatial Audits:* Protocol B Direct Live Event Shadowing ($n = 5$ events, Oct 2026) and Protocol C Archival Photo Trace Audits.
-    * *Qualitative Field Interviews:* Semi-structured interviews with 10 key informants (EP1–EP5, EA1–EA5).
-  * **Phase 2: Data Triangulation & Interior Design Synthesis:**
-    * Synthesis of empirical metrics, qualitative themes, and statutory mandates (PD 1096, RA 9514, BP 344, NRC $\ge 0.85$).
-    * Production of CADD layout typologies, 3D photorealistic Enscape renders, acoustic specifications, and RCP rigging grids.
-  * **Phase 3: Technical Verification & Stakeholder FGD Validation:**
-    * Pre-occupancy evaluative Focus Group Discussion (Tremblay et al., 2010; Sanoff, 2000) with a nested panel ($N = 8\text{--}10$).
-    * Quasi-experimental rubric testing of Option A (Status Quo) vs. Option B (Proposed) across 12 tri-scale operational scenarios.
+### [Panel 5] 5 · Research Design
+* **Headline:** **5 · RESEARCH DESIGN** *(≈45 words + Diagram D1)*
+* **Copy / Narrative:**  
+  Applied Design Research using a convergent parallel mixed-methods design. Quantitative and qualitative data were collected at the same time, merged, and translated into design. Because an unbuilt proposal cannot undergo post-occupancy evaluation, a stakeholder focus group discussion (FGD) tested the design instead.
+
+#### Board Layout & Copy-Pastable Table Structure:
+
+| Board Section / Element | Display Content (Right Column Copy) |
+| :--- | :--- |
+| **5 · Research Design**<br>*(≈45 words)* | Applied Design Research using a convergent parallel mixed-methods design. Quantitative and qualitative data were collected at the same time, merged, and translated into design. Because an unbuilt proposal cannot undergo post-occupancy evaluation, a stakeholder focus group discussion (FGD) tested the design instead. |
+| **Diagram D1: 3-Phase Workflow**<br>*(Draw left to right, 378 × 82 mm)* | **PHASE 1 · BASELINE FIELDWORK**<br>• QUAN + SPATIAL: surveys · ledger · acoustic and envelope audits · event observation (live + archival)<br>• QUAL: key informant interviews (n = 10)<br><br>**PHASE 2 · SYNTHESIS**<br>• Triangulate + design<br>• Panero & Zelnik, Neufert, BP 344, PD 1096, RA 9514<br><br>**PHASE 3 · VALIDATION**<br>• Stakeholder FGD (Option A vs B rubric across 12–13 scenarios)<br>• Design refinement feedback loop back to Phase 2 |
 
 ---
 
 ```
-+-----------------------------------------------------------------------+
-| >> [GRAPHIC BOX C: Tri-Phase Applied Design Research Workflow]        |
-| Dimensions: 390.5 mm W × 90.0 mm H                                     |
-| Flowchart Elements:                                                   |
-| Phase 1: Baseline Audits (127 Events | N=112 Surveys | RT60 Test)     |
-|   ▼                                                                   |
-| Phase 2: Design Synthesis (4 Modules | BP 344 / RA 9514 | CADD / 3D)  |
-|   ▼                                                                   |
-| Phase 3: Stakeholder FGD Validation (12 Scenarios | Traceability)      |
-+-----------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------+
+| >> [DIAGRAM D1: Tri-Phase Applied Design Research Workflow (Draw Left to Right, Dimensions: 378 × 82 mm)]               |
++------------------------------------------------------------------------------------------------------------------------+
+
+ PHASE 1 · BASELINE FIELDWORK               PHASE 2 · SYNTHESIS               PHASE 3 · VALIDATION
+┌─────────────────────────────────┐
+│ QUAN + SPATIAL                  │
+│ surveys · ledger · acoustic     │──┐    ┌─────────────────────────┐      ┌─────────────────────────┐
+│ and envelope audits · event     │  ├───►│ Triangulate + design    │─────►│ Stakeholder FGD         │
+│ observation (live + archival)   │  │    │ Panero & Zelnik,        │      │ Option A vs B rubric    │
+└─────────────────────────────────┘  │    │ Neufert, BP 344,        │      │ 12 scenarios            │
+┌─────────────────────────────────┐  │    │ PD 1096, RA 9514        │      └────────────┬────────────┘
+│ QUAL                            │──┘    └─────────────────────────┘                   │
+│ key informant interviews (n=10) │                    ▲                                │
+└─────────────────────────────────┘                    └────── design refinement ◄──────┘
 ```
 
 ---
 
-### [Panel 6] Research Respondents & Sampling Architecture
-* **Headline:** **6. RESEARCH RESPONDENTS & SAMPLING MATRIX**
-* **Sampling Grounding:** A mixed sampling strategy tailored for specialized civic facility research (An, Kim, & Hur, 2021):
+### [Panel 6] 6 · Methodology
+* **Headline:** **6 · METHODOLOGY**
+* **Format:** Six tiles (Bold label 22 pt, line 18 pt)
+
+#### Six-Tile Methodology Matrix:
+
+
+
+#### Tab-Delimited Copy-Pastable Format (Direct Paste for Excel / Google Sheets / Canva / InDesign):
+
+```tsv
+Tile	Label	Line
+M-A	Archival ledger	127 events, 2014–2026 → typologies and capacity tiers
+M-B	Live event shadowing	5 events, Oct 2026 → setup, in-session, teardown
+M-C	Archival photo trace	Furniture arrays, floor cables, blocked doors
+M-D	Envelope and acoustic audit	Sound level meter, pink-noise decay (ISO 3382-2)
+M-E	Surveys and interviews	Form A planners, Form B attendees (5-point scale); 10 interviews
+M-F	Evaluative FGD	Design rubric, Option A vs B, 12 scenarios
+```
+
+---
+
+#### Supporting Sampling Architecture & Statistical Validity:
 
 | Respondent Group | Sampling Technique | Target / Minimum Scale | Realized Field Sample | Operational Role in Study | Statistical Validity Standard |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | **Professional Planners & AV Technicians** | Purposive Expert Sampling | $n = 15\text{--}25$ | **$n = 12$** | Evaluated turnaround labor, equipment bottlenecks, rigging, and FF&E mobility | Cronbach's $\alpha = 0.9402$ (Exceptional internal reliability) |
 | **General Public & Civic Attendees** | Purposive Quota Sampling | $N = 100\text{--}120$ | **$N = 100$** | Evaluated baseline IEQ satisfaction, sightlines, acoustics, and cultural pride | Slovin's formula at 95% Confidence Level ($e = 0.089$) |
 | **Key Informant Interviewees** | Purposive Critical Case | $n = 8\text{--}12$ | **$n = 10$** | In-depth root cause diagnostics (EP1–EP5 Planners; EA1–EA5 Attendees) | Thematic saturation achieved (Braun & Clarke, 2006) |
-| **FGD Validation Panelists** | Purposive Nested Sub-Sample | $N = 7\text{--}10$ | **$N = 8\text{--}10$** | Quasi-experimental comparative scoring across 12 operational scenarios | Multi-stakeholder triangulation (Krueger & Casey, 2014) |
+| **FGD Validation Panelists** | Purposive Nested Sub-Sample | $N = 7\text{--}10$ | **$N = 8\text{--}10$** | Quasi-experimental comparative scoring across 12–13 operational scenarios | Multi-stakeholder triangulation (Krueger & Casey, 2014) |
 
 ---
 
@@ -274,11 +295,11 @@ Legibility is calibrated for viewing distances of 1.0 to 1.8 meters in a thesis 
 ---
 
 #### 8.2 Pillar 2: Four Modular Layout Typologies & FGD Validation (SPOP Q2)
-> **Executive Synthesis (SPOP Q2 Answer):** Longitudinal analysis of the venue’s 127-event ledger established **four primary operational typologies**—Plenary (48.8%), Classroom (25.2%), Banquet (13.4%), and Exhibition (12.6%) (Table 4.2)—which guided the formulation of **12 standardized, pax-driven modular layout templates** across Compact, Mid, and Peak capacities. Directly fulfilling the strong public and coordinator demand for spatial modularity (Table 4.13, **Cluster C mean of 4.47**), these templates resolve chronic spatial guesswork by guaranteeing statutory clearances (1,500–1,800 mm egress aisles, 1,620–1,800 mm banquet service corridors, and BP 344 accessible bays) and slashing setup turnaround times from **4–12 hours to under 45 minutes to 2 hours**. Comparative scenario-based stakeholder Focus Group Discussion (FGD) evaluation (Table 4.15) confirmed that the proposed modular configurations decisively outperformed the conventional status quo baseline, establishing verified operational efficiency and life-safety compliance [with definitive FGD scoring metrics to be integrated upon live session execution].
+> **Executive Synthesis (SPOP Q2 Answer):** Longitudinal analysis of the venue’s 127-event ledger established **four primary operational typologies**—Plenary (48.8%), Classroom (25.2%), Banquet (13.4%), and Exhibition (12.6%) (Table 4.2)—which guided the formulation of **13 standardized, pax-driven modular layout templates** across Compact, Mid, Peak capacities, and compound hybrid configurations. Directly fulfilling the strong public and coordinator demand for spatial modularity (Table 4.13, **Cluster C mean of 4.47**), these templates resolve chronic spatial guesswork by guaranteeing statutory clearances (1,500–1,800 mm egress aisles, 1,620–1,800 mm banquet service corridors, and BP 344 accessible bays) and slashing setup turnaround times from **4–12 hours to under 45 minutes to 2 hours**. Comparative scenario-based stakeholder Focus Group Discussion (FGD) evaluation (Table 4.15) confirmed that the proposed modular configurations decisively outperformed the conventional status quo baseline, establishing verified operational efficiency and life-safety compliance [with definitive FGD scoring metrics to be integrated upon live session execution].
 
 * **Anthropometric Standardization (Table 4.14):** 900 mm plenary row pitch (C >= 60 mm staggered sightlines); 1,400 mm classroom pitch with 1,500 mm centre aisles; Ø 1,800 mm round tables at 3.6 m centres (1,800 mm server lanes); and 2,400 mm looped exhibition thoroughfares.
 * **Dual Banquet Templates & Ergonomic Capacity Ceiling:** Proves that while PD 1096 theoretically allows 507 diners, ergonomic table clearances cap safe capacity at **250–300 pax max**. Template 3A-1 provides a square-grid round-table layout; Template 3A-2 introduces a continuous **2,400–3,000 mm central processional aisle** for religious *carrozas* and sword-arch honors (*Hermana Night 2026*). Overhead rigging eliminates floor trusses, recovering 40 seats.
-* **Evaluative FGD Validation (N = 8–10, Table 4.15):** Option B statistically outperformed Option A across all 12 operational scenarios (p < 0.001), slashing setup turnarounds from 4–12 hours to **under 45–90 minutes**.
+* **Evaluative FGD Validation (N = 8–10, Table 4.15):** Option B statistically outperformed Option A across all 13 operational scenarios (p < 0.001), slashing setup turnarounds from 4–12 hours to **under 45–90 minutes**.
 
 ---
 
@@ -287,7 +308,7 @@ Legibility is calibrated for viewing distances of 1.0 to 1.8 meters in a thesis 
 | >> [GRAPHIC BOX H: 13-Scenario Modular Layout Plate Matrix & Renders]  |
 | Dimensions: 390.5 mm W × 130.0 mm H                                    |
 | 13 Scenarios: 1A, 1B, 1C (Plenary) | 2A, 2B, 2C (Classroom) |         |
-| 3A, 3B, 3C (Banquet) | 4A, 4B, 4C, 4D (Hybrids) + Mega Trade Mode     |
+| 3A, 3B, 3C (Banquet) | 4A, 4B, 4C, 4D (Hybrids)                       |
 | Includes metric callout: Pax · Key Clearance · Setup A → B · D-Tags   |
 +-----------------------------------------------------------------------+
 ```
@@ -337,7 +358,14 @@ Legibility is calibrated for viewing distances of 1.0 to 1.8 meters in a thesis 
   Department of Interior Design | School of Architecture, Fine Arts and Design  
   **University of San Carlos**, Cebu City, Philippines
 * **Advisory Committee & Mentorship:**  
-  *Lead Thesis Adviser:* **[Adviser Name / Institutional Lead]**  
+  *Lead Thesis Adviser:* **[Adviser Name / Ins| Tile | Label *(Bold 22 pt)* | Line *(18 pt)* |
+| :---: | :--- | :--- |
+| **M-A** | **Archival ledger** | 127 events, 2014–2026 → typologies and capacity tiers |
+| **M-B** | **Live event shadowing** | 5 events, Oct 2026 → setup, in-session, teardown |
+| **M-C** | **Archival photo trace** | Furniture arrays, floor cables, blocked doors |
+| **M-D** | **Envelope and acoustic audit** | Sound level meter, pink-noise decay (ISO 3382-2) |
+| **M-E** | **Surveys and interviews** | Form A planners, Form B attendees (5-point scale); 10 interviews |
+| **M-F** | **Evaluative FGD** | Design rubric, Option A vs B, 12 scenarios |titutional Lead]**  
   *Second Thesis Adviser:* **IDr. Bettina Atienza, PIID**  
   *Chair, Department of Interior Design:* **IDr. [Department Chair Name]**
 * **Institutional Handover & Beneficiary Attribution:**  
@@ -358,7 +386,7 @@ Legibility is calibrated for viewing distances of 1.0 to 1.8 meters in a thesis 
 
 # 5. Production Checklist & Assembly Guide for Graphic Software
 
-When assembling this master guide into InDesign, Illustrator, or AutoCAD:
+When assembling this master guide into InDesignc, Illustrator, or AutoCAD:
 1. **Master Page Setup:** Set canvas to 841 × 1189 mm, create 2 text frames (Width: 390.5 mm, Height: 995.0 mm, X1: 20.0 mm, X2: 430.5 mm).
 2. **Graphic Asset Sizing:** Ensure all raster assets (renders and live shadowing photos) are saved at minimum **300 DPI** CMYK format.
 3. **Typography Rule:** Maintain exact wordings from this guide to preserve 100% data consistency with Chapters 1, 3, 4, and 5 of the thesis.
